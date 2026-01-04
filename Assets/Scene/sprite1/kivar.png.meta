@@ -1,0 +1,4511 @@
+fileFormatVersion: 2
+guid: 6f48ed366fcc0cc4ab2564b12b11ecf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5737642921688543296
+    second: kivar_0
+  - first:
+      213: 5130126078697934808
+    second: kivar_1
+  - first:
+      213: -7754269237316501339
+    second: kivar_2
+  - first:
+      213: 2459144654468847942
+    second: kivar_3
+  - first:
+      213: 6044815002349366953
+    second: kivar_4
+  - first:
+      213: 8177374980447268581
+    second: kivar_5
+  - first:
+      213: 1146539067050149106
+    second: kivar_6
+  - first:
+      213: 1299595069146315771
+    second: kivar_7
+  - first:
+      213: -5404644870219396305
+    second: kivar_8
+  - first:
+      213: 5889759547806774568
+    second: kivar_9
+  - first:
+      213: 7071091990773100274
+    second: kivar_10
+  - first:
+      213: 9171983511568737439
+    second: kivar_11
+  - first:
+      213: 4362839326398461320
+    second: kivar_12
+  - first:
+      213: -407156139281836331
+    second: kivar_13
+  - first:
+      213: 2110991257305255519
+    second: kivar_14
+  - first:
+      213: 1492820728870972300
+    second: kivar_15
+  - first:
+      213: -5801754657133590724
+    second: kivar_16
+  - first:
+      213: 6789170388368366395
+    second: kivar_17
+  - first:
+      213: -8868886428920992115
+    second: kivar_18
+  - first:
+      213: -7309100848899140998
+    second: kivar_19
+  - first:
+      213: -490875620603905659
+    second: kivar_20
+  - first:
+      213: 2127588893271902503
+    second: kivar_21
+  - first:
+      213: 2997351668915220375
+    second: kivar_22
+  - first:
+      213: -4772720401172692977
+    second: kivar_23
+  - first:
+      213: 8081498960537612720
+    second: kivar_24
+  - first:
+      213: 4424839336701689269
+    second: kivar_25
+  - first:
+      213: -3431917100419869376
+    second: kivar_26
+  - first:
+      213: 2916424945360885808
+    second: kivar_27
+  - first:
+      213: 1307563490785967995
+    second: kivar_28
+  - first:
+      213: 7075052144161750957
+    second: kivar_29
+  - first:
+      213: -3198431469043966328
+    second: kivar_30
+  - first:
+      213: 712389850349831256
+    second: kivar_31
+  - first:
+      213: -7313117832962351391
+    second: kivar_32
+  - first:
+      213: -6501377669996482452
+    second: kivar_33
+  - first:
+      213: 5184144274249503528
+    second: kivar_34
+  - first:
+      213: 2915191236540011017
+    second: kivar_35
+  - first:
+      213: 2475426285925973546
+    second: kivar_36
+  - first:
+      213: -5530211696077690938
+    second: kivar_37
+  - first:
+      213: -8791708750890532680
+    second: kivar_38
+  - first:
+      213: 6544983235833141518
+    second: kivar_39
+  - first:
+      213: -5217594274570105436
+    second: kivar_40
+  - first:
+      213: -1548093546879874716
+    second: kivar_41
+  - first:
+      213: -1048527440157357239
+    second: kivar_42
+  - first:
+      213: -2254537184596799807
+    second: kivar_43
+  - first:
+      213: 3466182232662709262
+    second: kivar_44
+  - first:
+      213: -3023643548153153596
+    second: kivar_45
+  - first:
+      213: 77223420027620423
+    second: kivar_46
+  - first:
+      213: 4831147109647074774
+    second: kivar_47
+  - first:
+      213: -7376182021116994107
+    second: kivar_48
+  - first:
+      213: -8511571255607372104
+    second: kivar_49
+  - first:
+      213: 5100861814336508054
+    second: kivar_50
+  - first:
+      213: 2514092827203597929
+    second: kivar_51
+  - first:
+      213: 4882287965363581503
+    second: kivar_52
+  - first:
+      213: -3025378114633416394
+    second: kivar_53
+  - first:
+      213: 4389300769785076479
+    second: kivar_54
+  - first:
+      213: -5034906326483037023
+    second: kivar_55
+  - first:
+      213: -3527239010784273203
+    second: kivar_56
+  - first:
+      213: -5070604992738994618
+    second: kivar_57
+  - first:
+      213: -3706736820431739054
+    second: kivar_58
+  - first:
+      213: 4667959768782740749
+    second: kivar_59
+  - first:
+      213: 194412027668875294
+    second: kivar_60
+  - first:
+      213: 6259609205919729958
+    second: kivar_61
+  - first:
+      213: 1324569330870462535
+    second: kivar_62
+  - first:
+      213: -805396261529935266
+    second: kivar_63
+  - first:
+      213: -8444747799698009230
+    second: kivar_64
+  - first:
+      213: 7611272000043703048
+    second: kivar_65
+  - first:
+      213: -3022028473876743323
+    second: kivar_66
+  - first:
+      213: -6399112616881836574
+    second: kivar_67
+  - first:
+      213: -7068502510792227049
+    second: kivar_68
+  - first:
+      213: -8367531715164574012
+    second: kivar_69
+  - first:
+      213: -3023358156344284943
+    second: kivar_70
+  - first:
+      213: -8623531134262004425
+    second: kivar_71
+  - first:
+      213: -814306334592218938
+    second: kivar_72
+  - first:
+      213: 9021858356414563314
+    second: kivar_73
+  - first:
+      213: 9179168006450732948
+    second: kivar_74
+  - first:
+      213: -5084329707659048954
+    second: kivar_75
+  - first:
+      213: 5994617199097065544
+    second: kivar_76
+  - first:
+      213: -7119212855025255301
+    second: kivar_77
+  - first:
+      213: 2319840644179458306
+    second: kivar_78
+  - first:
+      213: -1514194581609434198
+    second: kivar_79
+  - first:
+      213: -8351737409302835880
+    second: kivar_80
+  - first:
+      213: 3520174310180875674
+    second: kivar_81
+  - first:
+      213: -6630921089983456531
+    second: kivar_82
+  - first:
+      213: -7274391844843351031
+    second: kivar_83
+  - first:
+      213: -2797709855156035379
+    second: kivar_84
+  - first:
+      213: 9089553159145534363
+    second: kivar_85
+  - first:
+      213: 3464877813842588666
+    second: kivar_86
+  - first:
+      213: 1309217069164578222
+    second: kivar_87
+  - first:
+      213: -1753894003315018705
+    second: kivar_88
+  - first:
+      213: -581991563691334851
+    second: kivar_89
+  - first:
+      213: -5951312684198584158
+    second: kivar_90
+  - first:
+      213: 5373397990531714286
+    second: kivar_91
+  - first:
+      213: 5071283317606068857
+    second: kivar_92
+  - first:
+      213: -612334664040256933
+    second: kivar_93
+  - first:
+      213: 2650719405787713042
+    second: kivar_94
+  - first:
+      213: 1843695259241861345
+    second: kivar_95
+  - first:
+      213: -3188748431105149591
+    second: kivar_96
+  - first:
+      213: 3435669344655573193
+    second: kivar_97
+  - first:
+      213: 1293830045667637578
+    second: kivar_98
+  - first:
+      213: -3715201779321544662
+    second: kivar_99
+  - first:
+      213: 8532225454033141533
+    second: kivar_100
+  - first:
+      213: -6798228790494200391
+    second: kivar_101
+  - first:
+      213: -2987884965073514016
+    second: kivar_102
+  - first:
+      213: -1155114351330432921
+    second: kivar_103
+  - first:
+      213: 3862242116206028753
+    second: kivar_104
+  - first:
+      213: -4284824622179321659
+    second: kivar_105
+  - first:
+      213: -3980197514806987028
+    second: kivar_106
+  - first:
+      213: 251495018883039457
+    second: kivar_107
+  - first:
+      213: 5482772607345559278
+    second: kivar_108
+  - first:
+      213: -2498259522911366250
+    second: kivar_109
+  - first:
+      213: -4543331305337598105
+    second: kivar_110
+  - first:
+      213: -5668266462962223103
+    second: kivar_111
+  - first:
+      213: -5550442274073362561
+    second: kivar_112
+  - first:
+      213: 2519420705579960197
+    second: kivar_113
+  - first:
+      213: 3061039729977654107
+    second: kivar_114
+  - first:
+      213: 6034759608318878117
+    second: kivar_115
+  - first:
+      213: 5171359116496970137
+    second: kivar_116
+  - first:
+      213: -3907275239769777536
+    second: kivar_117
+  - first:
+      213: 1716156191890913138
+    second: kivar_118
+  - first:
+      213: -1617093301949201949
+    second: kivar_119
+  - first:
+      213: -3601731680764072667
+    second: kivar_120
+  - first:
+      213: 8666211474359875462
+    second: kivar_121
+  - first:
+      213: 3423298136945721457
+    second: kivar_122
+  - first:
+      213: 1992567131719560974
+    second: kivar_123
+  - first:
+      213: 4258302562660036744
+    second: kivar_124
+  - first:
+      213: -968599711796346038
+    second: kivar_125
+  - first:
+      213: -92712866085716569
+    second: kivar_126
+  - first:
+      213: -5416871413405452514
+    second: kivar_127
+  - first:
+      213: 837144517750500666
+    second: kivar_128
+  - first:
+      213: -2787793953492404796
+    second: kivar_129
+  - first:
+      213: 5694295717519242555
+    second: kivar_130
+  - first:
+      213: -6786580990210348949
+    second: kivar_131
+  - first:
+      213: 5114996864100887165
+    second: kivar_132
+  - first:
+      213: 7388912871075244004
+    second: kivar_133
+  - first:
+      213: -4124346749611549113
+    second: kivar_134
+  - first:
+      213: 6686306424652044206
+    second: kivar_135
+  - first:
+      213: 1676023716050103577
+    second: kivar_136
+  - first:
+      213: 5460030115656450246
+    second: kivar_137
+  - first:
+      213: 862127731386706046
+    second: kivar_138
+  - first:
+      213: 5576961348172704710
+    second: kivar_139
+  - first:
+      213: 8105863293450240574
+    second: kivar_140
+  - first:
+      213: 1034924577795058370
+    second: kivar_141
+  - first:
+      213: -6988816532176923412
+    second: kivar_142
+  - first:
+      213: 8624505445055799948
+    second: kivar_143
+  - first:
+      213: 505445195081048907
+    second: kivar_144
+  - first:
+      213: 4484098993934320994
+    second: kivar_145
+  - first:
+      213: 8335957615564649119
+    second: kivar_146
+  - first:
+      213: -1791204957231258013
+    second: kivar_147
+  - first:
+      213: -6563195071694817270
+    second: kivar_148
+  - first:
+      213: 7568162764311160563
+    second: kivar_149
+  - first:
+      213: 414141223149613625
+    second: kivar_150
+  - first:
+      213: 2432256700508239801
+    second: kivar_151
+  - first:
+      213: -7749756934154129577
+    second: kivar_152
+  - first:
+      213: -8801335178559128977
+    second: kivar_153
+  - first:
+      213: 3181545565581392615
+    second: kivar_154
+  - first:
+      213: -1067316715687734596
+    second: kivar_155
+  - first:
+      213: -4992700679694911570
+    second: kivar_156
+  - first:
+      213: -7506045269838192667
+    second: kivar_157
+  - first:
+      213: 5638272650951202531
+    second: kivar_158
+  - first:
+      213: 8340987436147862325
+    second: kivar_159
+  - first:
+      213: 169563615326976823
+    second: kivar_160
+  - first:
+      213: 119495107996556727
+    second: kivar_161
+  - first:
+      213: 495947016954824625
+    second: kivar_162
+  - first:
+      213: -8889281144857206039
+    second: kivar_163
+  - first:
+      213: 599591628199259877
+    second: kivar_164
+  - first:
+      213: 4206535283107508596
+    second: kivar_165
+  - first:
+      213: 5808861655136549162
+    second: kivar_166
+  - first:
+      213: -710141731206445944
+    second: kivar_167
+  - first:
+      213: 5626875759170035636
+    second: kivar_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kivar_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2327
+        width: 131
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf48bc792ccf50b0800000000000000
+      internalID: -5737642921688543296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2329
+        width: 131
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df02cdec7ed13740800000000000000
+      internalID: 5130126078697934808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2330
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0c209663d436490800000000000000
+      internalID: -7754269237316501339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2330
+        width: 129
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6499aecb803a02220800000000000000
+      internalID: 2459144654468847942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2330
+        width: 129
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae6cf3c73f73e350800000000000000
+      internalID: 6044815002349366953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_5
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2329
+        width: 126
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eee9b8183fdb7170800000000000000
+      internalID: 8177374980447268581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_6
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2328
+        width: 127
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4c1a4f43359ef00800000000000000
+      internalID: 1146539067050149106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_7
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2328
+        width: 129
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb05074d6190210800000000000000
+      internalID: 1299595069146315771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2207
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b8f652028def4b0800000000000000
+      internalID: -5404644870219396305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2209
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825fc7b7a11acb150800000000000000
+      internalID: 5889759547806774568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2209
+        width: 128
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fee32c83b0912260800000000000000
+      internalID: 7071091990773100274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2206
+        width: 129
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946bc4986e694f70800000000000000
+      internalID: 9171983511568737439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2206
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885b516804beb8c30800000000000000
+      internalID: 4362839326398461320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2206
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d69cf506ad795af0800000000000000
+      internalID: -407156139281836331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_14
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2206
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e82af2d5fbb4d10800000000000000
+      internalID: 2110991257305255519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_15
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2207
+        width: 134
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba1b92b8097b410800000000000000
+      internalID: 1492820728870972300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2080
+        width: 128
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37859bd0e60c7fa0800000000000000
+      internalID: -5801754657133590724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2077
+        width: 138
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b1c466f7af73e50800000000000000
+      internalID: 6789170388368366395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2075
+        width: 137
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ea1e248c26be480800000000000000
+      internalID: -8868886428920992115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2073
+        width: 131
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a725cd1d08bd09a90800000000000000
+      internalID: -7309100848899140998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_20
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589310d493f0039f0800000000000000
+      internalID: -490875620603905659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2072
+        width: 123
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c98373d6b68d10800000000000000
+      internalID: 2127588893271902503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_22
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2071
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fad94567bb89920800000000000000
+      internalID: 2997351668915220375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_23
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2072
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0087d30514e3cdb0800000000000000
+      internalID: -4772720401172692977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_24
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 2078
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1788bac70472070800000000000000
+      internalID: 8081498960537612720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1889
+        width: 147
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd7744deef286d30800000000000000
+      internalID: 4424839336701689269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1913
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04592ea84916f50d0800000000000000
+      internalID: -3431917100419869376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1914
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038d2523909397820800000000000000
+      internalID: 2916424945360885808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1914
+        width: 175
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f319d2116652210800000000000000
+      internalID: 1307563490785967995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1913
+        width: 195
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf702c9072af2260800000000000000
+      internalID: 7075052144161750957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_30
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1913
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e14316683ec93d0800000000000000
+      internalID: -3198431469043966328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_31
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1889
+        width: 116
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85402b36bcae2e900800000000000000
+      internalID: 712389850349831256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_32
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1912
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee54b5d316928a90800000000000000
+      internalID: -7313117832962351391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_33
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1889
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60f335747776c5a0800000000000000
+      internalID: -6501377669996482452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1734
+        width: 153
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823540b20c7c1f740800000000000000
+      internalID: 5184144274249503528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1735
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9029c4afbf6d47820800000000000000
+      internalID: 2915191236540011017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1732
+        width: 148
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e3848771b7a5220800000000000000
+      internalID: 2475426285925973546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1730
+        width: 127
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7249243cdb043b0800000000000000
+      internalID: -5530211696077690938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1734
+        width: 112
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b00a76b8739df580800000000000000
+      internalID: -8791708750890532680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_39
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1735
+        width: 208
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0998b0839374da50800000000000000
+      internalID: 6544983235833141518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_40
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1713
+        width: 183
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad032ab6a16797b0800000000000000
+      internalID: -5217594274570105436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_41
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1731
+        width: 139
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469862b0f11148ae0800000000000000
+      internalID: -1548093546879874716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_42
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1726
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bcb2839d1e271f0800000000000000
+      internalID: -1048527440157357239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1586
+        width: 138
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cec23b206646b0e0800000000000000
+      internalID: -2254537184596799807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1586
+        width: 141
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0491a0406a5a1030800000000000000
+      internalID: 3466182232662709262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_45
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1584
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7fde0863cd906d0800000000000000
+      internalID: -3023643548153153596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_46
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1582
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c46179a4a521100800000000000000
+      internalID: 77223420027620423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1581
+        width: 151
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d54b2023beab0340800000000000000
+      internalID: 4831147109647074774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_48
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1562
+        width: 161
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdd2b0588982a990800000000000000
+      internalID: -7376182021116994107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_49
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1562
+        width: 113
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6d81d0a03d0e980800000000000000
+      internalID: -8511571255607372104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_50
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1586
+        width: 136
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690d1eb6bc6e9c640800000000000000
+      internalID: 5100861814336508054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1459
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966f3d92b1ad3e220800000000000000
+      internalID: 2514092827203597929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_52
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1458
+        width: 129
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3239aa790f51c340800000000000000
+      internalID: 4882287965363581503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1326
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631c80642a2b306d0800000000000000
+      internalID: -3025378114633416394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1323
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa536b6bcde9ec30800000000000000
+      internalID: 4389300769785076479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_55
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1326
+        width: 142
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49c944f5b602ab0800000000000000
+      internalID: -5034906326483037023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_56
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1326
+        width: 136
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc9d4ccecabc0fc0800000000000000
+      internalID: -3527239010784273203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1142
+        width: 131
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6465873df9791a9b0800000000000000
+      internalID: -5070604992738994618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1170
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2572e4e30860f8cc0800000000000000
+      internalID: -3706736820431739054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_59
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1172
+        width: 97
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d1c148dace7c040800000000000000
+      internalID: 4667959768782740749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1175
+        width: 90
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18444985b0b2b200800000000000000
+      internalID: 194412027668875294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_61
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1148
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6294c9f68699ed650800000000000000
+      internalID: 6259609205919729958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_62
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1183
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74829eed9c0d16210800000000000000
+      internalID: 1324569330870462535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_63
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1170
+        width: 271
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52a4180e58a2d4f0800000000000000
+      internalID: -805396261529935266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_64
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1262
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2731d3d4e9a3eca80800000000000000
+      internalID: -8444747799698009230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_65
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1277
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b5b7bce8ba0a960800000000000000
+      internalID: 7611272000043703048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_66
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1277
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf5794d199f06d0800000000000000
+      internalID: -3022028473876743323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_67
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1168
+        width: 240
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eda9099af8c137a0800000000000000
+      internalID: -6399112616881836574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_68
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1268
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717c54eba62a7ed90800000000000000
+      internalID: -7068502510792227049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_69
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceecc6fc3e80eb80800000000000000
+      internalID: -8367531715164574012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_70
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1261
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8a15676cfda06d0800000000000000
+      internalID: -3023358156344284943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_71
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1268
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735bac07f10135880800000000000000
+      internalID: -8623531134262004425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_72
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1167
+        width: 289
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8c74cf3b003b4f0800000000000000
+      internalID: -814306334592218938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1029
+        width: 189
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3caf31064143d70800000000000000
+      internalID: 9021858356414563314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_74
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f50262ba4f26f70800000000000000
+      internalID: 9179168006450732948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_75
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1047
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608440e9115d079b0800000000000000
+      internalID: -5084329707659048954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_76
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1044
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840b0ace498213350800000000000000
+      internalID: 5994617199097065544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_77
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1028
+        width: 152
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c33d7a0a9733d90800000000000000
+      internalID: -7119212855025255301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_78
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 879
+        width: 232
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20974db56cab13020800000000000000
+      internalID: 2319840644179458306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_79
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 987
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa33952fc008cfae0800000000000000
+      internalID: -1514194581609434198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_80
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 991
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dc92d531ba81c80800000000000000
+      internalID: -8351737409302835880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_81
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 996
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d69c962eb2ad030800000000000000
+      internalID: 3520174310180875674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_82
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 997
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dead3e9966c3af3a0800000000000000
+      internalID: -6630921089983456531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_83
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1000
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9041d13982b2c0b90800000000000000
+      internalID: -7274391844843351031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_84
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 999
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0a0daa5b98c29d0800000000000000
+      internalID: -2797709855156035379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_85
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 873
+        width: 232
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9336e19074942e70800000000000000
+      internalID: 9089553159145534363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_86
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1006
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af338349308b51030800000000000000
+      internalID: 3464877813842588666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_87
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 980
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ce65ecf54b2210800000000000000
+      internalID: 1309217069164578222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_88
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 873
+        width: 224
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2478be42bae8a7e0800000000000000
+      internalID: -1753894003315018705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_89
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 979
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3367ef91c95ce7f0800000000000000
+      internalID: -581991563691334851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_90
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 881
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0211725a0b86da0800000000000000
+      internalID: -5951312684198584158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 880
+        width: 161
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecc07eb005229a40800000000000000
+      internalID: 5373397990531714286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_92
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 879
+        width: 191
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972364dfe41d06640800000000000000
+      internalID: 5071283317606068857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_93
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 877
+        width: 227
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae83a0edc8087f0800000000000000
+      internalID: -612334664040256933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_94
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 752
+        width: 255
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e0635614f39c420800000000000000
+      internalID: 2650719405787713042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_95
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 836
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0de29e11f169910800000000000000
+      internalID: 1843695259241861345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_96
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 819
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b4e5523a4fb3d0800000000000000
+      internalID: -3188748431105149591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_97
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 753
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c005e5e013fdaf20800000000000000
+      internalID: 3435669344655573193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 820
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a493fbf429b94f110800000000000000
+      internalID: 1293830045667637578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_99
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 829
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20e3aa6aa3f07cc0800000000000000
+      internalID: -3715201779321544662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_100
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 753
+        width: 152
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ff03348dd886670800000000000000
+      internalID: 8532225454033141533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_101
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 747
+        width: 167
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd72c00fe6d7a1a0800000000000000
+      internalID: -6798228790494200391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_102
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 750
+        width: 119
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1101b6476e886d0800000000000000
+      internalID: -2987884965073514016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_103
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 747
+        width: 128
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7686ef51e9538ffe0800000000000000
+      internalID: -1155114351330432921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_104
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 812
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7630dddb0799530800000000000000
+      internalID: 3862242116206028753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_105
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 822
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8772645be3984c0800000000000000
+      internalID: -4284824622179321659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_106
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 821
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce67902c27f73c8c0800000000000000
+      internalID: -3980197514806987028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_107
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 820
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0cd4f136d7d7300800000000000000
+      internalID: 251495018883039457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_108
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 802
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6031d23a8b61c40800000000000000
+      internalID: 5482772607345559278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_109
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 795
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69391244336645dd0800000000000000
+      internalID: -2498259522911366250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_110
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 809
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fc078df38d2f0c0800000000000000
+      internalID: -4543331305337598105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_111
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 806
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10870e60fa54651b0800000000000000
+      internalID: -5668266462962223103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_112
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 790
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fbb83c82ed8f2b0800000000000000
+      internalID: -5550442274073362561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_113
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 798
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5878bd388c7c6f220800000000000000
+      internalID: 2519420705579960197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_114
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 771
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bfca49a6ffa7a20800000000000000
+      internalID: 3061039729977654107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_115
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 775
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1e8b6e3e5cfb350800000000000000
+      internalID: 6034759608318878117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 749
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991a7c8a7bb54c740800000000000000
+      internalID: 5171359116496970137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_117
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 570
+        width: 252
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ad7ddfed196c9c0800000000000000
+      internalID: -3907275239769777536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_118
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 680
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277beb4c6f201d710800000000000000
+      internalID: 1716156191890913138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_119
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 571
+        width: 227
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e187a8a53eee89e0800000000000000
+      internalID: -1617093301949201949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_120
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 679
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d69cf7e14140ec0800000000000000
+      internalID: -3601731680764072667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_121
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 678
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68772ad9b61944870800000000000000
+      internalID: 8666211474359875462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_122
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 571
+        width: 224
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17008e4a48ff18f20800000000000000
+      internalID: 3423298136945721457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_123
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 677
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f634dcf3507ab10800000000000000
+      internalID: 1992567131719560974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_124
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 680
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880bc798e97881b30800000000000000
+      internalID: 4258302562660036744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_125
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 570
+        width: 220
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4345d8a1b7de82f0800000000000000
+      internalID: -968599711796346038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_126
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 679
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad3ad6b32e96bef0800000000000000
+      internalID: -92712866085716569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_127
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 425
+        width: 124
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17fff9362863d4b0800000000000000
+      internalID: -5416871413405452514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 519
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d2f26e0822e9b00800000000000000
+      internalID: 837144517750500666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_129
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 510
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c57a1f6b24cf49d0800000000000000
+      internalID: -2787793953492404796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_130
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 431
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3533c019c3360f40800000000000000
+      internalID: 5694295717519242555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_131
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 501
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68e717db8831d1a0800000000000000
+      internalID: -6786580990210348949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_132
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 524
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a68f72c8e1cf640800000000000000
+      internalID: 5114996864100887165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 514
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e760ccab11ba8660800000000000000
+      internalID: 7388912871075244004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_134
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 499
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eddd2ab7063c6c0800000000000000
+      internalID: -4124346749611549113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_135
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 521
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea71cc484488acc50800000000000000
+      internalID: 6686306424652044206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_136
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 536
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91deb4690be624710800000000000000
+      internalID: 1676023716050103577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_137
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 521
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c043a2367ce5cb40800000000000000
+      internalID: 5460030115656450246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_138
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 437
+        width: 110
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78615c9a94e6fb00800000000000000
+      internalID: 862127731386706046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_139
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbeae35cc8556d40800000000000000
+      internalID: 5576961348172704710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_140
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 517
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32cafbf7bfcd7070800000000000000
+      internalID: 8105863293450240574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_141
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 537
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caabc49b6acc5e00800000000000000
+      internalID: 1034924577795058370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_142
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 512
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4973f646cb20f90800000000000000
+      internalID: -6988816532176923412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_143
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 531
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8229f7f10660b770800000000000000
+      internalID: 8624505445055799948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 517
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43eb3a1ab3b30700800000000000000
+      internalID: 505445195081048907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_145
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 439
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2654427f648ba3e30800000000000000
+      internalID: 4484098993934320994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_146
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 429
+        width: 222
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92717a19454fa370800000000000000
+      internalID: 8335957615564649119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_147
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 428
+        width: 243
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366ef44e49c5427e0800000000000000
+      internalID: -1791204957231258013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_148
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 525
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0839080bd8dae4a0800000000000000
+      internalID: -6563195071694817270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_149
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 531
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6ea11bfe3870960800000000000000
+      internalID: 7568162764311160563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_150
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 422
+        width: 236
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932bdac8f335fb500800000000000000
+      internalID: 414141223149613625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_151
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 500
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b77b5c159c11c120800000000000000
+      internalID: 2432256700508239801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_152
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 509
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f6f1cd025537490800000000000000
+      internalID: -7749756934154129577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_153
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 506
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a75dc59406bd580800000000000000
+      internalID: -8801335178559128977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_154
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 499
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eab239d5de172c20800000000000000
+      internalID: 3181545565581392615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_155
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 353
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2989a1a112031f0800000000000000
+      internalID: -1067316715687734596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_156
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 295
+        width: 227
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7feec2f2d56bab0800000000000000
+      internalID: -4992700679694911570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_157
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 353
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef1b47889b25d790800000000000000
+      internalID: -7506045269838192667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_158
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 296
+        width: 164
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e61fba6a1b2f3e40800000000000000
+      internalID: 5638272650951202531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_159
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 272
+        width: 151
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53be69771e321c370800000000000000
+      internalID: 8340987436147862325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_160
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 301
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3562b5396a5200800000000000000
+      internalID: 169563615326976823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_161
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 162
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd1888ea2888a100800000000000000
+      internalID: 119495107996556727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_162
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 162
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7c10d2f25f1e600800000000000000
+      internalID: 495947016954824625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_163
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 162
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2653c65ede2a480800000000000000
+      internalID: -8889281144857206039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_164
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 161
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee6d19b86d225800800000000000000
+      internalID: 599591628199259877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_165
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 27
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47135c48d8d906a30800000000000000
+      internalID: 4206535283107508596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_166
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 24
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a293dcf06e83d9050800000000000000
+      internalID: 5808861655136549162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_167
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 27
+        width: 142
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8844243abd11526f0800000000000000
+      internalID: -710141731206445944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kivar_168
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 27
+        width: 136
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf1694c0bda61e40800000000000000
+      internalID: 5626875759170035636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kivar_0: -5737642921688543296
+      kivar_1: 5130126078697934808
+      kivar_10: 7071091990773100274
+      kivar_100: 8532225454033141533
+      kivar_101: -6798228790494200391
+      kivar_102: -2987884965073514016
+      kivar_103: -1155114351330432921
+      kivar_104: 3862242116206028753
+      kivar_105: -4284824622179321659
+      kivar_106: -3980197514806987028
+      kivar_107: 251495018883039457
+      kivar_108: 5482772607345559278
+      kivar_109: -2498259522911366250
+      kivar_11: 9171983511568737439
+      kivar_110: -4543331305337598105
+      kivar_111: -5668266462962223103
+      kivar_112: -5550442274073362561
+      kivar_113: 2519420705579960197
+      kivar_114: 3061039729977654107
+      kivar_115: 6034759608318878117
+      kivar_116: 5171359116496970137
+      kivar_117: -3907275239769777536
+      kivar_118: 1716156191890913138
+      kivar_119: -1617093301949201949
+      kivar_12: 4362839326398461320
+      kivar_120: -3601731680764072667
+      kivar_121: 8666211474359875462
+      kivar_122: 3423298136945721457
+      kivar_123: 1992567131719560974
+      kivar_124: 4258302562660036744
+      kivar_125: -968599711796346038
+      kivar_126: -92712866085716569
+      kivar_127: -5416871413405452514
+      kivar_128: 837144517750500666
+      kivar_129: -2787793953492404796
+      kivar_13: -407156139281836331
+      kivar_130: 5694295717519242555
+      kivar_131: -6786580990210348949
+      kivar_132: 5114996864100887165
+      kivar_133: 7388912871075244004
+      kivar_134: -4124346749611549113
+      kivar_135: 6686306424652044206
+      kivar_136: 1676023716050103577
+      kivar_137: 5460030115656450246
+      kivar_138: 862127731386706046
+      kivar_139: 5576961348172704710
+      kivar_14: 2110991257305255519
+      kivar_140: 8105863293450240574
+      kivar_141: 1034924577795058370
+      kivar_142: -6988816532176923412
+      kivar_143: 8624505445055799948
+      kivar_144: 505445195081048907
+      kivar_145: 4484098993934320994
+      kivar_146: 8335957615564649119
+      kivar_147: -1791204957231258013
+      kivar_148: -6563195071694817270
+      kivar_149: 7568162764311160563
+      kivar_15: 1492820728870972300
+      kivar_150: 414141223149613625
+      kivar_151: 2432256700508239801
+      kivar_152: -7749756934154129577
+      kivar_153: -8801335178559128977
+      kivar_154: 3181545565581392615
+      kivar_155: -1067316715687734596
+      kivar_156: -4992700679694911570
+      kivar_157: -7506045269838192667
+      kivar_158: 5638272650951202531
+      kivar_159: 8340987436147862325
+      kivar_16: -5801754657133590724
+      kivar_160: 169563615326976823
+      kivar_161: 119495107996556727
+      kivar_162: 495947016954824625
+      kivar_163: -8889281144857206039
+      kivar_164: 599591628199259877
+      kivar_165: 4206535283107508596
+      kivar_166: 5808861655136549162
+      kivar_167: -710141731206445944
+      kivar_168: 5626875759170035636
+      kivar_17: 6789170388368366395
+      kivar_18: -8868886428920992115
+      kivar_19: -7309100848899140998
+      kivar_2: -7754269237316501339
+      kivar_20: -490875620603905659
+      kivar_21: 2127588893271902503
+      kivar_22: 2997351668915220375
+      kivar_23: -4772720401172692977
+      kivar_24: 8081498960537612720
+      kivar_25: 4424839336701689269
+      kivar_26: -3431917100419869376
+      kivar_27: 2916424945360885808
+      kivar_28: 1307563490785967995
+      kivar_29: 7075052144161750957
+      kivar_3: 2459144654468847942
+      kivar_30: -3198431469043966328
+      kivar_31: 712389850349831256
+      kivar_32: -7313117832962351391
+      kivar_33: -6501377669996482452
+      kivar_34: 5184144274249503528
+      kivar_35: 2915191236540011017
+      kivar_36: 2475426285925973546
+      kivar_37: -5530211696077690938
+      kivar_38: -8791708750890532680
+      kivar_39: 6544983235833141518
+      kivar_4: 6044815002349366953
+      kivar_40: -5217594274570105436
+      kivar_41: -1548093546879874716
+      kivar_42: -1048527440157357239
+      kivar_43: -2254537184596799807
+      kivar_44: 3466182232662709262
+      kivar_45: -3023643548153153596
+      kivar_46: 77223420027620423
+      kivar_47: 4831147109647074774
+      kivar_48: -7376182021116994107
+      kivar_49: -8511571255607372104
+      kivar_5: 8177374980447268581
+      kivar_50: 5100861814336508054
+      kivar_51: 2514092827203597929
+      kivar_52: 4882287965363581503
+      kivar_53: -3025378114633416394
+      kivar_54: 4389300769785076479
+      kivar_55: -5034906326483037023
+      kivar_56: -3527239010784273203
+      kivar_57: -5070604992738994618
+      kivar_58: -3706736820431739054
+      kivar_59: 4667959768782740749
+      kivar_6: 1146539067050149106
+      kivar_60: 194412027668875294
+      kivar_61: 6259609205919729958
+      kivar_62: 1324569330870462535
+      kivar_63: -805396261529935266
+      kivar_64: -8444747799698009230
+      kivar_65: 7611272000043703048
+      kivar_66: -3022028473876743323
+      kivar_67: -6399112616881836574
+      kivar_68: -7068502510792227049
+      kivar_69: -8367531715164574012
+      kivar_7: 1299595069146315771
+      kivar_70: -3023358156344284943
+      kivar_71: -8623531134262004425
+      kivar_72: -814306334592218938
+      kivar_73: 9021858356414563314
+      kivar_74: 9179168006450732948
+      kivar_75: -5084329707659048954
+      kivar_76: 5994617199097065544
+      kivar_77: -7119212855025255301
+      kivar_78: 2319840644179458306
+      kivar_79: -1514194581609434198
+      kivar_8: -5404644870219396305
+      kivar_80: -8351737409302835880
+      kivar_81: 3520174310180875674
+      kivar_82: -6630921089983456531
+      kivar_83: -7274391844843351031
+      kivar_84: -2797709855156035379
+      kivar_85: 9089553159145534363
+      kivar_86: 3464877813842588666
+      kivar_87: 1309217069164578222
+      kivar_88: -1753894003315018705
+      kivar_89: -581991563691334851
+      kivar_9: 5889759547806774568
+      kivar_90: -5951312684198584158
+      kivar_91: 5373397990531714286
+      kivar_92: 5071283317606068857
+      kivar_93: -612334664040256933
+      kivar_94: 2650719405787713042
+      kivar_95: 1843695259241861345
+      kivar_96: -3188748431105149591
+      kivar_97: 3435669344655573193
+      kivar_98: 1293830045667637578
+      kivar_99: -3715201779321544662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

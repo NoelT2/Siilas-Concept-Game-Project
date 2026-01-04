@@ -1,0 +1,7579 @@
+fileFormatVersion: 2
+guid: ca0b972b0c1cf714581fd3314e36f328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8821016199925446121
+    second: golem_0
+  - first:
+      213: 5558929116119530011
+    second: golem_1
+  - first:
+      213: -7938967849143907722
+    second: golem_2
+  - first:
+      213: -8120957673898658751
+    second: golem_3
+  - first:
+      213: 7675166993724320208
+    second: golem_4
+  - first:
+      213: -5483003801511769695
+    second: golem_5
+  - first:
+      213: -6367020657441983637
+    second: golem_6
+  - first:
+      213: 5011769397829845575
+    second: golem_7
+  - first:
+      213: 9023598398815006260
+    second: golem_8
+  - first:
+      213: -8950690858154096082
+    second: golem_9
+  - first:
+      213: 3034842355247029857
+    second: golem_10
+  - first:
+      213: -1203529981766872419
+    second: golem_11
+  - first:
+      213: 6313958136043311771
+    second: golem_12
+  - first:
+      213: 6225803207390036791
+    second: golem_13
+  - first:
+      213: -2235388607827041426
+    second: golem_14
+  - first:
+      213: -3145354403953770894
+    second: golem_15
+  - first:
+      213: 521003051100060685
+    second: golem_16
+  - first:
+      213: 3113114727066961396
+    second: golem_17
+  - first:
+      213: 7604863118969471786
+    second: golem_18
+  - first:
+      213: -3534367033610702545
+    second: golem_19
+  - first:
+      213: -5160245543302612603
+    second: golem_20
+  - first:
+      213: -5861471987511590618
+    second: golem_21
+  - first:
+      213: -721304746231137748
+    second: golem_22
+  - first:
+      213: 7548818818707088386
+    second: golem_23
+  - first:
+      213: 8631104016134437003
+    second: golem_24
+  - first:
+      213: 6609954123698284557
+    second: golem_25
+  - first:
+      213: -5038708158555504480
+    second: golem_26
+  - first:
+      213: -7113896494815730768
+    second: golem_27
+  - first:
+      213: -6235800502268156185
+    second: golem_28
+  - first:
+      213: 2513050357525502318
+    second: golem_29
+  - first:
+      213: -8543700560818115772
+    second: golem_30
+  - first:
+      213: 3428748211973942807
+    second: golem_31
+  - first:
+      213: -7234578958157868995
+    second: golem_32
+  - first:
+      213: 1870775735640662528
+    second: golem_33
+  - first:
+      213: -664151860973811989
+    second: golem_34
+  - first:
+      213: 4327428334545489746
+    second: golem_35
+  - first:
+      213: -3347080627477583413
+    second: golem_36
+  - first:
+      213: 7484745446558080647
+    second: golem_37
+  - first:
+      213: -2073216301444227534
+    second: golem_38
+  - first:
+      213: -8438842944996652797
+    second: golem_39
+  - first:
+      213: 8319249177444988462
+    second: golem_40
+  - first:
+      213: -2843470272321533063
+    second: golem_41
+  - first:
+      213: -1948750065915920615
+    second: golem_42
+  - first:
+      213: 6345092263459917116
+    second: golem_43
+  - first:
+      213: -875218432604687083
+    second: golem_44
+  - first:
+      213: 5885815611103965803
+    second: golem_45
+  - first:
+      213: -6753331664898534151
+    second: golem_46
+  - first:
+      213: -2611857884280524243
+    second: golem_47
+  - first:
+      213: -8340929733414827560
+    second: golem_48
+  - first:
+      213: -8233706668347519880
+    second: golem_49
+  - first:
+      213: 2974595645526848605
+    second: golem_50
+  - first:
+      213: -590860379608415431
+    second: golem_51
+  - first:
+      213: 5412245213239968695
+    second: golem_52
+  - first:
+      213: 6076063260214790163
+    second: golem_53
+  - first:
+      213: -2726766249972424852
+    second: golem_54
+  - first:
+      213: 3369005626164100505
+    second: golem_55
+  - first:
+      213: -6320611221300210453
+    second: golem_56
+  - first:
+      213: 3176061409030835876
+    second: golem_57
+  - first:
+      213: 1294710066640681633
+    second: golem_58
+  - first:
+      213: -6080512978778207289
+    second: golem_59
+  - first:
+      213: 7637558237612420368
+    second: golem_60
+  - first:
+      213: 978821743308085674
+    second: golem_61
+  - first:
+      213: 7152251991476534260
+    second: golem_62
+  - first:
+      213: 4377400105795208818
+    second: golem_63
+  - first:
+      213: 4817593644430843125
+    second: golem_64
+  - first:
+      213: 7593396843503261610
+    second: golem_65
+  - first:
+      213: 3841770325952418966
+    second: golem_66
+  - first:
+      213: -5453404536991271512
+    second: golem_67
+  - first:
+      213: 7217431875383525262
+    second: golem_68
+  - first:
+      213: -9101853284756094928
+    second: golem_69
+  - first:
+      213: -7852328639531028924
+    second: golem_70
+  - first:
+      213: 3194875678063711892
+    second: golem_71
+  - first:
+      213: 1286106981588646071
+    second: golem_72
+  - first:
+      213: 4829371241106113994
+    second: golem_73
+  - first:
+      213: 1405738476792888781
+    second: golem_74
+  - first:
+      213: -4553797552029632637
+    second: golem_75
+  - first:
+      213: -8829609774108845238
+    second: golem_76
+  - first:
+      213: 8262157987613557308
+    second: golem_77
+  - first:
+      213: 2292033738505177701
+    second: golem_78
+  - first:
+      213: 2796850292001449862
+    second: golem_79
+  - first:
+      213: 8147273569962020811
+    second: golem_80
+  - first:
+      213: -4065593043127107893
+    second: golem_81
+  - first:
+      213: -1508549624251261812
+    second: golem_82
+  - first:
+      213: 191699078630412228
+    second: golem_83
+  - first:
+      213: 6130875858810463513
+    second: golem_84
+  - first:
+      213: -6162661401927195708
+    second: golem_85
+  - first:
+      213: -7220955570515207
+    second: golem_86
+  - first:
+      213: 4177648046901842415
+    second: golem_87
+  - first:
+      213: 1557784774175068723
+    second: golem_88
+  - first:
+      213: -2915610702360427621
+    second: golem_89
+  - first:
+      213: 6810979288008013055
+    second: golem_90
+  - first:
+      213: -3561401699870746781
+    second: golem_91
+  - first:
+      213: -4807344960037993407
+    second: golem_92
+  - first:
+      213: 1354669139902948477
+    second: golem_93
+  - first:
+      213: -2577282084966964349
+    second: golem_94
+  - first:
+      213: 4670119116344574767
+    second: golem_95
+  - first:
+      213: -5247668418286863572
+    second: golem_96
+  - first:
+      213: 647781354221618870
+    second: golem_97
+  - first:
+      213: -1499038235336374128
+    second: golem_98
+  - first:
+      213: 2129133609608284109
+    second: golem_99
+  - first:
+      213: -6971689012166457249
+    second: golem_100
+  - first:
+      213: 8414432544930804013
+    second: golem_101
+  - first:
+      213: -1519821906961476985
+    second: golem_102
+  - first:
+      213: -3356371503881150459
+    second: golem_103
+  - first:
+      213: 6716374187261932080
+    second: golem_104
+  - first:
+      213: 5536884347006758700
+    second: golem_105
+  - first:
+      213: 5151196233359041996
+    second: golem_106
+  - first:
+      213: 4725087436278571094
+    second: golem_107
+  - first:
+      213: -5994903327679896710
+    second: golem_108
+  - first:
+      213: 4775039257848431123
+    second: golem_109
+  - first:
+      213: 18241955824231028
+    second: golem_110
+  - first:
+      213: 6910440419015509092
+    second: golem_111
+  - first:
+      213: -4776351868615429815
+    second: golem_112
+  - first:
+      213: 5781371285464321089
+    second: golem_113
+  - first:
+      213: -2797321170393355089
+    second: golem_114
+  - first:
+      213: -8704914271864050576
+    second: golem_115
+  - first:
+      213: 3354850670272716713
+    second: golem_116
+  - first:
+      213: 485480013958279947
+    second: golem_117
+  - first:
+      213: -7791825635333549133
+    second: golem_118
+  - first:
+      213: 5083110331416638272
+    second: golem_119
+  - first:
+      213: -7148393652958277019
+    second: golem_120
+  - first:
+      213: -8269597115930649816
+    second: golem_121
+  - first:
+      213: -1743490894824849873
+    second: golem_122
+  - first:
+      213: -1157145745252633729
+    second: golem_123
+  - first:
+      213: 2732908263437380957
+    second: golem_124
+  - first:
+      213: 5604625644539058218
+    second: golem_125
+  - first:
+      213: 237827628187700144
+    second: golem_126
+  - first:
+      213: -597331202693771029
+    second: golem_127
+  - first:
+      213: -4933672000992446075
+    second: golem_128
+  - first:
+      213: 7666743863063639428
+    second: golem_129
+  - first:
+      213: -1588426368258387417
+    second: golem_130
+  - first:
+      213: -1517324971224726500
+    second: golem_131
+  - first:
+      213: 4124051281845879074
+    second: golem_132
+  - first:
+      213: 611299551239047709
+    second: golem_133
+  - first:
+      213: -3216326258609882736
+    second: golem_134
+  - first:
+      213: 2990016690359814902
+    second: golem_135
+  - first:
+      213: -7328994512948245528
+    second: golem_136
+  - first:
+      213: -6345818889151455350
+    second: golem_137
+  - first:
+      213: -6472326678765392654
+    second: golem_138
+  - first:
+      213: 2773377867193172784
+    second: golem_139
+  - first:
+      213: 1845741452566850080
+    second: golem_140
+  - first:
+      213: -3066670105131952030
+    second: golem_141
+  - first:
+      213: 8246162054003002127
+    second: golem_142
+  - first:
+      213: 6913056617324481273
+    second: golem_143
+  - first:
+      213: -3308463100356117602
+    second: golem_144
+  - first:
+      213: -331228519701511496
+    second: golem_145
+  - first:
+      213: -7525833089265621075
+    second: golem_146
+  - first:
+      213: 8604400946778555713
+    second: golem_147
+  - first:
+      213: 6018857166980279360
+    second: golem_148
+  - first:
+      213: 3069131191540078666
+    second: golem_149
+  - first:
+      213: -8471403301087423308
+    second: golem_150
+  - first:
+      213: -6060554331182562010
+    second: golem_151
+  - first:
+      213: 953333202500994830
+    second: golem_152
+  - first:
+      213: 5416122768983294911
+    second: golem_153
+  - first:
+      213: 4076989089808754696
+    second: golem_154
+  - first:
+      213: -1531212773177367800
+    second: golem_155
+  - first:
+      213: -2142335635756073221
+    second: golem_156
+  - first:
+      213: -6929162347894477909
+    second: golem_157
+  - first:
+      213: -5583750740976916497
+    second: golem_158
+  - first:
+      213: 444691063311231119
+    second: golem_159
+  - first:
+      213: -5369822054816930995
+    second: golem_160
+  - first:
+      213: -4098095482715741900
+    second: golem_161
+  - first:
+      213: 2694679993549045595
+    second: golem_162
+  - first:
+      213: -5565132668633429362
+    second: golem_163
+  - first:
+      213: -4417027363209455687
+    second: golem_164
+  - first:
+      213: -2401519352738243632
+    second: golem_165
+  - first:
+      213: -2052638809789764439
+    second: golem_166
+  - first:
+      213: 1946998286200547770
+    second: golem_167
+  - first:
+      213: -5512672103666589353
+    second: golem_168
+  - first:
+      213: -210418987141234056
+    second: golem_169
+  - first:
+      213: -8528681276583538106
+    second: golem_170
+  - first:
+      213: 4626488879399766852
+    second: golem_171
+  - first:
+      213: 4842622755817999689
+    second: golem_172
+  - first:
+      213: -1028365980674755788
+    second: golem_173
+  - first:
+      213: -7011400735713369577
+    second: golem_174
+  - first:
+      213: -387672690903234713
+    second: golem_175
+  - first:
+      213: 8880333305341420220
+    second: golem_176
+  - first:
+      213: 7949661878003335383
+    second: golem_177
+  - first:
+      213: 1822982012891178116
+    second: golem_178
+  - first:
+      213: 6225940037303357301
+    second: golem_179
+  - first:
+      213: 2457618647571510424
+    second: golem_180
+  - first:
+      213: -1008754937806610997
+    second: golem_181
+  - first:
+      213: 8810993591552849913
+    second: golem_182
+  - first:
+      213: -4434115557335259956
+    second: golem_183
+  - first:
+      213: 2099297804064886076
+    second: golem_184
+  - first:
+      213: -4572800855393401811
+    second: golem_185
+  - first:
+      213: 3984706570693776699
+    second: golem_186
+  - first:
+      213: 179042858043455615
+    second: golem_187
+  - first:
+      213: 4073281038472026525
+    second: golem_188
+  - first:
+      213: -3288730639443580798
+    second: golem_189
+  - first:
+      213: -2537196774178859954
+    second: golem_190
+  - first:
+      213: 3446160879714624557
+    second: golem_191
+  - first:
+      213: -7577819455708780543
+    second: golem_192
+  - first:
+      213: 1041854468385666020
+    second: golem_193
+  - first:
+      213: -5948323020068016696
+    second: golem_194
+  - first:
+      213: -6338759441139105089
+    second: golem_195
+  - first:
+      213: -8749240131035966652
+    second: golem_196
+  - first:
+      213: 7240765057781680118
+    second: golem_197
+  - first:
+      213: -5815231536021386054
+    second: golem_198
+  - first:
+      213: 7898125220339567830
+    second: golem_199
+  - first:
+      213: 9189288796014689247
+    second: golem_200
+  - first:
+      213: -441522443967259071
+    second: golem_201
+  - first:
+      213: -2716889077499455511
+    second: golem_202
+  - first:
+      213: -7699365611578814222
+    second: golem_203
+  - first:
+      213: 2333651695028031082
+    second: golem_204
+  - first:
+      213: 3175360643004911133
+    second: golem_205
+  - first:
+      213: 714146539422647574
+    second: golem_206
+  - first:
+      213: -6328256468567444440
+    second: golem_207
+  - first:
+      213: 2903086475339913817
+    second: golem_208
+  - first:
+      213: 2566490668921529610
+    second: golem_209
+  - first:
+      213: 3097056636965580948
+    second: golem_210
+  - first:
+      213: 1905977913527456378
+    second: golem_211
+  - first:
+      213: 6496940277622954197
+    second: golem_212
+  - first:
+      213: -2082748014090591227
+    second: golem_213
+  - first:
+      213: 1605556107395531339
+    second: golem_214
+  - first:
+      213: -4851640772748538173
+    second: golem_215
+  - first:
+      213: 8552358384680317904
+    second: golem_216
+  - first:
+      213: -2413693283662161186
+    second: golem_217
+  - first:
+      213: 153620028011809679
+    second: golem_218
+  - first:
+      213: 7041227854291267014
+    second: golem_219
+  - first:
+      213: -4688978337597540842
+    second: golem_220
+  - first:
+      213: 8755205064705482852
+    second: golem_221
+  - first:
+      213: -681616457711400070
+    second: golem_222
+  - first:
+      213: 4671753332170588795
+    second: golem_223
+  - first:
+      213: -6420872866300393772
+    second: golem_224
+  - first:
+      213: -2128813269583038145
+    second: golem_225
+  - first:
+      213: 4818202925229120706
+    second: golem_226
+  - first:
+      213: -4939740675819343691
+    second: golem_227
+  - first:
+      213: -4108895560538143338
+    second: golem_228
+  - first:
+      213: -3464833600573819957
+    second: golem_229
+  - first:
+      213: 3964302035819842193
+    second: golem_230
+  - first:
+      213: 5251853019318064410
+    second: golem_231
+  - first:
+      213: 3679726957830984761
+    second: golem_232
+  - first:
+      213: -8737962387855973848
+    second: golem_233
+  - first:
+      213: 721082135035844286
+    second: golem_234
+  - first:
+      213: -1072041362279165019
+    second: golem_235
+  - first:
+      213: 1507475607190593904
+    second: golem_236
+  - first:
+      213: 2829860683925561839
+    second: golem_237
+  - first:
+      213: 504257098162966280
+    second: golem_238
+  - first:
+      213: 750954157929125849
+    second: golem_239
+  - first:
+      213: 6593048263151199550
+    second: golem_240
+  - first:
+      213: -4408712279227461817
+    second: golem_241
+  - first:
+      213: -3987956748456568580
+    second: golem_242
+  - first:
+      213: -627188348356291013
+    second: golem_243
+  - first:
+      213: -197619072775056839
+    second: golem_244
+  - first:
+      213: -4489371761531617933
+    second: golem_245
+  - first:
+      213: 4299178720004963746
+    second: golem_246
+  - first:
+      213: -3978220191342979019
+    second: golem_247
+  - first:
+      213: 6012313616445536420
+    second: golem_248
+  - first:
+      213: 6943727069321192324
+    second: golem_249
+  - first:
+      213: 5646078219193322683
+    second: golem_250
+  - first:
+      213: 3383711601569741252
+    second: golem_251
+  - first:
+      213: 6690684872563287070
+    second: golem_252
+  - first:
+      213: -2665758118123771169
+    second: golem_253
+  - first:
+      213: 6536759498652223420
+    second: golem_254
+  - first:
+      213: -9103132062917235800
+    second: golem_255
+  - first:
+      213: 5175941180585757031
+    second: golem_256
+  - first:
+      213: -4514842604665570661
+    second: golem_257
+  - first:
+      213: -8373479322991286626
+    second: golem_258
+  - first:
+      213: -5497414017721609581
+    second: golem_259
+  - first:
+      213: 670218850073842082
+    second: golem_260
+  - first:
+      213: -3574945129893753503
+    second: golem_261
+  - first:
+      213: 2473885253970544747
+    second: golem_262
+  - first:
+      213: -1227238910629715239
+    second: golem_263
+  - first:
+      213: -8212033556554729678
+    second: golem_264
+  - first:
+      213: 6050993988648834532
+    second: golem_265
+  - first:
+      213: 4658658213311406734
+    second: golem_266
+  - first:
+      213: 306057678561150458
+    second: golem_267
+  - first:
+      213: -719849264980196450
+    second: golem_268
+  - first:
+      213: 2912412355548258243
+    second: golem_269
+  - first:
+      213: -3997652173392656944
+    second: golem_270
+  - first:
+      213: 8894308501010748675
+    second: golem_271
+  - first:
+      213: 973535081239038433
+    second: golem_272
+  - first:
+      213: -4153577573309506975
+    second: golem_273
+  - first:
+      213: -8664587758557722428
+    second: golem_274
+  - first:
+      213: -8096758504903243013
+    second: golem_275
+  - first:
+      213: -5572631046852261368
+    second: golem_276
+  - first:
+      213: -1902282100769093765
+    second: golem_277
+  - first:
+      213: -5802013271202464527
+    second: golem_278
+  - first:
+      213: -3153251601057489646
+    second: golem_279
+  - first:
+      213: 3722300567524327438
+    second: golem_280
+  - first:
+      213: 8973882477682160743
+    second: golem_281
+  - first:
+      213: 6917134513873910068
+    second: golem_282
+  - first:
+      213: -6740850575052367597
+    second: golem_283
+  - first:
+      213: -995332380748882830
+    second: golem_284
+  - first:
+      213: 8347554403079688049
+    second: golem_285
+  - first:
+      213: -9124610313511622380
+    second: golem_286
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5b5828f7b8a6a70800000000000000
+      internalID: 8821016199925446121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1132
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a71e12498452d40800000000000000
+      internalID: 5558929116119530011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1146
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac78cbdce13d190800000000000000
+      internalID: -7938967849143907722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1132
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144b943b5009c4f80800000000000000
+      internalID: -8120957673898658751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1146
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9adbc47bba38a60800000000000000
+      internalID: 7675166993724320208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1161
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a946ccb71578e3b0800000000000000
+      internalID: -5483003801511769695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1132
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63b89b227cc3a7a0800000000000000
+      internalID: -6367020657441983637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1147
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74242ddb6b16d8540800000000000000
+      internalID: 5011769397829845575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1162
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ee6254fe24a3d70800000000000000
+      internalID: 9023598398815006260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1132
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a83695612c8c380800000000000000
+      internalID: -8950690858154096082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1146
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e1fc5fa0ded1a20800000000000000
+      internalID: 3034842355247029857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1148
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92d040bbd33c4fe0800000000000000
+      internalID: -1203529981766872419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1132
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b929c81d87faf9750800000000000000
+      internalID: 6313958136043311771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1147
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73388f9080f766650800000000000000
+      internalID: 6225803207390036791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1132
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63a38f97ed4af0e0800000000000000
+      internalID: -2235388607827041426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1148
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eff9b95d47954d0800000000000000
+      internalID: -3145354403953770894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_16
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1132
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cb6bbb389fa3700800000000000000
+      internalID: 521003051100060685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1145
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f50ddba951043b20800000000000000
+      internalID: 3113114727066961396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1145
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305a3e6b6e98960800000000000000
+      internalID: 7604863118969471786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1118
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2178c7a8e763fec0800000000000000
+      internalID: -3534367033610702545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1104
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589b7adb4002368b0800000000000000
+      internalID: -5160245543302612603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1042
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6210873684ed7aea0800000000000000
+      internalID: -5861471987511590618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1083
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2af61aa7296df5f0800000000000000
+      internalID: -721304746231137748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1048
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204e1d268bac2c860800000000000000
+      internalID: 7548818818707088386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1094
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88f3258f57d7c770800000000000000
+      internalID: 8631104016134437003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1048
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d082aa421464bbb50800000000000000
+      internalID: 6609954123698284557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1064
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0cf6240a9e21ab0800000000000000
+      internalID: -5038708158555504480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1048
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3ac9934dc564d90800000000000000
+      internalID: -7113896494815730768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1039
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6aa1c5b7cf579a0800000000000000
+      internalID: -6235800502268156185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_29
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1048
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69d9f64cf520e220800000000000000
+      internalID: 2513050357525502318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1048
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b612d3b9dae6980800000000000000
+      internalID: -8543700560818115772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1048
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e66fe155c559f20800000000000000
+      internalID: 3428748211973942807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_32
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1086
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d301c7b94cc999b90800000000000000
+      internalID: -7234578958157868995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_33
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1048
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0022849ae9456f910800000000000000
+      internalID: 1870775735640662528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_34
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1107
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6cdb9b66578c6f0800000000000000
+      internalID: -664151860973811989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_35
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1100
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4b8f742d1e0c30800000000000000
+      internalID: 4327428334545489746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_36
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1048
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc96b9427e7cc81d0800000000000000
+      internalID: -3347080627477583413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1072
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e1158e3582fd760800000000000000
+      internalID: 7484745446558080647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_38
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1084
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e1ed912c47a33e0800000000000000
+      internalID: -2073216301444227534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_39
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1086
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c92c6d0533ea80800000000000000
+      internalID: -8438842944996652797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_40
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1083
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26b193bc09e37370800000000000000
+      internalID: 8319249177444988462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1062
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b44e84ad6f988d0800000000000000
+      internalID: -2843470272321533063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1061
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fff05d326a4f4e0800000000000000
+      internalID: -1948750065915920615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1064
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d8b9ebbcb4e0850800000000000000
+      internalID: 6345092263459917116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1021
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51539bff8799ad3f0800000000000000
+      internalID: -875218432604687083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1013
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62fc492d1e9ea150800000000000000
+      internalID: 5885815611103965803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 980
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f45357a1a85742a0800000000000000
+      internalID: -6753331664898534151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1035
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22f7aba711d0cbd0800000000000000
+      internalID: -2611857884280524243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_48
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1036
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9c05f79901f3c80800000000000000
+      internalID: -8340929733414827560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 980
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c8160c86ffbbd80800000000000000
+      internalID: -8233706668347519880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1037
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d543d02caf2e74920800000000000000
+      internalID: 2974595645526848605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1038
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93386918d97dcc7f0800000000000000
+      internalID: -590860379608415431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 980
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b30a7c98582c1b40800000000000000
+      internalID: 5412245213239968695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_53
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 980
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31887e1c753825450800000000000000
+      internalID: 6076063260214790163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 980
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f9edcea84982ad0800000000000000
+      internalID: -2726766249972424852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_55
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 980
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dbdc964cc11ce20800000000000000
+      internalID: 3369005626164100505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be49d0f059da848a0800000000000000
+      internalID: -6320611221300210453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1028
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae0c162603a31c20800000000000000
+      internalID: 3176061409030835876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1021
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa7d3922fbb7f110800000000000000
+      internalID: 1294710066640681633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_59
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1013
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbc5c769adad9ba0800000000000000
+      internalID: -6080512978778207289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1028
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d2f3860ce0ef960800000000000000
+      internalID: 7637558237612420368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_61
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1015
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa99e448039759d00800000000000000
+      internalID: 978821743308085674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_62
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1017
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf900ca47e14360800000000000000
+      internalID: 7152251991476534260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1014
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2764ea92436afbc30800000000000000
+      internalID: 4377400105795208818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1014
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcda7815e78bd240800000000000000
+      internalID: 4817593644430843125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_65
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1014
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa79597923a216960800000000000000
+      internalID: 7593396843503261610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_66
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1013
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694d703c1c5b05530800000000000000
+      internalID: 3841770325952418966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_67
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1004
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b12c877d9154b0800000000000000
+      internalID: -5453404536991271512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_68
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1016
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ff0d21d08792460800000000000000
+      internalID: 7217431875383525262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_69
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 994
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030046449a8bfa180800000000000000
+      internalID: -9101853284756094928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_70
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 993
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e602da4bce60390800000000000000
+      internalID: -7852328639531028924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 912
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d584808a765c20800000000000000
+      internalID: 3194875678063711892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 913
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8bdb45c7b29d110800000000000000
+      internalID: 1286106981588646071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_73
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 913
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac50e928e8f550340800000000000000
+      internalID: 4829371241106113994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_74
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 911
+        width: 91
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdb65c52bf228310800000000000000
+      internalID: 1405738476792888781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 951
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387fa34e049adc0c0800000000000000
+      internalID: -4553797552029632637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_76
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 911
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bdce411bce67580800000000000000
+      internalID: -8829609774108845238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_77
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 962
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32ccd93ae419a270800000000000000
+      internalID: 8262157987613557308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_78
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 909
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56acfcc9a80fecf10800000000000000
+      internalID: 2292033738505177701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_79
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 911
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687a1b0b58860d620800000000000000
+      internalID: 2796850292001449862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_80
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 911
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfc381552ee01170800000000000000
+      internalID: 8147273569962020811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 926
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcefb1feaac1497c0800000000000000
+      internalID: -4065593043127107893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_82
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 912
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c54700c1e801be0800000000000000
+      internalID: -1508549624251261812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf098ddb4d09a200800000000000000
+      internalID: 191699078630412228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_84
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 846
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9156a6e5c1f351550800000000000000
+      internalID: 6130875858810463513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 846
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c36e1b2b14d97aa0800000000000000
+      internalID: -6162661401927195708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_86
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 846
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2d744449856eff0800000000000000
+      internalID: -7220955570515207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_87
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 846
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe15038b3ccf9f930800000000000000
+      internalID: 4177648046901842415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 846
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3329735affc5e9510800000000000000
+      internalID: 1557784774175068723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_89
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 846
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93ca76838ba987d0800000000000000
+      internalID: -2915610702360427621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_90
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 846
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4b24a8395758e50800000000000000
+      internalID: 6810979288008013055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_91
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 867
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3675bb8e50c539ec0800000000000000
+      internalID: -3561401699870746781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_92
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 846
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144cb20ba31e84db0800000000000000
+      internalID: -4807344960037993407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746918c760ccc210800000000000000
+      internalID: 1354669139902948477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_94
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 775
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383e0974997ab3cd0800000000000000
+      internalID: -2577282084966964349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_95
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 765
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23ca7cc7989fc040800000000000000
+      internalID: 4670119116344574767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_96
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 765
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bb9fc70698c27b0800000000000000
+      internalID: -5247668418286863572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 765
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b64086a5b16df800800000000000000
+      internalID: 647781354221618870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_98
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 765
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0980c0ecaa8523be0800000000000000
+      internalID: -1499038235336374128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_99
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 765
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc70c00ccb33c8d10800000000000000
+      internalID: 2129133609608284109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_100
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 758
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f580351f7c59f3f90800000000000000
+      internalID: -6971689012166457249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_101
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 753
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21361b61d116c470800000000000000
+      internalID: 8414432544930804013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_102
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 765
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78254b9270288eae0800000000000000
+      internalID: -1519821906961476985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_103
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 765
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500abe866e5cb61d0800000000000000
+      internalID: -3356371503881150459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_104
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 765
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b95a0dba553d50800000000000000
+      internalID: 6716374187261932080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 766
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f22c95af6f6dc40800000000000000
+      internalID: 5536884347006758700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_106
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 766
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc522b99ea9bc7740800000000000000
+      internalID: 5151196233359041996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_107
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 696
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650ab0c1df1e29140800000000000000
+      internalID: 4725087436278571094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_108
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 752
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7325d29f23ddcca0800000000000000
+      internalID: -5994903327679896710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_109
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 759
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312c990e7e8544240800000000000000
+      internalID: 4775039257848431123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47269e056fec04000800000000000000
+      internalID: 18241955824231028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_111
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 680
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464cbe0b2f0d6ef50800000000000000
+      internalID: 6910440419015509092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 680
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94177ec184df6bdb0800000000000000
+      internalID: -4776351868615429815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_113
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 681
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c8eb89d8e8b3050800000000000000
+      internalID: 5781371285464321089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_114
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 681
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac2604673bed29d0800000000000000
+      internalID: -2797321170393355089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_115
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 735
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ca051279ee13780800000000000000
+      internalID: -8704914271864050576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_116
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 759
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af161ce8e2de8e20800000000000000
+      internalID: 3354850670272716713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_117
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 749
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f8812085ccb600800000000000000
+      internalID: 485480013958279947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_118
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 753
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b359261edfddd390800000000000000
+      internalID: -7791825635333549133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_119
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 742
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043f43a3ae5da8640800000000000000
+      internalID: 5083110331416638272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_120
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 724
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562d3c0b8ddcbcc90800000000000000
+      internalID: -7148393652958277019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_121
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 739
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bdb5dbc3d7c3d80800000000000000
+      internalID: -8269597115930649816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_122
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 744
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e36d0c440edc7e0800000000000000
+      internalID: -1743490894824849873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_123
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 731
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73bcd4531ef0ffe0800000000000000
+      internalID: -1157145745252633729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_124
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 718
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d2ae5069d3de520800000000000000
+      internalID: 2732908263437380957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_125
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 719
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a289bc14451a7cd40800000000000000
+      internalID: 5604625644539058218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_126
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 719
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbc6efb7feec4300800000000000000
+      internalID: 237827628187700144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_127
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 718
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be05e2a9f6ad5b7f0800000000000000
+      internalID: -597331202693771029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_128
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 695
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589fd8e6473188bb0800000000000000
+      internalID: -4933672000992446075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_129
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 716
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48570dd5ceeb56a60800000000000000
+      internalID: 7666743863063639428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_130
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 699
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722581842a6c4f9e0800000000000000
+      internalID: -1588426368258387417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_131
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 695
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1402515af061fae0800000000000000
+      internalID: -1517324971224726500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_132
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2210be96ac29b3930800000000000000
+      internalID: 4124051281845879074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_133
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 716
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a85faf3b5cb7800800000000000000
+      internalID: 611299551239047709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_134
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 717
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099fbc10f405d53d0800000000000000
+      internalID: -3216326258609882736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_135
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 717
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fac26d865cae7920800000000000000
+      internalID: 2990016690359814902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_136
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 716
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebcee6325e2a4a90800000000000000
+      internalID: -7328994512948245528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_137
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 716
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd927875f1fe7a0800000000000000
+      internalID: -6345818889151455350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_138
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 717
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fca7e17d2dad26a0800000000000000
+      internalID: -6472326678765392654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_139
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 694
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033caf9e9740d7620800000000000000
+      internalID: 2773377867193172784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 695
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae57b62146d9910800000000000000
+      internalID: 1845741452566850080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_141
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 694
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268dc4c89cff075d0800000000000000
+      internalID: -3066670105131952030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_142
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 700
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8725b2b0407270800000000000000
+      internalID: 8246162054003002127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_143
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 681
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa0ac3dd5c10ff50800000000000000
+      internalID: 6913056617324481273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_144
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 701
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b39c6d65af512d0800000000000000
+      internalID: -3308463100356117602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_145
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 698
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b286bf8a6d376bf0800000000000000
+      internalID: -331228519701511496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_146
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 680
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7217bcdaede8790800000000000000
+      internalID: -7525833089265621075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_147
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 680
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14545c1b219f86770800000000000000
+      internalID: 8604400946778555713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_148
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 680
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c6caf34b6478350800000000000000
+      internalID: 6018857166980279360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_149
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 681
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4851d8ce8eb79a20800000000000000
+      internalID: 3069131191540078666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_150
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 680
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4dc91c4978f6a80800000000000000
+      internalID: -8471403301087423308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_151
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 680
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62588eb22f594eba0800000000000000
+      internalID: -6060554331182562010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_152
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 680
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0748a72f7bea3d00800000000000000
+      internalID: 953333202500994830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_153
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 681
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3872966fee92b40800000000000000
+      internalID: 5416122768983294911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_154
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 597
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808a133f9ff549830800000000000000
+      internalID: 4076989089808754696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_155
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 597
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803e833781a00cae0800000000000000
+      internalID: -1531212773177367800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_156
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 681
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe39110715e442e0800000000000000
+      internalID: -2142335635756073221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_157
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 635
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babecbe8e8ba6df90800000000000000
+      internalID: -6929162347894477909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_158
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 636
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe72fb9f8488282b0800000000000000
+      internalID: -5583750740976916497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_159
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 597
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88e47f7a2cdb2600800000000000000
+      internalID: 444691063311231119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_160
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 636
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43249baa4f8a75b0800000000000000
+      internalID: -5369822054816930995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_161
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 597
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43168110fd3a027c0800000000000000
+      internalID: -4098095482715741900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_162
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 590
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fb7d65d2d656520800000000000000
+      internalID: 2694679993549045595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_163
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 597
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ace2eb25da4c2b0800000000000000
+      internalID: -5565132668633429362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_164
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 597
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b758bcf30193b2c0800000000000000
+      internalID: -4417027363209455687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_165
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 597
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db9fca5fd61caed0800000000000000
+      internalID: -2401519352738243632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_166
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 597
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acec4ab0ef8383e0800000000000000
+      internalID: -2052638809789764439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_167
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 597
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9274b20a0250b10800000000000000
+      internalID: 1946998286200547770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_168
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 617
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7516fb9dded0f73b0800000000000000
+      internalID: -5512672103666589353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_169
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 606
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8720379cb01741df0800000000000000
+      internalID: -210418987141234056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_170
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 598
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64296bad09904a980800000000000000
+      internalID: -8528681276583538106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_171
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 597
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b0be5af17943040800000000000000
+      internalID: 4626488879399766852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d41c53db3743340800000000000000
+      internalID: 4842622755817999689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 597
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433f8cec6928ab1f0800000000000000
+      internalID: -1028365980674755788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_174
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 523
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71264e9cd2082be90800000000000000
+      internalID: -7011400735713369577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_175
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 584
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767c799ddb5be9af0800000000000000
+      internalID: -387672690903234713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_176
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb222f757184d3b70800000000000000
+      internalID: 8880333305341420220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d08ad2eb5fd25e60800000000000000
+      internalID: 7949661878003335383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_178
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 513
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4842e4e6b788c4910800000000000000
+      internalID: 1822982012891178116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_179
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 513
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f495c3a7bf66650800000000000000
+      internalID: 6225940037303357301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_180
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 523
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89430e193273b1220800000000000000
+      internalID: 2457618647571510424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_181
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 591
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9d9a8abe2002f0800000000000000
+      internalID: -1008754937806610997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_182
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 581
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f730c62dffe64a70800000000000000
+      internalID: 8810993591552849913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_183
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 523
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4afffb46bd672c0800000000000000
+      internalID: -4434115557335259956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_184
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 585
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d8b01fa34322d10800000000000000
+      internalID: 2099297804064886076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_185
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 526
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d248ca989d52a80c0800000000000000
+      internalID: -4572800855393401811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_186
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 537
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b351e50a3858c4730800000000000000
+      internalID: 3984706570693776699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_187
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 523
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f783041e7861c7200800000000000000
+      internalID: 179042858043455615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_188
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 536
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d999578f583378830800000000000000
+      internalID: 4073281038472026525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_189
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 449
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288a50a68e41c52d0800000000000000
+      internalID: -3288730639443580798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_190
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 512
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e445dcdf9f01accd0800000000000000
+      internalID: -2537196774178859954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_191
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 512
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24ec32cf0933df20800000000000000
+      internalID: 3446160879714624557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_192
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 512
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1082f62aa5d26d690800000000000000
+      internalID: -7577819455708780543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_193
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 513
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3f7c77e19657e00800000000000000
+      internalID: 1041854468385666020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_194
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 512
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd21939abf437da0800000000000000
+      internalID: -5948323020068016696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_195
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 512
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2004a5fd33808a0800000000000000
+      internalID: -6338759441139105089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_196
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 512
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443520fc474749680800000000000000
+      internalID: -8749240131035966652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_197
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 513
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f74323f47d5c7460800000000000000
+      internalID: 7240765057781680118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abccbc87ab52c4fa0800000000000000
+      internalID: -5815231536021386054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_199
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 463
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcc4e5ba07cb9d60800000000000000
+      internalID: 7898125220339567830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_200
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 449
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbbee81979e68f70800000000000000
+      internalID: 9189288796014689247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_201
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 459
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e18fe2da56fd9f0800000000000000
+      internalID: -441522443967259071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_202
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 447
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7918957cbab4ad0800000000000000
+      internalID: -2716889077499455511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_203
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 452
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09cfde4cb562590800000000000000
+      internalID: -7699365611578814222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_204
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 444
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e42a73adbc26020800000000000000
+      internalID: 2333651695028031082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_205
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 445
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e40185ea5211c20800000000000000
+      internalID: 3175360643004911133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_206
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 444
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6158cdf6e7829e900800000000000000
+      internalID: 714146539422647574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_207
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 444
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824387735448d28a0800000000000000
+      internalID: -6328256468567444440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_208
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 444
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a50e2a4c5d94820800000000000000
+      internalID: 2903086475339913817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_209
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 444
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a052c606aa10e9320800000000000000
+      internalID: 2566490668921529610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_210
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 444
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49079973a94fafa20800000000000000
+      internalID: 3097056636965580948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a725b8560d4637a10800000000000000
+      internalID: 1905977913527456378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_212
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 419
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d4ae92c4c92a50800000000000000
+      internalID: 6496940277622954197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_213
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 388
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504ea7f47b79813e0800000000000000
+      internalID: -2082748014090591227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_214
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 419
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b420548e5c4184610800000000000000
+      internalID: 1605556107395531339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_215
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 388
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce858a1c628bacb0800000000000000
+      internalID: -4851640772748538173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_216
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 388
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d334b673a410b670800000000000000
+      internalID: 8552358384680317904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_217
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 388
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda129e2fb6d08ed0800000000000000
+      internalID: -2413693283662161186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_218
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 388
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b87000a94c12200800000000000000
+      internalID: 153620028011809679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_219
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 388
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cded9d6d6777b160800000000000000
+      internalID: 7041227854291267014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_220
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 388
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6163ff39b076deeb0800000000000000
+      internalID: -4688978337597540842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_221
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 388
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460a8798e9cb08970800000000000000
+      internalID: 8755205064705482852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_222
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 419
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b4d0d61796a86f0800000000000000
+      internalID: -681616457711400070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72864257e665d040800000000000000
+      internalID: 4671753332170588795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_224
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 309
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d68838b52a74e6a0800000000000000
+      internalID: -6420872866300393772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_225
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 334
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f397d593c9fe472e0800000000000000
+      internalID: -2128813269583038145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_226
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 278
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc97065802bdd240800000000000000
+      internalID: 4818202925229120706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_227
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 334
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b07d37f604827bb0800000000000000
+      internalID: -4939740675819343691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_228
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 281
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695c1fee1454af6c0800000000000000
+      internalID: -4108895560538143338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_229
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3b5ff92307aefc0800000000000000
+      internalID: -3464833600573819957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_230
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 278
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a4663a2b7040730800000000000000
+      internalID: 3964302035819842193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_231
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 278
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15140dde7452e840800000000000000
+      internalID: 5251853019318064410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_232
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 278
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934d1ff0c24011330800000000000000
+      internalID: 3679726957830984761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_233
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 278
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822ee1301858cb680800000000000000
+      internalID: -8737962387855973848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_234
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 279
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb611b0a16cc10a00800000000000000
+      internalID: 721082135035844286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_235
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 278
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a313d89f085f11f0800000000000000
+      internalID: -1072041362279165019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_236
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 286
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071692ae311abe410800000000000000
+      internalID: 1507475607190593904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe12a3d7c4fa54720800000000000000
+      internalID: 2829860683925561839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_238
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 225
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f097bb82b7ff600800000000000000
+      internalID: 504257098162966280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_239
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7d7f1f3dceb6a00800000000000000
+      internalID: 750954157929125849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_240
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 215
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e352220c6763f7b50800000000000000
+      internalID: 6593048263151199550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_241
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 229
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f8eb75a8b11d2c0800000000000000
+      internalID: -4408712279227461817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_242
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 231
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8df94677ee7a8c0800000000000000
+      internalID: -3987956748456568580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_243
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 217
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3695f82587cb47f0800000000000000
+      internalID: -627188348356291013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_244
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 230
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9329666108ae14df0800000000000000
+      internalID: -197619072775056839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dfc392b2c82b1c0800000000000000
+      internalID: -4489371761531617933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_246
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 154
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad70df8440c9ab30800000000000000
+      internalID: 4299178720004963746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_247
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 167
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53817b040d58ac8c0800000000000000
+      internalID: -3978220191342979019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_248
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8fa7a2167007350800000000000000
+      internalID: 6012313616445536420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_249
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 152
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4836728eaf21d5060800000000000000
+      internalID: 6943727069321192324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_250
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 166
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc8615e936ea5e40800000000000000
+      internalID: 5646078219193322683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_251
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 152
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9bee126cb55fe20800000000000000
+      internalID: 3383711601569741252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_252
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 162
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14e63d51761adc50800000000000000
+      internalID: 6690684872563287070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_253
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda6e188d13510bd0800000000000000
+      internalID: -2665758118123771169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_254
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7835b712c37ba50800000000000000
+      internalID: 6536759498652223420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_255
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 147
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab69568e9d2ba180800000000000000
+      internalID: -9103132062917235800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_256
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 148
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76941279413a4d740800000000000000
+      internalID: 5175941180585757031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_257
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 147
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9afb1c529e0851c0800000000000000
+      internalID: -4514842604665570661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_258
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 147
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96a60b9bec6bcb80800000000000000
+      internalID: -8373479322991286626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_259
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 147
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3925372d31345b3b0800000000000000
+      internalID: -5497414017721609581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_260
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 147
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a11c604e781d4900800000000000000
+      internalID: 670218850073842082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_261
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d8b21685e336ec0800000000000000
+      internalID: -3574945129893753503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_262
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 76
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68cdf10881055220800000000000000
+      internalID: 2473885253970544747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_263
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 76
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2e06586b8f7fee0800000000000000
+      internalID: -1227238910629715239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_264
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 76
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237b7f15dfef80e80800000000000000
+      internalID: -8212033556554729678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_265
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 142
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5107f19f279f350800000000000000
+      internalID: 6050993988648834532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_266
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 76
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82e16e56f0e6a040800000000000000
+      internalID: 4658658213311406734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_267
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 76
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af50b6b46d55f3400800000000000000
+      internalID: 306057678561150458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_268
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 76
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93870d48e49206f0800000000000000
+      internalID: -719849264980196450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_269
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 76
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf99e35b97fa6820800000000000000
+      internalID: 2912412355548258243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5cc5d578c7588c0800000000000000
+      internalID: -3997652173392656944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_271
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 127
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3059b75257eee6b70800000000000000
+      internalID: 8894308501010748675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_272
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e942a59ff0b28d00800000000000000
+      internalID: 973535081239038433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_273
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 50
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a9bd324378b56c0800000000000000
+      internalID: -4153577573309506975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_274
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 56
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c808fd275331c780800000000000000
+      internalID: -8664587758557722428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_275
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 59
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa8e1bc90982af80800000000000000
+      internalID: -8096758504903243013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_276
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 62
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ace0486990aa2b0800000000000000
+      internalID: -5572631046852261368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_277
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 66
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b770311128cb995e0800000000000000
+      internalID: -1902282100769093765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_278
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcffd39bab1b7fa0800000000000000
+      internalID: -5802013271202464527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_279
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d598f10666d34d0800000000000000
+      internalID: -3153251601057489646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_280
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 38
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00c58205a448a330800000000000000
+      internalID: 3722300567524327438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_281
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 5
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764f85a5192a98c70800000000000000
+      internalID: 8973882477682160743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_282
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 39
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4397c0b11399eff50800000000000000
+      internalID: 6917134513873910068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_283
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 39
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3191406dd10b372a0800000000000000
+      internalID: -6740850575052367597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_284
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cd404297edf22f0800000000000000
+      internalID: -995332380748882830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_285
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 86
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f00da908878d370800000000000000
+      internalID: 8347554403079688049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_286
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 5
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419264d934fde5180800000000000000
+      internalID: -9124610313511622380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      golem_0: 8821016199925446121
+      golem_1: 5558929116119530011
+      golem_10: 3034842355247029857
+      golem_100: -6971689012166457249
+      golem_101: 8414432544930804013
+      golem_102: -1519821906961476985
+      golem_103: -3356371503881150459
+      golem_104: 6716374187261932080
+      golem_105: 5536884347006758700
+      golem_106: 5151196233359041996
+      golem_107: 4725087436278571094
+      golem_108: -5994903327679896710
+      golem_109: 4775039257848431123
+      golem_11: -1203529981766872419
+      golem_110: 18241955824231028
+      golem_111: 6910440419015509092
+      golem_112: -4776351868615429815
+      golem_113: 5781371285464321089
+      golem_114: -2797321170393355089
+      golem_115: -8704914271864050576
+      golem_116: 3354850670272716713
+      golem_117: 485480013958279947
+      golem_118: -7791825635333549133
+      golem_119: 5083110331416638272
+      golem_12: 6313958136043311771
+      golem_120: -7148393652958277019
+      golem_121: -8269597115930649816
+      golem_122: -1743490894824849873
+      golem_123: -1157145745252633729
+      golem_124: 2732908263437380957
+      golem_125: 5604625644539058218
+      golem_126: 237827628187700144
+      golem_127: -597331202693771029
+      golem_128: -4933672000992446075
+      golem_129: 7666743863063639428
+      golem_13: 6225803207390036791
+      golem_130: -1588426368258387417
+      golem_131: -1517324971224726500
+      golem_132: 4124051281845879074
+      golem_133: 611299551239047709
+      golem_134: -3216326258609882736
+      golem_135: 2990016690359814902
+      golem_136: -7328994512948245528
+      golem_137: -6345818889151455350
+      golem_138: -6472326678765392654
+      golem_139: 2773377867193172784
+      golem_14: -2235388607827041426
+      golem_140: 1845741452566850080
+      golem_141: -3066670105131952030
+      golem_142: 8246162054003002127
+      golem_143: 6913056617324481273
+      golem_144: -3308463100356117602
+      golem_145: -331228519701511496
+      golem_146: -7525833089265621075
+      golem_147: 8604400946778555713
+      golem_148: 6018857166980279360
+      golem_149: 3069131191540078666
+      golem_15: -3145354403953770894
+      golem_150: -8471403301087423308
+      golem_151: -6060554331182562010
+      golem_152: 953333202500994830
+      golem_153: 5416122768983294911
+      golem_154: 4076989089808754696
+      golem_155: -1531212773177367800
+      golem_156: -2142335635756073221
+      golem_157: -6929162347894477909
+      golem_158: -5583750740976916497
+      golem_159: 444691063311231119
+      golem_16: 521003051100060685
+      golem_160: -5369822054816930995
+      golem_161: -4098095482715741900
+      golem_162: 2694679993549045595
+      golem_163: -5565132668633429362
+      golem_164: -4417027363209455687
+      golem_165: -2401519352738243632
+      golem_166: -2052638809789764439
+      golem_167: 1946998286200547770
+      golem_168: -5512672103666589353
+      golem_169: -210418987141234056
+      golem_17: 3113114727066961396
+      golem_170: -8528681276583538106
+      golem_171: 4626488879399766852
+      golem_172: 4842622755817999689
+      golem_173: -1028365980674755788
+      golem_174: -7011400735713369577
+      golem_175: -387672690903234713
+      golem_176: 8880333305341420220
+      golem_177: 7949661878003335383
+      golem_178: 1822982012891178116
+      golem_179: 6225940037303357301
+      golem_18: 7604863118969471786
+      golem_180: 2457618647571510424
+      golem_181: -1008754937806610997
+      golem_182: 8810993591552849913
+      golem_183: -4434115557335259956
+      golem_184: 2099297804064886076
+      golem_185: -4572800855393401811
+      golem_186: 3984706570693776699
+      golem_187: 179042858043455615
+      golem_188: 4073281038472026525
+      golem_189: -3288730639443580798
+      golem_19: -3534367033610702545
+      golem_190: -2537196774178859954
+      golem_191: 3446160879714624557
+      golem_192: -7577819455708780543
+      golem_193: 1041854468385666020
+      golem_194: -5948323020068016696
+      golem_195: -6338759441139105089
+      golem_196: -8749240131035966652
+      golem_197: 7240765057781680118
+      golem_198: -5815231536021386054
+      golem_199: 7898125220339567830
+      golem_2: -7938967849143907722
+      golem_20: -5160245543302612603
+      golem_200: 9189288796014689247
+      golem_201: -441522443967259071
+      golem_202: -2716889077499455511
+      golem_203: -7699365611578814222
+      golem_204: 2333651695028031082
+      golem_205: 3175360643004911133
+      golem_206: 714146539422647574
+      golem_207: -6328256468567444440
+      golem_208: 2903086475339913817
+      golem_209: 2566490668921529610
+      golem_21: -5861471987511590618
+      golem_210: 3097056636965580948
+      golem_211: 1905977913527456378
+      golem_212: 6496940277622954197
+      golem_213: -2082748014090591227
+      golem_214: 1605556107395531339
+      golem_215: -4851640772748538173
+      golem_216: 8552358384680317904
+      golem_217: -2413693283662161186
+      golem_218: 153620028011809679
+      golem_219: 7041227854291267014
+      golem_22: -721304746231137748
+      golem_220: -4688978337597540842
+      golem_221: 8755205064705482852
+      golem_222: -681616457711400070
+      golem_223: 4671753332170588795
+      golem_224: -6420872866300393772
+      golem_225: -2128813269583038145
+      golem_226: 4818202925229120706
+      golem_227: -4939740675819343691
+      golem_228: -4108895560538143338
+      golem_229: -3464833600573819957
+      golem_23: 7548818818707088386
+      golem_230: 3964302035819842193
+      golem_231: 5251853019318064410
+      golem_232: 3679726957830984761
+      golem_233: -8737962387855973848
+      golem_234: 721082135035844286
+      golem_235: -1072041362279165019
+      golem_236: 1507475607190593904
+      golem_237: 2829860683925561839
+      golem_238: 504257098162966280
+      golem_239: 750954157929125849
+      golem_24: 8631104016134437003
+      golem_240: 6593048263151199550
+      golem_241: -4408712279227461817
+      golem_242: -3987956748456568580
+      golem_243: -627188348356291013
+      golem_244: -197619072775056839
+      golem_245: -4489371761531617933
+      golem_246: 4299178720004963746
+      golem_247: -3978220191342979019
+      golem_248: 6012313616445536420
+      golem_249: 6943727069321192324
+      golem_25: 6609954123698284557
+      golem_250: 5646078219193322683
+      golem_251: 3383711601569741252
+      golem_252: 6690684872563287070
+      golem_253: -2665758118123771169
+      golem_254: 6536759498652223420
+      golem_255: -9103132062917235800
+      golem_256: 5175941180585757031
+      golem_257: -4514842604665570661
+      golem_258: -8373479322991286626
+      golem_259: -5497414017721609581
+      golem_26: -5038708158555504480
+      golem_260: 670218850073842082
+      golem_261: -3574945129893753503
+      golem_262: 2473885253970544747
+      golem_263: -1227238910629715239
+      golem_264: -8212033556554729678
+      golem_265: 6050993988648834532
+      golem_266: 4658658213311406734
+      golem_267: 306057678561150458
+      golem_268: -719849264980196450
+      golem_269: 2912412355548258243
+      golem_27: -7113896494815730768
+      golem_270: -3997652173392656944
+      golem_271: 8894308501010748675
+      golem_272: 973535081239038433
+      golem_273: -4153577573309506975
+      golem_274: -8664587758557722428
+      golem_275: -8096758504903243013
+      golem_276: -5572631046852261368
+      golem_277: -1902282100769093765
+      golem_278: -5802013271202464527
+      golem_279: -3153251601057489646
+      golem_28: -6235800502268156185
+      golem_280: 3722300567524327438
+      golem_281: 8973882477682160743
+      golem_282: 6917134513873910068
+      golem_283: -6740850575052367597
+      golem_284: -995332380748882830
+      golem_285: 8347554403079688049
+      golem_286: -9124610313511622380
+      golem_29: 2513050357525502318
+      golem_3: -8120957673898658751
+      golem_30: -8543700560818115772
+      golem_31: 3428748211973942807
+      golem_32: -7234578958157868995
+      golem_33: 1870775735640662528
+      golem_34: -664151860973811989
+      golem_35: 4327428334545489746
+      golem_36: -3347080627477583413
+      golem_37: 7484745446558080647
+      golem_38: -2073216301444227534
+      golem_39: -8438842944996652797
+      golem_4: 7675166993724320208
+      golem_40: 8319249177444988462
+      golem_41: -2843470272321533063
+      golem_42: -1948750065915920615
+      golem_43: 6345092263459917116
+      golem_44: -875218432604687083
+      golem_45: 5885815611103965803
+      golem_46: -6753331664898534151
+      golem_47: -2611857884280524243
+      golem_48: -8340929733414827560
+      golem_49: -8233706668347519880
+      golem_5: -5483003801511769695
+      golem_50: 2974595645526848605
+      golem_51: -590860379608415431
+      golem_52: 5412245213239968695
+      golem_53: 6076063260214790163
+      golem_54: -2726766249972424852
+      golem_55: 3369005626164100505
+      golem_56: -6320611221300210453
+      golem_57: 3176061409030835876
+      golem_58: 1294710066640681633
+      golem_59: -6080512978778207289
+      golem_6: -6367020657441983637
+      golem_60: 7637558237612420368
+      golem_61: 978821743308085674
+      golem_62: 7152251991476534260
+      golem_63: 4377400105795208818
+      golem_64: 4817593644430843125
+      golem_65: 7593396843503261610
+      golem_66: 3841770325952418966
+      golem_67: -5453404536991271512
+      golem_68: 7217431875383525262
+      golem_69: -9101853284756094928
+      golem_7: 5011769397829845575
+      golem_70: -7852328639531028924
+      golem_71: 3194875678063711892
+      golem_72: 1286106981588646071
+      golem_73: 4829371241106113994
+      golem_74: 1405738476792888781
+      golem_75: -4553797552029632637
+      golem_76: -8829609774108845238
+      golem_77: 8262157987613557308
+      golem_78: 2292033738505177701
+      golem_79: 2796850292001449862
+      golem_8: 9023598398815006260
+      golem_80: 8147273569962020811
+      golem_81: -4065593043127107893
+      golem_82: -1508549624251261812
+      golem_83: 191699078630412228
+      golem_84: 6130875858810463513
+      golem_85: -6162661401927195708
+      golem_86: -7220955570515207
+      golem_87: 4177648046901842415
+      golem_88: 1557784774175068723
+      golem_89: -2915610702360427621
+      golem_9: -8950690858154096082
+      golem_90: 6810979288008013055
+      golem_91: -3561401699870746781
+      golem_92: -4807344960037993407
+      golem_93: 1354669139902948477
+      golem_94: -2577282084966964349
+      golem_95: 4670119116344574767
+      golem_96: -5247668418286863572
+      golem_97: 647781354221618870
+      golem_98: -1499038235336374128
+      golem_99: 2129133609608284109
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

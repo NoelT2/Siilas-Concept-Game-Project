@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: 353453d4fa554e649a1803e7e5e594b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8085321145183431454
+    second: thief1_0
+  - first:
+      213: 3026540228110607386
+    second: thief1_1
+  - first:
+      213: -1540242903512895961
+    second: thief1_2
+  - first:
+      213: -5825714348932395859
+    second: thief1_3
+  - first:
+      213: 6105701168411149191
+    second: thief1_4
+  - first:
+      213: -248036734603565325
+    second: thief1_5
+  - first:
+      213: -3543847093332059630
+    second: thief1_6
+  - first:
+      213: -859660594742103138
+    second: thief1_7
+  - first:
+      213: 8147171780398167516
+    second: thief1_8
+  - first:
+      213: -4053542682914253096
+    second: thief1_9
+  - first:
+      213: 4820668929738093459
+    second: thief1_10
+  - first:
+      213: -7335558104315983497
+    second: thief1_11
+  - first:
+      213: 648987160019747749
+    second: thief1_12
+  - first:
+      213: 4278796297339811118
+    second: thief1_13
+  - first:
+      213: 2316180907512791800
+    second: thief1_14
+  - first:
+      213: 100536438584127431
+    second: thief1_15
+  - first:
+      213: -7377033005439927336
+    second: thief1_16
+  - first:
+      213: -3727859214198438459
+    second: thief1_17
+  - first:
+      213: -2250986911813131511
+    second: thief1_18
+  - first:
+      213: 6501099465195977393
+    second: thief1_19
+  - first:
+      213: -8104529467877635243
+    second: thief1_20
+  - first:
+      213: -6731229664228253452
+    second: thief1_21
+  - first:
+      213: -9040270891604429347
+    second: thief1_22
+  - first:
+      213: -3230325002652329636
+    second: thief1_23
+  - first:
+      213: 3597625952638216357
+    second: thief1_24
+  - first:
+      213: 801367476960547865
+    second: thief1_25
+  - first:
+      213: -9018554669895626713
+    second: thief1_26
+  - first:
+      213: -2203781807082065815
+    second: thief1_27
+  - first:
+      213: -1949747846872861734
+    second: thief1_28
+  - first:
+      213: 1115043589145709964
+    second: thief1_29
+  - first:
+      213: -13585865576921983
+    second: thief1_30
+  - first:
+      213: -1227576431424194644
+    second: thief1_31
+  - first:
+      213: 5589743366792925314
+    second: thief1_32
+  - first:
+      213: -1436643600488487980
+    second: thief1_33
+  - first:
+      213: -7139065502535298783
+    second: thief1_34
+  - first:
+      213: 6934340582006690251
+    second: thief1_35
+  - first:
+      213: 6538664079632129125
+    second: thief1_36
+  - first:
+      213: 2596728765984176326
+    second: thief1_37
+  - first:
+      213: 1199210902428304170
+    second: thief1_38
+  - first:
+      213: -3513414669545231000
+    second: thief1_39
+  - first:
+      213: -7097241873599611562
+    second: thief1_40
+  - first:
+      213: -4224974107954149169
+    second: thief1_41
+  - first:
+      213: -4602194838257455747
+    second: thief1_42
+  - first:
+      213: -5817375570122396771
+    second: thief1_43
+  - first:
+      213: -2609129408634266067
+    second: thief1_44
+  - first:
+      213: -1436273693067543851
+    second: thief1_45
+  - first:
+      213: -8099126048717051257
+    second: thief1_46
+  - first:
+      213: 4508302768663389452
+    second: thief1_47
+  - first:
+      213: -4526006234713190270
+    second: thief1_48
+  - first:
+      213: -5210315908265020340
+    second: thief1_49
+  - first:
+      213: -3773182279116492986
+    second: thief1_50
+  - first:
+      213: -2284502992493319691
+    second: thief1_51
+  - first:
+      213: -8079877429863790701
+    second: thief1_52
+  - first:
+      213: -5642570752427418046
+    second: thief1_53
+  - first:
+      213: -1209413654306303438
+    second: thief1_54
+  - first:
+      213: 9106929365875363462
+    second: thief1_55
+  - first:
+      213: -1718493184766104151
+    second: thief1_56
+  - first:
+      213: -2549648613808821431
+    second: thief1_57
+  - first:
+      213: -4021658068430844822
+    second: thief1_58
+  - first:
+      213: 1444742749736544083
+    second: thief1_59
+  - first:
+      213: -6878962055144725050
+    second: thief1_60
+  - first:
+      213: -6324135609456120458
+    second: thief1_61
+  - first:
+      213: -1709574592273714839
+    second: thief1_62
+  - first:
+      213: -2633901156080301457
+    second: thief1_63
+  - first:
+      213: 1512779609793147553
+    second: thief1_64
+  - first:
+      213: 3205615974151592772
+    second: thief1_65
+  - first:
+      213: -2480056005110528575
+    second: thief1_66
+  - first:
+      213: -3462725367062996842
+    second: thief1_67
+  - first:
+      213: 2764978542122895884
+    second: thief1_68
+  - first:
+      213: 2469087562876814326
+    second: thief1_69
+  - first:
+      213: -5553827105257891546
+    second: thief1_70
+  - first:
+      213: 2675564615572497828
+    second: thief1_71
+  - first:
+      213: 1072421356670664780
+    second: thief1_72
+  - first:
+      213: -7373072363318459414
+    second: thief1_73
+  - first:
+      213: -4693620869881224363
+    second: thief1_74
+  - first:
+      213: -3748254341677185120
+    second: thief1_75
+  - first:
+      213: -7895819575626734199
+    second: thief1_76
+  - first:
+      213: -4734766851739556761
+    second: thief1_77
+  - first:
+      213: 4505477458988211589
+    second: thief1_78
+  - first:
+      213: -8834354344212476048
+    second: thief1_79
+  - first:
+      213: 8817771851123983976
+    second: thief1_80
+  - first:
+      213: 2482247894921018794
+    second: thief1_81
+  - first:
+      213: -3164133160255398578
+    second: thief1_82
+  - first:
+      213: 988974017476136054
+    second: thief1_83
+  - first:
+      213: 5296529456284732397
+    second: thief1_84
+  - first:
+      213: 268680374747271490
+    second: thief1_85
+  - first:
+      213: -6488767314388809085
+    second: thief1_86
+  - first:
+      213: 6838388088996842338
+    second: thief1_87
+  - first:
+      213: 8591046944279205661
+    second: thief1_88
+  - first:
+      213: -9070372215736918614
+    second: thief1_89
+  - first:
+      213: 2178049068468778438
+    second: thief1_90
+  - first:
+      213: 7310655646250164738
+    second: thief1_91
+  - first:
+      213: 4951740785842553710
+    second: thief1_92
+  - first:
+      213: 3776886380390725205
+    second: thief1_93
+  - first:
+      213: 8935342052792374760
+    second: thief1_94
+  - first:
+      213: -266606675672597252
+    second: thief1_95
+  - first:
+      213: -8850832516642082114
+    second: thief1_96
+  - first:
+      213: -8686149067123809707
+    second: thief1_97
+  - first:
+      213: 7809718028531828930
+    second: thief1_98
+  - first:
+      213: 1724812964458301687
+    second: thief1_99
+  - first:
+      213: -3811975563206102312
+    second: thief1_100
+  - first:
+      213: -5185390001166433126
+    second: thief1_101
+  - first:
+      213: -8322969946878313330
+    second: thief1_102
+  - first:
+      213: 3285453630963448016
+    second: thief1_103
+  - first:
+      213: -8012777841021333725
+    second: thief1_104
+  - first:
+      213: -6870648098832195532
+    second: thief1_105
+  - first:
+      213: -1985650942961518123
+    second: thief1_106
+  - first:
+      213: 745602975168864936
+    second: thief1_107
+  - first:
+      213: -1718592576948581780
+    second: thief1_108
+  - first:
+      213: -714411848757118377
+    second: thief1_109
+  - first:
+      213: 1997334201691655816
+    second: thief1_110
+  - first:
+      213: 80730481884102434
+    second: thief1_111
+  - first:
+      213: 5852652583866137290
+    second: thief1_112
+  - first:
+      213: -5274055508414540316
+    second: thief1_113
+  - first:
+      213: -4201826792057971750
+    second: thief1_114
+  - first:
+      213: 5824898963432644568
+    second: thief1_115
+  - first:
+      213: -7676265748830790767
+    second: thief1_116
+  - first:
+      213: -4507072222440902279
+    second: thief1_117
+  - first:
+      213: -2672308357420606036
+    second: thief1_118
+  - first:
+      213: -6773997450566216949
+    second: thief1_119
+  - first:
+      213: 2194730810896835493
+    second: thief1_120
+  - first:
+      213: -400645806473584995
+    second: thief1_121
+  - first:
+      213: -597417016178757036
+    second: thief1_122
+  - first:
+      213: -9057501634258887320
+    second: thief1_123
+  - first:
+      213: 2474018037370743054
+    second: thief1_124
+  - first:
+      213: 6952813047763624329
+    second: thief1_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thief1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4136e914b2bcf80800000000000000
+      internalID: -8085321145183431454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 381
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1466fa5d4e600a20800000000000000
+      internalID: 3026540228110607386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 381
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e2c446d35ff9ae0800000000000000
+      internalID: -1540242903512895961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 379
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac0df46aa7e62fa0800000000000000
+      internalID: -5825714348932395859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 381
+        width: 89
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78385dffcdecbb450800000000000000
+      internalID: 6105701168411149191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 381
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6e4be67ebce8cf0800000000000000
+      internalID: -248036734603565325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 383
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a54af38d9b1dec0800000000000000
+      internalID: -3543847093332059630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93fef66e3fd114f0800000000000000
+      internalID: -859660594742103138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 347
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd538b69191901170800000000000000
+      internalID: 8147171780398167516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 345
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6130f086ceeb7c0800000000000000
+      internalID: -4053542682914253096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 343
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3933dc0c9d476e240800000000000000
+      internalID: 4820668929738093459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 343
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779020305ccd23a90800000000000000
+      internalID: -7335558104315983497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a344c0326aa10900800000000000000
+      internalID: 648987160019747749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 345
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e253239ff86516b30800000000000000
+      internalID: 4278796297339811118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 345
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f287d3834ab42020800000000000000
+      internalID: 2316180907512791800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 344
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf2ac4bb5d256100800000000000000
+      internalID: 100536438584127431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 343
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbbb6611938f9990800000000000000
+      internalID: -7377033005439927336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c50905bbcbf34cc0800000000000000
+      internalID: -3727859214198438459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 355
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90323577453e2c0e0800000000000000
+      internalID: -2250986911813131511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 343
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bafc70f48b883a50800000000000000
+      internalID: 6501099465195977393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bc77b736de68f80800000000000000
+      internalID: -8104529467877635243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 305
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f06a12b84ed592a0800000000000000
+      internalID: -6731229664228253452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53d9085818a8280800000000000000
+      internalID: -9040270891604429347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 303
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5958db66849b23d0800000000000000
+      internalID: -3230325002652329636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 335
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a82abd2eb55de130800000000000000
+      internalID: 3597625952638216357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 305
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914d8c679770f1b00800000000000000
+      internalID: 801367476960547865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 305
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7205e616f48a7d280800000000000000
+      internalID: -9018554669895626713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 305
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960b7626f189a61e0800000000000000
+      internalID: -2203781807082065815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 327
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad37f89d9aa11f4e0800000000000000
+      internalID: -1949747846872861734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d4b109c3e697f00800000000000000
+      internalID: 1115043589145709964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184425c2abbbfcff0800000000000000
+      internalID: -13585865576921983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7b1565db5c6fee0800000000000000
+      internalID: -1227576431424194644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 267
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280d943f9f1c29d40800000000000000
+      internalID: 5589743366792925314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 269
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3ab0cc144001ce0800000000000000
+      internalID: -1436643600488487980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_34
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 299
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1215325ffb1fcec90800000000000000
+      internalID: -7139065502535298783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc19516050abb3060800000000000000
+      internalID: 6934340582006690251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 283
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c541c46500eba50800000000000000
+      internalID: 6538664079632129125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 275
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8768afd0f690420800000000000000
+      internalID: 2596728765984176326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 277
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23c30a46f374a010800000000000000
+      internalID: 1199210902428304170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_39
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 274
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d2c1119f7dd3fc0800000000000000
+      internalID: -3513414669545231000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 243
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d31176e18818d90800000000000000
+      internalID: -7097241873599611562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 275
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc88b260f60ed55c0800000000000000
+      internalID: -4224974107954149169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_42
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 275
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d27869d28b120c0800000000000000
+      internalID: -4602194838257455747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba1d1adb7844fa0800000000000000
+      internalID: -5817375570122396771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e545960a28acbd0800000000000000
+      internalID: -2609129408634266067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 185
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da78749fa4511ce0800000000000000
+      internalID: -1436273693067543851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 229
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a6b1b05cf1a9f80800000000000000
+      internalID: -8099126048717051257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 192
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05671a6b75b09e30800000000000000
+      internalID: 4508302768663389452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 227
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28097b03f456031c0800000000000000
+      internalID: -4526006234713190270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_49
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 227
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44fb40794d31b7b0800000000000000
+      internalID: -5210315908265020340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 219
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f667455b6f2abc0800000000000000
+      internalID: -3773182279116492986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 183
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f96e14d1a0db40e0800000000000000
+      internalID: -2284502992493319691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397c54c59428edf80800000000000000
+      internalID: -8079877429863790701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e1e89dbcf81b1b0800000000000000
+      internalID: -5642570752427418046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d09c60bc473fe0800000000000000
+      internalID: -1209413654306303438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 143
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e0397f100526e70800000000000000
+      internalID: 9106929365875363462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 146
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad261dad8fa628e0800000000000000
+      internalID: -1718493184766104151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_57
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 175
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94babd72814dd9cd0800000000000000
+      internalID: -2549648613808821431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 127
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c881f5b433038c0800000000000000
+      internalID: -4021658068430844822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_59
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 183
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3572ed550e1cc0410800000000000000
+      internalID: 1444742749736544083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_60
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 138
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c525b705740980a0800000000000000
+      internalID: -6878962055144725050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_61
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 119
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d28fe7b282c38a0800000000000000
+      internalID: -6324135609456120458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 191
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961fd7e47fe5648e0800000000000000
+      internalID: -1709574592273714839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_63
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ac7528ad0827bd0800000000000000
+      internalID: -2633901156080301457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2bc214a097ef410800000000000000
+      internalID: 1512779609793147553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 164
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b9f919eb2ac7c20800000000000000
+      internalID: 3205615974151592772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_66
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 146
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c500580432159dd0800000000000000
+      internalID: -2480056005110528575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 118
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698d97dff9de1ffc0800000000000000
+      internalID: -3462725367062996842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_68
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a00d6a55d2f5620800000000000000
+      internalID: 2764978542122895884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 130
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38b908e06f34220800000000000000
+      internalID: 2469087562876814326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 147
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629da275ca7dce2b0800000000000000
+      internalID: -5553827105257891546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_71
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 147
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5adc497d3812520800000000000000
+      internalID: 2675564615572497828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_72
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 130
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40c5edba8102ee00800000000000000
+      internalID: 1072421356670664780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_73
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 127
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae34721ffb59da990800000000000000
+      internalID: -7373072363318459414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ae5ccfa8ecdeb0800000000000000
+      internalID: -4693620869881224363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 73
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7048c09868bfbc0800000000000000
+      internalID: -3748254341677185120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 119
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98561380ee96c6290800000000000000
+      internalID: -7895819575626734199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764e4cb52aaba4eb0800000000000000
+      internalID: -4734766851739556761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 78
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d958eb0eba68e30800000000000000
+      internalID: 4505477458988211589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_79
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f4945c781166580800000000000000
+      internalID: -8834354344212476048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_80
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 55
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8660fa0b7c40f5a70800000000000000
+      internalID: 8817771851123983976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 123
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad7a351f47b27220800000000000000
+      internalID: 2482247894921018794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d51f0b7adb614d0800000000000000
+      internalID: -3164133160255398578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 57
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c81cb01aa89bd00800000000000000
+      internalID: 988974017476136054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_84
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 78
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb8e307a7d018940800000000000000
+      internalID: 5296529456284732397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_85
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 102
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2411ee6906b8ab300800000000000000
+      internalID: 268680374747271490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_86
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a80bba18443f5a0800000000000000
+      internalID: -6488767314388809085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_87
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 115
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b4be05cb5d6ee50800000000000000
+      internalID: 6838388088996842338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 77
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d179772bda7893770800000000000000
+      internalID: 8591046944279205661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_89
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 106
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad9d64d6809f1280800000000000000
+      internalID: -9070372215736918614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_90
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 111
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5b375861cf93e10800000000000000
+      internalID: 2178049068468778438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_91
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 78
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202e1f5a39aa47560800000000000000
+      internalID: 7310655646250164738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_92
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6385ff520e18b440800000000000000
+      internalID: 4951740785842553710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5563334f6223a6430800000000000000
+      internalID: 3776886380390725205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 87
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e59c4b6146b00c70800000000000000
+      internalID: 8935342052792374760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_95
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 84
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc79c914a2dc4cf0800000000000000
+      internalID: -266606675672597252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_96
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 85
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2721748b68b2580800000000000000
+      internalID: -8850832516642082114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_97
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 67
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552aef3d179947780800000000000000
+      internalID: -8686149067123809707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_98
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 54
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c88a965b21b16c60800000000000000
+      internalID: 7809718028531828930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 74
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f88682b044cfe710800000000000000
+      internalID: 1724812964458301687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_100
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 79
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d271a60c64291bc0800000000000000
+      internalID: -3811975563206102312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_101
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 79
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94cc9e644bc908b0800000000000000
+      internalID: -5185390001166433126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 30
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cf0182eeede7c80800000000000000
+      internalID: -8322969946878313330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_103
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8f7979ba6489d20800000000000000
+      internalID: 3285453630963448016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_104
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f4dc1d105ecc090800000000000000
+      internalID: -8012777841021333725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_105
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430e464d4fd86a0a0800000000000000
+      internalID: -6870648098832195532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_106
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 59
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9fbd0ecfc8174e0800000000000000
+      internalID: -1985650942961518123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_107
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 55
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a22a6e94f9e85a00800000000000000
+      internalID: 745602975168864936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_108
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 31
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a4b5128255628e0800000000000000
+      internalID: -1718592576948581780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a708b6536e516f0800000000000000
+      internalID: -714411848757118377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_110
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 27
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ec195cfd4f7bb10800000000000000
+      internalID: 1997334201691655816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_111
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 26
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f7f3f02ffce1100800000000000000
+      internalID: 80730481884102434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_112
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acafc1f248cc83150800000000000000
+      internalID: 5852652583866137290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_113
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5524f457acec6b0800000000000000
+      internalID: -5274055508414540316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_114
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 26
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb5aab7bcc10b5c0800000000000000
+      internalID: -4201826792057971750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_115
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df91ffdeb236d050800000000000000
+      internalID: 5824898963432644568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b5177d8fc687590800000000000000
+      internalID: -7676265748830790767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_117
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971316471b9a371c0800000000000000
+      internalID: -4507072222440902279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_118
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad13a915bd0aead0800000000000000
+      internalID: -2672308357420606036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_119
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b035999753dedf1a0800000000000000
+      internalID: -6773997450566216949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_120
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a36c195b00457e10800000000000000
+      internalID: 2194730810896835493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_121
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e546003ce907af0800000000000000
+      internalID: -400645806473584995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_122
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45234e7936c85b7f0800000000000000
+      internalID: -597417016178757036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_123
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d9a79904a4d4280800000000000000
+      internalID: -9057501634258887320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_124
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09646d0c4a755220800000000000000
+      internalID: 2474018037370743054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thief1_125
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 38
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981e6ad11aa5d7060800000000000000
+      internalID: 6952813047763624329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thief1_0: -8085321145183431454
+      thief1_1: 3026540228110607386
+      thief1_10: 4820668929738093459
+      thief1_100: -3811975563206102312
+      thief1_101: -5185390001166433126
+      thief1_102: -8322969946878313330
+      thief1_103: 3285453630963448016
+      thief1_104: -8012777841021333725
+      thief1_105: -6870648098832195532
+      thief1_106: -1985650942961518123
+      thief1_107: 745602975168864936
+      thief1_108: -1718592576948581780
+      thief1_109: -714411848757118377
+      thief1_11: -7335558104315983497
+      thief1_110: 1997334201691655816
+      thief1_111: 80730481884102434
+      thief1_112: 5852652583866137290
+      thief1_113: -5274055508414540316
+      thief1_114: -4201826792057971750
+      thief1_115: 5824898963432644568
+      thief1_116: -7676265748830790767
+      thief1_117: -4507072222440902279
+      thief1_118: -2672308357420606036
+      thief1_119: -6773997450566216949
+      thief1_12: 648987160019747749
+      thief1_120: 2194730810896835493
+      thief1_121: -400645806473584995
+      thief1_122: -597417016178757036
+      thief1_123: -9057501634258887320
+      thief1_124: 2474018037370743054
+      thief1_125: 6952813047763624329
+      thief1_13: 4278796297339811118
+      thief1_14: 2316180907512791800
+      thief1_15: 100536438584127431
+      thief1_16: -7377033005439927336
+      thief1_17: -3727859214198438459
+      thief1_18: -2250986911813131511
+      thief1_19: 6501099465195977393
+      thief1_2: -1540242903512895961
+      thief1_20: -8104529467877635243
+      thief1_21: -6731229664228253452
+      thief1_22: -9040270891604429347
+      thief1_23: -3230325002652329636
+      thief1_24: 3597625952638216357
+      thief1_25: 801367476960547865
+      thief1_26: -9018554669895626713
+      thief1_27: -2203781807082065815
+      thief1_28: -1949747846872861734
+      thief1_29: 1115043589145709964
+      thief1_3: -5825714348932395859
+      thief1_30: -13585865576921983
+      thief1_31: -1227576431424194644
+      thief1_32: 5589743366792925314
+      thief1_33: -1436643600488487980
+      thief1_34: -7139065502535298783
+      thief1_35: 6934340582006690251
+      thief1_36: 6538664079632129125
+      thief1_37: 2596728765984176326
+      thief1_38: 1199210902428304170
+      thief1_39: -3513414669545231000
+      thief1_4: 6105701168411149191
+      thief1_40: -7097241873599611562
+      thief1_41: -4224974107954149169
+      thief1_42: -4602194838257455747
+      thief1_43: -5817375570122396771
+      thief1_44: -2609129408634266067
+      thief1_45: -1436273693067543851
+      thief1_46: -8099126048717051257
+      thief1_47: 4508302768663389452
+      thief1_48: -4526006234713190270
+      thief1_49: -5210315908265020340
+      thief1_5: -248036734603565325
+      thief1_50: -3773182279116492986
+      thief1_51: -2284502992493319691
+      thief1_52: -8079877429863790701
+      thief1_53: -5642570752427418046
+      thief1_54: -1209413654306303438
+      thief1_55: 9106929365875363462
+      thief1_56: -1718493184766104151
+      thief1_57: -2549648613808821431
+      thief1_58: -4021658068430844822
+      thief1_59: 1444742749736544083
+      thief1_6: -3543847093332059630
+      thief1_60: -6878962055144725050
+      thief1_61: -6324135609456120458
+      thief1_62: -1709574592273714839
+      thief1_63: -2633901156080301457
+      thief1_64: 1512779609793147553
+      thief1_65: 3205615974151592772
+      thief1_66: -2480056005110528575
+      thief1_67: -3462725367062996842
+      thief1_68: 2764978542122895884
+      thief1_69: 2469087562876814326
+      thief1_7: -859660594742103138
+      thief1_70: -5553827105257891546
+      thief1_71: 2675564615572497828
+      thief1_72: 1072421356670664780
+      thief1_73: -7373072363318459414
+      thief1_74: -4693620869881224363
+      thief1_75: -3748254341677185120
+      thief1_76: -7895819575626734199
+      thief1_77: -4734766851739556761
+      thief1_78: 4505477458988211589
+      thief1_79: -8834354344212476048
+      thief1_8: 8147171780398167516
+      thief1_80: 8817771851123983976
+      thief1_81: 2482247894921018794
+      thief1_82: -3164133160255398578
+      thief1_83: 988974017476136054
+      thief1_84: 5296529456284732397
+      thief1_85: 268680374747271490
+      thief1_86: -6488767314388809085
+      thief1_87: 6838388088996842338
+      thief1_88: 8591046944279205661
+      thief1_89: -9070372215736918614
+      thief1_9: -4053542682914253096
+      thief1_90: 2178049068468778438
+      thief1_91: 7310655646250164738
+      thief1_92: 4951740785842553710
+      thief1_93: 3776886380390725205
+      thief1_94: 8935342052792374760
+      thief1_95: -266606675672597252
+      thief1_96: -8850832516642082114
+      thief1_97: -8686149067123809707
+      thief1_98: 7809718028531828930
+      thief1_99: 1724812964458301687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

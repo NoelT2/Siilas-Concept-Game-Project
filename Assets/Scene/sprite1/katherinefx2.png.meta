@@ -1,0 +1,4641 @@
+fileFormatVersion: 2
+guid: a7f44e8f34998b544b68b8658553e935
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2338742849016961469
+    second: katherinefx2_0
+  - first:
+      213: 3558425099040550863
+    second: katherinefx2_1
+  - first:
+      213: -5379375116510413709
+    second: katherinefx2_2
+  - first:
+      213: 3457153372724606950
+    second: katherinefx2_3
+  - first:
+      213: -8952178758514022137
+    second: katherinefx2_4
+  - first:
+      213: -9172659922330743855
+    second: katherinefx2_5
+  - first:
+      213: -2303237409968954426
+    second: katherinefx2_6
+  - first:
+      213: -896155176888594971
+    second: katherinefx2_7
+  - first:
+      213: -3935395618003009002
+    second: katherinefx2_8
+  - first:
+      213: 7264092984316298460
+    second: katherinefx2_9
+  - first:
+      213: 1490920945662790180
+    second: katherinefx2_10
+  - first:
+      213: -7320702149447570108
+    second: katherinefx2_11
+  - first:
+      213: 1410088764089715580
+    second: katherinefx2_12
+  - first:
+      213: 7993850609023967616
+    second: katherinefx2_13
+  - first:
+      213: -6082768388573803737
+    second: katherinefx2_14
+  - first:
+      213: -3404683982845828495
+    second: katherinefx2_15
+  - first:
+      213: -1110619472727006390
+    second: katherinefx2_16
+  - first:
+      213: 4985828983247442529
+    second: katherinefx2_17
+  - first:
+      213: -4177156598945826708
+    second: katherinefx2_18
+  - first:
+      213: 8714844557785408522
+    second: katherinefx2_19
+  - first:
+      213: 403008847945117611
+    second: katherinefx2_20
+  - first:
+      213: -3069662172736008095
+    second: katherinefx2_21
+  - first:
+      213: 787211542118442558
+    second: katherinefx2_22
+  - first:
+      213: 5285539433587232596
+    second: katherinefx2_23
+  - first:
+      213: -2008969000029473296
+    second: katherinefx2_24
+  - first:
+      213: 4366791621844289812
+    second: katherinefx2_25
+  - first:
+      213: 1962720465350408896
+    second: katherinefx2_26
+  - first:
+      213: -335292580281277089
+    second: katherinefx2_27
+  - first:
+      213: -4143135056670448036
+    second: katherinefx2_28
+  - first:
+      213: 4927077501073957724
+    second: katherinefx2_29
+  - first:
+      213: 8975163586426128469
+    second: katherinefx2_30
+  - first:
+      213: 6229867841810032703
+    second: katherinefx2_31
+  - first:
+      213: 4343827974623762915
+    second: katherinefx2_32
+  - first:
+      213: -4949239518031547480
+    second: katherinefx2_33
+  - first:
+      213: 4892774798003635000
+    second: katherinefx2_34
+  - first:
+      213: 5569199854569592366
+    second: katherinefx2_35
+  - first:
+      213: -6029391956740205230
+    second: katherinefx2_36
+  - first:
+      213: -5753420901925609904
+    second: katherinefx2_37
+  - first:
+      213: -1830933806079568419
+    second: katherinefx2_38
+  - first:
+      213: -3048303666522942210
+    second: katherinefx2_39
+  - first:
+      213: 5815394203880089212
+    second: katherinefx2_40
+  - first:
+      213: -1358786769690873119
+    second: katherinefx2_41
+  - first:
+      213: 4056772294057514433
+    second: katherinefx2_42
+  - first:
+      213: 7699387150650827138
+    second: katherinefx2_43
+  - first:
+      213: 7385484160843423712
+    second: katherinefx2_44
+  - first:
+      213: -6123033414034306800
+    second: katherinefx2_45
+  - first:
+      213: 5196132178142283152
+    second: katherinefx2_46
+  - first:
+      213: 2364411076299298762
+    second: katherinefx2_47
+  - first:
+      213: -7744866307910791764
+    second: katherinefx2_48
+  - first:
+      213: 662624790070081622
+    second: katherinefx2_49
+  - first:
+      213: -4531128323753348314
+    second: katherinefx2_50
+  - first:
+      213: 7012905628444418770
+    second: katherinefx2_51
+  - first:
+      213: 887293745046231959
+    second: katherinefx2_52
+  - first:
+      213: 2014817462184611422
+    second: katherinefx2_53
+  - first:
+      213: -6522463873306694113
+    second: katherinefx2_54
+  - first:
+      213: 2290828488427543751
+    second: katherinefx2_55
+  - first:
+      213: 1598263197969114036
+    second: katherinefx2_56
+  - first:
+      213: 8212960453567660750
+    second: katherinefx2_57
+  - first:
+      213: 8212363480571043973
+    second: katherinefx2_58
+  - first:
+      213: 3707694491170982823
+    second: katherinefx2_59
+  - first:
+      213: 737100297282294946
+    second: katherinefx2_60
+  - first:
+      213: 9004207010225553368
+    second: katherinefx2_61
+  - first:
+      213: 334725771636883987
+    second: katherinefx2_62
+  - first:
+      213: -2362783748513035547
+    second: katherinefx2_63
+  - first:
+      213: -2336860268752866299
+    second: katherinefx2_64
+  - first:
+      213: 4275120428269439186
+    second: katherinefx2_65
+  - first:
+      213: 6343827320034496061
+    second: katherinefx2_66
+  - first:
+      213: -3683367371527228664
+    second: katherinefx2_67
+  - first:
+      213: -6837052909501501352
+    second: katherinefx2_68
+  - first:
+      213: 1229710358042978800
+    second: katherinefx2_69
+  - first:
+      213: 3476865192851210228
+    second: katherinefx2_70
+  - first:
+      213: 3489639233233202572
+    second: katherinefx2_71
+  - first:
+      213: -7529156033405693480
+    second: katherinefx2_72
+  - first:
+      213: 8240973107010558716
+    second: katherinefx2_73
+  - first:
+      213: -3330987263768557807
+    second: katherinefx2_74
+  - first:
+      213: 2240863065094555140
+    second: katherinefx2_75
+  - first:
+      213: 7282565672034308462
+    second: katherinefx2_76
+  - first:
+      213: -6568324708272360190
+    second: katherinefx2_77
+  - first:
+      213: 9177485478982522861
+    second: katherinefx2_78
+  - first:
+      213: 7889892530261465099
+    second: katherinefx2_79
+  - first:
+      213: 8751126083576189058
+    second: katherinefx2_80
+  - first:
+      213: 6278541262409371820
+    second: katherinefx2_81
+  - first:
+      213: 7420485933333191545
+    second: katherinefx2_82
+  - first:
+      213: 6500910527869391710
+    second: katherinefx2_83
+  - first:
+      213: 922058623157400660
+    second: katherinefx2_84
+  - first:
+      213: -651158865352667562
+    second: katherinefx2_85
+  - first:
+      213: -6081839944769398006
+    second: katherinefx2_86
+  - first:
+      213: -8734652526218632765
+    second: katherinefx2_87
+  - first:
+      213: -8198045790381810241
+    second: katherinefx2_88
+  - first:
+      213: -6826072025246258904
+    second: katherinefx2_89
+  - first:
+      213: -7251067971816277342
+    second: katherinefx2_90
+  - first:
+      213: -8656879308473254897
+    second: katherinefx2_91
+  - first:
+      213: -6721290933347549493
+    second: katherinefx2_92
+  - first:
+      213: 4552426586647131400
+    second: katherinefx2_93
+  - first:
+      213: 920407349717059954
+    second: katherinefx2_94
+  - first:
+      213: -7197117469066061487
+    second: katherinefx2_95
+  - first:
+      213: -4575809069347471148
+    second: katherinefx2_96
+  - first:
+      213: 4070799909806573601
+    second: katherinefx2_97
+  - first:
+      213: 3647372903347131
+    second: katherinefx2_98
+  - first:
+      213: -6039823668192380722
+    second: katherinefx2_99
+  - first:
+      213: 5422046902475455151
+    second: katherinefx2_100
+  - first:
+      213: 4180725478722501599
+    second: katherinefx2_101
+  - first:
+      213: 6586187145576071088
+    second: katherinefx2_102
+  - first:
+      213: -2807163444808864923
+    second: katherinefx2_103
+  - first:
+      213: -710716833880354891
+    second: katherinefx2_104
+  - first:
+      213: 2539605805269577547
+    second: katherinefx2_105
+  - first:
+      213: -8694827697467470440
+    second: katherinefx2_106
+  - first:
+      213: -7652799413779520454
+    second: katherinefx2_107
+  - first:
+      213: -2242998485966279148
+    second: katherinefx2_108
+  - first:
+      213: -2140000196750109329
+    second: katherinefx2_109
+  - first:
+      213: 9047149198919419188
+    second: katherinefx2_110
+  - first:
+      213: 5697886095144618204
+    second: katherinefx2_111
+  - first:
+      213: 3428811763683613205
+    second: katherinefx2_112
+  - first:
+      213: -8984895018396208706
+    second: katherinefx2_113
+  - first:
+      213: -7144069083424141399
+    second: katherinefx2_114
+  - first:
+      213: 5437833871476188045
+    second: katherinefx2_115
+  - first:
+      213: -2617115820489135918
+    second: katherinefx2_116
+  - first:
+      213: 3993295820490511141
+    second: katherinefx2_117
+  - first:
+      213: 2350911833138006959
+    second: katherinefx2_118
+  - first:
+      213: 7524100573489367613
+    second: katherinefx2_119
+  - first:
+      213: -1099440468322447179
+    second: katherinefx2_120
+  - first:
+      213: -7202601110475803599
+    second: katherinefx2_121
+  - first:
+      213: 6439663341728292043
+    second: katherinefx2_122
+  - first:
+      213: 205724339450760067
+    second: katherinefx2_123
+  - first:
+      213: -3069858907392576102
+    second: katherinefx2_124
+  - first:
+      213: -2733097341825118644
+    second: katherinefx2_125
+  - first:
+      213: 98160020947866237
+    second: katherinefx2_126
+  - first:
+      213: 1703696375993837306
+    second: katherinefx2_127
+  - first:
+      213: -6577402954310196529
+    second: katherinefx2_128
+  - first:
+      213: 6865726537196951932
+    second: katherinefx2_129
+  - first:
+      213: -6062290680104654507
+    second: katherinefx2_130
+  - first:
+      213: -6994491100682658682
+    second: katherinefx2_131
+  - first:
+      213: -3197331767553170272
+    second: katherinefx2_132
+  - first:
+      213: -1761263576743087757
+    second: katherinefx2_133
+  - first:
+      213: -7124310051612668622
+    second: katherinefx2_134
+  - first:
+      213: 9145489937838365661
+    second: katherinefx2_135
+  - first:
+      213: -5490609144379835323
+    second: katherinefx2_136
+  - first:
+      213: 3736445253550619192
+    second: katherinefx2_137
+  - first:
+      213: -4782768507662584362
+    second: katherinefx2_138
+  - first:
+      213: -4906319968067143925
+    second: katherinefx2_139
+  - first:
+      213: -5742544915274569900
+    second: katherinefx2_140
+  - first:
+      213: -1433018450217923394
+    second: katherinefx2_141
+  - first:
+      213: -7030526028817557859
+    second: katherinefx2_142
+  - first:
+      213: -7468611163043006101
+    second: katherinefx2_143
+  - first:
+      213: 4046382994994283849
+    second: katherinefx2_144
+  - first:
+      213: 1781223093534969125
+    second: katherinefx2_145
+  - first:
+      213: -890989434139977887
+    second: katherinefx2_146
+  - first:
+      213: -5239644612188947246
+    second: katherinefx2_147
+  - first:
+      213: 4733381372600339993
+    second: katherinefx2_148
+  - first:
+      213: -3194517437094946904
+    second: katherinefx2_149
+  - first:
+      213: -1917334114981487237
+    second: katherinefx2_150
+  - first:
+      213: -5537477118881400546
+    second: katherinefx2_151
+  - first:
+      213: 5016810889929439871
+    second: katherinefx2_152
+  - first:
+      213: -7384592428541103142
+    second: katherinefx2_153
+  - first:
+      213: -3032364978441954966
+    second: katherinefx2_154
+  - first:
+      213: 3636753739774559883
+    second: katherinefx2_155
+  - first:
+      213: -8621272157945489793
+    second: katherinefx2_156
+  - first:
+      213: -6244260385094022165
+    second: katherinefx2_157
+  - first:
+      213: 5591232827693982646
+    second: katherinefx2_158
+  - first:
+      213: -5547354008571728087
+    second: katherinefx2_159
+  - first:
+      213: -4154844148542526856
+    second: katherinefx2_160
+  - first:
+      213: -5148753621780857365
+    second: katherinefx2_161
+  - first:
+      213: 1162008778672371572
+    second: katherinefx2_162
+  - first:
+      213: 8841169564285418357
+    second: katherinefx2_163
+  - first:
+      213: 4033465098909837974
+    second: katherinefx2_164
+  - first:
+      213: 6676005628029321272
+    second: katherinefx2_165
+  - first:
+      213: 4978075569378134727
+    second: katherinefx2_166
+  - first:
+      213: -2853134737050044911
+    second: katherinefx2_167
+  - first:
+      213: 5546271121564652454
+    second: katherinefx2_168
+  - first:
+      213: 1687768467291877345
+    second: katherinefx2_169
+  - first:
+      213: 137658114394386494
+    second: katherinefx2_170
+  - first:
+      213: 6286186398069652859
+    second: katherinefx2_171
+  - first:
+      213: -6932556045015898575
+    second: katherinefx2_172
+  - first:
+      213: -7704696069284697363
+    second: katherinefx2_173
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: katherinefx2_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1110
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346eb5f15cd1b8fd0800000000000000
+      internalID: -2338742849016961469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1054
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf652436c0126130800000000000000
+      internalID: 3558425099040550863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1054
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c32da25de9855b0800000000000000
+      internalID: -5379375116510413709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1113
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e73b4bfca64aff20800000000000000
+      internalID: 3457153372724606950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1054
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70969fc89d873c380800000000000000
+      internalID: -8952178758514022137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1110
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db8304466a24b080800000000000000
+      internalID: -9172659922330743855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1110
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3e86957c14900e0800000000000000
+      internalID: -2303237409968954426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed8de95d973093f0800000000000000
+      internalID: -896155176888594971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1110
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124d4a398aa269c0800000000000000
+      internalID: -3935395618003009002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1060
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd48499151e3fc460800000000000000
+      internalID: 7264092984316298460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1109
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a8b6a63b0d0b410800000000000000
+      internalID: 1490920945662790180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d2dbb8e24a76a90800000000000000
+      internalID: -7320702149447570108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1111
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b465d8244a19310800000000000000
+      internalID: 1410088764089715580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1106
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081e96296ccdfee60800000000000000
+      internalID: 7993850609023967616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1062
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b4514e06aa59ba0800000000000000
+      internalID: -6082768388573803737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1110
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1722306d4f120c0d0800000000000000
+      internalID: -3404683982845828495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1058
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a97f49794690f0800000000000000
+      internalID: -1110619472727006390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1062
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1629f415b09313540800000000000000
+      internalID: 4985828983247442529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1074
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68b7ac6432c706c0800000000000000
+      internalID: -4177156598945826708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1070
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04ab8bb3f851f870800000000000000
+      internalID: 8714844557785408522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1070
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafab177966c79500800000000000000
+      internalID: 403008847945117611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1052
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160dd95848e5665d0800000000000000
+      internalID: -3069662172736008095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1002
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36ae0b0abcbcea00800000000000000
+      internalID: 787211542118442558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1058
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f49416c120a5940800000000000000
+      internalID: 5285539433587232596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 982
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5b874a655be14e0800000000000000
+      internalID: -2008969000029473296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1008
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4194e2408d5f99c30800000000000000
+      internalID: 4366791621844289812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 982
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cab9924ddbfc3b10800000000000000
+      internalID: 1962720465350408896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1058
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55a288bc2dc85bf0800000000000000
+      internalID: -335292580281277089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 990
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a0b20e90a086c0800000000000000
+      internalID: -4143135056670448036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1008
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c532558e1ee706440800000000000000
+      internalID: 4927077501073957724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 982
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55843f9babf2e8c70800000000000000
+      internalID: 8975163586426128469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1008
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3867bc7bcfe47650800000000000000
+      internalID: 6229867841810032703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1006
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e99ad04780684c30800000000000000
+      internalID: 4343827974623762915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1034
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3776b61e4c05bb0800000000000000
+      internalID: -4949239518031547480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 999
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8338df871c0a6e340800000000000000
+      internalID: 4892774798003635000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1007
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2617c6c2c5c94d40800000000000000
+      internalID: 5569199854569592366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1035
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25517eed5fb435ca0800000000000000
+      internalID: -6029391956740205230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 954
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9a613c2eb720b0800000000000000
+      internalID: -5753420901925609904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1002
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd59f5177673796e0800000000000000
+      internalID: -1830933806079568419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 950
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4116547ff32b5d0800000000000000
+      internalID: -3048303666522942210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 998
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c766327973e64b050800000000000000
+      internalID: 5815394203880089212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 990
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e23313d1ae942de0800000000000000
+      internalID: -1358786769690873119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1002
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5d1f168ec8c4830800000000000000
+      internalID: 4056772294057514433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 994
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281efb602d7b9da60800000000000000
+      internalID: 7699387150650827138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_44
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 949
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef985dd6b28e7660800000000000000
+      internalID: 7385484160843423712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_45
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 946
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01943a81d8d960ba0800000000000000
+      internalID: -6123033414034306800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 982
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095c52c8fae5c1840800000000000000
+      internalID: 5196132178142283152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 986
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac791d1c85310d020800000000000000
+      internalID: 2364411076299298762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 903
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad06148025b48490800000000000000
+      internalID: -7744866307910791764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 950
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658be7f5cbd123900800000000000000
+      internalID: 662624790070081622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 903
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62378f6ebc23e11c0800000000000000
+      internalID: -4531128323753348314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 941
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d264ca5388d25160800000000000000
+      internalID: 7012905628444418770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 901
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b18e4c5fc405c00800000000000000
+      internalID: 887293745046231959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 903
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e84c09ec116fb10800000000000000
+      internalID: 2014817462184611422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_54
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 849
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e6c3b2aad8b75a0800000000000000
+      internalID: -6522463873306694113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 910
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc91167f58aacf10800000000000000
+      internalID: 2290828488427543751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 844
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3678c19eb2e2610800000000000000
+      internalID: 1598263197969114036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 855
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec24b35b40c4af170800000000000000
+      internalID: 8212960453567660750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 854
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e3d9131d28f170800000000000000
+      internalID: 8212363480571043973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 898
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab4be9de70647330800000000000000
+      internalID: 3707694491170982823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_60
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 894
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a49857a0d4ba3a00800000000000000
+      internalID: 737100297282294946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_61
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 888
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df7398c19e55fc70800000000000000
+      internalID: 9004207010225553368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 855
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312c59bd05f25a400800000000000000
+      internalID: 334725771636883987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 846
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea80d403b4b53fd0800000000000000
+      internalID: -2362783748513035547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 882
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504f24f77fdc19fd0800000000000000
+      internalID: -2336860268752866299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_65
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 846
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d804030167445b30800000000000000
+      internalID: 4275120428269439186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_66
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 846
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e0317265dc90850800000000000000
+      internalID: 6343827320034496061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 870
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803fad214ec02ecc0800000000000000
+      internalID: -3683367371527228664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 858
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850bc926a98ed11a0800000000000000
+      internalID: -6837052909501501352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_69
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 860
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f925cb2e0fc01110800000000000000
+      internalID: 1229710358042978800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 823
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fff0dfb87e404030800000000000000
+      internalID: 3476865192851210228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 826
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8da12bc460bd6030800000000000000
+      internalID: 3489639233233202572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_72
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 824
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d15d529a70138790800000000000000
+      internalID: -7529156033405693480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 850
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa59e6d061dd5270800000000000000
+      internalID: 8240973107010558716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_74
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 842
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11789bf5bb4f5c1d0800000000000000
+      internalID: -3330987263768557807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_75
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 842
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4060149c515291f10800000000000000
+      internalID: 2240863065094555140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_76
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 826
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e611f0fd4eed01560800000000000000
+      internalID: 7282565672034308462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_77
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 830
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20531027a7f98d4a0800000000000000
+      internalID: -6568324708272360190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_78
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 822
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de71f023b6afc5f70800000000000000
+      internalID: 9177485478982522861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_79
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 814
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b081e3e24778e7d60800000000000000
+      internalID: 7889892530261465099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_80
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 822
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280d63cbece327970800000000000000
+      internalID: 8751126083576189058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_81
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 823
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca01b85530cd12750800000000000000
+      internalID: 6278541262409371820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_82
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 775
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b9b1514acdaf660800000000000000
+      internalID: 7420485933333191545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 774
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53904a8eafd73a50800000000000000
+      internalID: 6500910527869391710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_84
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 775
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f167be6fcbcc00800000000000000
+      internalID: 922058623157400660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 775
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ece42467e96f6f0800000000000000
+      internalID: -651158865352667562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_86
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 775
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b1d3f0bc6f89ba0800000000000000
+      internalID: -6081839944769398006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 775
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1254a3ec748c680800000000000000
+      internalID: -8734652526218632765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_88
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 758
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdd7ebe9c0ba3e80800000000000000
+      internalID: -8198045790381810241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_89
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 746
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82927fbb8abe441a0800000000000000
+      internalID: -6826072025246258904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_90
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 801
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aabda1f8180f5b90800000000000000
+      internalID: -7251067971816277342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_91
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 774
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cb50392269cd780800000000000000
+      internalID: -8656879308473254897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_92
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 750
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcef3cdc18d29b2a0800000000000000
+      internalID: -6721290933347549493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_93
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 721
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805752b5cd77d2f30800000000000000
+      internalID: 4552426586647131400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 716
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2794b88ab91f5cc00800000000000000
+      internalID: 920407349717059954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_95
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 726
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1591f893bc3be1c90800000000000000
+      internalID: -7197117469066061487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_96
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 742
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0888525e57f70c0800000000000000
+      internalID: -4575809069347471148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_97
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 746
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12886bf23f26e7830800000000000000
+      internalID: 4070799909806573601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_98
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 734
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3744e2445fc0000800000000000000
+      internalID: 3647372903347131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_99
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 734
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec87567cf5c3e2ca0800000000000000
+      internalID: -6039823668192380722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_100
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 735
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa7e893eeafe3b40800000000000000
+      internalID: 5422046902475455151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_101
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 719
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbfda62cabe40a30800000000000000
+      internalID: 4180725478722501599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 646
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf3e445056d66b50800000000000000
+      internalID: 6586187145576071088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_103
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 674
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ba4bd48b3fa09d0800000000000000
+      internalID: -2807163444808864923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_104
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 642
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfcbac1ec60326f0800000000000000
+      internalID: -710716833880354891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_105
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 674
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fec94460e7e3320800000000000000
+      internalID: 2539605805269577547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_106
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 697
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d493db644c55780800000000000000
+      internalID: -8694827697467470440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 642
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34aa5cba7bcbc590800000000000000
+      internalID: -7652799413779520454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_108
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 646
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ead3cc2c44fd0e0800000000000000
+      internalID: -2242998485966279148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_109
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 674
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f659175c8213d42e0800000000000000
+      internalID: -2140000196750109329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_110
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 646
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4354d87334eed8d70800000000000000
+      internalID: 9047149198919419188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_111
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 694
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd88bbff635f21f40800000000000000
+      internalID: 5697886095144618204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_112
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 642
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ada08e126959f20800000000000000
+      internalID: 3428811763683613205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_113
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 642
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb13154b59d3f4380800000000000000
+      internalID: -8984895018396208706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_114
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 642
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af47aff40b2bdc90800000000000000
+      internalID: -7144069083424141399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_115
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 642
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83ece06811177b40800000000000000
+      internalID: 5437833871476188045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_116
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 650
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a0bff6032eabd0800000000000000
+      internalID: -2617115820489135918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_117
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 642
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523936f24690b6730800000000000000
+      internalID: 3993295820490511141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_118
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 642
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab04784bdd10a020800000000000000
+      internalID: 2350911833138006959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_119
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 642
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a85217b99fa6860800000000000000
+      internalID: 7524100573489367613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 544
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b093f918b00eb0f0800000000000000
+      internalID: -1099440468322447179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 544
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134714773783b0c90800000000000000
+      internalID: -7202601110475803599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccd1d4c0b74e5950800000000000000
+      internalID: 6439663341728292043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_123
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 544
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b4d9e5231ead200800000000000000
+      internalID: 205724339450760067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_124
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 544
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95fb4aa69ba565d0800000000000000
+      internalID: -3069858907392576102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_125
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 544
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e03fbb276121ad0800000000000000
+      internalID: -2733097341825118644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_126
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 544
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d721ebbd40cbc5100800000000000000
+      internalID: 98160020947866237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_127
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 404
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6ab30d3deb4a710800000000000000
+      internalID: 1703696375993837306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_128
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 432
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc26cb39cde58b4a0800000000000000
+      internalID: -6577402954310196529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_129
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 451
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79d89ec8e5f74f50800000000000000
+      internalID: 6865726537196951932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_130
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 432
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559633feeba6edba0800000000000000
+      internalID: -6062290680104654507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_131
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 282
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cdd2ff6639eee90800000000000000
+      internalID: -6994491100682658682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_132
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 404
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4ebe592bbc0a3d0800000000000000
+      internalID: -3197331767553170272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_133
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 404
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371f468cb1cbe87e0800000000000000
+      internalID: -1761263576743087757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 403
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dc1e711cd512d90800000000000000
+      internalID: -7124310051612668622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_135
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 353
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbd3c1c4ae4bee70800000000000000
+      internalID: 9145489937838365661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_136
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 382
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c7abcd2107dc3b0800000000000000
+      internalID: -5490609144379835323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_137
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 362
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a349c59258ad330800000000000000
+      internalID: 3736445253550619192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_138
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 353
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5b8d9e16130adb0800000000000000
+      internalID: -4782768507662584362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_139
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 282
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07b3fcdbff39ebb0800000000000000
+      internalID: -4906319968067143925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_140
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 282
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457655a23d16e40b0800000000000000
+      internalID: -5742544915274569900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_141
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 282
+        width: 23
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc0e2edf45ec1ce0800000000000000
+      internalID: -1433018450217923394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_142
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 331
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96113c73dd8e6e90800000000000000
+      internalID: -7030526028817557859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_143
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 343
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69fd45b7b92a5890800000000000000
+      internalID: -7468611163043006101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_144
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 314
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945c0d135e3a72830800000000000000
+      internalID: 4046382994994283849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_145
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 343
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dcfdb57fc28b810800000000000000
+      internalID: 1781223093534969125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_146
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 305
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167d57f84d192a3f0800000000000000
+      internalID: -890989434139977887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_147
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 282
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc303d6cfa0947b0800000000000000
+      internalID: -5239644612188947246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_148
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 314
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e4b44a74950b140800000000000000
+      internalID: 4733381372600339993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_149
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 268
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a71a25f05bcaa3d0800000000000000
+      internalID: -3194517437094946904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_150
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 282
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d5ac8e7c24465e0800000000000000
+      internalID: -1917334114981487237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_151
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 273
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19783136ede623b0800000000000000
+      internalID: -5537477118881400546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_152
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 273
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3e879cea4f9540800000000000000
+      internalID: 5016810889929439871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_153
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 259
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3b4cdbf48a48990800000000000000
+      internalID: -7384592428541103142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_154
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 259
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69d1a64e10eae5d0800000000000000
+      internalID: -3032364978441954966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_155
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 248
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8606da0248587230800000000000000
+      internalID: 3636753739774559883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_156
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 170
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7691b956a61b5880800000000000000
+      internalID: -8621272157945489793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_157
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 248
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb4d65634ee759a0800000000000000
+      internalID: -6244260385094022165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_158
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 222
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3e33712ac089d40800000000000000
+      internalID: 5591232827693982646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_159
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 151
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f2ebb9be6d303b0800000000000000
+      internalID: -5547354008571728087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_160
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 222
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a230d92470756c0800000000000000
+      internalID: -4154844148542526856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_161
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 188
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedfeb93cd3fb88b0800000000000000
+      internalID: -5148753621780857365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_162
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 165
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477f6aed3d8402010800000000000000
+      internalID: 1162008778672371572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_163
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 188
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b3a3e40e422ba70800000000000000
+      internalID: 8841169564285418357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_164
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 92
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ae472232fb9f730800000000000000
+      internalID: 4033465098909837974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_165
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 14
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83042396fbfe5ac50800000000000000
+      internalID: 6676005628029321272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_166
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 80
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca85d9fa5da51540800000000000000
+      internalID: 4978075569378134727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_167
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 80
+        width: 27
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116fdcdb211a768d0800000000000000
+      internalID: -2853134737050044911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_168
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 80
+        width: 12
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a35edc133058fc40800000000000000
+      internalID: 5546271121564652454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_169
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 14
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efa9049a782c6710800000000000000
+      internalID: 1687768467291877345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_170
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 56
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e307de0635f09e100800000000000000
+      internalID: 137658114394386494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_171
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 38
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d75d039350d3750800000000000000
+      internalID: 6286186398069652859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_172
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 14
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136275fd10d9acf90800000000000000
+      internalID: -6932556045015898575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katherinefx2_173
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 14
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaefe70fbb631590800000000000000
+      internalID: -7704696069284697363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      katherinefx2_0: -2338742849016961469
+      katherinefx2_1: 3558425099040550863
+      katherinefx2_10: 1490920945662790180
+      katherinefx2_100: 5422046902475455151
+      katherinefx2_101: 4180725478722501599
+      katherinefx2_102: 6586187145576071088
+      katherinefx2_103: -2807163444808864923
+      katherinefx2_104: -710716833880354891
+      katherinefx2_105: 2539605805269577547
+      katherinefx2_106: -8694827697467470440
+      katherinefx2_107: -7652799413779520454
+      katherinefx2_108: -2242998485966279148
+      katherinefx2_109: -2140000196750109329
+      katherinefx2_11: -7320702149447570108
+      katherinefx2_110: 9047149198919419188
+      katherinefx2_111: 5697886095144618204
+      katherinefx2_112: 3428811763683613205
+      katherinefx2_113: -8984895018396208706
+      katherinefx2_114: -7144069083424141399
+      katherinefx2_115: 5437833871476188045
+      katherinefx2_116: -2617115820489135918
+      katherinefx2_117: 3993295820490511141
+      katherinefx2_118: 2350911833138006959
+      katherinefx2_119: 7524100573489367613
+      katherinefx2_12: 1410088764089715580
+      katherinefx2_120: -1099440468322447179
+      katherinefx2_121: -7202601110475803599
+      katherinefx2_122: 6439663341728292043
+      katherinefx2_123: 205724339450760067
+      katherinefx2_124: -3069858907392576102
+      katherinefx2_125: -2733097341825118644
+      katherinefx2_126: 98160020947866237
+      katherinefx2_127: 1703696375993837306
+      katherinefx2_128: -6577402954310196529
+      katherinefx2_129: 6865726537196951932
+      katherinefx2_13: 7993850609023967616
+      katherinefx2_130: -6062290680104654507
+      katherinefx2_131: -6994491100682658682
+      katherinefx2_132: -3197331767553170272
+      katherinefx2_133: -1761263576743087757
+      katherinefx2_134: -7124310051612668622
+      katherinefx2_135: 9145489937838365661
+      katherinefx2_136: -5490609144379835323
+      katherinefx2_137: 3736445253550619192
+      katherinefx2_138: -4782768507662584362
+      katherinefx2_139: -4906319968067143925
+      katherinefx2_14: -6082768388573803737
+      katherinefx2_140: -5742544915274569900
+      katherinefx2_141: -1433018450217923394
+      katherinefx2_142: -7030526028817557859
+      katherinefx2_143: -7468611163043006101
+      katherinefx2_144: 4046382994994283849
+      katherinefx2_145: 1781223093534969125
+      katherinefx2_146: -890989434139977887
+      katherinefx2_147: -5239644612188947246
+      katherinefx2_148: 4733381372600339993
+      katherinefx2_149: -3194517437094946904
+      katherinefx2_15: -3404683982845828495
+      katherinefx2_150: -1917334114981487237
+      katherinefx2_151: -5537477118881400546
+      katherinefx2_152: 5016810889929439871
+      katherinefx2_153: -7384592428541103142
+      katherinefx2_154: -3032364978441954966
+      katherinefx2_155: 3636753739774559883
+      katherinefx2_156: -8621272157945489793
+      katherinefx2_157: -6244260385094022165
+      katherinefx2_158: 5591232827693982646
+      katherinefx2_159: -5547354008571728087
+      katherinefx2_16: -1110619472727006390
+      katherinefx2_160: -4154844148542526856
+      katherinefx2_161: -5148753621780857365
+      katherinefx2_162: 1162008778672371572
+      katherinefx2_163: 8841169564285418357
+      katherinefx2_164: 4033465098909837974
+      katherinefx2_165: 6676005628029321272
+      katherinefx2_166: 4978075569378134727
+      katherinefx2_167: -2853134737050044911
+      katherinefx2_168: 5546271121564652454
+      katherinefx2_169: 1687768467291877345
+      katherinefx2_17: 4985828983247442529
+      katherinefx2_170: 137658114394386494
+      katherinefx2_171: 6286186398069652859
+      katherinefx2_172: -6932556045015898575
+      katherinefx2_173: -7704696069284697363
+      katherinefx2_18: -4177156598945826708
+      katherinefx2_19: 8714844557785408522
+      katherinefx2_2: -5379375116510413709
+      katherinefx2_20: 403008847945117611
+      katherinefx2_21: -3069662172736008095
+      katherinefx2_22: 787211542118442558
+      katherinefx2_23: 5285539433587232596
+      katherinefx2_24: -2008969000029473296
+      katherinefx2_25: 4366791621844289812
+      katherinefx2_26: 1962720465350408896
+      katherinefx2_27: -335292580281277089
+      katherinefx2_28: -4143135056670448036
+      katherinefx2_29: 4927077501073957724
+      katherinefx2_3: 3457153372724606950
+      katherinefx2_30: 8975163586426128469
+      katherinefx2_31: 6229867841810032703
+      katherinefx2_32: 4343827974623762915
+      katherinefx2_33: -4949239518031547480
+      katherinefx2_34: 4892774798003635000
+      katherinefx2_35: 5569199854569592366
+      katherinefx2_36: -6029391956740205230
+      katherinefx2_37: -5753420901925609904
+      katherinefx2_38: -1830933806079568419
+      katherinefx2_39: -3048303666522942210
+      katherinefx2_4: -8952178758514022137
+      katherinefx2_40: 5815394203880089212
+      katherinefx2_41: -1358786769690873119
+      katherinefx2_42: 4056772294057514433
+      katherinefx2_43: 7699387150650827138
+      katherinefx2_44: 7385484160843423712
+      katherinefx2_45: -6123033414034306800
+      katherinefx2_46: 5196132178142283152
+      katherinefx2_47: 2364411076299298762
+      katherinefx2_48: -7744866307910791764
+      katherinefx2_49: 662624790070081622
+      katherinefx2_5: -9172659922330743855
+      katherinefx2_50: -4531128323753348314
+      katherinefx2_51: 7012905628444418770
+      katherinefx2_52: 887293745046231959
+      katherinefx2_53: 2014817462184611422
+      katherinefx2_54: -6522463873306694113
+      katherinefx2_55: 2290828488427543751
+      katherinefx2_56: 1598263197969114036
+      katherinefx2_57: 8212960453567660750
+      katherinefx2_58: 8212363480571043973
+      katherinefx2_59: 3707694491170982823
+      katherinefx2_6: -2303237409968954426
+      katherinefx2_60: 737100297282294946
+      katherinefx2_61: 9004207010225553368
+      katherinefx2_62: 334725771636883987
+      katherinefx2_63: -2362783748513035547
+      katherinefx2_64: -2336860268752866299
+      katherinefx2_65: 4275120428269439186
+      katherinefx2_66: 6343827320034496061
+      katherinefx2_67: -3683367371527228664
+      katherinefx2_68: -6837052909501501352
+      katherinefx2_69: 1229710358042978800
+      katherinefx2_7: -896155176888594971
+      katherinefx2_70: 3476865192851210228
+      katherinefx2_71: 3489639233233202572
+      katherinefx2_72: -7529156033405693480
+      katherinefx2_73: 8240973107010558716
+      katherinefx2_74: -3330987263768557807
+      katherinefx2_75: 2240863065094555140
+      katherinefx2_76: 7282565672034308462
+      katherinefx2_77: -6568324708272360190
+      katherinefx2_78: 9177485478982522861
+      katherinefx2_79: 7889892530261465099
+      katherinefx2_8: -3935395618003009002
+      katherinefx2_80: 8751126083576189058
+      katherinefx2_81: 6278541262409371820
+      katherinefx2_82: 7420485933333191545
+      katherinefx2_83: 6500910527869391710
+      katherinefx2_84: 922058623157400660
+      katherinefx2_85: -651158865352667562
+      katherinefx2_86: -6081839944769398006
+      katherinefx2_87: -8734652526218632765
+      katherinefx2_88: -8198045790381810241
+      katherinefx2_89: -6826072025246258904
+      katherinefx2_9: 7264092984316298460
+      katherinefx2_90: -7251067971816277342
+      katherinefx2_91: -8656879308473254897
+      katherinefx2_92: -6721290933347549493
+      katherinefx2_93: 4552426586647131400
+      katherinefx2_94: 920407349717059954
+      katherinefx2_95: -7197117469066061487
+      katherinefx2_96: -4575809069347471148
+      katherinefx2_97: 4070799909806573601
+      katherinefx2_98: 3647372903347131
+      katherinefx2_99: -6039823668192380722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

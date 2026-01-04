@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: rw3
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 344965453, guid: fb1749271e3310b42b8ef279a1e01e50, type: 3}
+  - {fileID: -2146375035, guid: fb1749271e3310b42b8ef279a1e01e50, type: 3}
+  - {fileID: -454733063, guid: fb1749271e3310b42b8ef279a1e01e50, type: 3}
+  - {fileID: 1774118109, guid: fb1749271e3310b42b8ef279a1e01e50, type: 3}
+  - {fileID: -227317883, guid: fb1749271e3310b42b8ef279a1e01e50, type: 3}
+  - {fileID: -1397287391, guid: fb1749271e3310b42b8ef279a1e01e50, type: 3}
+  - {fileID: 1750846598, guid: fb1749271e3310b42b8ef279a1e01e50, type: 3}
+  - {fileID: -1611463566, guid: fb1749271e3310b42b8ef279a1e01e50, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 2
+  m_TileAnimationFlags: 0

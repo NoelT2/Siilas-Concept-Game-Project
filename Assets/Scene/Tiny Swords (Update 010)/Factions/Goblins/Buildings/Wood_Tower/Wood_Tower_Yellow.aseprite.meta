@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: fbdf1129256db6046b344f0f56a46512
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 0
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 1
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+    generateIndividualEvents: 1
+    generateSpriteAtlas: 1
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 1
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+    generateIndividualEvents: 1
+    generateSpriteAtlas: 1
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 639009165576763853
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Shadows_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: 1.2711864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 394
+      y: 297
+      width: 110
+      height: 59
+    spriteID: ffc7a380db8d83d40876644ffc12aa8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 297}
+  - name: Shadows_Frame_1
+    originalName: 
+    pivot: {x: 0.49999997, y: 1.2711864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 394
+      y: 198
+      width: 110
+      height: 59
+    spriteID: f4da562d8c1b9b04e840a89e4b7b9560
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 198}
+  - name: Shadows_Frame_2
+    originalName: 
+    pivot: {x: 0.49999997, y: 1.2711864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 394
+      y: 98
+      width: 110
+      height: 59
+    spriteID: 43f0599640f96de47aa8229b23d64415
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 98}
+  - name: Shadows_Frame_3
+    originalName: 
+    pivot: {x: 0.49999997, y: 1.2711864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 390
+      y: 394
+      width: 110
+      height: 59
+    spriteID: 18d0000a76b90bf4eb0a3230a50aafd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: 394}
+  - name: Shadows_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: 1.2711864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 322
+      width: 110
+      height: 59
+    spriteID: a36833c603d1a05468065316b2f0611b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 322}
+  - name: Tower_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.47019872}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 118
+      height: 151
+    spriteID: 5fbe42c6ded8f834783ac3528abb865e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Tower_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.47019872}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 163
+      width: 118
+      height: 151
+    spriteID: 9a9f6457af330bd448f563dbd9c3d604
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 163}
+  - name: Tower_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.47019872}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 322
+      width: 118
+      height: 151
+    spriteID: 4345eb6f7b04d814d85214bf39555d0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 322}
+  - name: Tower_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.47019872}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 4
+      width: 118
+      height: 151
+    spriteID: 75b7e48cc7c731544b371037364cdfc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 4}
+  - name: Tower_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.47019872}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 163
+      width: 118
+      height: 151
+    spriteID: 253b432a5b1a3544d9569f3e4e1ee443
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 163}
+  - name: Flags_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.20930234}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 4
+      width: 146
+      height: 86
+    spriteID: 800355915ecb2364891fa961e892da15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 4}
+  - name: Flags_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.26086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 98
+      width: 130
+      height: 92
+    spriteID: 534a2db5a8f36654ebdbc8cb79530607
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 98}
+  - name: Flags_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.25274724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 198
+      width: 130
+      height: 91
+    spriteID: 745ca2a5262c8974883a9aa33e55e816
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 198}
+  - name: Flags_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.23595506}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 297
+      width: 130
+      height: 89
+    spriteID: a48de4f41588a224ab402937e7bf0cfe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 297}
+  - name: Flags_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.22988504}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 394
+      width: 126
+      height: 87
+    spriteID: 121afc662a2c404498dd53f326cb3ab6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 394}
+  spriteSheetImportData: []
+  tileSetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 1205848513
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Shadows
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Shadows_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 73
+        y: 21
+        width: 110
+        height: 59
+      spriteId: ffc7a380db8d83d40876644ffc12aa8b
+    - name: Shadows_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 73
+        y: 21
+        width: 110
+        height: 59
+      spriteId: f4da562d8c1b9b04e840a89e4b7b9560
+    - name: Shadows_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 73
+        y: 21
+        width: 110
+        height: 59
+      spriteId: 43f0599640f96de47aa8229b23d64415
+    - name: Shadows_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 73
+        y: 21
+        width: 110
+        height: 59
+      spriteId: 18d0000a76b90bf4eb0a3230a50aafd0
+    - name: Shadows_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 73
+        y: 21
+        width: 110
+        height: 59
+      spriteId: a36833c603d1a05468065316b2f0611b
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 1
+    uuid:
+      value0: 1601846559
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Tower
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Tower_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 69
+        y: 25
+        width: 118
+        height: 151
+      spriteId: 5fbe42c6ded8f834783ac3528abb865e
+    - name: Tower_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 69
+        y: 25
+        width: 118
+        height: 151
+      spriteId: 9a9f6457af330bd448f563dbd9c3d604
+    - name: Tower_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 69
+        y: 25
+        width: 118
+        height: 151
+      spriteId: 4345eb6f7b04d814d85214bf39555d0b
+    - name: Tower_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 69
+        y: 25
+        width: 118
+        height: 151
+      spriteId: 75b7e48cc7c731544b371037364cdfc9
+    - name: Tower_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 69
+        y: 25
+        width: 118
+        height: 151
+      spriteId: 253b432a5b1a3544d9569f3e4e1ee443
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 2
+    uuid:
+      value0: 1420258839
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Flags
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Flags_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 55
+        y: 78
+        width: 146
+        height: 86
+      spriteId: 800355915ecb2364891fa961e892da15
+    - name: Flags_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 63
+        y: 72
+        width: 130
+        height: 92
+      spriteId: 534a2db5a8f36654ebdbc8cb79530607
+    - name: Flags_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 63
+        y: 73
+        width: 130
+        height: 91
+      spriteId: 745ca2a5262c8974883a9aa33e55e816
+    - name: Flags_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 63
+        y: 75
+        width: 130
+        height: 89
+      spriteId: a48de4f41588a224ab402937e7bf0cfe
+    - name: Flags_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 65
+        y: 76
+        width: 126
+        height: 87
+      spriteId: 121afc662a2c404498dd53f326cb3ab6
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  tileSets: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 256, y: 192}
+  previousTextureSize: {x: 512, y: 512}

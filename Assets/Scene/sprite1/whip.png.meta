@@ -1,0 +1,5837 @@
+fileFormatVersion: 2
+guid: c2d509615204c8743929d7532f240c03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4456960042610803090
+    second: whip_0
+  - first:
+      213: 6862504231833865357
+    second: whip_1
+  - first:
+      213: -5955932147524123104
+    second: whip_2
+  - first:
+      213: 1860768466498314387
+    second: whip_3
+  - first:
+      213: -6296535384464381439
+    second: whip_4
+  - first:
+      213: 6751796482697363955
+    second: whip_5
+  - first:
+      213: -1757282586569958918
+    second: whip_6
+  - first:
+      213: 7648540425291197410
+    second: whip_7
+  - first:
+      213: -8170183818654579811
+    second: whip_8
+  - first:
+      213: -8734870120966632254
+    second: whip_9
+  - first:
+      213: -952528801993423636
+    second: whip_10
+  - first:
+      213: -5999291113795537225
+    second: whip_11
+  - first:
+      213: 128269203431956815
+    second: whip_12
+  - first:
+      213: 6078652780811023698
+    second: whip_13
+  - first:
+      213: -1792070729687453968
+    second: whip_14
+  - first:
+      213: -8873540040263065466
+    second: whip_15
+  - first:
+      213: -7720245400519541581
+    second: whip_16
+  - first:
+      213: -9131714034623346266
+    second: whip_17
+  - first:
+      213: 4747358430254051015
+    second: whip_18
+  - first:
+      213: 1477816927806838424
+    second: whip_19
+  - first:
+      213: -7716779869353737817
+    second: whip_20
+  - first:
+      213: 4688359334121708314
+    second: whip_21
+  - first:
+      213: 8859745681037736472
+    second: whip_22
+  - first:
+      213: -5969914785441542514
+    second: whip_23
+  - first:
+      213: 170631108370496668
+    second: whip_24
+  - first:
+      213: 2123804455138285404
+    second: whip_25
+  - first:
+      213: 5184573214246039919
+    second: whip_26
+  - first:
+      213: 8690753106229251218
+    second: whip_27
+  - first:
+      213: -7102289128479642637
+    second: whip_28
+  - first:
+      213: 5591373140085116268
+    second: whip_29
+  - first:
+      213: -8739698888471951215
+    second: whip_30
+  - first:
+      213: 4169383271064923839
+    second: whip_31
+  - first:
+      213: -1913232940175988962
+    second: whip_32
+  - first:
+      213: -5514084346497878042
+    second: whip_33
+  - first:
+      213: 7624836689945623537
+    second: whip_34
+  - first:
+      213: -7562524191182988419
+    second: whip_35
+  - first:
+      213: -1238230909383070791
+    second: whip_36
+  - first:
+      213: -4851790209846334759
+    second: whip_37
+  - first:
+      213: -2730124583218697929
+    second: whip_38
+  - first:
+      213: 7781080500997632415
+    second: whip_39
+  - first:
+      213: -387056134918205291
+    second: whip_40
+  - first:
+      213: -216529223406081369
+    second: whip_41
+  - first:
+      213: 7181268368507596456
+    second: whip_42
+  - first:
+      213: 2619510636267864947
+    second: whip_43
+  - first:
+      213: -4664840065248280097
+    second: whip_44
+  - first:
+      213: -2951508711808422586
+    second: whip_45
+  - first:
+      213: 4259190003714675500
+    second: whip_46
+  - first:
+      213: -5195572410861624944
+    second: whip_47
+  - first:
+      213: 2044805675893236035
+    second: whip_48
+  - first:
+      213: -8216582208809606877
+    second: whip_49
+  - first:
+      213: 4343646941668197952
+    second: whip_50
+  - first:
+      213: 5480980435418861807
+    second: whip_51
+  - first:
+      213: -531992125776234683
+    second: whip_52
+  - first:
+      213: 2424456318588679294
+    second: whip_53
+  - first:
+      213: -6271020878398892912
+    second: whip_54
+  - first:
+      213: 4216455053776952559
+    second: whip_55
+  - first:
+      213: 861752668738330050
+    second: whip_56
+  - first:
+      213: -7924283125902656370
+    second: whip_57
+  - first:
+      213: 6127038712651766525
+    second: whip_58
+  - first:
+      213: 1734921519819380684
+    second: whip_59
+  - first:
+      213: -3716409497434682821
+    second: whip_60
+  - first:
+      213: 7348047766338179541
+    second: whip_61
+  - first:
+      213: 9142413058022973568
+    second: whip_62
+  - first:
+      213: 8684421326116399353
+    second: whip_63
+  - first:
+      213: -2748443384738243847
+    second: whip_64
+  - first:
+      213: 177236805040327802
+    second: whip_65
+  - first:
+      213: 1732203433392084159
+    second: whip_66
+  - first:
+      213: -7127246497617962611
+    second: whip_67
+  - first:
+      213: 551074754339752573
+    second: whip_68
+  - first:
+      213: 1174029207804585791
+    second: whip_69
+  - first:
+      213: -6194164997611977553
+    second: whip_70
+  - first:
+      213: -2353417097267865308
+    second: whip_71
+  - first:
+      213: -8838825700243482254
+    second: whip_72
+  - first:
+      213: -4614878605044012548
+    second: whip_73
+  - first:
+      213: -6943447070020420379
+    second: whip_74
+  - first:
+      213: 5042406308622223679
+    second: whip_75
+  - first:
+      213: -4358713519043768273
+    second: whip_76
+  - first:
+      213: 2543147598543395408
+    second: whip_77
+  - first:
+      213: 5849363707741683492
+    second: whip_78
+  - first:
+      213: -6426158834094237377
+    second: whip_79
+  - first:
+      213: -453015691964308701
+    second: whip_80
+  - first:
+      213: 8674756771684841472
+    second: whip_81
+  - first:
+      213: -6791176535242359863
+    second: whip_82
+  - first:
+      213: 7168509840118087351
+    second: whip_83
+  - first:
+      213: -5626885957942499053
+    second: whip_84
+  - first:
+      213: -5745793272026215339
+    second: whip_85
+  - first:
+      213: -3489420313815829694
+    second: whip_86
+  - first:
+      213: 7117535931799109312
+    second: whip_87
+  - first:
+      213: 8079213456851482308
+    second: whip_88
+  - first:
+      213: -8721380184512190743
+    second: whip_89
+  - first:
+      213: 5674817187378385444
+    second: whip_90
+  - first:
+      213: -6232874706719240802
+    second: whip_91
+  - first:
+      213: 9103502948965690314
+    second: whip_92
+  - first:
+      213: -6943693033551340786
+    second: whip_93
+  - first:
+      213: 5618444657467902409
+    second: whip_94
+  - first:
+      213: -2953582425547327501
+    second: whip_95
+  - first:
+      213: 3088823567894805623
+    second: whip_96
+  - first:
+      213: 6676729671451884593
+    second: whip_97
+  - first:
+      213: -6045449481307959973
+    second: whip_98
+  - first:
+      213: -1566621792506340927
+    second: whip_99
+  - first:
+      213: 5679332669598086348
+    second: whip_100
+  - first:
+      213: -845882634287927610
+    second: whip_101
+  - first:
+      213: -5194295696516983472
+    second: whip_102
+  - first:
+      213: -4578351260109791944
+    second: whip_103
+  - first:
+      213: -3370206509286738370
+    second: whip_104
+  - first:
+      213: 8409045141049873984
+    second: whip_105
+  - first:
+      213: 2487298923792706404
+    second: whip_106
+  - first:
+      213: -9104014841246711140
+    second: whip_107
+  - first:
+      213: 114077399678327942
+    second: whip_108
+  - first:
+      213: -1175461318458813973
+    second: whip_109
+  - first:
+      213: 1854483444416191607
+    second: whip_110
+  - first:
+      213: 7970706652250513320
+    second: whip_111
+  - first:
+      213: 8563888279554674220
+    second: whip_112
+  - first:
+      213: -1144142818353424487
+    second: whip_113
+  - first:
+      213: -2078063474798485258
+    second: whip_114
+  - first:
+      213: 213931567578022722
+    second: whip_115
+  - first:
+      213: 1629827988380165508
+    second: whip_116
+  - first:
+      213: 1707883778625486107
+    second: whip_117
+  - first:
+      213: 6198998051857609534
+    second: whip_118
+  - first:
+      213: 2311870727395529624
+    second: whip_119
+  - first:
+      213: -4871969456433484143
+    second: whip_120
+  - first:
+      213: 9135727419801819576
+    second: whip_121
+  - first:
+      213: 1739122760978373878
+    second: whip_122
+  - first:
+      213: -4303853201118632881
+    second: whip_123
+  - first:
+      213: 3217330326864214564
+    second: whip_124
+  - first:
+      213: 3628299751080662449
+    second: whip_125
+  - first:
+      213: -6971801623484363017
+    second: whip_126
+  - first:
+      213: -2840575543132319031
+    second: whip_127
+  - first:
+      213: -8689921503805200179
+    second: whip_128
+  - first:
+      213: 6429916692704188505
+    second: whip_129
+  - first:
+      213: 3584834764478597305
+    second: whip_130
+  - first:
+      213: -8605081651260374355
+    second: whip_131
+  - first:
+      213: -5019315050010799435
+    second: whip_132
+  - first:
+      213: 5974453145848984695
+    second: whip_133
+  - first:
+      213: 4418382992454321825
+    second: whip_134
+  - first:
+      213: -725904114071797785
+    second: whip_135
+  - first:
+      213: 2757623328457394232
+    second: whip_136
+  - first:
+      213: 3720477259572715085
+    second: whip_137
+  - first:
+      213: -1820860541675588780
+    second: whip_138
+  - first:
+      213: -4555738120323373918
+    second: whip_139
+  - first:
+      213: 6409485562391571510
+    second: whip_140
+  - first:
+      213: 17657066355907775
+    second: whip_141
+  - first:
+      213: -5479371752943133628
+    second: whip_142
+  - first:
+      213: 4624993032103946754
+    second: whip_143
+  - first:
+      213: -1271115570529918418
+    second: whip_144
+  - first:
+      213: -4991393406229135571
+    second: whip_145
+  - first:
+      213: 8396523999388413749
+    second: whip_146
+  - first:
+      213: 8373912288561090055
+    second: whip_147
+  - first:
+      213: 1061301363722904584
+    second: whip_148
+  - first:
+      213: 241779751929405594
+    second: whip_149
+  - first:
+      213: -9004117473108119003
+    second: whip_150
+  - first:
+      213: 1293426194144569674
+    second: whip_151
+  - first:
+      213: -268381822735022052
+    second: whip_152
+  - first:
+      213: 3437146522378586183
+    second: whip_153
+  - first:
+      213: -5502582511664395507
+    second: whip_154
+  - first:
+      213: 3246608344846102192
+    second: whip_155
+  - first:
+      213: 6292366024476116298
+    second: whip_156
+  - first:
+      213: -6584335137508886171
+    second: whip_157
+  - first:
+      213: -8785412784141773336
+    second: whip_158
+  - first:
+      213: -6799622606514031590
+    second: whip_159
+  - first:
+      213: 3964629802177434375
+    second: whip_160
+  - first:
+      213: -8804811014332027816
+    second: whip_161
+  - first:
+      213: 7760843244752109855
+    second: whip_162
+  - first:
+      213: 4628863007065737214
+    second: whip_163
+  - first:
+      213: -4776805447636119619
+    second: whip_164
+  - first:
+      213: 1074505472948784288
+    second: whip_165
+  - first:
+      213: -4087053008590565359
+    second: whip_166
+  - first:
+      213: -782760271609036830
+    second: whip_167
+  - first:
+      213: -721561397262142675
+    second: whip_168
+  - first:
+      213: 2127708679301725656
+    second: whip_169
+  - first:
+      213: 484547313633992801
+    second: whip_170
+  - first:
+      213: -976449187076588214
+    second: whip_171
+  - first:
+      213: -7778457174800252042
+    second: whip_172
+  - first:
+      213: 6308721253858200348
+    second: whip_173
+  - first:
+      213: -8156971039796952142
+    second: whip_174
+  - first:
+      213: 6065747232145326416
+    second: whip_175
+  - first:
+      213: -3087579016691471472
+    second: whip_176
+  - first:
+      213: 2231749516057235797
+    second: whip_177
+  - first:
+      213: 4115353414303920854
+    second: whip_178
+  - first:
+      213: 3155244536737199456
+    second: whip_179
+  - first:
+      213: 5655986797199910844
+    second: whip_180
+  - first:
+      213: 5224428472152373544
+    second: whip_181
+  - first:
+      213: -8774749073370695595
+    second: whip_182
+  - first:
+      213: 8136685003451793156
+    second: whip_183
+  - first:
+      213: -3154340698234471464
+    second: whip_184
+  - first:
+      213: 7462943770571435301
+    second: whip_185
+  - first:
+      213: -8292830006326296656
+    second: whip_186
+  - first:
+      213: -4029450839608879259
+    second: whip_187
+  - first:
+      213: -8554819977396434233
+    second: whip_188
+  - first:
+      213: 641951913009812991
+    second: whip_189
+  - first:
+      213: -5980517721151487915
+    second: whip_190
+  - first:
+      213: 8234758160677658638
+    second: whip_191
+  - first:
+      213: 289108172127405644
+    second: whip_192
+  - first:
+      213: -4908610214175968008
+    second: whip_193
+  - first:
+      213: -8507679626091434390
+    second: whip_194
+  - first:
+      213: 7613682152814228680
+    second: whip_195
+  - first:
+      213: 6520044561571427784
+    second: whip_196
+  - first:
+      213: -3047487948035996077
+    second: whip_197
+  - first:
+      213: 4069214210553977428
+    second: whip_198
+  - first:
+      213: -5090063147253689810
+    second: whip_199
+  - first:
+      213: 7766205648505234522
+    second: whip_200
+  - first:
+      213: -7599392814988178211
+    second: whip_201
+  - first:
+      213: -8844119262247613857
+    second: whip_202
+  - first:
+      213: -4662701033979822969
+    second: whip_203
+  - first:
+      213: -3106418044525451633
+    second: whip_204
+  - first:
+      213: -4522103620800676504
+    second: whip_205
+  - first:
+      213: 1786140796459494323
+    second: whip_206
+  - first:
+      213: 370035751477842514
+    second: whip_207
+  - first:
+      213: -3577331062491568814
+    second: whip_208
+  - first:
+      213: 1111481951952102982
+    second: whip_209
+  - first:
+      213: 4189995000189664184
+    second: whip_210
+  - first:
+      213: 5730169877940015864
+    second: whip_211
+  - first:
+      213: 3578451375632978007
+    second: whip_212
+  - first:
+      213: 4815453421543693375
+    second: whip_213
+  - first:
+      213: -8805012933070043229
+    second: whip_214
+  - first:
+      213: 350079538200451873
+    second: whip_215
+  - first:
+      213: 6057573547859884191
+    second: whip_216
+  - first:
+      213: 4786186503429934995
+    second: whip_217
+  - first:
+      213: -337507628431739222
+    second: whip_218
+  - first:
+      213: 4972821990206109042
+    second: whip_219
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eb21a8472b522c0800000000000000
+      internalID: -4456960042610803090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1123
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c82106d338c3f50800000000000000
+      internalID: 6862504231833865357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1175
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026ce788447485da0800000000000000
+      internalID: -5955932147524123104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1134
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39061eebf07c2d910800000000000000
+      internalID: 1860768466498314387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1171
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aa255ad663e98a0800000000000000
+      internalID: -6296535384464381439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1134
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f188e2e02333bd50800000000000000
+      internalID: 6751796482697363955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1177
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af994894cc0ec97e0800000000000000
+      internalID: -1757282586569958918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1132
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb62bb3ef2152a60800000000000000
+      internalID: 7648540425291197410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1179
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93037bba1dad9e80800000000000000
+      internalID: -8170183818654579811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc4c9087e187c680800000000000000
+      internalID: -8734870120966632254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1134
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce48adee910f7c2f0800000000000000
+      internalID: -952528801993423636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1134
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b63f02848c3ebca0800000000000000
+      internalID: -5999291113795537225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f412f223924b7c100800000000000000
+      internalID: 128269203431956815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1079
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2557e218f76bb5450800000000000000
+      internalID: 6078652780811023698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1071
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feaa988a294127e0800000000000000
+      internalID: -1792070729687453968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1114
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6802aefe85adad480800000000000000
+      internalID: -8873540040263065466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1072
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc703b36bd2cd490800000000000000
+      internalID: -7720245400519541581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a983d7a772a54180800000000000000
+      internalID: -9131714034623346266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1081
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceafb8f65102e140800000000000000
+      internalID: 4747358430254051015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1081
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8965cf08aa2428410800000000000000
+      internalID: 1477816927806838424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1080
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a10945189d78e490800000000000000
+      internalID: -7716779869353737817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1079
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b16b179f5601140800000000000000
+      internalID: 4688359334121708314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1062
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a3e8681c324fa70800000000000000
+      internalID: 8859745681037736472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1083
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e8762f12a962da0800000000000000
+      internalID: -5969914785441542514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cfd0ac6143e5200800000000000000
+      internalID: 170631108370496668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1075
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57d8e846e4497d10800000000000000
+      internalID: 2123804455138285404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1067
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61f32b8edd43f740800000000000000
+      internalID: 5184573214246039919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1027
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cca6f87e1cb9870800000000000000
+      internalID: 8690753106229251218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1073
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb2adccaa99f6d90800000000000000
+      internalID: -7102289128479642637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1027
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d0f6d1f3c889d40800000000000000
+      internalID: 5591373140085116268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1019
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198c0c47a2a56b680800000000000000
+      internalID: -8739698888471951215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1021
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbee744aeff9cd930800000000000000
+      internalID: 4169383271064923839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1067
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17eb3417c4d275e0800000000000000
+      internalID: -1913232940175988962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1024
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7b37170890a73b0800000000000000
+      internalID: -5514084346497878042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1027
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbf296429cd0d960800000000000000
+      internalID: 7624836689945623537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1041
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b5d3be0548c0790800000000000000
+      internalID: -7562524191182988419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb20506c8be0dee0800000000000000
+      internalID: -1238230909383070791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1015
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da2461928afaacb0800000000000000
+      internalID: -4851790209846334759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1019
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73920b80826ac1ad0800000000000000
+      internalID: -2730124583218697929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 959
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91beae5d73fbfb60800000000000000
+      internalID: 7781080500997632415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 915
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590901afe76e0aaf0800000000000000
+      internalID: -387056134918205291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 975
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaa36b81dbbefcf0800000000000000
+      internalID: -216529223406081369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1023
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aee4ad788df8a360800000000000000
+      internalID: 7181268368507596456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3738a108b0f5a5420800000000000000
+      internalID: 2619510636267864947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 997
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1cdd01da8234fb0800000000000000
+      internalID: -4664840065248280097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 975
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d2031e6722a07d0800000000000000
+      internalID: -2951508711808422586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 975
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23de420ebeab1b30800000000000000
+      internalID: 4259190003714675500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_47
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1000
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091e5cd6b6e95e7b0800000000000000
+      internalID: -5195572410861624944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341a15aadeb906c10800000000000000
+      internalID: 2044805675893236035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 959
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321eb10b306d8fd80800000000000000
+      internalID: -8216582208809606877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_50
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 931
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04648db31ebb74c30800000000000000
+      internalID: 4343646941668197952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 930
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0d102aaaa501c40800000000000000
+      internalID: 5480980435418861807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 922
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5477dcfeafbfd98f0800000000000000
+      internalID: -531992125776234683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_53
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 872
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74fdea2d2665a120800000000000000
+      internalID: 2424456318588679294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 867
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094d9f38cbbd8f8a0800000000000000
+      internalID: -6271020878398892912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 924
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec96cb188bd38a30800000000000000
+      internalID: 4216455053776952559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 921
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd94688c7f85fb00800000000000000
+      internalID: 861752668738330050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 872
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c33fc4b7a470290800000000000000
+      internalID: -7924283125902656370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_58
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 914
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfadca82f3d970550800000000000000
+      internalID: 6127038712651766525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 916
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7d3062eeda31810800000000000000
+      internalID: 1734921519819380684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 871
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a8481a049ac6cc0800000000000000
+      internalID: -3716409497434682821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 907
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d19039038289f560800000000000000
+      internalID: 7348047766338179541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_62
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 906
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0802a59dc3060ee70800000000000000
+      internalID: 9142413058022973568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 908
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8aefe1f23458870800000000000000
+      internalID: 8684421326116399353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_64
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 872
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa976fad419bd9d0800000000000000
+      internalID: -2748443384738243847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 891
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ccd856feba57200800000000000000
+      internalID: 177236805040327802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_66
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 891
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb41c0658d50a0810800000000000000
+      internalID: 1732203433392084159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 195
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8995da721fe61d90800000000000000
+      internalID: -7127246497617962611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_68
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 818
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a4b11c19fc5a700800000000000000
+      internalID: 551074754339752573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_69
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 871
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37202f185dfa4010800000000000000
+      internalID: 1174029207804585791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_70
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa40e25b0c7e90aa0800000000000000
+      internalID: -6194164997611977553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 817
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42994057e9bf65fd0800000000000000
+      internalID: -2353417097267865308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 823
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d4611bde265580800000000000000
+      internalID: -8838825700243482254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 759
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf92dc00c58a4ffb0800000000000000
+      internalID: -4614878605044012548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_74
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 815
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecb4b28dabe3af90800000000000000
+      internalID: -6943447070020420379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 767
+        width: 88
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39cd9662d93af540800000000000000
+      internalID: 5042406308622223679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 779
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2014bbd52db283c0800000000000000
+      internalID: -4358713519043768273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 779
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a119644431b4320800000000000000
+      internalID: 2543147598543395408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_78
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 768
+        width: 116
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f310a0d4d1d2150800000000000000
+      internalID: 5849363707741683492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39139f6692b1d6a0800000000000000
+      internalID: -6426158834094237377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 767
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3232acad0a096b9f0800000000000000
+      internalID: -453015691964308701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087031b25de26870800000000000000
+      internalID: 8674756771684841472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 723
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb39e12ce4e0c1a0800000000000000
+      internalID: -6791176535242359863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_83
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 710
+        width: 122
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be712d18b9ab7360800000000000000
+      internalID: 7168509840118087351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_84
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 757
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3192435a80949e1b0800000000000000
+      internalID: -5626885957942499053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c4c0c2677d240b0800000000000000
+      internalID: -5745793272026215339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_86
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243b9fa56b6139fc0800000000000000
+      internalID: -3489420313815829694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 633
+        width: 122
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef6fa383196c260800000000000000
+      internalID: 7117535931799109312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_88
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 693
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6303065d12f1070800000000000000
+      internalID: 8079213456851482308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_89
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 633
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e625071eee67f680800000000000000
+      internalID: -8721380184512190743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_90
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 587
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42258fa5a2001ce40800000000000000
+      internalID: 5674817187378385444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_91
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 679
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d8b783a716089a0800000000000000
+      internalID: -6232874706719240802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_92
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 679
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb22dc13b3265e70800000000000000
+      internalID: 9103502948965690314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_93
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 631
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b51d9a9fb03af90800000000000000
+      internalID: -6943693033551340786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 541
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9c09ee5a9b8fd40800000000000000
+      internalID: 5618444657467902409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_95
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 540
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f73a66ce64c207d0800000000000000
+      internalID: -2953582425547327501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_96
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 623
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c79327ba4bdda20800000000000000
+      internalID: 3088823567894805623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_97
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 596
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c3338e24288ac50800000000000000
+      internalID: 6676729671451884593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_98
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 602
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dc1171abf3a1ca0800000000000000
+      internalID: -6045449481307959973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_99
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 579
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c91640b7cd324ae0800000000000000
+      internalID: -1566621792506340927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 540
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc43aacf8fa01de40800000000000000
+      internalID: 5679332669598086348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_101
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 589
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cea89dc932d244f0800000000000000
+      internalID: -845882634287927610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_102
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 563
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d3c6a5972ae7b0800000000000000
+      internalID: -5194295696516983472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_103
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 539
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d913c39cd6670c0800000000000000
+      internalID: -4578351260109791944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 523
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e363142390f9a31d0800000000000000
+      internalID: -3370206509286738370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0469084b00ee2b470800000000000000
+      internalID: 8409045141049873984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 446
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b20e26139a48220800000000000000
+      internalID: 2487298923792706404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_107
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 475
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c920b9dacba08a180800000000000000
+      internalID: -9104014841246711140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_108
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 500
+        width: 108
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c1ab46ac8459100800000000000000
+      internalID: 114077399678327942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_109
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 471
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1dc02a82cefafe0800000000000000
+      internalID: -1175461318458813973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_110
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c15420ed27cb910800000000000000
+      internalID: 1854483444416191607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_111
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 467
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af1c383873ad9e60800000000000000
+      internalID: 7970706652250513320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_112
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 467
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eccfe440b09d670800000000000000
+      internalID: 8563888279554674220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997dabb2b203f10f0800000000000000
+      internalID: -1144142818353424487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 408
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f02ceb974c3923e0800000000000000
+      internalID: -2078063474798485258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_115
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 405
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430bb390a908f200800000000000000
+      internalID: 213931567578022722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_116
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 443
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485a3649bef4e9610800000000000000
+      internalID: 1629827988380165508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_117
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 443
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dbf967f3f93b710800000000000000
+      internalID: 1707883778625486107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_118
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 403
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33bf4c62e3470650800000000000000
+      internalID: 6198998051857609534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_119
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 447
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893d8018d2a651020800000000000000
+      internalID: 2311870727395529624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_120
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 431
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eaab89799436cb0800000000000000
+      internalID: -4871969456433484143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_121
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 411
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b955166faf98ce70800000000000000
+      internalID: 9135727419801819576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_122
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 360
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc99e4dfea922810800000000000000
+      internalID: 1739122760978373878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_123
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4465edf054a544c0800000000000000
+      internalID: -4303853201118632881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_124
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a35d9d2e046ac20800000000000000
+      internalID: 3217330326864214564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_125
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b51dc9666f4a5230800000000000000
+      internalID: 3628299751080662449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 358
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe09b39c5f2f3f90800000000000000
+      internalID: -6971801623484363017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_127
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 315
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c29fe1f79f3498d0800000000000000
+      internalID: -2840575543132319031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_128
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 360
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8a9a7fe62376780800000000000000
+      internalID: -8689921503805200179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_129
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 360
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958dcf33a27ab3950800000000000000
+      internalID: 6429916692704188505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_130
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 355
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8c73b9934efb130800000000000000
+      internalID: 3584834764478597305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2c46174db949880800000000000000
+      internalID: -8605081651260374355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 315
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b295543e8fc75ab0800000000000000
+      internalID: -5019315050010799435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_133
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 315
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7743b8d6b7589e250800000000000000
+      internalID: 5974453145848984695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_134
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 323
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a60eda0cef315d30800000000000000
+      internalID: 4418382992454321825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 269
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef71c3ed021de5f0800000000000000
+      internalID: -725904114071797785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_136
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 269
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83888058ecb054620800000000000000
+      internalID: 2757623328457394232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_137
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 263
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e10cb0b5ac1a330800000000000000
+      internalID: 3720477259572715085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_138
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 281
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453b6e31cf00bb6e0800000000000000
+      internalID: -1820860541675588780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_139
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 275
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a46b602154c6c0c0800000000000000
+      internalID: -4555738120323373918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_140
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c285bf82113f850800000000000000
+      internalID: 6409485562391571510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc5bef120bbe3000800000000000000
+      internalID: 17657066355907775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_142
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 223
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cd381fb6c55f3b0800000000000000
+      internalID: -5479371752943133628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_143
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 223
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a663f88a64f2040800000000000000
+      internalID: 4624993032103946754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_144
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 222
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22a81e8f171c5ee0800000000000000
+      internalID: -1271115570529918418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_145
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 219
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f3c7f74220bbab0800000000000000
+      internalID: -4991393406229135571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_146
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 218
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fa69b3712768470800000000000000
+      internalID: 8396523999388413749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_147
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 261
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e46fb0cdc163470800000000000000
+      internalID: 8373912288561090055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_148
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 207
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8046750a7ff7abe00800000000000000
+      internalID: 1061301363722904584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_149
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 254
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9062a34769fa5300800000000000000
+      internalID: 241779751929405594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522b0833dd2fa0380800000000000000
+      internalID: -9004117473108119003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a492c2d454c23f110800000000000000
+      internalID: 1293426194144569674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_152
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1805b77724864cf0800000000000000
+      internalID: -268381822735022052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_153
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 189
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74848532d8233bf20800000000000000
+      internalID: 3437146522378586183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_154
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 210
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b87fc0c56e2a3b0800000000000000
+      internalID: -5502582511664395507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_155
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 191
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beee5f96154e0d20800000000000000
+      internalID: 3246608344846102192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_156
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 170
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45c2a59f89f25750800000000000000
+      internalID: 6292366024476116298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_157
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 202
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569f8a6e31ebf94a0800000000000000
+      internalID: -6584335137508886171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_158
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5dd04be91f31680800000000000000
+      internalID: -8785412784141773336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_159
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 195
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14f30ce343e2a1a0800000000000000
+      internalID: -6799622606514031590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_160
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 195
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70396b0bcc1350730800000000000000
+      internalID: 3964629802177434375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_161
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 159
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cea4848070fc580800000000000000
+      internalID: -8804811014332027816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_162
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 163
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1180f8ffcd04bb60800000000000000
+      internalID: 7760843244752109855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_163
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7891251660d3040800000000000000
+      internalID: 4628863007065737214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_164
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 170
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf8f7401c065bdb0800000000000000
+      internalID: -4776805447636119619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_165
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 156
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac4350e80969ee00800000000000000
+      internalID: 1074505472948784288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_166
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 159
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11094cc51fed747c0800000000000000
+      internalID: -4087053008590565359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_167
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef74722ea31325f0800000000000000
+      internalID: -782760271609036830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_168
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 155
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d233e807bbf7cf5f0800000000000000
+      internalID: -721561397262142675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd7b4f45c3278d10800000000000000
+      internalID: 2127708679301725656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_170
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 117
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160260ae63579b600800000000000000
+      internalID: 484547313633992801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_171
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 139
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4db41743a4f272f0800000000000000
+      internalID: -976449187076588214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_172
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673417b596e5d0490800000000000000
+      internalID: -7778457174800252042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_173
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 103
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bcc2b2e841d8750800000000000000
+      internalID: 6308721253858200348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_174
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 107
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b301c98e0e9cce80800000000000000
+      internalID: -8156971039796952142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_175
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 156
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051c45d48fcdd2450800000000000000
+      internalID: 6065747232145326416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_176
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 152
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ba7263e37b625d0800000000000000
+      internalID: -3087579016691471472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_177
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 130
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551dd3c4c54c8fe10800000000000000
+      internalID: 2231749516057235797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_178
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 137
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2b6c0502cac1930800000000000000
+      internalID: 4115353414303920854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06576bf503ea9cb20800000000000000
+      internalID: 3155244536737199456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_180
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 93
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7666d760a1e7e40800000000000000
+      internalID: 5655986797199910844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_181
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8293415e306e08840800000000000000
+      internalID: 5224428472152373544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_182
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 102
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5583d885534d93680800000000000000
+      internalID: -8774749073370695595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_183
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ffdff86ef4be070800000000000000
+      internalID: 8136685003451793156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_184
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 103
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db3d2de8d78934d0800000000000000
+      internalID: -3154340698234471464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_185
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52def97a1d3b19760800000000000000
+      internalID: 7462943770571435301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf783aeb03f9ec80800000000000000
+      internalID: -8292830006326296656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_187
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56796317fc38418c0800000000000000
+      internalID: -4029450839608879259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_188
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caced15e8c274980800000000000000
+      internalID: -8554819977396434233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_189
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff515d91ddba8e800800000000000000
+      internalID: 641951913009812991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_190
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 46
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55046d991dee00da0800000000000000
+      internalID: -5980517721151487915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_191
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 96
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00e072eaecb74270800000000000000
+      internalID: 8234758160677658638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_192
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 92
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46015dc95e130400800000000000000
+      internalID: 289108172127405644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_193
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ff23640d11ebb0800000000000000
+      internalID: -4908610214175968008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_194
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eedf7a476aee980800000000000000
+      internalID: -8507679626091434390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_195
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 88
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c43937349b39a960800000000000000
+      internalID: 7613682152814228680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_196
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 43
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5be2cebf9db7a50800000000000000
+      internalID: 6520044561571427784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_197
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356c7088bd525b5d0800000000000000
+      internalID: -3047487948035996077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_198
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a9a0fc3c0c87830800000000000000
+      internalID: 4069214210553977428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_199
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 51
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2213af29867c59b0800000000000000
+      internalID: -5090063147253689810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_200
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 43
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5469c3e3ea17cb60800000000000000
+      internalID: 7766205648505234522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_201
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 51
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc49f18f78898690800000000000000
+      internalID: -7599392814988178211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_202
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a8a8e9360634580800000000000000
+      internalID: -8844119262247613857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_203
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 43
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c39c71d12ca4fb0800000000000000
+      internalID: -4662701033979822969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_204
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 42
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86623c3f39c3e4d0800000000000000
+      internalID: -3106418044525451633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_205
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 27
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dfaac47b24e31c0800000000000000
+      internalID: -4522103620800676504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb2dcb4795a9c810800000000000000
+      internalID: 1786140796459494323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_207
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25218013e81a22500800000000000000
+      internalID: 370035751477842514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_208
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 27
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25528382a54ca5ec0800000000000000
+      internalID: -3577331062491568814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_209
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ec5842f6cc6f00800000000000000
+      internalID: 1111481951952102982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_210
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 27
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbb7fcc04ad52a30800000000000000
+      internalID: 4189995000189664184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_211
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2124de427a58f40800000000000000
+      internalID: 5730169877940015864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_212
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 27
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7509c92119639a130800000000000000
+      internalID: 3578451375632978007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_213
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c1d8f9f5de3d240800000000000000
+      internalID: 4815453421543693375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_214
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7c3a9636f4ec580800000000000000
+      internalID: -8805012933070043229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_215
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b12953c7bbbd400800000000000000
+      internalID: 350079538200451873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_216
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98bdf02c03d01450800000000000000
+      internalID: 6057573547859884191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_217
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fc5bd3443fb6240800000000000000
+      internalID: 4786186503429934995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_218
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa67752a99ee05bf0800000000000000
+      internalID: -337507628431739222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip_219
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2757c71c043030540800000000000000
+      internalID: 4972821990206109042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      whip_0: -4456960042610803090
+      whip_1: 6862504231833865357
+      whip_10: -952528801993423636
+      whip_100: 5679332669598086348
+      whip_101: -845882634287927610
+      whip_102: -5194295696516983472
+      whip_103: -4578351260109791944
+      whip_104: -3370206509286738370
+      whip_105: 8409045141049873984
+      whip_106: 2487298923792706404
+      whip_107: -9104014841246711140
+      whip_108: 114077399678327942
+      whip_109: -1175461318458813973
+      whip_11: -5999291113795537225
+      whip_110: 1854483444416191607
+      whip_111: 7970706652250513320
+      whip_112: 8563888279554674220
+      whip_113: -1144142818353424487
+      whip_114: -2078063474798485258
+      whip_115: 213931567578022722
+      whip_116: 1629827988380165508
+      whip_117: 1707883778625486107
+      whip_118: 6198998051857609534
+      whip_119: 2311870727395529624
+      whip_12: 128269203431956815
+      whip_120: -4871969456433484143
+      whip_121: 9135727419801819576
+      whip_122: 1739122760978373878
+      whip_123: -4303853201118632881
+      whip_124: 3217330326864214564
+      whip_125: 3628299751080662449
+      whip_126: -6971801623484363017
+      whip_127: -2840575543132319031
+      whip_128: -8689921503805200179
+      whip_129: 6429916692704188505
+      whip_13: 6078652780811023698
+      whip_130: 3584834764478597305
+      whip_131: -8605081651260374355
+      whip_132: -5019315050010799435
+      whip_133: 5974453145848984695
+      whip_134: 4418382992454321825
+      whip_135: -725904114071797785
+      whip_136: 2757623328457394232
+      whip_137: 3720477259572715085
+      whip_138: -1820860541675588780
+      whip_139: -4555738120323373918
+      whip_14: -1792070729687453968
+      whip_140: 6409485562391571510
+      whip_141: 17657066355907775
+      whip_142: -5479371752943133628
+      whip_143: 4624993032103946754
+      whip_144: -1271115570529918418
+      whip_145: -4991393406229135571
+      whip_146: 8396523999388413749
+      whip_147: 8373912288561090055
+      whip_148: 1061301363722904584
+      whip_149: 241779751929405594
+      whip_15: -8873540040263065466
+      whip_150: -9004117473108119003
+      whip_151: 1293426194144569674
+      whip_152: -268381822735022052
+      whip_153: 3437146522378586183
+      whip_154: -5502582511664395507
+      whip_155: 3246608344846102192
+      whip_156: 6292366024476116298
+      whip_157: -6584335137508886171
+      whip_158: -8785412784141773336
+      whip_159: -6799622606514031590
+      whip_16: -7720245400519541581
+      whip_160: 3964629802177434375
+      whip_161: -8804811014332027816
+      whip_162: 7760843244752109855
+      whip_163: 4628863007065737214
+      whip_164: -4776805447636119619
+      whip_165: 1074505472948784288
+      whip_166: -4087053008590565359
+      whip_167: -782760271609036830
+      whip_168: -721561397262142675
+      whip_169: 2127708679301725656
+      whip_17: -9131714034623346266
+      whip_170: 484547313633992801
+      whip_171: -976449187076588214
+      whip_172: -7778457174800252042
+      whip_173: 6308721253858200348
+      whip_174: -8156971039796952142
+      whip_175: 6065747232145326416
+      whip_176: -3087579016691471472
+      whip_177: 2231749516057235797
+      whip_178: 4115353414303920854
+      whip_179: 3155244536737199456
+      whip_18: 4747358430254051015
+      whip_180: 5655986797199910844
+      whip_181: 5224428472152373544
+      whip_182: -8774749073370695595
+      whip_183: 8136685003451793156
+      whip_184: -3154340698234471464
+      whip_185: 7462943770571435301
+      whip_186: -8292830006326296656
+      whip_187: -4029450839608879259
+      whip_188: -8554819977396434233
+      whip_189: 641951913009812991
+      whip_19: 1477816927806838424
+      whip_190: -5980517721151487915
+      whip_191: 8234758160677658638
+      whip_192: 289108172127405644
+      whip_193: -4908610214175968008
+      whip_194: -8507679626091434390
+      whip_195: 7613682152814228680
+      whip_196: 6520044561571427784
+      whip_197: -3047487948035996077
+      whip_198: 4069214210553977428
+      whip_199: -5090063147253689810
+      whip_2: -5955932147524123104
+      whip_20: -7716779869353737817
+      whip_200: 7766205648505234522
+      whip_201: -7599392814988178211
+      whip_202: -8844119262247613857
+      whip_203: -4662701033979822969
+      whip_204: -3106418044525451633
+      whip_205: -4522103620800676504
+      whip_206: 1786140796459494323
+      whip_207: 370035751477842514
+      whip_208: -3577331062491568814
+      whip_209: 1111481951952102982
+      whip_21: 4688359334121708314
+      whip_210: 4189995000189664184
+      whip_211: 5730169877940015864
+      whip_212: 3578451375632978007
+      whip_213: 4815453421543693375
+      whip_214: -8805012933070043229
+      whip_215: 350079538200451873
+      whip_216: 6057573547859884191
+      whip_217: 4786186503429934995
+      whip_218: -337507628431739222
+      whip_219: 4972821990206109042
+      whip_22: 8859745681037736472
+      whip_23: -5969914785441542514
+      whip_24: 170631108370496668
+      whip_25: 2123804455138285404
+      whip_26: 5184573214246039919
+      whip_27: 8690753106229251218
+      whip_28: -7102289128479642637
+      whip_29: 5591373140085116268
+      whip_3: 1860768466498314387
+      whip_30: -8739698888471951215
+      whip_31: 4169383271064923839
+      whip_32: -1913232940175988962
+      whip_33: -5514084346497878042
+      whip_34: 7624836689945623537
+      whip_35: -7562524191182988419
+      whip_36: -1238230909383070791
+      whip_37: -4851790209846334759
+      whip_38: -2730124583218697929
+      whip_39: 7781080500997632415
+      whip_4: -6296535384464381439
+      whip_40: -387056134918205291
+      whip_41: -216529223406081369
+      whip_42: 7181268368507596456
+      whip_43: 2619510636267864947
+      whip_44: -4664840065248280097
+      whip_45: -2951508711808422586
+      whip_46: 4259190003714675500
+      whip_47: -5195572410861624944
+      whip_48: 2044805675893236035
+      whip_49: -8216582208809606877
+      whip_5: 6751796482697363955
+      whip_50: 4343646941668197952
+      whip_51: 5480980435418861807
+      whip_52: -531992125776234683
+      whip_53: 2424456318588679294
+      whip_54: -6271020878398892912
+      whip_55: 4216455053776952559
+      whip_56: 861752668738330050
+      whip_57: -7924283125902656370
+      whip_58: 6127038712651766525
+      whip_59: 1734921519819380684
+      whip_6: -1757282586569958918
+      whip_60: -3716409497434682821
+      whip_61: 7348047766338179541
+      whip_62: 9142413058022973568
+      whip_63: 8684421326116399353
+      whip_64: -2748443384738243847
+      whip_65: 177236805040327802
+      whip_66: 1732203433392084159
+      whip_67: -7127246497617962611
+      whip_68: 551074754339752573
+      whip_69: 1174029207804585791
+      whip_7: 7648540425291197410
+      whip_70: -6194164997611977553
+      whip_71: -2353417097267865308
+      whip_72: -8838825700243482254
+      whip_73: -4614878605044012548
+      whip_74: -6943447070020420379
+      whip_75: 5042406308622223679
+      whip_76: -4358713519043768273
+      whip_77: 2543147598543395408
+      whip_78: 5849363707741683492
+      whip_79: -6426158834094237377
+      whip_8: -8170183818654579811
+      whip_80: -453015691964308701
+      whip_81: 8674756771684841472
+      whip_82: -6791176535242359863
+      whip_83: 7168509840118087351
+      whip_84: -5626885957942499053
+      whip_85: -5745793272026215339
+      whip_86: -3489420313815829694
+      whip_87: 7117535931799109312
+      whip_88: 8079213456851482308
+      whip_89: -8721380184512190743
+      whip_9: -8734870120966632254
+      whip_90: 5674817187378385444
+      whip_91: -6232874706719240802
+      whip_92: 9103502948965690314
+      whip_93: -6943693033551340786
+      whip_94: 5618444657467902409
+      whip_95: -2953582425547327501
+      whip_96: 3088823567894805623
+      whip_97: 6676729671451884593
+      whip_98: -6045449481307959973
+      whip_99: -1566621792506340927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

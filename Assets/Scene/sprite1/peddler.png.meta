@@ -1,0 +1,3167 @@
+fileFormatVersion: 2
+guid: 4f65da2d9aa264e4ba65676cae512a1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5322863893240971389
+    second: peddler_0
+  - first:
+      213: 2960433819255487906
+    second: peddler_1
+  - first:
+      213: -4284312931153928339
+    second: peddler_2
+  - first:
+      213: -5970708781751878394
+    second: peddler_3
+  - first:
+      213: -8912631173867715594
+    second: peddler_4
+  - first:
+      213: 4280499325670697398
+    second: peddler_5
+  - first:
+      213: -1770471421086551060
+    second: peddler_6
+  - first:
+      213: 1283526560348048510
+    second: peddler_7
+  - first:
+      213: -131669629554787330
+    second: peddler_8
+  - first:
+      213: 7752479121962651551
+    second: peddler_9
+  - first:
+      213: -3100330685225306556
+    second: peddler_10
+  - first:
+      213: -298052187504111623
+    second: peddler_11
+  - first:
+      213: 2969130676454783874
+    second: peddler_12
+  - first:
+      213: -2715368554073132939
+    second: peddler_13
+  - first:
+      213: -4392518379919503061
+    second: peddler_14
+  - first:
+      213: -1396603915497012532
+    second: peddler_15
+  - first:
+      213: 8692015706350635101
+    second: peddler_16
+  - first:
+      213: -3124667338956398548
+    second: peddler_17
+  - first:
+      213: -5061932908111371190
+    second: peddler_18
+  - first:
+      213: 8091353276232416013
+    second: peddler_19
+  - first:
+      213: -251958421713148770
+    second: peddler_20
+  - first:
+      213: 8695495021585446152
+    second: peddler_21
+  - first:
+      213: -3687549115894708630
+    second: peddler_22
+  - first:
+      213: -6048228326900704958
+    second: peddler_23
+  - first:
+      213: 3388728974346222606
+    second: peddler_24
+  - first:
+      213: 5392729401348837950
+    second: peddler_25
+  - first:
+      213: -9109437991933686973
+    second: peddler_26
+  - first:
+      213: 6125014628108135579
+    second: peddler_27
+  - first:
+      213: -2425939399894609205
+    second: peddler_28
+  - first:
+      213: 2778412541459842767
+    second: peddler_29
+  - first:
+      213: -6450324875366481970
+    second: peddler_30
+  - first:
+      213: -9083414346496397501
+    second: peddler_31
+  - first:
+      213: -7945078241944504475
+    second: peddler_32
+  - first:
+      213: -6321327839785648950
+    second: peddler_33
+  - first:
+      213: 5452741121458300227
+    second: peddler_34
+  - first:
+      213: 6059418516929069161
+    second: peddler_35
+  - first:
+      213: 4269231139669462300
+    second: peddler_36
+  - first:
+      213: 2086025327912387999
+    second: peddler_37
+  - first:
+      213: -2437318885833526983
+    second: peddler_38
+  - first:
+      213: -7588407716784313537
+    second: peddler_39
+  - first:
+      213: 2667345833682262393
+    second: peddler_40
+  - first:
+      213: 5941900509013207064
+    second: peddler_41
+  - first:
+      213: -868756158917035801
+    second: peddler_42
+  - first:
+      213: 8350551128750126665
+    second: peddler_43
+  - first:
+      213: -6623033664107696609
+    second: peddler_44
+  - first:
+      213: 8626313947323686826
+    second: peddler_45
+  - first:
+      213: 1043221312973049726
+    second: peddler_46
+  - first:
+      213: -2135037584999692343
+    second: peddler_47
+  - first:
+      213: 4193939406861837854
+    second: peddler_48
+  - first:
+      213: 8950376773776613674
+    second: peddler_49
+  - first:
+      213: 1528227985266850613
+    second: peddler_50
+  - first:
+      213: 922791591826854866
+    second: peddler_51
+  - first:
+      213: 948317318437095104
+    second: peddler_52
+  - first:
+      213: 8782520964941059619
+    second: peddler_53
+  - first:
+      213: -119277326394766332
+    second: peddler_54
+  - first:
+      213: 1832846437735563345
+    second: peddler_55
+  - first:
+      213: 1529544532474026691
+    second: peddler_56
+  - first:
+      213: 4951943415891132991
+    second: peddler_57
+  - first:
+      213: -7086100604204051394
+    second: peddler_58
+  - first:
+      213: -4670039003221736969
+    second: peddler_59
+  - first:
+      213: -4560992688919403572
+    second: peddler_60
+  - first:
+      213: -4782341026860027901
+    second: peddler_61
+  - first:
+      213: 2239658252584748413
+    second: peddler_62
+  - first:
+      213: 5614879777985502215
+    second: peddler_63
+  - first:
+      213: -3908232263190369276
+    second: peddler_64
+  - first:
+      213: 2835145978413286783
+    second: peddler_65
+  - first:
+      213: -1345063288722439615
+    second: peddler_66
+  - first:
+      213: 2596372808764776537
+    second: peddler_67
+  - first:
+      213: -3228256302004802462
+    second: peddler_68
+  - first:
+      213: -1952587718242273909
+    second: peddler_69
+  - first:
+      213: -2426031153309860478
+    second: peddler_70
+  - first:
+      213: 8825641307955607039
+    second: peddler_71
+  - first:
+      213: -8293456819645835795
+    second: peddler_72
+  - first:
+      213: 6135688476179031567
+    second: peddler_73
+  - first:
+      213: -8533416030097162851
+    second: peddler_74
+  - first:
+      213: 4738025456879913139
+    second: peddler_75
+  - first:
+      213: -2684690873780833304
+    second: peddler_76
+  - first:
+      213: 734682050735006766
+    second: peddler_77
+  - first:
+      213: 5836093002320808237
+    second: peddler_78
+  - first:
+      213: 1684751319695720153
+    second: peddler_79
+  - first:
+      213: 8576110659190465537
+    second: peddler_80
+  - first:
+      213: -2393289747236487407
+    second: peddler_81
+  - first:
+      213: -5320167660687829536
+    second: peddler_82
+  - first:
+      213: 1455846735282022014
+    second: peddler_83
+  - first:
+      213: 3161472580202595907
+    second: peddler_84
+  - first:
+      213: -4169373384416637368
+    second: peddler_85
+  - first:
+      213: -800233735414641829
+    second: peddler_86
+  - first:
+      213: 9143972545237268231
+    second: peddler_87
+  - first:
+      213: -1163136624112601779
+    second: peddler_88
+  - first:
+      213: 3600312414397164663
+    second: peddler_89
+  - first:
+      213: 8433378619926661314
+    second: peddler_90
+  - first:
+      213: 7320818009531926491
+    second: peddler_91
+  - first:
+      213: 8496093624756668149
+    second: peddler_92
+  - first:
+      213: 1655823473212688729
+    second: peddler_93
+  - first:
+      213: 1485014472935954870
+    second: peddler_94
+  - first:
+      213: 2256339101744890545
+    second: peddler_95
+  - first:
+      213: -1405620483836259164
+    second: peddler_96
+  - first:
+      213: -8097042302509335662
+    second: peddler_97
+  - first:
+      213: 100461896340556364
+    second: peddler_98
+  - first:
+      213: 764187481220372932
+    second: peddler_99
+  - first:
+      213: -1129384783814825279
+    second: peddler_100
+  - first:
+      213: 1299925057549234459
+    second: peddler_101
+  - first:
+      213: -441072608469242118
+    second: peddler_102
+  - first:
+      213: -7923373463923266938
+    second: peddler_103
+  - first:
+      213: 8931461931032127078
+    second: peddler_104
+  - first:
+      213: 9137287064305546524
+    second: peddler_105
+  - first:
+      213: 4817818627829744120
+    second: peddler_106
+  - first:
+      213: -4693262295913634723
+    second: peddler_107
+  - first:
+      213: 508566015462974301
+    second: peddler_108
+  - first:
+      213: 8243499890330447750
+    second: peddler_109
+  - first:
+      213: -1185550420391096835
+    second: peddler_110
+  - first:
+      213: 3260068184892444719
+    second: peddler_111
+  - first:
+      213: 5777960824018569096
+    second: peddler_112
+  - first:
+      213: 7698665812912462577
+    second: peddler_113
+  - first:
+      213: 288434974870324148
+    second: peddler_114
+  - first:
+      213: 2913907562102571238
+    second: peddler_115
+  - first:
+      213: -176066291757202162
+    second: peddler_116
+  - first:
+      213: -3785337887380566909
+    second: peddler_117
+  - first:
+      213: 928122155554557690
+    second: peddler_118
+  - first:
+      213: -90679840225080289
+    second: peddler_119
+  - first:
+      213: -7774830013444630576
+    second: peddler_120
+  - first:
+      213: 5117962025901349993
+    second: peddler_121
+  - first:
+      213: -254633241985573662
+    second: peddler_122
+  - first:
+      213: 2986821992401343091
+    second: peddler_123
+  - first:
+      213: -8511899551310994017
+    second: peddler_124
+  - first:
+      213: -773492582013747082
+    second: peddler_125
+  - first:
+      213: 1109749174331968387
+    second: peddler_126
+  - first:
+      213: -7617346589596765361
+    second: peddler_127
+  - first:
+      213: -6945186098343290499
+    second: peddler_128
+  - first:
+      213: 5553679402392573488
+    second: peddler_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peddler_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 877
+        width: 17
+        height: 46
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5652174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f7e97ad736126b0800000000000000
+      internalID: -5322863893240971389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 877
+        width: 17
+        height: 46
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5652174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adb6c1afd2951920800000000000000
+      internalID: 2960433819255487906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 823
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f15ff96101b84c0800000000000000
+      internalID: -4284312931153928339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 823
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dbf564ff7c32da0800000000000000
+      internalID: -5970708781751878394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 823
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ca832b29ff4480800000000000000
+      internalID: -8912631173867715594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 823
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a6e72573676b30800000000000000
+      internalID: 4280499325670697398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 823
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b7257f950e67e0800000000000000
+      internalID: -1770471421086551060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 823
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.58536583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c03513b9000d110800000000000000
+      internalID: 1283526560348048510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 776
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6, y: 0.58536583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbfda66b273c2ef0800000000000000
+      internalID: -131669629554787330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 776
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.62068963, y: 0.5897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f4731efa6569b60800000000000000
+      internalID: 7752479121962651551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 776
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.5945946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446f6e40ba969f4d0800000000000000
+      internalID: -3100330685225306556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 776
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.68, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff0a475d1b1ddbf0800000000000000
+      internalID: -298052187504111623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 725
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b7dcd7e98743920800000000000000
+      internalID: 2969130676454783874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 726
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570743ccfa2115ad0800000000000000
+      internalID: -2715368554073132939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 728
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2116875ec3aa03c0800000000000000
+      internalID: -4392518379919503061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 726
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc281ec63244e9ce0800000000000000
+      internalID: -1396603915497012532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 726
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58452f8b3e30a870800000000000000
+      internalID: 8692015706350635101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 726
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c202d344c93f2a4d0800000000000000
+      internalID: -3124667338956398548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 723
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44692fd6d660c9b0800000000000000
+      internalID: -5061932908111371190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 700
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bb6065fe24a4070800000000000000
+      internalID: 8091353276232416013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 699
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ae9f762dd08cf0800000000000000
+      internalID: -251958421713148770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 698
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80537c3c6aa9ca870800000000000000
+      internalID: 8695495021585446152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 644
+        width: 17
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a664a47dd9133dcc0800000000000000
+      internalID: -3687549115894708630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 645
+        width: 19
+        height: 42
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249d0aea160601ca0800000000000000
+      internalID: -6048228326900704958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 645
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.5813953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cfaf34c0f270f20800000000000000
+      internalID: 3388728974346222606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 647
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32d33191d2d6da40800000000000000
+      internalID: 5392729401348837950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 644
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.59999996, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b48530966c49180800000000000000
+      internalID: -9109437991933686973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_27
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 643
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.60465115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ce4704a5c600550800000000000000
+      internalID: 6125014628108135579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 644
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4, y: 0.60465115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc258ae08f4555ed0800000000000000
+      internalID: -2425939399894609205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 646
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6443d5c77ee8620800000000000000
+      internalID: 2778412541459842767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 647
+        width: 27
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf3aed73b7db76a0800000000000000
+      internalID: -6450324875366481970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 645
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.58536583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f256127ca31f180800000000000000
+      internalID: -9083414346496397501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 595
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567763c0f696db190800000000000000
+      internalID: -7945078241944504475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 595
+        width: 35
+        height: 30
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accf9c052d12648a0800000000000000
+      internalID: -6321327839785648950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 595
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.6538462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345efacf8270cab40800000000000000
+      internalID: 5452741121458300227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 595
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604bf67901671450800000000000000
+      internalID: 6059418516929069161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 595
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc8082a1b5f3b30800000000000000
+      internalID: 4269231139669462300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 595
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f958fa6cbfc03fc10800000000000000
+      internalID: 2086025327912387999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 544
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931ba850367ec2ed0800000000000000
+      internalID: -2437318885833526983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 544
+        width: 49
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7142857, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bec3ef26f80b690800000000000000
+      internalID: -7588407716784313537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 544
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979dfbd47e0540520800000000000000
+      internalID: 2667345833682262393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 544
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818e17a080fd57250800000000000000
+      internalID: 5941900509013207064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 544
+        width: 30
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5666667, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8315750ee81f3f0800000000000000
+      internalID: -868756158917035801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 496
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94673eb220e13e370800000000000000
+      internalID: 8350551128750126665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 496
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6603774, y: 0.65000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e286b09f14614a0800000000000000
+      internalID: -6623033664107696609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 496
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.627907, y: 0.60975605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafd937b4d2d6b770800000000000000
+      internalID: 8626313947323686826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.60975605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f00e5c1444a7e00800000000000000
+      internalID: 1043221312973049726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_47
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 496
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c74cfbd0a2de52e0800000000000000
+      internalID: -2135037584999692343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 428
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16238b8badd33a30800000000000000
+      internalID: 4193939406861837854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 428
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21acde2140263c70800000000000000
+      internalID: 8950376773776613674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 428
+        width: 50
+        height: 62
+      alignment: 9
+      pivot: {x: 0.74, y: 0.38709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d39e88401a6ecc00800000000000000
+      internalID: 922791591826854866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 428
+        width: 52
+        height: 60
+      alignment: 9
+      pivot: {x: 0.75, y: 0.40000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3269bbb2948c1e970800000000000000
+      internalID: 8782520964941059619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_54
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 428
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5666667, y: 0.55813956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c4b7257ed385ef0800000000000000
+      internalID: -119277326394766332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 428
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1508111df149f6910800000000000000
+      internalID: 1832846437735563345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 361
+        width: 50
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7, y: 0.44262293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32860cdc46d8b440800000000000000
+      internalID: 4951943415891132991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 361
+        width: 51
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7254902, y: 0.45901638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc32ec9805914b0c0800000000000000
+      internalID: -4560992688919403572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 361
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5357143, y: 0.627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3003b3b8c26b1adb0800000000000000
+      internalID: -4782341026860027901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 361
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d750693805dd41f10800000000000000
+      internalID: 2239658252584748413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 361
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c995fb86f0ced40800000000000000
+      internalID: 5614879777985502215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_64
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 361
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c21dc967b23c9c0800000000000000
+      internalID: -3908232263190369276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 304
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7583b10f36785720800000000000000
+      internalID: 2835145978413286783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 304
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7083334, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142c74bb010655de0800000000000000
+      internalID: -1345063288722439615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_67
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 304
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7291667, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95068ea305b280420800000000000000
+      internalID: 2596372808764776537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_68
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 304
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c66135ffde233d0800000000000000
+      internalID: -3228256302004802462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 304
+        width: 43
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6976744, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d3fec0581055ed0800000000000000
+      internalID: -2426031153309860478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 304
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6888889, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff535b3620afa7a70800000000000000
+      internalID: 8825641307955607039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_72
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 304
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7045455, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de518f096f8b7ec80800000000000000
+      internalID: -8293456819645835795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 254
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e37f88dfdf0ebad0800000000000000
+      internalID: -2684690873780833304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 254
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e246ae0ce6d123a00800000000000000
+      internalID: 734682050735006766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_78
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 254
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3703704, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2989772aa7fdf050800000000000000
+      internalID: 5836093002320808237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 254
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6603774, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de75592660716710800000000000000
+      internalID: 1684751319695720153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_80
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 254
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.60465115, y: 0.60975605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1042d73d437740770800000000000000
+      internalID: 8576110659190465537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_81
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 254
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.58536583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f7263b7a359ced0800000000000000
+      internalID: -2393289747236487407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_82
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 254
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e55e2733b7fa26b0800000000000000
+      internalID: -5320167660687829536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 204
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76a5ef64e4343410800000000000000
+      internalID: 1455846735282022014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_84
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 205
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3460d1ebf8ecfdb20800000000000000
+      internalID: 3161472580202595907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.6764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ec0e54ff86326c0800000000000000
+      internalID: -4169373384416637368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 204
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.6388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b835f48aff4e4f0800000000000000
+      internalID: -800233735414641829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_87
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 204
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707bac2459ae5ee70800000000000000
+      internalID: 9143972545237268231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_88
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 204
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.52, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4575862765bbdfe0800000000000000
+      internalID: -1163136624112601779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_89
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 204
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.52, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c629cc011e6f130800000000000000
+      internalID: 3600312414397164663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 204
+        width: 25
+        height: 39
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c84a114c21690570800000000000000
+      internalID: 8433378619926661314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_91
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 204
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.64, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7ce6b3135c89560800000000000000
+      internalID: 7320818009531926491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_92
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 204
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f60512332038e570800000000000000
+      internalID: 8496093624756668149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_93
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 204
+        width: 33
+        height: 42
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959889b0daaaaf610800000000000000
+      internalID: 1655823473212688729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.63414633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b959a19bc4db9410800000000000000
+      internalID: 1485014472935954870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_95
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.63414633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2045c5570205f10800000000000000
+      internalID: 2256339101744890545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 156
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.60975605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a45de30e9b3e7ce0800000000000000
+      internalID: -1405620483836259164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 156
+        width: 47
+        height: 41
+      alignment: 9
+      pivot: {x: 0.63829786, y: 0.5609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bbe930de681af80800000000000000
+      internalID: -8097042302509335662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_98
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 156
+        width: 45
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a47dcff89e46100800000000000000
+      internalID: 100461896340556364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_99
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 156
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9d0ff1770fa9a00800000000000000
+      internalID: 764187481220372932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_100
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 156
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca6cf9d58e9350f0800000000000000
+      internalID: -1129384783814825279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_101
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 156
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11f9d9d3f24a0210800000000000000
+      internalID: 1299925057549234459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3939394, y: 0.61290324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe290caccef0e9f0800000000000000
+      internalID: -441072608469242118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_103
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 109
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3548387, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae81c70d58a0290800000000000000
+      internalID: -7923373463923266938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 109
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.39285716, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666281c2e4de2fb70800000000000000
+      internalID: 8931461931032127078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 109
+        width: 56
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7678572, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54655ecece2edeb0800000000000000
+      internalID: -4693262295913634723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_109
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 109
+        width: 56
+        height: 42
+      alignment: 9
+      pivot: {x: 0.80357146, y: 0.54761904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f2e1d697bc66270800000000000000
+      internalID: 8243499890330447750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_110
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 109
+        width: 27
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd06498c241c8fe0800000000000000
+      internalID: -1185550420391096835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_111
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 109
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.55263156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f201118ddb61e3d20800000000000000
+      internalID: 3260068184892444719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 109
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88700c9a1c07f2050800000000000000
+      internalID: 5777960824018569096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_113
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 109
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa571f74c727da60800000000000000
+      internalID: 7698665812912462577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_114
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3c1f9d41ab00400800000000000000
+      internalID: 288434974870324148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_115
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.40000004, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0c27b3d77407820800000000000000
+      internalID: 2913907562102571238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_118
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 54
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6481482, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afecffdde2a51ec00800000000000000
+      internalID: 928122155554557690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_120
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 64
+        width: 56
+        height: 39
+      alignment: 9
+      pivot: {x: 0.67857146, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7569bab414a1490800000000000000
+      internalID: -7774830013444630576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_121
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 64
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.62857145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cd9cfa857a60740800000000000000
+      internalID: 5117962025901349993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_122
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 64
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec917f5a6c577cf0800000000000000
+      internalID: -254633241985573662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_123
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3721868f6c2537920800000000000000
+      internalID: 2986821992401343091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_124
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 17
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.6486487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f952d40c478afd980800000000000000
+      internalID: -8511899551310994017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_125
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 16
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.6764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670cba448900445f0800000000000000
+      internalID: -773492582013747082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_126
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 16
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.6388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b07dd8efe966f00800000000000000
+      internalID: 1109749174331968387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_127
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f433d0c92afb94690800000000000000
+      internalID: -7617346589596765361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_128
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.52, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79544d6a0ebd9f90800000000000000
+      internalID: -6945186098343290499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peddler_129
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 16
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.52, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0365308edf1a21d40800000000000000
+      internalID: 5553679402392573488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ce71e49ea765afb4c89373bae015d20b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      peddler_0: -5322863893240971389
+      peddler_1: 2960433819255487906
+      peddler_10: -3100330685225306556
+      peddler_100: -1129384783814825279
+      peddler_101: 1299925057549234459
+      peddler_102: -441072608469242118
+      peddler_103: -7923373463923266938
+      peddler_104: 8931461931032127078
+      peddler_105: 9137287064305546524
+      peddler_106: 4817818627829744120
+      peddler_107: -4693262295913634723
+      peddler_108: 508566015462974301
+      peddler_109: 8243499890330447750
+      peddler_11: -298052187504111623
+      peddler_110: -1185550420391096835
+      peddler_111: 3260068184892444719
+      peddler_112: 5777960824018569096
+      peddler_113: 7698665812912462577
+      peddler_114: 288434974870324148
+      peddler_115: 2913907562102571238
+      peddler_116: -176066291757202162
+      peddler_117: -3785337887380566909
+      peddler_118: 928122155554557690
+      peddler_119: -90679840225080289
+      peddler_12: 2969130676454783874
+      peddler_120: -7774830013444630576
+      peddler_121: 5117962025901349993
+      peddler_122: -254633241985573662
+      peddler_123: 2986821992401343091
+      peddler_124: -8511899551310994017
+      peddler_125: -773492582013747082
+      peddler_126: 1109749174331968387
+      peddler_127: -7617346589596765361
+      peddler_128: -6945186098343290499
+      peddler_129: 5553679402392573488
+      peddler_13: -2715368554073132939
+      peddler_14: -4392518379919503061
+      peddler_15: -1396603915497012532
+      peddler_16: 8692015706350635101
+      peddler_17: -3124667338956398548
+      peddler_18: -5061932908111371190
+      peddler_19: 8091353276232416013
+      peddler_2: -4284312931153928339
+      peddler_20: -251958421713148770
+      peddler_21: 8695495021585446152
+      peddler_22: -3687549115894708630
+      peddler_23: -6048228326900704958
+      peddler_24: 3388728974346222606
+      peddler_25: 5392729401348837950
+      peddler_26: -9109437991933686973
+      peddler_27: 6125014628108135579
+      peddler_28: -2425939399894609205
+      peddler_29: 2778412541459842767
+      peddler_3: -5970708781751878394
+      peddler_30: -6450324875366481970
+      peddler_31: -9083414346496397501
+      peddler_32: -7945078241944504475
+      peddler_33: -6321327839785648950
+      peddler_34: 5452741121458300227
+      peddler_35: 6059418516929069161
+      peddler_36: 4269231139669462300
+      peddler_37: 2086025327912387999
+      peddler_38: -2437318885833526983
+      peddler_39: -7588407716784313537
+      peddler_4: -8912631173867715594
+      peddler_40: 2667345833682262393
+      peddler_41: 5941900509013207064
+      peddler_42: -868756158917035801
+      peddler_43: 8350551128750126665
+      peddler_44: -6623033664107696609
+      peddler_45: 8626313947323686826
+      peddler_46: 1043221312973049726
+      peddler_47: -2135037584999692343
+      peddler_48: 4193939406861837854
+      peddler_49: 8950376773776613674
+      peddler_5: 4280499325670697398
+      peddler_50: 1528227985266850613
+      peddler_51: 922791591826854866
+      peddler_52: 948317318437095104
+      peddler_53: 8782520964941059619
+      peddler_54: -119277326394766332
+      peddler_55: 1832846437735563345
+      peddler_56: 1529544532474026691
+      peddler_57: 4951943415891132991
+      peddler_58: -7086100604204051394
+      peddler_59: -4670039003221736969
+      peddler_6: -1770471421086551060
+      peddler_60: -4560992688919403572
+      peddler_61: -4782341026860027901
+      peddler_62: 2239658252584748413
+      peddler_63: 5614879777985502215
+      peddler_64: -3908232263190369276
+      peddler_65: 2835145978413286783
+      peddler_66: -1345063288722439615
+      peddler_67: 2596372808764776537
+      peddler_68: -3228256302004802462
+      peddler_69: -1952587718242273909
+      peddler_7: 1283526560348048510
+      peddler_70: -2426031153309860478
+      peddler_71: 8825641307955607039
+      peddler_72: -8293456819645835795
+      peddler_73: 6135688476179031567
+      peddler_74: -8533416030097162851
+      peddler_75: 4738025456879913139
+      peddler_76: -2684690873780833304
+      peddler_77: 734682050735006766
+      peddler_78: 5836093002320808237
+      peddler_79: 1684751319695720153
+      peddler_8: -131669629554787330
+      peddler_80: 8576110659190465537
+      peddler_81: -2393289747236487407
+      peddler_82: -5320167660687829536
+      peddler_83: 1455846735282022014
+      peddler_84: 3161472580202595907
+      peddler_85: -4169373384416637368
+      peddler_86: -800233735414641829
+      peddler_87: 9143972545237268231
+      peddler_88: -1163136624112601779
+      peddler_89: 3600312414397164663
+      peddler_9: 7752479121962651551
+      peddler_90: 8433378619926661314
+      peddler_91: 7320818009531926491
+      peddler_92: 8496093624756668149
+      peddler_93: 1655823473212688729
+      peddler_94: 1485014472935954870
+      peddler_95: 2256339101744890545
+      peddler_96: -1405620483836259164
+      peddler_97: -8097042302509335662
+      peddler_98: 100461896340556364
+      peddler_99: 764187481220372932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

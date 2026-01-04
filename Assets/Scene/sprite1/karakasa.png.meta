@@ -1,0 +1,1971 @@
+fileFormatVersion: 2
+guid: ce5faf1ece8573744b29dc2fc87400d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 530043485369137239
+    second: karakasa_0
+  - first:
+      213: -6317317979098430715
+    second: karakasa_1
+  - first:
+      213: -7717084937875474676
+    second: karakasa_2
+  - first:
+      213: -5947013766106502171
+    second: karakasa_3
+  - first:
+      213: 3833268200098949508
+    second: karakasa_4
+  - first:
+      213: 2032121165276553026
+    second: karakasa_5
+  - first:
+      213: -8698246962505417917
+    second: karakasa_6
+  - first:
+      213: 5398647730853716815
+    second: karakasa_7
+  - first:
+      213: 6426808390915449831
+    second: karakasa_8
+  - first:
+      213: -664270900057879744
+    second: karakasa_9
+  - first:
+      213: 5648547827872935329
+    second: karakasa_10
+  - first:
+      213: 644876973042351141
+    second: karakasa_11
+  - first:
+      213: 5324076698875865777
+    second: karakasa_12
+  - first:
+      213: -5917006655791457760
+    second: karakasa_13
+  - first:
+      213: -3811765336845731936
+    second: karakasa_14
+  - first:
+      213: 8860106315371967798
+    second: karakasa_15
+  - first:
+      213: -6157287998834251799
+    second: karakasa_16
+  - first:
+      213: -1084669108948383000
+    second: karakasa_17
+  - first:
+      213: 4069867563613382300
+    second: karakasa_18
+  - first:
+      213: -5886431258753449272
+    second: karakasa_19
+  - first:
+      213: -979387899503419020
+    second: karakasa_20
+  - first:
+      213: 909589391370940285
+    second: karakasa_21
+  - first:
+      213: 7400182951886994589
+    second: karakasa_22
+  - first:
+      213: -1249698713243346783
+    second: karakasa_23
+  - first:
+      213: 8613446495659396217
+    second: karakasa_24
+  - first:
+      213: -530214706011525078
+    second: karakasa_25
+  - first:
+      213: -4367772321225959441
+    second: karakasa_26
+  - first:
+      213: -2684504900102464209
+    second: karakasa_27
+  - first:
+      213: 1994059504966916440
+    second: karakasa_28
+  - first:
+      213: 8670264724783790067
+    second: karakasa_29
+  - first:
+      213: 5628347824758770774
+    second: karakasa_30
+  - first:
+      213: -4032981973109822851
+    second: karakasa_31
+  - first:
+      213: 20897318163340962
+    second: karakasa_32
+  - first:
+      213: -1339860112618202691
+    second: karakasa_33
+  - first:
+      213: 8325870925823604606
+    second: karakasa_34
+  - first:
+      213: 7070967262297547846
+    second: karakasa_35
+  - first:
+      213: -4958285348345968774
+    second: karakasa_36
+  - first:
+      213: 3236338179688674097
+    second: karakasa_37
+  - first:
+      213: 4401100680444536200
+    second: karakasa_38
+  - first:
+      213: -984742167714320600
+    second: karakasa_39
+  - first:
+      213: -8250860988854137458
+    second: karakasa_40
+  - first:
+      213: -5976095620535317427
+    second: karakasa_41
+  - first:
+      213: 1802827171690041688
+    second: karakasa_42
+  - first:
+      213: -7012917118565374370
+    second: karakasa_43
+  - first:
+      213: 3658891048696452438
+    second: karakasa_44
+  - first:
+      213: -1761830352743959424
+    second: karakasa_45
+  - first:
+      213: 8981509150582616669
+    second: karakasa_46
+  - first:
+      213: -597041308251502207
+    second: karakasa_47
+  - first:
+      213: 3082594809957506559
+    second: karakasa_48
+  - first:
+      213: 7046926228096086533
+    second: karakasa_49
+  - first:
+      213: 2078710443875917932
+    second: karakasa_50
+  - first:
+      213: 4514262680486804250
+    second: karakasa_51
+  - first:
+      213: 7812268230963002961
+    second: karakasa_52
+  - first:
+      213: 695727979592901249
+    second: karakasa_53
+  - first:
+      213: -7413977704399583890
+    second: karakasa_54
+  - first:
+      213: 2566246733584366290
+    second: karakasa_55
+  - first:
+      213: -16259210009181753
+    second: karakasa_56
+  - first:
+      213: 3512378814686488528
+    second: karakasa_57
+  - first:
+      213: -4503024388090752920
+    second: karakasa_58
+  - first:
+      213: -8708895582031834065
+    second: karakasa_59
+  - first:
+      213: -8030990450030449753
+    second: karakasa_60
+  - first:
+      213: -8236545765508846195
+    second: karakasa_61
+  - first:
+      213: -6740999614055375783
+    second: karakasa_62
+  - first:
+      213: -8757232424696253216
+    second: karakasa_63
+  - first:
+      213: 7462760418188070555
+    second: karakasa_64
+  - first:
+      213: -7850513467353962272
+    second: karakasa_65
+  - first:
+      213: 2506566774372775913
+    second: karakasa_66
+  - first:
+      213: -4329103532804097741
+    second: karakasa_67
+  - first:
+      213: 479339710994947874
+    second: karakasa_68
+  - first:
+      213: -6660824301355728072
+    second: karakasa_69
+  - first:
+      213: -8490160472596667118
+    second: karakasa_70
+  - first:
+      213: -3992096468352165786
+    second: karakasa_71
+  - first:
+      213: 1707208252802080254
+    second: karakasa_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: karakasa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758ffecddb71b5700800000000000000
+      internalID: 530043485369137239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 348
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50346a2c4c06458a0800000000000000
+      internalID: -6317317979098430715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 348
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c073a68c22867e490800000000000000
+      internalID: -7717084937875474676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 349
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb2dd40d76f77da0800000000000000
+      internalID: -5947013766106502171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 352
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e2b35e11823530800000000000000
+      internalID: 3833268200098949508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 353
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f9cd4ee6b833c10800000000000000
+      internalID: 2032121165276553026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 348
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b7e3f097e994780800000000000000
+      internalID: -8698246962505417917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 348
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4321090289dbea40800000000000000
+      internalID: 5398647730853716815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 348
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e30c4e2c903950800000000000000
+      internalID: 6426808390915449831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 347
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bcb67c22908c6f0800000000000000
+      internalID: -664270900057879744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adab29725ca36e40800000000000000
+      internalID: 5648547827872935329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb406b03013f800800000000000000
+      internalID: 644876973042351141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 300
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba2e69ac8be2e940800000000000000
+      internalID: 5324076698875865777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 257
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a9de3dbc192eda0800000000000000
+      internalID: -5917006655791457760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 291
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7b92a2f93e91bc0800000000000000
+      internalID: -3811765336845731936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 300
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635f0ff30cb65fa70800000000000000
+      internalID: 8860106315371967798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 299
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e765b1103bec8aa0800000000000000
+      internalID: -6157287998834251799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 298
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c966f0c6cf21b7830800000000000000
+      internalID: 4069867563613382300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 300
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ce3335f13f4ea0800000000000000
+      internalID: -5886431258753449272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 299
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47168c8f4e38862f0800000000000000
+      internalID: -979387899503419020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 257
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe0247bb28f9c00800000000000000
+      internalID: 909589391370940285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 257
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c3028df2bb2b660800000000000000
+      internalID: 7400182951886994589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c8c99a3fb198770800000000000000
+      internalID: 8613446495659396217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 213
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20be79b88c44a8f0800000000000000
+      internalID: -530214706011525078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 213
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe71b8d173e8263c0800000000000000
+      internalID: -4367772321225959441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 213
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dd8973409bebad0800000000000000
+      internalID: -2684504900102464209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8595b860e825cab10800000000000000
+      internalID: 1994059504966916440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 125
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7765584d7f25870800000000000000
+      internalID: 8670264724783790067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 169
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc61fb688eb1e40800000000000000
+      internalID: 5628347824758770774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 169
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a2c3b5348f708c0800000000000000
+      internalID: -4032981973109822851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 169
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae52e9000e3a4000800000000000000
+      internalID: 20897318163340962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 163
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db95da2935cd76de0800000000000000
+      internalID: -1339860112618202691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 171
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77f773ae7f6b8370800000000000000
+      internalID: 8325870925823604606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 166
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64469afe24f112260800000000000000
+      internalID: 7070967262297547846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 145
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7780dceeb1a03bb0800000000000000
+      internalID: -4958285348345968774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 125
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133b0657d68c9ec20800000000000000
+      internalID: 3236338179688674097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 149
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88560a630c9d31d30800000000000000
+      internalID: 4401100680444536200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 119
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f2a02473e7552f0800000000000000
+      internalID: -984742167714320600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 115
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d883445ad0f7d80800000000000000
+      internalID: -8250860988854137458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 155
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c893222b4a01da0800000000000000
+      internalID: -5976095620535317427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 126
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851d108c2cde40910800000000000000
+      internalID: 1802827171690041688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56a7a4690d1dae90800000000000000
+      internalID: -7012917118565374370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655986de50ef6c230800000000000000
+      internalID: 3658891048696452438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084f136f0a8bc87e0800000000000000
+      internalID: -1761830352743959424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 123
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52b5638cfab4ac70800000000000000
+      internalID: 8981509150582616669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_47
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 124
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1894f69e712e6b7f0800000000000000
+      internalID: -597041308251502207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 97
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffddaf9b5a397ca20800000000000000
+      internalID: 3082594809957506559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502fc087116bbc160800000000000000
+      internalID: 7046926228096086533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_50
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 97
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c606e1e922019dc10800000000000000
+      internalID: 2078710443875917932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 95
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bf7358df1e5ae30800000000000000
+      internalID: 4514262680486804250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_52
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 97
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e7e9c9090ca6c60800000000000000
+      internalID: 7812268230963002961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 97
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1826feb49e8b7a900800000000000000
+      internalID: 695727979592901249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65c89c0f824c1990800000000000000
+      internalID: -7413977704399583890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_55
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 74
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da7d41cec32d9320800000000000000
+      internalID: 2566246733584366290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1031ba55c36cff0800000000000000
+      internalID: -16259210009181753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7eefd2ce97eb030800000000000000
+      internalID: 3512378814686488528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_58
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 67
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8601ee45d2b0281c0800000000000000
+      internalID: -4503024388090752920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24160f1c99c32780800000000000000
+      internalID: -8708895582031834065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 67
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab61675cb03c8090800000000000000
+      internalID: -8030990450030449753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_61
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 71
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8de89ee349e1bd80800000000000000
+      internalID: -8236545765508846195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_62
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 44
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c1f2df0982372a0800000000000000
+      internalID: -6740999614055375783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_63
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4727ee18f087680800000000000000
+      internalID: -8757232424696253216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_64
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 71
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e02f99f0d019760800000000000000
+      internalID: 7462760418188070555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_65
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e862f1689f5d0390800000000000000
+      internalID: -7850513467353962272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_66
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e73940733d19c220800000000000000
+      internalID: 2506566774372775913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339b253064febe3c0800000000000000
+      internalID: -4329103532804097741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_68
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f97907de4f6a600800000000000000
+      internalID: 479339710994947874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8330766a69fff83a0800000000000000
+      internalID: -6660824301355728072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21520d07804ec2a80800000000000000
+      internalID: -8490160472596667118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66817ceb9693998c0800000000000000
+      internalID: -3992096468352165786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakasa_72
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 6
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd12e95cd831b710800000000000000
+      internalID: 1707208252802080254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9824bfdb1f3f2a14a98bfa8c68ba0f25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      karakasa_0: 530043485369137239
+      karakasa_1: -6317317979098430715
+      karakasa_10: 5648547827872935329
+      karakasa_11: 644876973042351141
+      karakasa_12: 5324076698875865777
+      karakasa_13: -5917006655791457760
+      karakasa_14: -3811765336845731936
+      karakasa_15: 8860106315371967798
+      karakasa_16: -6157287998834251799
+      karakasa_17: -1084669108948383000
+      karakasa_18: 4069867563613382300
+      karakasa_19: -5886431258753449272
+      karakasa_2: -7717084937875474676
+      karakasa_20: -979387899503419020
+      karakasa_21: 909589391370940285
+      karakasa_22: 7400182951886994589
+      karakasa_23: -1249698713243346783
+      karakasa_24: 8613446495659396217
+      karakasa_25: -530214706011525078
+      karakasa_26: -4367772321225959441
+      karakasa_27: -2684504900102464209
+      karakasa_28: 1994059504966916440
+      karakasa_29: 8670264724783790067
+      karakasa_3: -5947013766106502171
+      karakasa_30: 5628347824758770774
+      karakasa_31: -4032981973109822851
+      karakasa_32: 20897318163340962
+      karakasa_33: -1339860112618202691
+      karakasa_34: 8325870925823604606
+      karakasa_35: 7070967262297547846
+      karakasa_36: -4958285348345968774
+      karakasa_37: 3236338179688674097
+      karakasa_38: 4401100680444536200
+      karakasa_39: -984742167714320600
+      karakasa_4: 3833268200098949508
+      karakasa_40: -8250860988854137458
+      karakasa_41: -5976095620535317427
+      karakasa_42: 1802827171690041688
+      karakasa_43: -7012917118565374370
+      karakasa_44: 3658891048696452438
+      karakasa_45: -1761830352743959424
+      karakasa_46: 8981509150582616669
+      karakasa_47: -597041308251502207
+      karakasa_48: 3082594809957506559
+      karakasa_49: 7046926228096086533
+      karakasa_5: 2032121165276553026
+      karakasa_50: 2078710443875917932
+      karakasa_51: 4514262680486804250
+      karakasa_52: 7812268230963002961
+      karakasa_53: 695727979592901249
+      karakasa_54: -7413977704399583890
+      karakasa_55: 2566246733584366290
+      karakasa_56: -16259210009181753
+      karakasa_57: 3512378814686488528
+      karakasa_58: -4503024388090752920
+      karakasa_59: -8708895582031834065
+      karakasa_6: -8698246962505417917
+      karakasa_60: -8030990450030449753
+      karakasa_61: -8236545765508846195
+      karakasa_62: -6740999614055375783
+      karakasa_63: -8757232424696253216
+      karakasa_64: 7462760418188070555
+      karakasa_65: -7850513467353962272
+      karakasa_66: 2506566774372775913
+      karakasa_67: -4329103532804097741
+      karakasa_68: 479339710994947874
+      karakasa_69: -6660824301355728072
+      karakasa_7: 5398647730853716815
+      karakasa_70: -8490160472596667118
+      karakasa_71: -3992096468352165786
+      karakasa_72: 1707208252802080254
+      karakasa_8: 6426808390915449831
+      karakasa_9: -664270900057879744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

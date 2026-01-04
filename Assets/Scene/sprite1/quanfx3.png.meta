@@ -1,0 +1,5057 @@
+fileFormatVersion: 2
+guid: 7099fd9a865da0648b22f267b581d780
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5371498444646478516
+    second: quanfx3_0
+  - first:
+      213: 5563064519149605546
+    second: quanfx3_1
+  - first:
+      213: -5596186952416899475
+    second: quanfx3_2
+  - first:
+      213: -965299270870665673
+    second: quanfx3_3
+  - first:
+      213: 669451909583148405
+    second: quanfx3_4
+  - first:
+      213: -752820494740409036
+    second: quanfx3_5
+  - first:
+      213: 7471046196897530905
+    second: quanfx3_6
+  - first:
+      213: -8039514107450482650
+    second: quanfx3_7
+  - first:
+      213: 6345045016196098718
+    second: quanfx3_8
+  - first:
+      213: -8303650104274044897
+    second: quanfx3_9
+  - first:
+      213: 8369308781018126611
+    second: quanfx3_10
+  - first:
+      213: -8803852691506070953
+    second: quanfx3_11
+  - first:
+      213: 2423585577367807522
+    second: quanfx3_12
+  - first:
+      213: 5429095422273783708
+    second: quanfx3_13
+  - first:
+      213: 9139181717311666462
+    second: quanfx3_14
+  - first:
+      213: 9194359160472453156
+    second: quanfx3_15
+  - first:
+      213: -8752390780027912090
+    second: quanfx3_16
+  - first:
+      213: -6371861902622954308
+    second: quanfx3_17
+  - first:
+      213: -4135093995522187764
+    second: quanfx3_18
+  - first:
+      213: -1032758182497983763
+    second: quanfx3_19
+  - first:
+      213: -7736408548977790785
+    second: quanfx3_20
+  - first:
+      213: 301179897500675371
+    second: quanfx3_21
+  - first:
+      213: -5884774642348543029
+    second: quanfx3_22
+  - first:
+      213: 6943986274524049391
+    second: quanfx3_23
+  - first:
+      213: 3513551859494535638
+    second: quanfx3_24
+  - first:
+      213: -2654570334284149633
+    second: quanfx3_25
+  - first:
+      213: 5563784124769656459
+    second: quanfx3_26
+  - first:
+      213: 1888061500310804266
+    second: quanfx3_27
+  - first:
+      213: -430803872844798899
+    second: quanfx3_28
+  - first:
+      213: -983895075036338850
+    second: quanfx3_29
+  - first:
+      213: 7283278651636965270
+    second: quanfx3_30
+  - first:
+      213: 1691720490786904011
+    second: quanfx3_31
+  - first:
+      213: 2029538759481617389
+    second: quanfx3_32
+  - first:
+      213: 2502643981423431627
+    second: quanfx3_33
+  - first:
+      213: 5119887264325430504
+    second: quanfx3_34
+  - first:
+      213: -1593918991389425842
+    second: quanfx3_35
+  - first:
+      213: -2062816532816218216
+    second: quanfx3_36
+  - first:
+      213: -8425551318209567698
+    second: quanfx3_37
+  - first:
+      213: 163475063956030107
+    second: quanfx3_38
+  - first:
+      213: -2903416885276447813
+    second: quanfx3_39
+  - first:
+      213: -8387832869012672922
+    second: quanfx3_40
+  - first:
+      213: 2709165972702752418
+    second: quanfx3_41
+  - first:
+      213: -4958064792608896180
+    second: quanfx3_42
+  - first:
+      213: 8298978698144276606
+    second: quanfx3_43
+  - first:
+      213: -7013584136632980713
+    second: quanfx3_44
+  - first:
+      213: -69121271246545323
+    second: quanfx3_45
+  - first:
+      213: 1724985740529351440
+    second: quanfx3_46
+  - first:
+      213: -2075224476176237306
+    second: quanfx3_47
+  - first:
+      213: -7038171511718018269
+    second: quanfx3_48
+  - first:
+      213: 2651064081157740514
+    second: quanfx3_49
+  - first:
+      213: -959601540949321074
+    second: quanfx3_50
+  - first:
+      213: -6323572230205777062
+    second: quanfx3_51
+  - first:
+      213: -2018581617278423601
+    second: quanfx3_52
+  - first:
+      213: 2597074242290986861
+    second: quanfx3_53
+  - first:
+      213: -2667218651413730868
+    second: quanfx3_54
+  - first:
+      213: -5019065980244138767
+    second: quanfx3_55
+  - first:
+      213: -2543651636997623394
+    second: quanfx3_56
+  - first:
+      213: 2413848928734973727
+    second: quanfx3_57
+  - first:
+      213: -8426491868393893030
+    second: quanfx3_58
+  - first:
+      213: 1490967042472795765
+    second: quanfx3_59
+  - first:
+      213: 767555728819781118
+    second: quanfx3_60
+  - first:
+      213: -4515996074629383309
+    second: quanfx3_61
+  - first:
+      213: -164850004839745888
+    second: quanfx3_62
+  - first:
+      213: -7826238718126415933
+    second: quanfx3_63
+  - first:
+      213: 7527698994418873815
+    second: quanfx3_64
+  - first:
+      213: 7089145650572771646
+    second: quanfx3_65
+  - first:
+      213: -6024476273798889317
+    second: quanfx3_66
+  - first:
+      213: -9007956302120587578
+    second: quanfx3_67
+  - first:
+      213: 6569199390552811699
+    second: quanfx3_68
+  - first:
+      213: -8433044373001966861
+    second: quanfx3_69
+  - first:
+      213: 5071323571233066041
+    second: quanfx3_70
+  - first:
+      213: -5968120031620833434
+    second: quanfx3_71
+  - first:
+      213: 7265731181249333048
+    second: quanfx3_72
+  - first:
+      213: -5576473404554279383
+    second: quanfx3_73
+  - first:
+      213: 7338057010110900337
+    second: quanfx3_74
+  - first:
+      213: -276110367710455481
+    second: quanfx3_75
+  - first:
+      213: -6785530428767008339
+    second: quanfx3_76
+  - first:
+      213: 2138732047718356
+    second: quanfx3_77
+  - first:
+      213: -7504377494770176679
+    second: quanfx3_78
+  - first:
+      213: -9003491587366698089
+    second: quanfx3_79
+  - first:
+      213: 2332452147151996159
+    second: quanfx3_80
+  - first:
+      213: -391133728737420744
+    second: quanfx3_81
+  - first:
+      213: -393874840983421746
+    second: quanfx3_82
+  - first:
+      213: 7846855161614482097
+    second: quanfx3_83
+  - first:
+      213: 8851109903871946968
+    second: quanfx3_84
+  - first:
+      213: -7561611746046983353
+    second: quanfx3_85
+  - first:
+      213: -2001133963685379225
+    second: quanfx3_86
+  - first:
+      213: 292945398232618194
+    second: quanfx3_87
+  - first:
+      213: 7955695896431957753
+    second: quanfx3_88
+  - first:
+      213: 72337125055897473
+    second: quanfx3_89
+  - first:
+      213: 6117336402968152296
+    second: quanfx3_90
+  - first:
+      213: 3130643093652593545
+    second: quanfx3_91
+  - first:
+      213: -7099919845587204215
+    second: quanfx3_92
+  - first:
+      213: -2749320560495160175
+    second: quanfx3_93
+  - first:
+      213: -7354797300877041640
+    second: quanfx3_94
+  - first:
+      213: -7801086447380478061
+    second: quanfx3_95
+  - first:
+      213: -8959058593058370171
+    second: quanfx3_96
+  - first:
+      213: 7081245643577955839
+    second: quanfx3_97
+  - first:
+      213: 7391210121522695590
+    second: quanfx3_98
+  - first:
+      213: -7273965337101756937
+    second: quanfx3_99
+  - first:
+      213: -2748015397541941058
+    second: quanfx3_100
+  - first:
+      213: 7207132278112506267
+    second: quanfx3_101
+  - first:
+      213: 2637074751306752658
+    second: quanfx3_102
+  - first:
+      213: -2562580097816500523
+    second: quanfx3_103
+  - first:
+      213: 1919244847014180622
+    second: quanfx3_104
+  - first:
+      213: -1353920066853296228
+    second: quanfx3_105
+  - first:
+      213: 5039138021667222446
+    second: quanfx3_106
+  - first:
+      213: 1653216095117780612
+    second: quanfx3_107
+  - first:
+      213: -5367389325044963267
+    second: quanfx3_108
+  - first:
+      213: 5188354168974223968
+    second: quanfx3_109
+  - first:
+      213: -4953769649943614019
+    second: quanfx3_110
+  - first:
+      213: -2576511636453295904
+    second: quanfx3_111
+  - first:
+      213: -3896766827300168974
+    second: quanfx3_112
+  - first:
+      213: -1249035873425665238
+    second: quanfx3_113
+  - first:
+      213: -8621042877138340033
+    second: quanfx3_114
+  - first:
+      213: 4659555357490279104
+    second: quanfx3_115
+  - first:
+      213: 2390805115889834480
+    second: quanfx3_116
+  - first:
+      213: 5104517364619767685
+    second: quanfx3_117
+  - first:
+      213: -4678117815678479059
+    second: quanfx3_118
+  - first:
+      213: -2458509447787772333
+    second: quanfx3_119
+  - first:
+      213: -4498280943025745678
+    second: quanfx3_120
+  - first:
+      213: -3992889946370993179
+    second: quanfx3_121
+  - first:
+      213: 8209729815887193199
+    second: quanfx3_122
+  - first:
+      213: -4800127272588906068
+    second: quanfx3_123
+  - first:
+      213: 545218484778779485
+    second: quanfx3_124
+  - first:
+      213: -5725387939591520258
+    second: quanfx3_125
+  - first:
+      213: -6059482478320820774
+    second: quanfx3_126
+  - first:
+      213: -4123810491840595939
+    second: quanfx3_127
+  - first:
+      213: -7364225796983889920
+    second: quanfx3_128
+  - first:
+      213: 2694632770540920409
+    second: quanfx3_129
+  - first:
+      213: -6522205294460281184
+    second: quanfx3_130
+  - first:
+      213: -3559713608815785802
+    second: quanfx3_131
+  - first:
+      213: 6951178494817532445
+    second: quanfx3_132
+  - first:
+      213: -2113942210963906685
+    second: quanfx3_133
+  - first:
+      213: 1161870196367386921
+    second: quanfx3_134
+  - first:
+      213: 5244763504919969181
+    second: quanfx3_135
+  - first:
+      213: 4485970760287180622
+    second: quanfx3_136
+  - first:
+      213: 1713268645023045806
+    second: quanfx3_137
+  - first:
+      213: 2754670684434260089
+    second: quanfx3_138
+  - first:
+      213: -586035505036549926
+    second: quanfx3_139
+  - first:
+      213: 3050598136556202835
+    second: quanfx3_140
+  - first:
+      213: -6821772852908745892
+    second: quanfx3_141
+  - first:
+      213: 4331873020636409016
+    second: quanfx3_142
+  - first:
+      213: -3241174420228571829
+    second: quanfx3_143
+  - first:
+      213: -5971065383103151700
+    second: quanfx3_144
+  - first:
+      213: 785987300616106280
+    second: quanfx3_145
+  - first:
+      213: -7535657588974539910
+    second: quanfx3_146
+  - first:
+      213: 5775181246711940309
+    second: quanfx3_147
+  - first:
+      213: -3550928595838567607
+    second: quanfx3_148
+  - first:
+      213: -2158984799082441739
+    second: quanfx3_149
+  - first:
+      213: 8233116714754305189
+    second: quanfx3_150
+  - first:
+      213: 2354878623570500470
+    second: quanfx3_151
+  - first:
+      213: 7185850371994587953
+    second: quanfx3_152
+  - first:
+      213: -110495943509858991
+    second: quanfx3_153
+  - first:
+      213: -677689655092456503
+    second: quanfx3_154
+  - first:
+      213: 8207047734365078391
+    second: quanfx3_155
+  - first:
+      213: -7759859333167161912
+    second: quanfx3_156
+  - first:
+      213: -4899094585977876490
+    second: quanfx3_157
+  - first:
+      213: 3871097719456893066
+    second: quanfx3_158
+  - first:
+      213: -5775391538952327178
+    second: quanfx3_159
+  - first:
+      213: -8220057994262889518
+    second: quanfx3_160
+  - first:
+      213: 3764028918281920519
+    second: quanfx3_161
+  - first:
+      213: 8623117895202957454
+    second: quanfx3_162
+  - first:
+      213: 7167634670670786777
+    second: quanfx3_163
+  - first:
+      213: 979377201897426364
+    second: quanfx3_164
+  - first:
+      213: 2489382267686368431
+    second: quanfx3_165
+  - first:
+      213: -3851309162264532182
+    second: quanfx3_166
+  - first:
+      213: 3062770401507047740
+    second: quanfx3_167
+  - first:
+      213: 8000233244761086842
+    second: quanfx3_168
+  - first:
+      213: -5854355790798479422
+    second: quanfx3_169
+  - first:
+      213: -85020190850157648
+    second: quanfx3_170
+  - first:
+      213: -633839317505732163
+    second: quanfx3_171
+  - first:
+      213: -4442357905200355603
+    second: quanfx3_172
+  - first:
+      213: 1351474117240045574
+    second: quanfx3_173
+  - first:
+      213: -7023185929270169949
+    second: quanfx3_174
+  - first:
+      213: -5838629108928695028
+    second: quanfx3_175
+  - first:
+      213: 1709634907175723099
+    second: quanfx3_176
+  - first:
+      213: -7270548701922083405
+    second: quanfx3_177
+  - first:
+      213: 279028463264384535
+    second: quanfx3_178
+  - first:
+      213: 7398416942458246702
+    second: quanfx3_179
+  - first:
+      213: 6093916954484645735
+    second: quanfx3_180
+  - first:
+      213: -4535869450733789207
+    second: quanfx3_181
+  - first:
+      213: 108076573632551375
+    second: quanfx3_182
+  - first:
+      213: -2301303272248450456
+    second: quanfx3_183
+  - first:
+      213: 1914939529733666533
+    second: quanfx3_184
+  - first:
+      213: 7301929958011677919
+    second: quanfx3_185
+  - first:
+      213: 7541055154562031254
+    second: quanfx3_186
+  - first:
+      213: 7088497373709911834
+    second: quanfx3_187
+  - first:
+      213: 4034424530403786813
+    second: quanfx3_188
+  - first:
+      213: 8142899663701524287
+    second: quanfx3_189
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quanfx3_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1476
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d884fbf9a9475b0800000000000000
+      internalID: -5371498444646478516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1476
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2dd7ea4b9f33d40800000000000000
+      internalID: 5563064519149605546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1476
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec38cdd995652b0800000000000000
+      internalID: -5596186952416899475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1476
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7367fc17d619a92f0800000000000000
+      internalID: -965299270870665673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1476
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57519e007fe5a4900800000000000000
+      internalID: 669451909583148405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1476
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4353d57afb17d85f0800000000000000
+      internalID: -752820494740409036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1476
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9144c9aceec7ea760800000000000000
+      internalID: 7471046196897530905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1431
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6202ca2b388ed6090800000000000000
+      internalID: -8039514107450482650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1431
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a2b3223d02e0850800000000000000
+      internalID: 6345045016196098718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1431
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183c9b893283cc80800000000000000
+      internalID: -8303650104274044897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1381
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319942c6ef1c52470800000000000000
+      internalID: 8369308781018126611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1381
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75af9e33f9e62d580800000000000000
+      internalID: -8803852691506070953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1385
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226a4cded3e42a120800000000000000
+      internalID: 2423585577367807522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1381
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c970450a585085b40800000000000000
+      internalID: 5429095422273783708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1380
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e193b16b955e4de70800000000000000
+      internalID: 9139181717311666462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1377
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420c15151fce89f70800000000000000
+      internalID: 9194359160472453156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1345
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660480d25f2498680800000000000000
+      internalID: -8752390780027912090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1343
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc6050fb599297a0800000000000000
+      internalID: -6371861902622954308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1291
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e9c047be13d96c0800000000000000
+      internalID: -4135093995522187764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1293
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de26451a7e7eaa1f0800000000000000
+      internalID: -1032758182497983763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1291
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb032e8f961c2a490800000000000000
+      internalID: -7736408548977790785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1290
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d240465810e2400800000000000000
+      internalID: 301179897500675371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1290
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3b69344a4155ea0800000000000000
+      internalID: -5884774642348543029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1291
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefa132d9befd5060800000000000000
+      internalID: 6943986274524049391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1293
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1c515fcc4a2c030800000000000000
+      internalID: 3513551859494535638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1292
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c04b17852192bd0800000000000000
+      internalID: -2654570334284149633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1291
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e5adbee28863d40800000000000000
+      internalID: 5563784124769656459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1243
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27dd106eedb33a10800000000000000
+      internalID: 1888061500310804266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1243
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44293ff82a750af0800000000000000
+      internalID: -430803872844798899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1243
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55e33464a08852f0800000000000000
+      internalID: -983895075036338850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1243
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fd10f5857631560800000000000000
+      internalID: 7283278651636965270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1243
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc75a90c2d23a7710800000000000000
+      internalID: 1691720490786904011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1188
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debe9c0bfbe5a2c10800000000000000
+      internalID: 2029538759481617389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1188
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf4308017d2bb220800000000000000
+      internalID: 2502643981423431627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1188
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ece920375e7d0740800000000000000
+      internalID: 5119887264325430504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1140
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ffb7d4f1341e9e0800000000000000
+      internalID: -1593918991389425842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1140
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897bfacea476f53e0800000000000000
+      internalID: -2062816532816218216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1140
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e246b4177bd621b80800000000000000
+      internalID: -8425551318209567698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1140
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92cbbc54b7c44200800000000000000
+      internalID: 163475063956030107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1091
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbe93ec9bdf4b7d0800000000000000
+      internalID: -2903416885276447813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1091
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e672f327e689b80800000000000000
+      internalID: -8387832869012672922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1091
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aee5803914e89520800000000000000
+      internalID: 2709165972702752418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1091
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b0d2f075a613bb0800000000000000
+      internalID: -4958064792608896180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_43
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1091
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e706c65f725eb2370800000000000000
+      internalID: 8298978698144276606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1091
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b2da5236ebaae90800000000000000
+      internalID: -7013584136632980713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1043
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e1dece19e6a0ff0800000000000000
+      internalID: -69121271246545323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1044
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bbdd2446160f710800000000000000
+      internalID: 1724985740529351440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1044
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60db15c75525333e0800000000000000
+      internalID: -2075224476176237306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1044
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32306c7cc44635e90800000000000000
+      internalID: -7038171511718018269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1044
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e754326cb87ac420800000000000000
+      internalID: 2651064081157740514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1044
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a5cc19b7fcea2f0800000000000000
+      internalID: -959601540949321074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 986
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b5f037f882e38a0800000000000000
+      internalID: -6323572230205777062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 986
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd6cf7c6be8cf3e0800000000000000
+      internalID: -2018581617278423601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 986
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f22137349aa0420800000000000000
+      internalID: 2597074242290986861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 986
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc92030a4c22cfad0800000000000000
+      internalID: -2667218651413730868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 986
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4ec474512b85ab0800000000000000
+      internalID: -5019065980244138767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 986
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e917a60205223bcd0800000000000000
+      internalID: -2543651636997623394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 986
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f84b2cfc6bf7120800000000000000
+      internalID: 2413848928734973727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 986
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a531aa98a461f0b80800000000000000
+      internalID: -8426491868393893030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_59
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 986
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ed76a20aaf0b410800000000000000
+      internalID: 1490967042472795765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 929
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd7e916ed7e6aa00800000000000000
+      internalID: 767555728819781118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 930
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b38a43f75f351c0800000000000000
+      internalID: -4515996074629383309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 928
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63e444bc556bdf0800000000000000
+      internalID: -164850004839745888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 929
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf9aaed95d936390800000000000000
+      internalID: -7826238718126415933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_64
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 928
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5f66a1a52c77860800000000000000
+      internalID: 7527698994418873815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 930
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e314567c864b16260800000000000000
+      internalID: 7089145650572771646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 874
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c27e7fb2c46ca0800000000000000
+      internalID: -6024476273798889317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 874
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce6cdb287f4df280800000000000000
+      internalID: -9007956302120587578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 875
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8ec946a0c7a2b50800000000000000
+      internalID: 6569199390552811699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 875
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa6c1ca2dec7fa80800000000000000
+      internalID: -8433044373001966861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_70
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 875
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c89644be5f06640800000000000000
+      internalID: 5071323571233066041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 875
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fd852a37afc2da0800000000000000
+      internalID: -5968120031620833434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_72
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 874
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83788db830015d460800000000000000
+      internalID: 7265731181249333048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_73
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 874
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9260126ebf26c92b0800000000000000
+      internalID: -5576473404554279383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_74
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 874
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a935d8f306d560800000000000000
+      internalID: 7338057010110900337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 874
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749d0dd551f0b2cf0800000000000000
+      internalID: -276110367710455481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_76
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 874
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da90dbcb604f4d1a0800000000000000
+      internalID: -6785530428767008339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 824
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d759fb5a29970000800000000000000
+      internalID: 2138732047718356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 824
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95da9cbad681bd790800000000000000
+      internalID: -7504377494770176679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 824
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7934ac49a1c2d0380800000000000000
+      internalID: -9003491587366698089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 769
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff48796bed88e5020800000000000000
+      internalID: 2332452147151996159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_81
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 769
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a9eee22f9629af0800000000000000
+      internalID: -391133728737420744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 769
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc38314beca88af0800000000000000
+      internalID: -393874840983421746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 769
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bab8ffe131a5ec60800000000000000
+      internalID: 7846855161614482097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_84
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 768
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0ba38ff8575da70800000000000000
+      internalID: 8851109903871946968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 768
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743c27b1e22cf0790800000000000000
+      internalID: -7561611746046983353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 768
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7634092334b8a34e0800000000000000
+      internalID: -2001133963685379225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 768
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d49d30a940c01400800000000000000
+      internalID: 292945398232618194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_88
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 768
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f61cd7444f486e60800000000000000
+      internalID: 7955695896431957753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_89
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 768
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f97036b3ef00100800000000000000
+      internalID: 72337125055897473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_90
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 769
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e88b762c0525e450800000000000000
+      internalID: 6117336402968152296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 717
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b51bb8e47427b20800000000000000
+      internalID: 3130643093652593545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 669
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98747067484087d90800000000000000
+      internalID: -7099919845587204215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_93
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 669
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194120a448378d9d0800000000000000
+      internalID: -2749320560495160175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_94
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 669
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810e83e72d28ee990800000000000000
+      internalID: -7354797300877041640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_95
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 669
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397c5c14539fcb390800000000000000
+      internalID: -7801086447380478061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 669
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d48de3da70ba380800000000000000
+      internalID: -8959058593058370171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_97
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 669
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff51fb01563a54260800000000000000
+      internalID: 7081245643577955839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_98
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 669
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adc1a9f17ad29660800000000000000
+      internalID: 7391210121522695590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_99
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 669
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f59b85a01fad0b90800000000000000
+      internalID: -7273965337101756937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 669
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb075383e861dd9d0800000000000000
+      internalID: -2748015397541941058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_101
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 669
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d5263f90e40460800000000000000
+      internalID: 7207132278112506267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 627
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2926ac5b385c89420800000000000000
+      internalID: 2637074751306752658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_103
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 627
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d669296af2ef6cd0800000000000000
+      internalID: -2562580097816500523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_104
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 627
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07774f050782aa10800000000000000
+      internalID: 1919244847014180622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_105
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 627
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97afe06fd8e53de0800000000000000
+      internalID: -1353920066853296228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 627
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3b3ab055d9ee540800000000000000
+      internalID: 5039138021667222446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_107
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 571
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4862476874761f610800000000000000
+      internalID: 1653216095117780612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 572
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38a875b8d33385b0800000000000000
+      internalID: -5367389325044963267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_109
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 571
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a20aaa0acb00840800000000000000
+      internalID: 5188354168974223968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_110
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 580
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdeff3efbca04bb0800000000000000
+      internalID: -4953769649943614019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_111
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 590
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e87a8d41546e3cd0800000000000000
+      internalID: -2576511636453295904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_112
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 584
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa5f3e6737ebe9c0800000000000000
+      internalID: -3896766827300168974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_113
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 571
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a235eb4ad788aaee0800000000000000
+      internalID: -1249035873425665238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_114
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 571
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37f1c2fd27eb5880800000000000000
+      internalID: -8621042877138340033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_115
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 527
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2f97609e01aa040800000000000000
+      internalID: 4659555357490279104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_116
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 527
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9dccbf598dd2120800000000000000
+      internalID: 2390805115889834480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_117
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 527
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f69fb8f73e6d640800000000000000
+      internalID: 5104517364619767685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_118
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 527
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25de03e1acf31fb0800000000000000
+      internalID: -4678117815678479059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_119
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 527
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3560ba7deae91edd0800000000000000
+      internalID: -2458509447787772333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_120
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 527
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09a03b055e291c0800000000000000
+      internalID: -4498280943025745678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_121
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 527
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3145fbfb76698c0800000000000000
+      internalID: -3992889946370993179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_122
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 502
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64a3e145c1dee170800000000000000
+      internalID: 8209729815887193199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_123
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 451
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca17ca08da5826db0800000000000000
+      internalID: -4800127272588906068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_124
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 453
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53473eb251019700800000000000000
+      internalID: 545218484778779485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_125
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 491
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff775bd0065b80b0800000000000000
+      internalID: -5725387939591520258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_126
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 476
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adddbfc5ac468eba0800000000000000
+      internalID: -6059482478320820774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_127
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 476
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18ffc0e43845c6c0800000000000000
+      internalID: -4123810491840595939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_128
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 425
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000e10da7a30dc990800000000000000
+      internalID: -7364225796983889920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_129
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 461
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ed7306a32456520800000000000000
+      internalID: 2694632770540920409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_130
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 448
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aed58f37d87c75a0800000000000000
+      internalID: -6522205294460281184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_131
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 453
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8496c355b599ec0800000000000000
+      internalID: -3559713608815785802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_132
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 438
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1afee9130c877060800000000000000
+      internalID: 6951178494817532445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_133
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 375
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fdacf52c4c9a2e0800000000000000
+      internalID: -2113942210963906685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_134
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 404
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9296799a9cacf1010800000000000000
+      internalID: 1161870196367386921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_135
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 442
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dffa9ae9429c840800000000000000
+      internalID: 5244763504919969181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_136
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 378
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47d4b783ae514e30800000000000000
+      internalID: 4485970760287180622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_137
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 431
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8d96f51c0c6c710800000000000000
+      internalID: 1713268645023045806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_138
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 419
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970e2e2846e8a3620800000000000000
+      internalID: 2754670684434260089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_139
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 380
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a78820dbfdd7f0800000000000000
+      internalID: -586035505036549926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_140
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 388
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ba6e9a7d6e55a20800000000000000
+      internalID: 3050598136556202835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_141
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 351
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b98fbcbb13451a0800000000000000
+      internalID: -6821772852908745892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_142
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 385
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bca12f9f87ed1c30800000000000000
+      internalID: 4331873020636409016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_143
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 376
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d713b89090503d0800000000000000
+      internalID: -3241174420228571829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_144
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 305
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1418d8ba3822da0800000000000000
+      internalID: -5971065383103151700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_145
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 351
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f03b194368ea00800000000000000
+      internalID: 785987300616106280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_146
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 362
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b22343957fb6790800000000000000
+      internalID: -7535657588974539910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 346
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d443c3eeb0952050800000000000000
+      internalID: 5775181246711940309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_148
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bf346714198bec0800000000000000
+      internalID: -3550928595838567607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_149
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 344
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3193793ceb902e0800000000000000
+      internalID: -2158984799082441739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_150
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 333
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ace249f708e14270800000000000000
+      internalID: 8233116714754305189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_151
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 310
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b9417a1a53ea020800000000000000
+      internalID: 2354878623570500470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_152
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 328
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13398df47d449b360800000000000000
+      internalID: 7185850371994587953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_153
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 308
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15529f95680777ef0800000000000000
+      internalID: -110495943509858991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_154
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d14869dc5896f0800000000000000
+      internalID: -677689655092456503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_155
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 318
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773418d7e6a45e170800000000000000
+      internalID: 8207047734365078391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_156
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 235
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd529bcc017f4490800000000000000
+      internalID: -7759859333167161912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_157
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 249
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffcfb93e6be20cb0800000000000000
+      internalID: -4899094585977876490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_158
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 278
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a888d0badd6e8b530800000000000000
+      internalID: 3871097719456893066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_159
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 298
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff23f1aeffa9dfa0800000000000000
+      internalID: -5775391538952327178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_160
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 247
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbb9d25ecc7ced80800000000000000
+      internalID: -8220057994262889518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_161
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 235
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700ed76cb548c3430800000000000000
+      internalID: 3764028918281920519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_162
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 240
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88e2e7d9087ba770800000000000000
+      internalID: 8623117895202957454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_163
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 225
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03b19d1cd887360800000000000000
+      internalID: 7167634670670786777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 217
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd463c4062779d00800000000000000
+      internalID: 979377201897426364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_165
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 209
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43a9fabff0c8220800000000000000
+      internalID: 2489382267686368431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_166
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 217
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be307d8b66d8ac0800000000000000
+      internalID: -3851309162264532182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_167
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 168
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c397862f375218a20800000000000000
+      internalID: 3062770401507047740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_168
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 199
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b5142cfb9860f60800000000000000
+      internalID: 8000233244761086842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_169
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 183
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf94bc0d6621cea0800000000000000
+      internalID: -5854355790798479422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3f3ad3692f1def0800000000000000
+      internalID: -85020190850157648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_171
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 183
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1156bbf762437f0800000000000000
+      internalID: -633839317505732163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_172
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 172
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6626795039952c0800000000000000
+      internalID: -4442357905200355603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 100
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6004a399c8661c210800000000000000
+      internalID: 1351474117240045574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_174
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 142
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae64569b91a88e90800000000000000
+      internalID: -7023185929270169949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_175
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05bc0382c509fea0800000000000000
+      internalID: -5838629108928695028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_176
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 100
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5021d9d3e7d9b710800000000000000
+      internalID: 1709634907175723099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_177
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 90
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdb1c30a72d91b90800000000000000
+      internalID: -7270548701922083405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_178
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 36
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716c813b8ee4fd300800000000000000
+      internalID: 279028463264384535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_179
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 73
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26947bb2057ca660800000000000000
+      internalID: 7398416942458246702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_180
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 49
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f99c2ee21f19450800000000000000
+      internalID: 6093916954484645735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_181
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 36
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef577144ca5d01c0800000000000000
+      internalID: -4535869450733789207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_182
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 36
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9d8e33217ff7100800000000000000
+      internalID: 108076573632551375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_183
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 38
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862ef21edd02010e0800000000000000
+      internalID: -2301303272248450456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_184
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 23
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6f0244b5b339a10800000000000000
+      internalID: 1914939529733666533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_185
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 19
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca11a0c9aa55560800000000000000
+      internalID: 7301929958011677919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_186
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e5c4775b537a860800000000000000
+      internalID: 7541055154562031254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_187
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 18
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17c44f0ec66f5260800000000000000
+      internalID: 7088497373709911834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_188
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 14
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3007df2cb72df730800000000000000
+      internalID: 4034424530403786813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quanfx3_189
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 14
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fb398e914610170800000000000000
+      internalID: 8142899663701524287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      quanfx3_0: -5371498444646478516
+      quanfx3_1: 5563064519149605546
+      quanfx3_10: 8369308781018126611
+      quanfx3_100: -2748015397541941058
+      quanfx3_101: 7207132278112506267
+      quanfx3_102: 2637074751306752658
+      quanfx3_103: -2562580097816500523
+      quanfx3_104: 1919244847014180622
+      quanfx3_105: -1353920066853296228
+      quanfx3_106: 5039138021667222446
+      quanfx3_107: 1653216095117780612
+      quanfx3_108: -5367389325044963267
+      quanfx3_109: 5188354168974223968
+      quanfx3_11: -8803852691506070953
+      quanfx3_110: -4953769649943614019
+      quanfx3_111: -2576511636453295904
+      quanfx3_112: -3896766827300168974
+      quanfx3_113: -1249035873425665238
+      quanfx3_114: -8621042877138340033
+      quanfx3_115: 4659555357490279104
+      quanfx3_116: 2390805115889834480
+      quanfx3_117: 5104517364619767685
+      quanfx3_118: -4678117815678479059
+      quanfx3_119: -2458509447787772333
+      quanfx3_12: 2423585577367807522
+      quanfx3_120: -4498280943025745678
+      quanfx3_121: -3992889946370993179
+      quanfx3_122: 8209729815887193199
+      quanfx3_123: -4800127272588906068
+      quanfx3_124: 545218484778779485
+      quanfx3_125: -5725387939591520258
+      quanfx3_126: -6059482478320820774
+      quanfx3_127: -4123810491840595939
+      quanfx3_128: -7364225796983889920
+      quanfx3_129: 2694632770540920409
+      quanfx3_13: 5429095422273783708
+      quanfx3_130: -6522205294460281184
+      quanfx3_131: -3559713608815785802
+      quanfx3_132: 6951178494817532445
+      quanfx3_133: -2113942210963906685
+      quanfx3_134: 1161870196367386921
+      quanfx3_135: 5244763504919969181
+      quanfx3_136: 4485970760287180622
+      quanfx3_137: 1713268645023045806
+      quanfx3_138: 2754670684434260089
+      quanfx3_139: -586035505036549926
+      quanfx3_14: 9139181717311666462
+      quanfx3_140: 3050598136556202835
+      quanfx3_141: -6821772852908745892
+      quanfx3_142: 4331873020636409016
+      quanfx3_143: -3241174420228571829
+      quanfx3_144: -5971065383103151700
+      quanfx3_145: 785987300616106280
+      quanfx3_146: -7535657588974539910
+      quanfx3_147: 5775181246711940309
+      quanfx3_148: -3550928595838567607
+      quanfx3_149: -2158984799082441739
+      quanfx3_15: 9194359160472453156
+      quanfx3_150: 8233116714754305189
+      quanfx3_151: 2354878623570500470
+      quanfx3_152: 7185850371994587953
+      quanfx3_153: -110495943509858991
+      quanfx3_154: -677689655092456503
+      quanfx3_155: 8207047734365078391
+      quanfx3_156: -7759859333167161912
+      quanfx3_157: -4899094585977876490
+      quanfx3_158: 3871097719456893066
+      quanfx3_159: -5775391538952327178
+      quanfx3_16: -8752390780027912090
+      quanfx3_160: -8220057994262889518
+      quanfx3_161: 3764028918281920519
+      quanfx3_162: 8623117895202957454
+      quanfx3_163: 7167634670670786777
+      quanfx3_164: 979377201897426364
+      quanfx3_165: 2489382267686368431
+      quanfx3_166: -3851309162264532182
+      quanfx3_167: 3062770401507047740
+      quanfx3_168: 8000233244761086842
+      quanfx3_169: -5854355790798479422
+      quanfx3_17: -6371861902622954308
+      quanfx3_170: -85020190850157648
+      quanfx3_171: -633839317505732163
+      quanfx3_172: -4442357905200355603
+      quanfx3_173: 1351474117240045574
+      quanfx3_174: -7023185929270169949
+      quanfx3_175: -5838629108928695028
+      quanfx3_176: 1709634907175723099
+      quanfx3_177: -7270548701922083405
+      quanfx3_178: 279028463264384535
+      quanfx3_179: 7398416942458246702
+      quanfx3_18: -4135093995522187764
+      quanfx3_180: 6093916954484645735
+      quanfx3_181: -4535869450733789207
+      quanfx3_182: 108076573632551375
+      quanfx3_183: -2301303272248450456
+      quanfx3_184: 1914939529733666533
+      quanfx3_185: 7301929958011677919
+      quanfx3_186: 7541055154562031254
+      quanfx3_187: 7088497373709911834
+      quanfx3_188: 4034424530403786813
+      quanfx3_189: 8142899663701524287
+      quanfx3_19: -1032758182497983763
+      quanfx3_2: -5596186952416899475
+      quanfx3_20: -7736408548977790785
+      quanfx3_21: 301179897500675371
+      quanfx3_22: -5884774642348543029
+      quanfx3_23: 6943986274524049391
+      quanfx3_24: 3513551859494535638
+      quanfx3_25: -2654570334284149633
+      quanfx3_26: 5563784124769656459
+      quanfx3_27: 1888061500310804266
+      quanfx3_28: -430803872844798899
+      quanfx3_29: -983895075036338850
+      quanfx3_3: -965299270870665673
+      quanfx3_30: 7283278651636965270
+      quanfx3_31: 1691720490786904011
+      quanfx3_32: 2029538759481617389
+      quanfx3_33: 2502643981423431627
+      quanfx3_34: 5119887264325430504
+      quanfx3_35: -1593918991389425842
+      quanfx3_36: -2062816532816218216
+      quanfx3_37: -8425551318209567698
+      quanfx3_38: 163475063956030107
+      quanfx3_39: -2903416885276447813
+      quanfx3_4: 669451909583148405
+      quanfx3_40: -8387832869012672922
+      quanfx3_41: 2709165972702752418
+      quanfx3_42: -4958064792608896180
+      quanfx3_43: 8298978698144276606
+      quanfx3_44: -7013584136632980713
+      quanfx3_45: -69121271246545323
+      quanfx3_46: 1724985740529351440
+      quanfx3_47: -2075224476176237306
+      quanfx3_48: -7038171511718018269
+      quanfx3_49: 2651064081157740514
+      quanfx3_5: -752820494740409036
+      quanfx3_50: -959601540949321074
+      quanfx3_51: -6323572230205777062
+      quanfx3_52: -2018581617278423601
+      quanfx3_53: 2597074242290986861
+      quanfx3_54: -2667218651413730868
+      quanfx3_55: -5019065980244138767
+      quanfx3_56: -2543651636997623394
+      quanfx3_57: 2413848928734973727
+      quanfx3_58: -8426491868393893030
+      quanfx3_59: 1490967042472795765
+      quanfx3_6: 7471046196897530905
+      quanfx3_60: 767555728819781118
+      quanfx3_61: -4515996074629383309
+      quanfx3_62: -164850004839745888
+      quanfx3_63: -7826238718126415933
+      quanfx3_64: 7527698994418873815
+      quanfx3_65: 7089145650572771646
+      quanfx3_66: -6024476273798889317
+      quanfx3_67: -9007956302120587578
+      quanfx3_68: 6569199390552811699
+      quanfx3_69: -8433044373001966861
+      quanfx3_7: -8039514107450482650
+      quanfx3_70: 5071323571233066041
+      quanfx3_71: -5968120031620833434
+      quanfx3_72: 7265731181249333048
+      quanfx3_73: -5576473404554279383
+      quanfx3_74: 7338057010110900337
+      quanfx3_75: -276110367710455481
+      quanfx3_76: -6785530428767008339
+      quanfx3_77: 2138732047718356
+      quanfx3_78: -7504377494770176679
+      quanfx3_79: -9003491587366698089
+      quanfx3_8: 6345045016196098718
+      quanfx3_80: 2332452147151996159
+      quanfx3_81: -391133728737420744
+      quanfx3_82: -393874840983421746
+      quanfx3_83: 7846855161614482097
+      quanfx3_84: 8851109903871946968
+      quanfx3_85: -7561611746046983353
+      quanfx3_86: -2001133963685379225
+      quanfx3_87: 292945398232618194
+      quanfx3_88: 7955695896431957753
+      quanfx3_89: 72337125055897473
+      quanfx3_9: -8303650104274044897
+      quanfx3_90: 6117336402968152296
+      quanfx3_91: 3130643093652593545
+      quanfx3_92: -7099919845587204215
+      quanfx3_93: -2749320560495160175
+      quanfx3_94: -7354797300877041640
+      quanfx3_95: -7801086447380478061
+      quanfx3_96: -8959058593058370171
+      quanfx3_97: 7081245643577955839
+      quanfx3_98: 7391210121522695590
+      quanfx3_99: -7273965337101756937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

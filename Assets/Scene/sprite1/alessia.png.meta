@@ -1,0 +1,7709 @@
+fileFormatVersion: 2
+guid: dc64a6661def4ee4b8d85a81895a13a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5143483174021171231
+    second: alessia_0
+  - first:
+      213: -3746996438227808783
+    second: alessia_1
+  - first:
+      213: 2844331737181488177
+    second: alessia_2
+  - first:
+      213: -467782322893318581
+    second: alessia_3
+  - first:
+      213: -8031669938151324909
+    second: alessia_4
+  - first:
+      213: 8261970067369830308
+    second: alessia_5
+  - first:
+      213: -470253917979359437
+    second: alessia_6
+  - first:
+      213: -4320131817650568766
+    second: alessia_7
+  - first:
+      213: -6352536467922808090
+    second: alessia_8
+  - first:
+      213: 9192458590047778414
+    second: alessia_9
+  - first:
+      213: -2841725336234719477
+    second: alessia_10
+  - first:
+      213: 7975944474699042557
+    second: alessia_11
+  - first:
+      213: -8124565977335091964
+    second: alessia_12
+  - first:
+      213: -1097073635902285054
+    second: alessia_13
+  - first:
+      213: 4242621392320067523
+    second: alessia_14
+  - first:
+      213: -1303931350343270498
+    second: alessia_15
+  - first:
+      213: -1314945495949370085
+    second: alessia_16
+  - first:
+      213: -5276393482188787324
+    second: alessia_17
+  - first:
+      213: 7666763483270695727
+    second: alessia_18
+  - first:
+      213: -3302697484269600648
+    second: alessia_19
+  - first:
+      213: -5526507573375393790
+    second: alessia_20
+  - first:
+      213: 9190651531865531524
+    second: alessia_21
+  - first:
+      213: -3082906609801254533
+    second: alessia_22
+  - first:
+      213: 4310221579451319527
+    second: alessia_23
+  - first:
+      213: 8747217288451143961
+    second: alessia_24
+  - first:
+      213: -4464297525521098411
+    second: alessia_25
+  - first:
+      213: -1218314049049654694
+    second: alessia_26
+  - first:
+      213: -6410359212631813483
+    second: alessia_27
+  - first:
+      213: 1112713087874589940
+    second: alessia_28
+  - first:
+      213: -309543281232550015
+    second: alessia_29
+  - first:
+      213: 6205000180582140581
+    second: alessia_30
+  - first:
+      213: -5369514759394021285
+    second: alessia_31
+  - first:
+      213: -3160458016179608134
+    second: alessia_32
+  - first:
+      213: -5602392557914286473
+    second: alessia_33
+  - first:
+      213: -3573688978942970520
+    second: alessia_34
+  - first:
+      213: -4387545570564106312
+    second: alessia_35
+  - first:
+      213: 1607686534588372115
+    second: alessia_36
+  - first:
+      213: 1264767715808801594
+    second: alessia_37
+  - first:
+      213: 1386600730148078701
+    second: alessia_38
+  - first:
+      213: -5438400772579211821
+    second: alessia_39
+  - first:
+      213: 6308539123738742713
+    second: alessia_40
+  - first:
+      213: 7604211014059236573
+    second: alessia_41
+  - first:
+      213: -6956366897412574554
+    second: alessia_42
+  - first:
+      213: -1175885638222483140
+    second: alessia_43
+  - first:
+      213: -8447806800230786290
+    second: alessia_44
+  - first:
+      213: 2313186102575593283
+    second: alessia_45
+  - first:
+      213: -7433589716177662279
+    second: alessia_46
+  - first:
+      213: -2045978537389321285
+    second: alessia_47
+  - first:
+      213: 8589776837172261697
+    second: alessia_48
+  - first:
+      213: -3395088532459759934
+    second: alessia_49
+  - first:
+      213: -8402674654686730418
+    second: alessia_50
+  - first:
+      213: 4045648268656358059
+    second: alessia_51
+  - first:
+      213: 9167425265689168300
+    second: alessia_52
+  - first:
+      213: 679544167398879760
+    second: alessia_53
+  - first:
+      213: -8986859295463398023
+    second: alessia_54
+  - first:
+      213: -187526461853160594
+    second: alessia_55
+  - first:
+      213: 9130208006300896307
+    second: alessia_56
+  - first:
+      213: -6831536109634904308
+    second: alessia_57
+  - first:
+      213: -5316224706132280636
+    second: alessia_58
+  - first:
+      213: 6957293266260277575
+    second: alessia_59
+  - first:
+      213: -7407703440025573297
+    second: alessia_60
+  - first:
+      213: 3831236107705081992
+    second: alessia_61
+  - first:
+      213: -3808800321419042571
+    second: alessia_62
+  - first:
+      213: 8063572535476918281
+    second: alessia_63
+  - first:
+      213: 5441664748099629524
+    second: alessia_64
+  - first:
+      213: -7721459916095488619
+    second: alessia_65
+  - first:
+      213: -366261282177192072
+    second: alessia_66
+  - first:
+      213: -6351021639647990733
+    second: alessia_67
+  - first:
+      213: -2291267297332552181
+    second: alessia_68
+  - first:
+      213: 7198187842895427869
+    second: alessia_69
+  - first:
+      213: 6071463370660373888
+    second: alessia_70
+  - first:
+      213: -6891445531527085426
+    second: alessia_71
+  - first:
+      213: 2976797615362721252
+    second: alessia_72
+  - first:
+      213: -6979837862854560336
+    second: alessia_73
+  - first:
+      213: -2754210105691816115
+    second: alessia_74
+  - first:
+      213: 6573502052581732025
+    second: alessia_75
+  - first:
+      213: -5614773156985718926
+    second: alessia_76
+  - first:
+      213: 3436581865910433249
+    second: alessia_77
+  - first:
+      213: 1541916617997812245
+    second: alessia_78
+  - first:
+      213: 3734499639800538402
+    second: alessia_79
+  - first:
+      213: 66721494323096666
+    second: alessia_80
+  - first:
+      213: -455763706434613585
+    second: alessia_81
+  - first:
+      213: 6158198840573533090
+    second: alessia_82
+  - first:
+      213: 7135390126781118697
+    second: alessia_83
+  - first:
+      213: -3894944733077591899
+    second: alessia_84
+  - first:
+      213: 4110188680749497997
+    second: alessia_85
+  - first:
+      213: 2832887339939605489
+    second: alessia_86
+  - first:
+      213: -1822412723013171367
+    second: alessia_87
+  - first:
+      213: -7108449384489582086
+    second: alessia_88
+  - first:
+      213: 4705557809949751871
+    second: alessia_89
+  - first:
+      213: -4431774483555296385
+    second: alessia_90
+  - first:
+      213: -3961133441487494936
+    second: alessia_91
+  - first:
+      213: 5800180693317061995
+    second: alessia_92
+  - first:
+      213: -3010280044589402959
+    second: alessia_93
+  - first:
+      213: -8750825869003313615
+    second: alessia_94
+  - first:
+      213: -3375963685708571525
+    second: alessia_95
+  - first:
+      213: 2943884015879178850
+    second: alessia_96
+  - first:
+      213: -5517799639720903106
+    second: alessia_97
+  - first:
+      213: 2243470473534967061
+    second: alessia_98
+  - first:
+      213: 33095276131315892
+    second: alessia_99
+  - first:
+      213: 5373439603232507455
+    second: alessia_100
+  - first:
+      213: -6034817693940839328
+    second: alessia_101
+  - first:
+      213: 7405229323722739935
+    second: alessia_102
+  - first:
+      213: 172082277386495080
+    second: alessia_103
+  - first:
+      213: -6206091218523439167
+    second: alessia_104
+  - first:
+      213: 6661911540037436858
+    second: alessia_105
+  - first:
+      213: 3386240434445805968
+    second: alessia_106
+  - first:
+      213: -7743070464970171547
+    second: alessia_107
+  - first:
+      213: -3590312135062065935
+    second: alessia_108
+  - first:
+      213: 7508277368949265744
+    second: alessia_109
+  - first:
+      213: 3165938850142536610
+    second: alessia_110
+  - first:
+      213: -8552872404462528003
+    second: alessia_111
+  - first:
+      213: 2810226074087517353
+    second: alessia_112
+  - first:
+      213: -3237584246659234247
+    second: alessia_113
+  - first:
+      213: 8926359854900837459
+    second: alessia_114
+  - first:
+      213: -478349864303803645
+    second: alessia_115
+  - first:
+      213: 7431772574054129752
+    second: alessia_116
+  - first:
+      213: 3144667655661772386
+    second: alessia_117
+  - first:
+      213: -7217821493061669746
+    second: alessia_118
+  - first:
+      213: -4656197298276720648
+    second: alessia_119
+  - first:
+      213: -4150517874042444143
+    second: alessia_120
+  - first:
+      213: 3249205743017167021
+    second: alessia_121
+  - first:
+      213: 604529666915037250
+    second: alessia_122
+  - first:
+      213: 978731727603219345
+    second: alessia_123
+  - first:
+      213: 3501631883984646414
+    second: alessia_124
+  - first:
+      213: -5154075697842665616
+    second: alessia_125
+  - first:
+      213: 6121395957980832945
+    second: alessia_126
+  - first:
+      213: -7181872139781534630
+    second: alessia_127
+  - first:
+      213: 6028927327321427414
+    second: alessia_128
+  - first:
+      213: -8385132687372064165
+    second: alessia_129
+  - first:
+      213: 4729353438615266871
+    second: alessia_130
+  - first:
+      213: 2259369938516863866
+    second: alessia_131
+  - first:
+      213: -1762904973876173447
+    second: alessia_132
+  - first:
+      213: -6649810734769496346
+    second: alessia_133
+  - first:
+      213: 29524867855611230
+    second: alessia_134
+  - first:
+      213: 900901702021440004
+    second: alessia_135
+  - first:
+      213: -7772185506791023977
+    second: alessia_136
+  - first:
+      213: -646320853723409468
+    second: alessia_137
+  - first:
+      213: -3469973018371641812
+    second: alessia_138
+  - first:
+      213: 2767056461021032976
+    second: alessia_139
+  - first:
+      213: 5602416307956659676
+    second: alessia_140
+  - first:
+      213: 60490855914361612
+    second: alessia_141
+  - first:
+      213: -6659618030136170081
+    second: alessia_142
+  - first:
+      213: -8559085266550749865
+    second: alessia_143
+  - first:
+      213: -8017945997314109922
+    second: alessia_144
+  - first:
+      213: -1376027779407120861
+    second: alessia_145
+  - first:
+      213: -5591699609981087954
+    second: alessia_146
+  - first:
+      213: -2960300688747326842
+    second: alessia_147
+  - first:
+      213: 246611077902043506
+    second: alessia_148
+  - first:
+      213: 2765951815664300215
+    second: alessia_149
+  - first:
+      213: 9049050825142517771
+    second: alessia_150
+  - first:
+      213: -938513367571193633
+    second: alessia_151
+  - first:
+      213: 7318990492788736041
+    second: alessia_152
+  - first:
+      213: -5640024482563186310
+    second: alessia_153
+  - first:
+      213: -2449432328658638299
+    second: alessia_154
+  - first:
+      213: -2348474353552623473
+    second: alessia_155
+  - first:
+      213: 7642367223523449643
+    second: alessia_156
+  - first:
+      213: -4577663158264788039
+    second: alessia_157
+  - first:
+      213: 3210158715085691652
+    second: alessia_158
+  - first:
+      213: -7283482563100074077
+    second: alessia_159
+  - first:
+      213: -7706876743677251198
+    second: alessia_160
+  - first:
+      213: 6503682835453242349
+    second: alessia_161
+  - first:
+      213: 2793899122801083855
+    second: alessia_162
+  - first:
+      213: -1955018752301000089
+    second: alessia_163
+  - first:
+      213: 6455198782081133057
+    second: alessia_164
+  - first:
+      213: -8173237106268572171
+    second: alessia_165
+  - first:
+      213: -892649248202561678
+    second: alessia_166
+  - first:
+      213: 3269830237719267317
+    second: alessia_167
+  - first:
+      213: -8993976018974504797
+    second: alessia_168
+  - first:
+      213: -2391567489051161879
+    second: alessia_169
+  - first:
+      213: 2521909380059640409
+    second: alessia_170
+  - first:
+      213: 7344169345172105198
+    second: alessia_171
+  - first:
+      213: 8268086590857682454
+    second: alessia_172
+  - first:
+      213: 5842193752367788855
+    second: alessia_173
+  - first:
+      213: 8633853885426041073
+    second: alessia_174
+  - first:
+      213: -3805079085999981354
+    second: alessia_175
+  - first:
+      213: 7735082533341338546
+    second: alessia_176
+  - first:
+      213: 7580157925992680302
+    second: alessia_177
+  - first:
+      213: -7834030206471778190
+    second: alessia_178
+  - first:
+      213: 9068155503187527479
+    second: alessia_179
+  - first:
+      213: 2617347410682608599
+    second: alessia_180
+  - first:
+      213: -7842863359504527707
+    second: alessia_181
+  - first:
+      213: 4049833012285908751
+    second: alessia_182
+  - first:
+      213: 371596976619339804
+    second: alessia_183
+  - first:
+      213: -1296357976320810445
+    second: alessia_184
+  - first:
+      213: -1207816667033255060
+    second: alessia_185
+  - first:
+      213: 5614340919120252801
+    second: alessia_186
+  - first:
+      213: -4347984059504358046
+    second: alessia_187
+  - first:
+      213: -7267462954369693451
+    second: alessia_188
+  - first:
+      213: 8442669248303236167
+    second: alessia_189
+  - first:
+      213: -7213813569662157813
+    second: alessia_190
+  - first:
+      213: -7401666147269778497
+    second: alessia_191
+  - first:
+      213: -993438936638602661
+    second: alessia_192
+  - first:
+      213: 641884198299086036
+    second: alessia_193
+  - first:
+      213: -2536270509144645157
+    second: alessia_194
+  - first:
+      213: 6156565700822763105
+    second: alessia_195
+  - first:
+      213: 5217298285020217565
+    second: alessia_196
+  - first:
+      213: -6283429341432069004
+    second: alessia_197
+  - first:
+      213: -5293073323517918888
+    second: alessia_198
+  - first:
+      213: -2811502923446998477
+    second: alessia_199
+  - first:
+      213: 4704538794895652084
+    second: alessia_200
+  - first:
+      213: -1191729831488494723
+    second: alessia_201
+  - first:
+      213: 3208987697488283959
+    second: alessia_202
+  - first:
+      213: 7875301752102995515
+    second: alessia_203
+  - first:
+      213: 5611920987869668072
+    second: alessia_204
+  - first:
+      213: 2477615990056318747
+    second: alessia_205
+  - first:
+      213: 4916663725156365461
+    second: alessia_206
+  - first:
+      213: 8867996341343090097
+    second: alessia_207
+  - first:
+      213: -6300405232384956064
+    second: alessia_208
+  - first:
+      213: -3520103853558226092
+    second: alessia_209
+  - first:
+      213: -2842653245404708777
+    second: alessia_210
+  - first:
+      213: -7807560830488913576
+    second: alessia_211
+  - first:
+      213: -8206443591095381096
+    second: alessia_212
+  - first:
+      213: -6797393934967675404
+    second: alessia_213
+  - first:
+      213: 3998091133041403119
+    second: alessia_214
+  - first:
+      213: -5531731830417251951
+    second: alessia_215
+  - first:
+      213: -7582218751964984122
+    second: alessia_216
+  - first:
+      213: -8595448258705005799
+    second: alessia_217
+  - first:
+      213: -8650026386839936299
+    second: alessia_218
+  - first:
+      213: 7182657353516324444
+    second: alessia_219
+  - first:
+      213: -1520084570465704464
+    second: alessia_220
+  - first:
+      213: -3501340851831400272
+    second: alessia_221
+  - first:
+      213: 29197877297089879
+    second: alessia_222
+  - first:
+      213: 4019868329545558853
+    second: alessia_223
+  - first:
+      213: 3690471810009317819
+    second: alessia_224
+  - first:
+      213: -7724290725932104161
+    second: alessia_225
+  - first:
+      213: -7132830831972554330
+    second: alessia_226
+  - first:
+      213: -3862251134199363016
+    second: alessia_227
+  - first:
+      213: 6250850067832241063
+    second: alessia_228
+  - first:
+      213: 4911749265737238911
+    second: alessia_229
+  - first:
+      213: 3348022883995091706
+    second: alessia_230
+  - first:
+      213: 7305084384119194010
+    second: alessia_231
+  - first:
+      213: 1361015987622828590
+    second: alessia_232
+  - first:
+      213: -8808939152016520492
+    second: alessia_233
+  - first:
+      213: 3706793673615440965
+    second: alessia_234
+  - first:
+      213: -7958926980642579996
+    second: alessia_235
+  - first:
+      213: -5896437347468787125
+    second: alessia_236
+  - first:
+      213: 4115126058470398636
+    second: alessia_237
+  - first:
+      213: 3033301098405334846
+    second: alessia_238
+  - first:
+      213: -5282344643833973416
+    second: alessia_239
+  - first:
+      213: -7848290649696335858
+    second: alessia_240
+  - first:
+      213: 1418347822468310140
+    second: alessia_241
+  - first:
+      213: -2270022413773432286
+    second: alessia_242
+  - first:
+      213: 8695242070157964700
+    second: alessia_243
+  - first:
+      213: 4610102071532717410
+    second: alessia_244
+  - first:
+      213: -4421036804267975300
+    second: alessia_245
+  - first:
+      213: 7074814727934044971
+    second: alessia_246
+  - first:
+      213: 7519196433361397255
+    second: alessia_247
+  - first:
+      213: -6935144849489945381
+    second: alessia_248
+  - first:
+      213: -927752719617984446
+    second: alessia_249
+  - first:
+      213: 4971417704215975990
+    second: alessia_250
+  - first:
+      213: -3613859889299777623
+    second: alessia_251
+  - first:
+      213: 8100555851060262018
+    second: alessia_252
+  - first:
+      213: 6748476206123553914
+    second: alessia_253
+  - first:
+      213: 8369825676072696406
+    second: alessia_254
+  - first:
+      213: -4059660988929134115
+    second: alessia_255
+  - first:
+      213: -4167924851356503835
+    second: alessia_256
+  - first:
+      213: 5391505232867566916
+    second: alessia_257
+  - first:
+      213: 4917000217471433605
+    second: alessia_258
+  - first:
+      213: -8961149328274551044
+    second: alessia_259
+  - first:
+      213: 6188678190385738963
+    second: alessia_260
+  - first:
+      213: -7200374541411865748
+    second: alessia_261
+  - first:
+      213: -6876334241197060086
+    second: alessia_262
+  - first:
+      213: -3209727660440149571
+    second: alessia_263
+  - first:
+      213: -3730832999354757028
+    second: alessia_264
+  - first:
+      213: 3845966857591596878
+    second: alessia_265
+  - first:
+      213: -3515838039681668318
+    second: alessia_266
+  - first:
+      213: -4856853118608306428
+    second: alessia_267
+  - first:
+      213: -2798891814087867496
+    second: alessia_268
+  - first:
+      213: 6503744141237596538
+    second: alessia_269
+  - first:
+      213: -5943226643247893506
+    second: alessia_270
+  - first:
+      213: 5785298501596339694
+    second: alessia_271
+  - first:
+      213: -7174387061528550724
+    second: alessia_272
+  - first:
+      213: -939293732927412886
+    second: alessia_273
+  - first:
+      213: 6443664678215714788
+    second: alessia_274
+  - first:
+      213: -2908802763670003921
+    second: alessia_275
+  - first:
+      213: -8981168195625317452
+    second: alessia_276
+  - first:
+      213: -690497608020585095
+    second: alessia_277
+  - first:
+      213: 1009117925112409068
+    second: alessia_278
+  - first:
+      213: -8115044243725851062
+    second: alessia_279
+  - first:
+      213: 6402618653944041951
+    second: alessia_280
+  - first:
+      213: 6356278392570484075
+    second: alessia_281
+  - first:
+      213: 370715706482932969
+    second: alessia_282
+  - first:
+      213: 2154539549290711032
+    second: alessia_283
+  - first:
+      213: 5983418974218499701
+    second: alessia_284
+  - first:
+      213: 7869704282020855581
+    second: alessia_285
+  - first:
+      213: 7538433815259047907
+    second: alessia_286
+  - first:
+      213: -2193368955677098358
+    second: alessia_287
+  - first:
+      213: 8010505373059179556
+    second: alessia_288
+  - first:
+      213: 7722564889112375527
+    second: alessia_289
+  - first:
+      213: -4737012906642028212
+    second: alessia_290
+  - first:
+      213: 2297699254191380095
+    second: alessia_291
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alessia_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2216
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f180bb702b2516740800000000000000
+      internalID: 5143483174021171231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2216
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd07c4879efffbc0800000000000000
+      internalID: -3746996438227808783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2216
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134821225a8197720800000000000000
+      internalID: 2844331737181488177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2216
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b469cbba47a1289f0800000000000000
+      internalID: -467782322893318581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2216
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3138e4faeb6c98090800000000000000
+      internalID: -8031669938151324909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2216
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a72d72a00a68a270800000000000000
+      internalID: 8261970067369830308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2131
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337ca989d825979f0800000000000000
+      internalID: -470253917979359437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2131
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1431a300fcb04c0800000000000000
+      internalID: -4320131817650568766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2131
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e21fb65db147d7a0800000000000000
+      internalID: -6352536467922808090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2131
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e663948426c229f70800000000000000
+      internalID: 9192458590047778414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2131
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b078080ecd92098d0800000000000000
+      internalID: -2841725336234719477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2131
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe0daacd3f30be60800000000000000
+      internalID: 7975944474699042557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2131
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40da7b61a4ebf3f80800000000000000
+      internalID: -8124565977335091964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2131
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b1997375966c0f0800000000000000
+      internalID: -1097073635902285054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2131
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7f5bd8da1d0ea30800000000000000
+      internalID: 4242621392320067523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2131
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f3b4b685187ede0800000000000000
+      internalID: -1303931350343270498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2064
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d10fec90060cde0800000000000000
+      internalID: -1314945495949370085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2064
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48173fe551c76c6b0800000000000000
+      internalID: -5276393482188787324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2064
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b494d84c0d56a60800000000000000
+      internalID: 7666763483270695727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2064
+        width: 108
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870c881f2267a22d0800000000000000
+      internalID: -3302697484269600648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2078
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200247884a6ed43b0800000000000000
+      internalID: -5526507573375393790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_21
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2064
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484ae33cfd0cb8f70800000000000000
+      internalID: 9190651531865531524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2064
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79a717b5c05735d0800000000000000
+      internalID: -3082906609801254533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2064
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e44b62a0bbf0db30800000000000000
+      internalID: 4310221579451319527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1998
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919394377cb546970800000000000000
+      internalID: 8747217288451143961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1998
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559d8abad01ab02c0800000000000000
+      internalID: -4464297525521098411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1998
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a0789c3dda71fe0800000000000000
+      internalID: -1218314049049654694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2012
+        width: 75
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929d687244d907a0800000000000000
+      internalID: -6410359212631813483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1998
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f461b378a6217f00800000000000000
+      internalID: 1112713087874589940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2022
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1876687960844bbf0800000000000000
+      internalID: -309543281232550015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1998
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa45dae9c69c1650800000000000000
+      internalID: 6205000180582140581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1998
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b503a1676c6ab75b0800000000000000
+      internalID: -5369514759394021285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1998
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5241add2cc324d0800000000000000
+      internalID: -3160458016179608134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1998
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7761a3db6ad4042b0800000000000000
+      internalID: -5602392557914286473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1998
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8653060dec4b76ec0800000000000000
+      internalID: -3573688978942970520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1954
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b710bebc8e4c13c0800000000000000
+      internalID: -4387545570564106312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1954
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3949154a266af4610800000000000000
+      internalID: 1607686534588372115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1954
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a337a28598b5d8110800000000000000
+      internalID: 1264767715808801594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_38
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1954
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6406cd74023e3310800000000000000
+      internalID: 1386600730148078701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1954
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c43caf4be684b0800000000000000
+      internalID: -5438400772579211821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1954
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf0a12b8ee6c8750800000000000000
+      internalID: 6308539123738742713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1886
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc1d12e0a5978960800000000000000
+      internalID: 7604211014059236573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1886
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2ff68c925067f90800000000000000
+      internalID: -6956366897412574554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_43
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1886
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31f34dfd3a6eafe0800000000000000
+      internalID: -1175885638222483140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1928
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b5d1d397c53ca80800000000000000
+      internalID: -8447806800230786290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1886
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347736721861a1020800000000000000
+      internalID: 2313186102575593283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_46
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1886
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9becb39b98596d890800000000000000
+      internalID: -7433589716177662279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_47
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1886
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb316dc3c593b93e0800000000000000
+      internalID: -2045978537389321285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1886
+        width: 116
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143f787d584053770800000000000000
+      internalID: 8589776837172261697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1886
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6dbb9b7f832e0d0800000000000000
+      internalID: -3395088532459759934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_50
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1886
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47283cbbe3b36b80800000000000000
+      internalID: -8402674654686730418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1821
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2bf636aa7052830800000000000000
+      internalID: 4045648268656358059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1821
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9085245bc393f70800000000000000
+      internalID: 9167425265689168300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1822
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012bff2e1d93e6900800000000000000
+      internalID: 679544167398879760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1821
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975ac7fc513484380800000000000000
+      internalID: -8986859295463398023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_55
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1821
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba14f2da5c56df0800000000000000
+      internalID: -187526461853160594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1821
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c0efccec305be70800000000000000
+      internalID: 9130208006300896307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_57
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1822
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f15f27a128131a0800000000000000
+      internalID: -6831536109634904308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_58
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1821
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca74dcdbc9f836b0800000000000000
+      internalID: -5316224706132280636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_59
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1760
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74939a54d554d8060800000000000000
+      internalID: 6957293266260277575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_60
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1760
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4826df08fc823990800000000000000
+      internalID: -7407703440025573297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1759
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8806962f0f84b2530800000000000000
+      internalID: 3831236107705081992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1759
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0ac6d994c642bc0800000000000000
+      internalID: -3808800321419042571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_63
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1760
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90892b59f7097ef60800000000000000
+      internalID: 8063572535476918281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_64
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1760
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d17e39d14da48b40800000000000000
+      internalID: 5441664748099629524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1759
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59df5b9cd1dd7d490800000000000000
+      internalID: -7721459916095488619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_66
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1759
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f69dced47caeaf0800000000000000
+      internalID: -366261282177192072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_67
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1692
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c66f7c773acd7a0800000000000000
+      internalID: -6351021639647990733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_68
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1740
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e16016888c330e0800000000000000
+      internalID: -2291267297332552181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_69
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1692
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19315a94b915e360800000000000000
+      internalID: 7198187842895427869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1692
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085e10384cb224450800000000000000
+      internalID: 6071463370660373888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1692
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8200603dcaac50a0800000000000000
+      internalID: -6891445531527085426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_72
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1628
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5ccefc8a5bf4920800000000000000
+      internalID: 2976797615362721252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1633
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57bbac172a22f90800000000000000
+      internalID: -6979837862854560336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1631
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fb275508417c9d0800000000000000
+      internalID: -2754210105691816115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1633
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be6f66f945c93b50800000000000000
+      internalID: 6573502052581732025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1634
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b773ef815412b0800000000000000
+      internalID: -5614773156985718926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_77
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1637
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5f32fcff031bf20800000000000000
+      internalID: 3436581865910433249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1636
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5120801aefcf56510800000000000000
+      internalID: 1541916617997812245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_79
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1633
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225a22cd2ab93d330800000000000000
+      internalID: 3734499639800538402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_80
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1629
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ce20878da0de000800000000000000
+      internalID: 66721494323096666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_81
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1600
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae0370e25dcca9f0800000000000000
+      internalID: -455763706434613585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_82
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1599
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab9b9cc731567550800000000000000
+      internalID: 6158198840573533090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_83
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1599
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e83e90f38ff50360800000000000000
+      internalID: 7135390126781118697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_84
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1600
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8a12dc66062f9c0800000000000000
+      internalID: -3894944733077591899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_85
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1601
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eb7e314d25a0930800000000000000
+      internalID: 4110188680749497997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_86
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1601
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb2dc1c600705720800000000000000
+      internalID: 2832887339939605489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1542
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957c5a2b84d75b6e0800000000000000
+      internalID: -1822412723013171367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_88
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1542
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af187ad62f6b95d90800000000000000
+      internalID: -7108449384489582086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_89
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1542
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3abe14a5ef7d4140800000000000000
+      internalID: 4705557809949751871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_90
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1542
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bdb07769c2f72c0800000000000000
+      internalID: -4431774483555296385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_91
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1542
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0a7383f1a3709c0800000000000000
+      internalID: -3961133441487494936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1542
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d0e322c916e7050800000000000000
+      internalID: 5800180693317061995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_93
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1542
+        width: 108
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b43dc3af365936d0800000000000000
+      internalID: -3010280044589402959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_94
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1542
+        width: 120
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e22ca6c32de8680800000000000000
+      internalID: -8750825869003313615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_95
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1490
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd8ba1aea2621d0800000000000000
+      internalID: -3375963685708571525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_96
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1490
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26acd624ae6cad820800000000000000
+      internalID: 2943884015879178850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_97
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1490
+        width: 138
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e38a45676dc63b0800000000000000
+      internalID: -5517799639720903106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_98
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1490
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d012f5288622f10800000000000000
+      internalID: 2243470473534967061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1414
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0fc817af3957000800000000000000
+      internalID: 33095276131315892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1412
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3680b479da429a40800000000000000
+      internalID: 5373439603232507455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_101
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1412
+        width: 101
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c0a6cf745004ca0800000000000000
+      internalID: -6034817693940839328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_102
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1423
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0dcc8d5d8a4c660800000000000000
+      internalID: 7405229323722739935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_103
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1412
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86423c76beb536200800000000000000
+      internalID: 172082277386495080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_104
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1412
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf3d340be88fd9a0800000000000000
+      internalID: -6206091218523439167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_105
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1412
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5c105df3dd37c50800000000000000
+      internalID: 6661911540037436858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_106
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1412
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099e43bebb75efe20800000000000000
+      internalID: 3386240434445805968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_107
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1412
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b52a8cf661b8490800000000000000
+      internalID: -7743070464970171547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_108
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1349
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fce9dca226ac2ec0800000000000000
+      internalID: -3590312135062065935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_109
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1349
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055535b8c72c23860800000000000000
+      internalID: 7508277368949265744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_110
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1349
+        width: 99
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ca5f3c9cafeb20800000000000000
+      internalID: 3165938850142536610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_111
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1349
+        width: 107
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df915cafcd71e4980800000000000000
+      internalID: -8552872404462528003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_112
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1349
+        width: 108
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ace684a9bdeff620800000000000000
+      internalID: 2810226074087517353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_113
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1349
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936c977f74ac113d0800000000000000
+      internalID: -3237584246659234247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_114
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1349
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cfba08efcc0eb70800000000000000
+      internalID: 8926359854900837459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_115
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1282
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303c0d3355f8c59f0800000000000000
+      internalID: -478349864303803645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_116
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1282
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850acf7e7c5f22760800000000000000
+      internalID: 7431772574054129752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_117
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1282
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e5168529a14ab20800000000000000
+      internalID: 3144667655661772386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_118
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1282
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c21edf79525db90800000000000000
+      internalID: -7217821493061669746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_119
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1282
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff15101a3dd16fb0800000000000000
+      internalID: -4656197298276720648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_120
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1324
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1966ac3ebf56666c0800000000000000
+      internalID: -4150517874042444143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_121
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1282
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da882b2886f771d20800000000000000
+      internalID: 3249205743017167021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_122
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1282
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240f7a47788b36800800000000000000
+      internalID: 604529666915037250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_123
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1282
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bb13a1257259d00800000000000000
+      internalID: 978731727603219345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_124
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1208
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01361365ab489030800000000000000
+      internalID: 3501631883984646414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_125
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1208
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0774d94d57b0978b0800000000000000
+      internalID: -5154075697842665616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_126
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1210
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4a5f4f03193f450800000000000000
+      internalID: 6121395957980832945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_127
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1204
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0c0e075dd45c90800000000000000
+      internalID: -7181872139781534630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_128
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1199
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd83a9267d0ba350800000000000000
+      internalID: 6028927327321427414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_129
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1219
+        width: 110
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aeba64f3602ab80800000000000000
+      internalID: -8385132687372064165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_130
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1209
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7366fed25e902a140800000000000000
+      internalID: 4729353438615266871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_131
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1208
+        width: 148
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b6e790df4ea5f10800000000000000
+      internalID: 2259369938516863866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_132
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1157
+        width: 149
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975675b3447e887e0800000000000000
+      internalID: -1762904973876173447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_133
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1157
+        width: 98
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1c727e5027b3a0800000000000000
+      internalID: -6649810734769496346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_134
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1157
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55f29cf5b4e86000800000000000000
+      internalID: 29524867855611230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_135
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1157
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40268862355a08c00800000000000000
+      internalID: 900901702021440004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_136
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1157
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a184bd576a32490800000000000000
+      internalID: -7772185506791023977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_137
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1115
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c393ee9b9ec707f0800000000000000
+      internalID: -646320853723409468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_138
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1115
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ea4cbaced28dfc0800000000000000
+      internalID: -3469973018371641812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_139
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1066
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012bb98d03f866620800000000000000
+      internalID: 2767056461021032976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_140
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1066
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5bc9ff2f7cfbd40800000000000000
+      internalID: 5602416307956659676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_141
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1066
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c035feaec18e6d000800000000000000
+      internalID: 60490855914361612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_142
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1066
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9962fd8fa84493a0800000000000000
+      internalID: -6659618030136170081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_143
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1066
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75586fc4c45083980800000000000000
+      internalID: -8559085266550749865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_144
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1066
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ec3d9a8988ab090800000000000000
+      internalID: -8017945997314109922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_145
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1066
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3267e5f660e57ece0800000000000000
+      internalID: -1376027779407120861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_146
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 966
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f0360b4da4662b0800000000000000
+      internalID: -5591699609981087954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_147
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 947
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6821fda3536eae6d0800000000000000
+      internalID: -2960300688747326842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_148
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 945
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279070008732c6300800000000000000
+      internalID: 246611077902043506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 966
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0748e8582a26620800000000000000
+      internalID: 2765951815664300215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_150
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 890
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00431318cfa49d70800000000000000
+      internalID: 9049050825142517771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_151
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 945
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0a6fc801bb9f2f0800000000000000
+      internalID: -938513367571193633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_152
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 857
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92042255317429560800000000000000
+      internalID: 7318990492788736041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_153
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 910
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71a0508d9b9ab1b0800000000000000
+      internalID: -5640024482563186310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_154
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 908
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aa1f4564ed10ed0800000000000000
+      internalID: -2449432328658638299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_155
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 857
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f887168a40b886fd0800000000000000
+      internalID: -2348474353552623473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_156
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 885
+        width: 81
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b1431bf742f0a60800000000000000
+      internalID: 7642367223523449643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_157
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 857
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb0c3e6c9fd870c0800000000000000
+      internalID: -4577663158264788039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_158
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 834
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b9e4dd756cc8c20800000000000000
+      internalID: 3210158715085691652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_159
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 830
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af1baac23fdbea90800000000000000
+      internalID: -7283482563100074077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_160
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 830
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281f5653f6cab0590800000000000000
+      internalID: -7706876743677251198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_161
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 828
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debeef2b419b14a50800000000000000
+      internalID: 6503682835453242349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_162
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 754
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc585d0137ce5c620800000000000000
+      internalID: 2793899122801083855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_163
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 807
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a1fdb8dc06ed4e0800000000000000
+      internalID: -1955018752301000089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_164
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 805
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aea785719759950800000000000000
+      internalID: 6455198782081133057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_165
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 794
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5f1dfc724d29e80800000000000000
+      internalID: -8173237106268572171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_166
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 781
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277eddbfc3cac93f0800000000000000
+      internalID: -892649248202561678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_167
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 754
+        width: 88
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f78613e645c06d20800000000000000
+      internalID: 3269830237719267317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_168
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 742
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a884ae767afe2380800000000000000
+      internalID: -8993976018974504797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_169
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 745
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea8bbe2a027fced0800000000000000
+      internalID: -2391567489051161879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_170
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 723
+        width: 128
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9523e22383f9ff220800000000000000
+      internalID: 2521909380059640409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_171
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 710
+        width: 98
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7eb4dbb1bbbe560800000000000000
+      internalID: 7344169345172105198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_172
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 708
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1e3cb2f42eb270800000000000000
+      internalID: 8268086590857682454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_173
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 720
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73373e6b344a31150800000000000000
+      internalID: 5842193752367788855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_174
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 722
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0027b5d5c91d770800000000000000
+      internalID: 8633853885426041073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_175
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 722
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcf3b04bb4a13bc0800000000000000
+      internalID: -3805079085999981354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_176
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 723
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb9324f498885b60800000000000000
+      internalID: 7735082533341338546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_177
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 700
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bc728e871223960800000000000000
+      internalID: 7580157925992680302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_178
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 658
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270d19f980fe74390800000000000000
+      internalID: -7834030206471778190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_179
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 687
+        width: 117
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7370f7f826f88dd70800000000000000
+      internalID: 9068155503187527479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_180
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 687
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db768b4a9fa25420800000000000000
+      internalID: 2617347410682608599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_181
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 700
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae4ecae35d882390800000000000000
+      internalID: -7842863359504527707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_182
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 679
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07a3f0faa5e33830800000000000000
+      internalID: 4049833012285908751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_183
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 587
+        width: 31
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10410f3b7d282500800000000000000
+      internalID: 371596976619339804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_184
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 642
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33267a7f949620ee0800000000000000
+      internalID: -1296357976320810445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_185
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 657
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63cfaff329fc3fe0800000000000000
+      internalID: -1207816667033255060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_186
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 683
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f4a14e1552aed40800000000000000
+      internalID: 5614340919120252801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_187
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 678
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d8e24d88bd8a3c0800000000000000
+      internalID: -4347984059504358046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_188
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 663
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8cb7a92f8c42b90800000000000000
+      internalID: -7267462954369693451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_189
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 663
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7448a3d33f26a2570800000000000000
+      internalID: 8442669248303236167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_190
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 663
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cf46067c263eb90800000000000000
+      internalID: -7213813569662157813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_191
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 660
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb363f1dadff74990800000000000000
+      internalID: -7401666147269778497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_192
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 642
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b524d93fc889632f0800000000000000
+      internalID: -993438936638602661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_193
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 639
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcad8a074e68e800800000000000000
+      internalID: 641884198299086036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_194
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 642
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd16220e86b5dccd0800000000000000
+      internalID: -2536270509144645157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_195
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 626
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16605e1d2e3807550800000000000000
+      internalID: 6156565700822763105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_196
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 638
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd082e5d521976840800000000000000
+      internalID: 5217298285020217565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_197
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 638
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474cca41e46ccc8a0800000000000000
+      internalID: -6283429341432069004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_198
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 626
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8514e9d2bd93b86b0800000000000000
+      internalID: -5293073323517918888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_199
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 609
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a28f2bcf88bf8d0800000000000000
+      internalID: -2811502923446998477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_200
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 605
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4bcc5bb11e94140800000000000000
+      internalID: 4704538794895652084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_201
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 601
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7364e54800267fe0800000000000000
+      internalID: -1191729831488494723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_202
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 612
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73943651f4d988c20800000000000000
+      internalID: 3208987697488283959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_203
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 620
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b364c19e731ba4d60800000000000000
+      internalID: 7875301752102995515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_204
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 618
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2e78db76c81ed40800000000000000
+      internalID: 5611920987869668072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_205
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 575
+        width: 109
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b177221bd92426220800000000000000
+      internalID: 2477615990056318747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_206
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 577
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5947ef1cb9f7b3440800000000000000
+      internalID: 4916663725156365461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_207
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 591
+        width: 121
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5f73310b3711b70800000000000000
+      internalID: 8867996341343090097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_208
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 534
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069aea672d67098a0800000000000000
+      internalID: -6300405232384956064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_209
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 580
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ad2c0234162fc0800000000000000
+      internalID: -3520103853558226092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 577
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7508a003feddc88d0800000000000000
+      internalID: -2842653245404708777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_211
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 549
+        width: 100
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85954787ac8f5a390800000000000000
+      internalID: -7807560830488913576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_212
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8939a73980bdc1e80800000000000000
+      internalID: -8206443591095381096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_213
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 530
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f56bd3fa3ecaa1a0800000000000000
+      internalID: -6797393934967675404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_214
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 554
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe46294e3b21c7730800000000000000
+      internalID: 3998091133041403119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_215
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 549
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191224765375b33b0800000000000000
+      internalID: -5531731830417251951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_216
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 504
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc42d7a73c86c690800000000000000
+      internalID: -7582218751964984122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_217
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 529
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91363ae6955d6b880800000000000000
+      internalID: -8595448258705005799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_218
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 524
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d266aab4dee4f780800000000000000
+      internalID: -8650026386839936299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_219
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 534
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5610b3cecceda360800000000000000
+      internalID: 7182657353516324444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_220
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 504
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e6dc032397eae0800000000000000
+      internalID: -1520084570465704464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_221
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 484
+        width: 124
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b89601db0db86fc0800000000000000
+      internalID: -3501340851831400272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_222
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 508
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d0d70905bb76000800000000000000
+      internalID: 29197877297089879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_223
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 502
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54be76292f079c730800000000000000
+      internalID: 4019868329545558853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_224
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 494
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1c239ee80373330800000000000000
+      internalID: 3690471810009317819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_225
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 494
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1609f2828ecdc490800000000000000
+      internalID: -7724290725932104161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_226
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 477
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a962515628130d90800000000000000
+      internalID: -7132830831972554330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_227
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 516
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a82b87e07866ac0800000000000000
+      internalID: -3862251134199363016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_228
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 476
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abfd5da40b7fb650800000000000000
+      internalID: 6250850067832241063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_229
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 516
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79cd020fe90a2440800000000000000
+      internalID: 4911749265737238911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_230
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 446
+        width: 143
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2086c0311967e20800000000000000
+      internalID: 3348022883995091706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_231
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 479
+        width: 109
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a918da91b8fd06560800000000000000
+      internalID: 7305084384119194010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_232
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 416
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad2eb64dc43e210800000000000000
+      internalID: 1361015987622828590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_233
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 451
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da4604538c50c580800000000000000
+      internalID: -8808939152016520492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_234
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 416
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c738be43d217330800000000000000
+      internalID: 3706793673615440965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_235
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 396
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9d68d44163c8190800000000000000
+      internalID: -7958926980642579996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_236
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 422
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c6cf1975ab2ea0800000000000000
+      internalID: -5896437347468787125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_237
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 454
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caad419e85ddb1930800000000000000
+      internalID: 4115126058470398636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_238
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 443
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f80432743781a20800000000000000
+      internalID: 3033301098405334846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_239
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 442
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855b613988751b6b0800000000000000
+      internalID: -5282344643833973416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_240
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 407
+        width: 136
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0884d27c35451390800000000000000
+      internalID: -7848290649696335858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_241
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 414
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c742c2e64dbfea310800000000000000
+      internalID: 1418347822468310140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_242
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 378
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a1cda44a24f70e0800000000000000
+      internalID: -2270022413773432286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_243
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 416
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c953ccbe794bba870800000000000000
+      internalID: 8695242070157964700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_244
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 386
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2650000a86f5aff30800000000000000
+      internalID: 4610102071532717410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_245
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 350
+        width: 35
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dddae337255a2c0800000000000000
+      internalID: -4421036804267975300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_246
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 351
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2be536d28ace2260800000000000000
+      internalID: 7074814727934044971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_247
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 370
+        width: 158
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706e3e6515d895860800000000000000
+      internalID: 7519196433361397255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_248
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 370
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc954cd08a61cf90800000000000000
+      internalID: -6935144849489945381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_249
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 399
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24874c321d5ff13f0800000000000000
+      internalID: -927752719617984446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_250
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 315
+        width: 140
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63891e1ff060ef440800000000000000
+      internalID: 4971417704215975990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_251
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 323
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a71146e39df8ddc0800000000000000
+      internalID: -3613859889299777623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_252
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 334
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284b8a1c0a4fa6070800000000000000
+      internalID: 8100555851060262018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_253
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 339
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a749b21ca5767ad50800000000000000
+      internalID: 6748476206123553914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_254
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 297
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ab14e6b18972470800000000000000
+      internalID: 8369825676072696406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_255
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 292
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd13e5ee6df29a7c0800000000000000
+      internalID: -4059660988929134115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_256
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 302
+        width: 36
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e07f582e6e8826c0800000000000000
+      internalID: -4167924851356503835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_257
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 257
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4452bb1a17972da40800000000000000
+      internalID: 5391505232867566916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_258
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 257
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b37ea75a1bc3440800000000000000
+      internalID: 4917000217471433605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_259
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 258
+        width: 183
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe07f40a2a93a380800000000000000
+      internalID: -8961149328274551044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_260
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 315
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4362f660a92e550800000000000000
+      internalID: 6188678190385738963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_261
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 296
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2169f081231c90800000000000000
+      internalID: -7200374541411865748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_262
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 258
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a001894a07a5290a0800000000000000
+      internalID: -6876334241197060086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_263
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 226
+        width: 125
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db128bdd2b1c473d0800000000000000
+      internalID: -3209727660440149571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_264
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 261
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c509725672b693cc0800000000000000
+      internalID: -3730832999354757028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_265
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 261
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472cacea7e9f5530800000000000000
+      internalID: 3845966857591596878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_266
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 226
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22be7fc3eeb353fc0800000000000000
+      internalID: -3515838039681668318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_267
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 208
+        width: 37
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f8a1342ddf89cb0800000000000000
+      internalID: -4856853118608306428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_268
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 205
+        width: 204
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8934b8869b65829d0800000000000000
+      internalID: -2798891814087867496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_269
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 211
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71be7096d0f14a50800000000000000
+      internalID: 6503744141237596538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_270
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 244
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef372954bda658da0800000000000000
+      internalID: -5943226643247893506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_271
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 149
+        width: 202
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeddf3bd552894050800000000000000
+      internalID: 5785298501596339694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_272
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 162
+        width: 140
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2ae64aaf47f6c90800000000000000
+      internalID: -7174387061528550724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_273
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 194
+        width: 139
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a656c159355f6f2f0800000000000000
+      internalID: -939293732927412886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_274
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 114
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e787c482ee7c6950800000000000000
+      internalID: 6443664678215714788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_275
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 114
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f56c54c4bd1a7d0800000000000000
+      internalID: -2908802763670003921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_276
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 174
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb87bf3c1b7c5380800000000000000
+      internalID: -8981168195625317452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_277
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9751dab751cda66f0800000000000000
+      internalID: -690497608020585095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_278
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebedc6086b110e00800000000000000
+      internalID: 1009117925112409068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_279
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 90
+        width: 124
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4664247142916f80800000000000000
+      internalID: -8115044243725851062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_280
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 128
+        width: 139
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1df944ebbaad850800000000000000
+      internalID: 6402618653944041951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_281
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 114
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6597a26589063850800000000000000
+      internalID: 6356278392570484075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_282
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 95
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecb29d88fb052500800000000000000
+      internalID: 370715706482932969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_283
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 55
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7c00a0e4676ed10800000000000000
+      internalID: 2154539549290711032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_284
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 95
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57630a40bdf590350800000000000000
+      internalID: 5983418974218499701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_285
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 19
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f3939595ec63d60800000000000000
+      internalID: 7869704282020855581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_286
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 19
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7ee495d95ed9860800000000000000
+      internalID: 7538433815259047907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_287
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 54
+        width: 134
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e3f774e869f81e0800000000000000
+      internalID: -2193368955677098358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_288
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 19
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424ec8002380b2f60800000000000000
+      internalID: 8010505373059179556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_289
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 19
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0727ac9df0c2b60800000000000000
+      internalID: 7722564889112375527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_290
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 19
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c494923fbdfb24eb0800000000000000
+      internalID: -4737012906642028212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alessia_291
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76d1c64c4113ef10800000000000000
+      internalID: 2297699254191380095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alessia_0: 5143483174021171231
+      alessia_1: -3746996438227808783
+      alessia_10: -2841725336234719477
+      alessia_100: 5373439603232507455
+      alessia_101: -6034817693940839328
+      alessia_102: 7405229323722739935
+      alessia_103: 172082277386495080
+      alessia_104: -6206091218523439167
+      alessia_105: 6661911540037436858
+      alessia_106: 3386240434445805968
+      alessia_107: -7743070464970171547
+      alessia_108: -3590312135062065935
+      alessia_109: 7508277368949265744
+      alessia_11: 7975944474699042557
+      alessia_110: 3165938850142536610
+      alessia_111: -8552872404462528003
+      alessia_112: 2810226074087517353
+      alessia_113: -3237584246659234247
+      alessia_114: 8926359854900837459
+      alessia_115: -478349864303803645
+      alessia_116: 7431772574054129752
+      alessia_117: 3144667655661772386
+      alessia_118: -7217821493061669746
+      alessia_119: -4656197298276720648
+      alessia_12: -8124565977335091964
+      alessia_120: -4150517874042444143
+      alessia_121: 3249205743017167021
+      alessia_122: 604529666915037250
+      alessia_123: 978731727603219345
+      alessia_124: 3501631883984646414
+      alessia_125: -5154075697842665616
+      alessia_126: 6121395957980832945
+      alessia_127: -7181872139781534630
+      alessia_128: 6028927327321427414
+      alessia_129: -8385132687372064165
+      alessia_13: -1097073635902285054
+      alessia_130: 4729353438615266871
+      alessia_131: 2259369938516863866
+      alessia_132: -1762904973876173447
+      alessia_133: -6649810734769496346
+      alessia_134: 29524867855611230
+      alessia_135: 900901702021440004
+      alessia_136: -7772185506791023977
+      alessia_137: -646320853723409468
+      alessia_138: -3469973018371641812
+      alessia_139: 2767056461021032976
+      alessia_14: 4242621392320067523
+      alessia_140: 5602416307956659676
+      alessia_141: 60490855914361612
+      alessia_142: -6659618030136170081
+      alessia_143: -8559085266550749865
+      alessia_144: -8017945997314109922
+      alessia_145: -1376027779407120861
+      alessia_146: -5591699609981087954
+      alessia_147: -2960300688747326842
+      alessia_148: 246611077902043506
+      alessia_149: 2765951815664300215
+      alessia_15: -1303931350343270498
+      alessia_150: 9049050825142517771
+      alessia_151: -938513367571193633
+      alessia_152: 7318990492788736041
+      alessia_153: -5640024482563186310
+      alessia_154: -2449432328658638299
+      alessia_155: -2348474353552623473
+      alessia_156: 7642367223523449643
+      alessia_157: -4577663158264788039
+      alessia_158: 3210158715085691652
+      alessia_159: -7283482563100074077
+      alessia_16: -1314945495949370085
+      alessia_160: -7706876743677251198
+      alessia_161: 6503682835453242349
+      alessia_162: 2793899122801083855
+      alessia_163: -1955018752301000089
+      alessia_164: 6455198782081133057
+      alessia_165: -8173237106268572171
+      alessia_166: -892649248202561678
+      alessia_167: 3269830237719267317
+      alessia_168: -8993976018974504797
+      alessia_169: -2391567489051161879
+      alessia_17: -5276393482188787324
+      alessia_170: 2521909380059640409
+      alessia_171: 7344169345172105198
+      alessia_172: 8268086590857682454
+      alessia_173: 5842193752367788855
+      alessia_174: 8633853885426041073
+      alessia_175: -3805079085999981354
+      alessia_176: 7735082533341338546
+      alessia_177: 7580157925992680302
+      alessia_178: -7834030206471778190
+      alessia_179: 9068155503187527479
+      alessia_18: 7666763483270695727
+      alessia_180: 2617347410682608599
+      alessia_181: -7842863359504527707
+      alessia_182: 4049833012285908751
+      alessia_183: 371596976619339804
+      alessia_184: -1296357976320810445
+      alessia_185: -1207816667033255060
+      alessia_186: 5614340919120252801
+      alessia_187: -4347984059504358046
+      alessia_188: -7267462954369693451
+      alessia_189: 8442669248303236167
+      alessia_19: -3302697484269600648
+      alessia_190: -7213813569662157813
+      alessia_191: -7401666147269778497
+      alessia_192: -993438936638602661
+      alessia_193: 641884198299086036
+      alessia_194: -2536270509144645157
+      alessia_195: 6156565700822763105
+      alessia_196: 5217298285020217565
+      alessia_197: -6283429341432069004
+      alessia_198: -5293073323517918888
+      alessia_199: -2811502923446998477
+      alessia_2: 2844331737181488177
+      alessia_20: -5526507573375393790
+      alessia_200: 4704538794895652084
+      alessia_201: -1191729831488494723
+      alessia_202: 3208987697488283959
+      alessia_203: 7875301752102995515
+      alessia_204: 5611920987869668072
+      alessia_205: 2477615990056318747
+      alessia_206: 4916663725156365461
+      alessia_207: 8867996341343090097
+      alessia_208: -6300405232384956064
+      alessia_209: -3520103853558226092
+      alessia_21: 9190651531865531524
+      alessia_210: -2842653245404708777
+      alessia_211: -7807560830488913576
+      alessia_212: -8206443591095381096
+      alessia_213: -6797393934967675404
+      alessia_214: 3998091133041403119
+      alessia_215: -5531731830417251951
+      alessia_216: -7582218751964984122
+      alessia_217: -8595448258705005799
+      alessia_218: -8650026386839936299
+      alessia_219: 7182657353516324444
+      alessia_22: -3082906609801254533
+      alessia_220: -1520084570465704464
+      alessia_221: -3501340851831400272
+      alessia_222: 29197877297089879
+      alessia_223: 4019868329545558853
+      alessia_224: 3690471810009317819
+      alessia_225: -7724290725932104161
+      alessia_226: -7132830831972554330
+      alessia_227: -3862251134199363016
+      alessia_228: 6250850067832241063
+      alessia_229: 4911749265737238911
+      alessia_23: 4310221579451319527
+      alessia_230: 3348022883995091706
+      alessia_231: 7305084384119194010
+      alessia_232: 1361015987622828590
+      alessia_233: -8808939152016520492
+      alessia_234: 3706793673615440965
+      alessia_235: -7958926980642579996
+      alessia_236: -5896437347468787125
+      alessia_237: 4115126058470398636
+      alessia_238: 3033301098405334846
+      alessia_239: -5282344643833973416
+      alessia_24: 8747217288451143961
+      alessia_240: -7848290649696335858
+      alessia_241: 1418347822468310140
+      alessia_242: -2270022413773432286
+      alessia_243: 8695242070157964700
+      alessia_244: 4610102071532717410
+      alessia_245: -4421036804267975300
+      alessia_246: 7074814727934044971
+      alessia_247: 7519196433361397255
+      alessia_248: -6935144849489945381
+      alessia_249: -927752719617984446
+      alessia_25: -4464297525521098411
+      alessia_250: 4971417704215975990
+      alessia_251: -3613859889299777623
+      alessia_252: 8100555851060262018
+      alessia_253: 6748476206123553914
+      alessia_254: 8369825676072696406
+      alessia_255: -4059660988929134115
+      alessia_256: -4167924851356503835
+      alessia_257: 5391505232867566916
+      alessia_258: 4917000217471433605
+      alessia_259: -8961149328274551044
+      alessia_26: -1218314049049654694
+      alessia_260: 6188678190385738963
+      alessia_261: -7200374541411865748
+      alessia_262: -6876334241197060086
+      alessia_263: -3209727660440149571
+      alessia_264: -3730832999354757028
+      alessia_265: 3845966857591596878
+      alessia_266: -3515838039681668318
+      alessia_267: -4856853118608306428
+      alessia_268: -2798891814087867496
+      alessia_269: 6503744141237596538
+      alessia_27: -6410359212631813483
+      alessia_270: -5943226643247893506
+      alessia_271: 5785298501596339694
+      alessia_272: -7174387061528550724
+      alessia_273: -939293732927412886
+      alessia_274: 6443664678215714788
+      alessia_275: -2908802763670003921
+      alessia_276: -8981168195625317452
+      alessia_277: -690497608020585095
+      alessia_278: 1009117925112409068
+      alessia_279: -8115044243725851062
+      alessia_28: 1112713087874589940
+      alessia_280: 6402618653944041951
+      alessia_281: 6356278392570484075
+      alessia_282: 370715706482932969
+      alessia_283: 2154539549290711032
+      alessia_284: 5983418974218499701
+      alessia_285: 7869704282020855581
+      alessia_286: 7538433815259047907
+      alessia_287: -2193368955677098358
+      alessia_288: 8010505373059179556
+      alessia_289: 7722564889112375527
+      alessia_29: -309543281232550015
+      alessia_290: -4737012906642028212
+      alessia_291: 2297699254191380095
+      alessia_3: -467782322893318581
+      alessia_30: 6205000180582140581
+      alessia_31: -5369514759394021285
+      alessia_32: -3160458016179608134
+      alessia_33: -5602392557914286473
+      alessia_34: -3573688978942970520
+      alessia_35: -4387545570564106312
+      alessia_36: 1607686534588372115
+      alessia_37: 1264767715808801594
+      alessia_38: 1386600730148078701
+      alessia_39: -5438400772579211821
+      alessia_4: -8031669938151324909
+      alessia_40: 6308539123738742713
+      alessia_41: 7604211014059236573
+      alessia_42: -6956366897412574554
+      alessia_43: -1175885638222483140
+      alessia_44: -8447806800230786290
+      alessia_45: 2313186102575593283
+      alessia_46: -7433589716177662279
+      alessia_47: -2045978537389321285
+      alessia_48: 8589776837172261697
+      alessia_49: -3395088532459759934
+      alessia_5: 8261970067369830308
+      alessia_50: -8402674654686730418
+      alessia_51: 4045648268656358059
+      alessia_52: 9167425265689168300
+      alessia_53: 679544167398879760
+      alessia_54: -8986859295463398023
+      alessia_55: -187526461853160594
+      alessia_56: 9130208006300896307
+      alessia_57: -6831536109634904308
+      alessia_58: -5316224706132280636
+      alessia_59: 6957293266260277575
+      alessia_6: -470253917979359437
+      alessia_60: -7407703440025573297
+      alessia_61: 3831236107705081992
+      alessia_62: -3808800321419042571
+      alessia_63: 8063572535476918281
+      alessia_64: 5441664748099629524
+      alessia_65: -7721459916095488619
+      alessia_66: -366261282177192072
+      alessia_67: -6351021639647990733
+      alessia_68: -2291267297332552181
+      alessia_69: 7198187842895427869
+      alessia_7: -4320131817650568766
+      alessia_70: 6071463370660373888
+      alessia_71: -6891445531527085426
+      alessia_72: 2976797615362721252
+      alessia_73: -6979837862854560336
+      alessia_74: -2754210105691816115
+      alessia_75: 6573502052581732025
+      alessia_76: -5614773156985718926
+      alessia_77: 3436581865910433249
+      alessia_78: 1541916617997812245
+      alessia_79: 3734499639800538402
+      alessia_8: -6352536467922808090
+      alessia_80: 66721494323096666
+      alessia_81: -455763706434613585
+      alessia_82: 6158198840573533090
+      alessia_83: 7135390126781118697
+      alessia_84: -3894944733077591899
+      alessia_85: 4110188680749497997
+      alessia_86: 2832887339939605489
+      alessia_87: -1822412723013171367
+      alessia_88: -7108449384489582086
+      alessia_89: 4705557809949751871
+      alessia_9: 9192458590047778414
+      alessia_90: -4431774483555296385
+      alessia_91: -3961133441487494936
+      alessia_92: 5800180693317061995
+      alessia_93: -3010280044589402959
+      alessia_94: -8750825869003313615
+      alessia_95: -3375963685708571525
+      alessia_96: 2943884015879178850
+      alessia_97: -5517799639720903106
+      alessia_98: 2243470473534967061
+      alessia_99: 33095276131315892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

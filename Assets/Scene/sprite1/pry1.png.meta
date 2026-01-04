@@ -1,0 +1,4797 @@
+fileFormatVersion: 2
+guid: 4dfa50e673e70644e8fdf364a3755f56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3106740259795209232
+    second: pry1_0
+  - first:
+      213: -95092249491354624
+    second: pry1_1
+  - first:
+      213: 6056096046970481397
+    second: pry1_2
+  - first:
+      213: -462151097918505833
+    second: pry1_3
+  - first:
+      213: -8326503200969035176
+    second: pry1_4
+  - first:
+      213: 7250746133445442264
+    second: pry1_5
+  - first:
+      213: -308549931523681750
+    second: pry1_6
+  - first:
+      213: 1484047685574403846
+    second: pry1_7
+  - first:
+      213: -4877984814269403313
+    second: pry1_8
+  - first:
+      213: -5145554223709303350
+    second: pry1_9
+  - first:
+      213: -2973823277131528982
+    second: pry1_10
+  - first:
+      213: 2105316948694972407
+    second: pry1_11
+  - first:
+      213: -6726355982604712263
+    second: pry1_12
+  - first:
+      213: -4840578025059394955
+    second: pry1_13
+  - first:
+      213: -3435912361451062812
+    second: pry1_14
+  - first:
+      213: 1761957884024748232
+    second: pry1_15
+  - first:
+      213: -8464529312074410143
+    second: pry1_16
+  - first:
+      213: 4545545590893948926
+    second: pry1_17
+  - first:
+      213: -2947030922754043485
+    second: pry1_18
+  - first:
+      213: -7392035841138630975
+    second: pry1_19
+  - first:
+      213: -8818350899952780759
+    second: pry1_20
+  - first:
+      213: -6888580016189087502
+    second: pry1_21
+  - first:
+      213: 4142605609237923802
+    second: pry1_22
+  - first:
+      213: 7629418022295265251
+    second: pry1_23
+  - first:
+      213: 3584096124742354082
+    second: pry1_24
+  - first:
+      213: 1899492116414907018
+    second: pry1_25
+  - first:
+      213: 2413728752272467475
+    second: pry1_26
+  - first:
+      213: -2191716318312703633
+    second: pry1_27
+  - first:
+      213: 7677471207042483740
+    second: pry1_28
+  - first:
+      213: 6160882062155396302
+    second: pry1_29
+  - first:
+      213: -8335086752015248336
+    second: pry1_30
+  - first:
+      213: -5476867163987262575
+    second: pry1_31
+  - first:
+      213: 1539740710239176831
+    second: pry1_32
+  - first:
+      213: -2370948518420352344
+    second: pry1_33
+  - first:
+      213: -5043377520907713151
+    second: pry1_34
+  - first:
+      213: 8514369802207410464
+    second: pry1_35
+  - first:
+      213: -2806270459618517090
+    second: pry1_36
+  - first:
+      213: 4880989596742352681
+    second: pry1_37
+  - first:
+      213: 8057537120155583477
+    second: pry1_38
+  - first:
+      213: 1968475604610112524
+    second: pry1_39
+  - first:
+      213: -4215317368019554810
+    second: pry1_40
+  - first:
+      213: -1654853042507775990
+    second: pry1_41
+  - first:
+      213: -6600581076283294223
+    second: pry1_42
+  - first:
+      213: 542516493501027113
+    second: pry1_43
+  - first:
+      213: -7258598174296343868
+    second: pry1_44
+  - first:
+      213: -3690926421866665001
+    second: pry1_45
+  - first:
+      213: -6310904598911252215
+    second: pry1_46
+  - first:
+      213: 5843863755155931107
+    second: pry1_47
+  - first:
+      213: -6678270033952352085
+    second: pry1_48
+  - first:
+      213: -491269193516980556
+    second: pry1_49
+  - first:
+      213: 7062210526984076548
+    second: pry1_50
+  - first:
+      213: -3665220497703732881
+    second: pry1_51
+  - first:
+      213: 988764524788270949
+    second: pry1_52
+  - first:
+      213: -3307293012394805262
+    second: pry1_53
+  - first:
+      213: 5198455375279330016
+    second: pry1_54
+  - first:
+      213: 5441863289760527610
+    second: pry1_55
+  - first:
+      213: -8543195304827986767
+    second: pry1_56
+  - first:
+      213: 660852262863447722
+    second: pry1_57
+  - first:
+      213: 3307913842922909698
+    second: pry1_58
+  - first:
+      213: 2686703771413165161
+    second: pry1_59
+  - first:
+      213: 7100944041137151601
+    second: pry1_60
+  - first:
+      213: -3657835011972469860
+    second: pry1_61
+  - first:
+      213: 4873855400331055047
+    second: pry1_62
+  - first:
+      213: -9135910171728901560
+    second: pry1_63
+  - first:
+      213: -794426955849909797
+    second: pry1_64
+  - first:
+      213: -194336753456264802
+    second: pry1_65
+  - first:
+      213: -125258881894097884
+    second: pry1_66
+  - first:
+      213: 5209298758633012300
+    second: pry1_67
+  - first:
+      213: -2413379827991629828
+    second: pry1_68
+  - first:
+      213: 2349433436155946998
+    second: pry1_69
+  - first:
+      213: -3954195265872510914
+    second: pry1_70
+  - first:
+      213: -752210300281563633
+    second: pry1_71
+  - first:
+      213: -6998288760812103382
+    second: pry1_72
+  - first:
+      213: -3606471027623406361
+    second: pry1_73
+  - first:
+      213: 5641081618302377267
+    second: pry1_74
+  - first:
+      213: 288477229106726272
+    second: pry1_75
+  - first:
+      213: 7777222407528276881
+    second: pry1_76
+  - first:
+      213: 3149477988870923726
+    second: pry1_77
+  - first:
+      213: 8946679207922358332
+    second: pry1_78
+  - first:
+      213: -6300433357444297084
+    second: pry1_79
+  - first:
+      213: -6195783495003539976
+    second: pry1_80
+  - first:
+      213: -6725913279598530109
+    second: pry1_81
+  - first:
+      213: -6645885174441384807
+    second: pry1_82
+  - first:
+      213: 2090241909857188345
+    second: pry1_83
+  - first:
+      213: 1512135028195336157
+    second: pry1_84
+  - first:
+      213: 8462667877406846547
+    second: pry1_85
+  - first:
+      213: -3083710883639981249
+    second: pry1_86
+  - first:
+      213: 2991458184225440048
+    second: pry1_87
+  - first:
+      213: 6302373644586904668
+    second: pry1_88
+  - first:
+      213: -2425103143840910786
+    second: pry1_89
+  - first:
+      213: -5711984580307601566
+    second: pry1_90
+  - first:
+      213: -1651608363178886449
+    second: pry1_91
+  - first:
+      213: -5901795871067413047
+    second: pry1_92
+  - first:
+      213: -8751282491519123746
+    second: pry1_93
+  - first:
+      213: 5909596509111874560
+    second: pry1_94
+  - first:
+      213: 2118683376644550399
+    second: pry1_95
+  - first:
+      213: -7014558822257558740
+    second: pry1_96
+  - first:
+      213: -4784872408685477689
+    second: pry1_97
+  - first:
+      213: -726247284123214563
+    second: pry1_98
+  - first:
+      213: -1569127414283538557
+    second: pry1_99
+  - first:
+      213: -7421871665476349718
+    second: pry1_100
+  - first:
+      213: 8718211614407879891
+    second: pry1_101
+  - first:
+      213: -7000133614872518508
+    second: pry1_102
+  - first:
+      213: 7273937709322257082
+    second: pry1_103
+  - first:
+      213: -5984847616505307783
+    second: pry1_104
+  - first:
+      213: 1382350655041385518
+    second: pry1_105
+  - first:
+      213: -4179063820273025131
+    second: pry1_106
+  - first:
+      213: 4903296054715611564
+    second: pry1_107
+  - first:
+      213: 6489709641326930961
+    second: pry1_108
+  - first:
+      213: -7935994322084407347
+    second: pry1_109
+  - first:
+      213: 1337883677360823349
+    second: pry1_110
+  - first:
+      213: -4481984414929112592
+    second: pry1_111
+  - first:
+      213: 2204353868274108303
+    second: pry1_112
+  - first:
+      213: -1480594947152020123
+    second: pry1_113
+  - first:
+      213: 6141020111271208559
+    second: pry1_114
+  - first:
+      213: -4082774537544377025
+    second: pry1_115
+  - first:
+      213: -6516943457085121341
+    second: pry1_116
+  - first:
+      213: -1867717014618502339
+    second: pry1_117
+  - first:
+      213: -8263623310529913443
+    second: pry1_118
+  - first:
+      213: 7062217478396879152
+    second: pry1_119
+  - first:
+      213: -5184407451155847691
+    second: pry1_120
+  - first:
+      213: -7512843455647939378
+    second: pry1_121
+  - first:
+      213: -7574798501139392851
+    second: pry1_122
+  - first:
+      213: 295070094925935393
+    second: pry1_123
+  - first:
+      213: 9107201077960914458
+    second: pry1_124
+  - first:
+      213: -1225608391737699126
+    second: pry1_125
+  - first:
+      213: -5361571733426312150
+    second: pry1_126
+  - first:
+      213: 4885548072388375264
+    second: pry1_127
+  - first:
+      213: 7197599698292060540
+    second: pry1_128
+  - first:
+      213: -952653362994244127
+    second: pry1_129
+  - first:
+      213: -6184591596673581131
+    second: pry1_130
+  - first:
+      213: -8399885646505359447
+    second: pry1_131
+  - first:
+      213: -3659101799290313880
+    second: pry1_132
+  - first:
+      213: -8537828982571285301
+    second: pry1_133
+  - first:
+      213: 6243391814011356999
+    second: pry1_134
+  - first:
+      213: 6100614640435620699
+    second: pry1_135
+  - first:
+      213: -2095114913683285436
+    second: pry1_136
+  - first:
+      213: 4673070135715046491
+    second: pry1_137
+  - first:
+      213: 5290222120297988318
+    second: pry1_138
+  - first:
+      213: -1266076111798119962
+    second: pry1_139
+  - first:
+      213: 7420571438336206664
+    second: pry1_140
+  - first:
+      213: 3605673938892211468
+    second: pry1_141
+  - first:
+      213: 1936282028977524600
+    second: pry1_142
+  - first:
+      213: 1364261354029855810
+    second: pry1_143
+  - first:
+      213: -9032148261262336893
+    second: pry1_144
+  - first:
+      213: -2634383761287617610
+    second: pry1_145
+  - first:
+      213: 2799702816854597915
+    second: pry1_146
+  - first:
+      213: 8163565227842782014
+    second: pry1_147
+  - first:
+      213: -1301978729915586309
+    second: pry1_148
+  - first:
+      213: 919572814034716192
+    second: pry1_149
+  - first:
+      213: -7416963086494497084
+    second: pry1_150
+  - first:
+      213: 7903242171608148342
+    second: pry1_151
+  - first:
+      213: 1908848411106350331
+    second: pry1_152
+  - first:
+      213: 7374113295855129510
+    second: pry1_153
+  - first:
+      213: 360401735299659565
+    second: pry1_154
+  - first:
+      213: -696385163261503574
+    second: pry1_155
+  - first:
+      213: 8857758260137002678
+    second: pry1_156
+  - first:
+      213: -1029078195467482503
+    second: pry1_157
+  - first:
+      213: -479977545236401424
+    second: pry1_158
+  - first:
+      213: -1134150873761156776
+    second: pry1_159
+  - first:
+      213: -1865652623625921250
+    second: pry1_160
+  - first:
+      213: 1646707452478267170
+    second: pry1_161
+  - first:
+      213: -6215764448022530272
+    second: pry1_162
+  - first:
+      213: 4894594864502597849
+    second: pry1_163
+  - first:
+      213: -1912084050208182062
+    second: pry1_164
+  - first:
+      213: -3468479147863942308
+    second: pry1_165
+  - first:
+      213: -393537365102409409
+    second: pry1_166
+  - first:
+      213: -8191597370130594907
+    second: pry1_167
+  - first:
+      213: 9185763255237496687
+    second: pry1_168
+  - first:
+      213: 686738187623911503
+    second: pry1_169
+  - first:
+      213: 584849645208915214
+    second: pry1_170
+  - first:
+      213: 4777874833846258588
+    second: pry1_171
+  - first:
+      213: -4386654509007077872
+    second: pry1_172
+  - first:
+      213: -1666680579636471262
+    second: pry1_173
+  - first:
+      213: -1014839961279934112
+    second: pry1_174
+  - first:
+      213: -6763907276656741373
+    second: pry1_175
+  - first:
+      213: -768992232275936064
+    second: pry1_176
+  - first:
+      213: 1894160139823042337
+    second: pry1_177
+  - first:
+      213: -3991880992881158188
+    second: pry1_178
+  - first:
+      213: 8034338192135965152
+    second: pry1_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pry1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 751
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c8f7a5ecb5d1b20800000000000000
+      internalID: 3106740259795209232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ccc285a1a2eaef0800000000000000
+      internalID: -95092249491354624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 743
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa255a4439b0450800000000000000
+      internalID: 6056096046970481397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 701
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb208660c1699f0800000000000000
+      internalID: -462151097918505833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 751
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85276155471527c80800000000000000
+      internalID: -8326503200969035176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 751
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da7d883133df9460800000000000000
+      internalID: 7250746133445442264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 688
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a225f08d87fc7bbf0800000000000000
+      internalID: -308549931523681750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 751
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6072768d185689410800000000000000
+      internalID: 1484047685574403846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 702
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe8b5f7aaed4cb0800000000000000
+      internalID: -4877984814269403313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 747
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdcb4322b15798b0800000000000000
+      internalID: -5145554223709303350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 702
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae489c54c7bdab6d0800000000000000
+      internalID: -2973823277131528982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 743
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7b2924c96973d10800000000000000
+      internalID: 2105316948694972407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 748
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6c5002fde27a2a0800000000000000
+      internalID: -6726355982604712263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 695
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ad5c4ceefc2dcb0800000000000000
+      internalID: -4840578025059394955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 701
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9f55859ef2150d0800000000000000
+      internalID: -3435912361451062812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 701
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c87e7a3c5bb37810800000000000000
+      internalID: 1761957884024748232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 702
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1675cea0073f78a80800000000000000
+      internalID: -8464529312074410143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 701
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa39fa1a5051f30800000000000000
+      internalID: 4545545590893948926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 701
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a157236dfa0a17d0800000000000000
+      internalID: -2947030922754043485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 655
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ced9f131963a6990800000000000000
+      internalID: -7392035841138630975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 673
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a719ff39cee9580800000000000000
+      internalID: -8818350899952780759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 680
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0e138f8f8d660a0800000000000000
+      internalID: -6888580016189087502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 624
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ca276add7d7930800000000000000
+      internalID: 4142605609237923802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 655
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5fd5d44321e960800000000000000
+      internalID: 7629418022295265251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 691
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a44f14af644db130800000000000000
+      internalID: 3584096124742354082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 655
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82c094140a5c5a10800000000000000
+      internalID: 1899492116414907018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 675
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e85ff2894f7120800000000000000
+      internalID: 2413728752272467475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 679
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f695b86ee957591e0800000000000000
+      internalID: -2191716318312703633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 665
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c168e05c26bdb8a60800000000000000
+      internalID: 7677471207042483740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 677
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec439d10899df7550800000000000000
+      internalID: 6160882062155396302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 672
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034111e92c2d35c80800000000000000
+      internalID: -8335086752015248336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 655
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193c98005524ef3b0800000000000000
+      internalID: -5476867163987262575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 655
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f788300a4024e5510800000000000000
+      internalID: 1539740710239176831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 679
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2f0d262e2b81fd0800000000000000
+      internalID: -2370948518420352344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 613
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1850b1e9dd2520ab0800000000000000
+      internalID: -5043377520907713151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 656
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b2ea593e192670800000000000000
+      internalID: 8514369802207410464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 613
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f14ce92ef1e09d0800000000000000
+      internalID: -2806270459618517090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 613
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f743a7d22ccb340800000000000000
+      internalID: 4880989596742352681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 613
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3c563f15f12df60800000000000000
+      internalID: 8057537120155583477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 631
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cdec9022e615b10800000000000000
+      internalID: 1968475604610112524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_40
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 612
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ee8afff2f2085c0800000000000000
+      internalID: -4215317368019554810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 627
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0089d5fce7c809e0800000000000000
+      internalID: -1654853042507775990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 600
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdf7f48b760664a0800000000000000
+      internalID: -6600581076283294223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 623
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9235bef50e7678700800000000000000
+      internalID: 542516493501027113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 557
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca74cd0b67444b90800000000000000
+      internalID: -7258598174296343868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 557
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dba88489f137ccc0800000000000000
+      internalID: -3690926421866665001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 557
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909048234b92b68a0800000000000000
+      internalID: -6310904598911252215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 557
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef79d98f13991150800000000000000
+      internalID: 5843863755155931107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_48
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 539
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8522089c40253a0800000000000000
+      internalID: -6678270033952352085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 594
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6e3577549ae29f0800000000000000
+      internalID: -491269193516980556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 596
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40df8ed9e03020260800000000000000
+      internalID: 7062210526984076548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 557
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6973e26065822dc0800000000000000
+      internalID: -3665220497703732881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 557
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567438ab81cc8bd00800000000000000
+      internalID: 988764524788270949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7731c27822a12d0800000000000000
+      internalID: -3307293012394805262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 585
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e29e380f9f942840800000000000000
+      internalID: 5198455375279330016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 585
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af43a6e64d1658b40800000000000000
+      internalID: 5441863289760527610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 585
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc51f05229707980800000000000000
+      internalID: -8543195304827986767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 579
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa62df8b1a1db2900800000000000000
+      internalID: 660852262863447722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20074033d1218ed20800000000000000
+      internalID: 3307913842922909698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 543
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964b8c768d6194520800000000000000
+      internalID: 2686703771413165161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_60
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 548
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e18e5abfe9b8260800000000000000
+      internalID: 7100944041137151601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_61
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 509
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be468cf62cc3dc0800000000000000
+      internalID: -3657835011972469860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 509
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf0a5fe9a963a340800000000000000
+      internalID: 4873855400331055047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_63
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a883a5a1ab63180800000000000000
+      internalID: -9135910171728901560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 522
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9329884e0a9f4f0800000000000000
+      internalID: -794426955849909797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_65
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 519
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99cf6b90c39d4df0800000000000000
+      internalID: -194336753456264802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_66
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 527
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c5db7e5bdf24ef0800000000000000
+      internalID: -125258881894097884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c3435fe952b4840800000000000000
+      internalID: 5209298758633012300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_68
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff277445d3f18ed0800000000000000
+      internalID: -2413379827991629828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_69
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 527
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f72089234dda9020800000000000000
+      internalID: 2349433436155946998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_70
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 529
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30432d1b50ef19c0800000000000000
+      internalID: -3954195265872510914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_71
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d35f97bc9f85f0800000000000000
+      internalID: -752210300281563633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 464
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a299f28537511ee90800000000000000
+      internalID: -6998288760812103382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 464
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4d4c155bd33fdc0800000000000000
+      internalID: -3606471027623406361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 499
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d16e718d5294e40800000000000000
+      internalID: 5641081618302377267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_75
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 464
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08502bee280e00400800000000000000
+      internalID: 288477229106726272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1936eebf29e3eeb60800000000000000
+      internalID: 7777222407528276881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 464
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec520925b8135bb20800000000000000
+      internalID: 3149477988870923726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 487
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38d59b865df82c70800000000000000
+      internalID: 8946679207922358332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 416
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ec2861e3d5098a0800000000000000
+      internalID: -6300433357444297084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 413
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5f51becb7240aa0800000000000000
+      internalID: -6195783495003539976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 416
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c17273f181c8a2a0800000000000000
+      internalID: -6725913279598530109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_82
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 401
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994e26f25a215c3a0800000000000000
+      internalID: -6645885174441384807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_83
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 435
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9fba341f7020d10800000000000000
+      internalID: 2090241909857188345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 435
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf1208ebce2cf410800000000000000
+      internalID: 1512135028195336157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_85
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 435
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ea1fce89f617570800000000000000
+      internalID: 8462667877406846547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_86
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 435
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b02ae1a457435d0800000000000000
+      internalID: -3083710883639981249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031413f7e5bc38920800000000000000
+      internalID: 2991458184225440048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_88
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 366
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ce2673077867750800000000000000
+      internalID: 6302373644586904668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_89
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 407
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32fda71a8d485ed0800000000000000
+      internalID: -2425103143840910786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_90
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 398
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267b140a944fab0b0800000000000000
+      internalID: -5711984580307601566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca78acb1fe4419e0800000000000000
+      internalID: -1651608363178886449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_92
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 390
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5e820aceb981ea0800000000000000
+      internalID: -5901795871067413047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_93
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 372
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede38e3b0f23d8680800000000000000
+      internalID: -8751282491519123746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 387
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0047083f6ba130250800000000000000
+      internalID: 5909596509111874560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_95
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 379
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe6c684e43176d10800000000000000
+      internalID: 2118683376644550399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 355
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b71477ae747ae90800000000000000
+      internalID: -7014558822257558740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_97
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 359
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c00cb845e7b89db0800000000000000
+      internalID: -4784872408685477689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_98
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 356
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d5eb261f9dbe5f0800000000000000
+      internalID: -726247284123214563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 325
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f6d482ee6593ae0800000000000000
+      internalID: -1569127414283538557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_100
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 325
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0deb20b07300990800000000000000
+      internalID: -7421871665476349718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_101
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 325
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6771b54f4df870800000000000000
+      internalID: 8718211614407879891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 325
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490a049c0978ade90800000000000000
+      internalID: -7000133614872518508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 325
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2c872cec732f460800000000000000
+      internalID: 7273937709322257082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d9b574dcc81fca0800000000000000
+      internalID: -5984847616505307783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 325
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2435c4c8981f2310800000000000000
+      internalID: 1382350655041385518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_106
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 295
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f70fad89bf006c0800000000000000
+      internalID: -4179063820273025131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9f5e178c10c0440800000000000000
+      internalID: 4903296054715611564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_108
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 279
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c28bae884101a50800000000000000
+      internalID: 6489709641326930961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_109
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 277
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc754a4f53fadd190800000000000000
+      internalID: -7935994322084407347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_110
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 277
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c92ebbd1e119210800000000000000
+      internalID: 1337883677360823349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_111
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f13053dbeaccc1c0800000000000000
+      internalID: -4481984414929112592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_112
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f878cbdf920779e10800000000000000
+      internalID: 2204353868274108303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_113
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56df3c67dbed37be0800000000000000
+      internalID: -1480594947152020123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_114
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 295
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66a9d23149493550800000000000000
+      internalID: 6141020111271208559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_115
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 269
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d58a780321757c0800000000000000
+      internalID: -4082774537544377025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_116
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 231
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc922b347a2f85a0800000000000000
+      internalID: -6516943457085121341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_117
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 231
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b06b255498416e0800000000000000
+      internalID: -1867717014618502339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_118
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d1a32b166b15d80800000000000000
+      internalID: -8263623310529913443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_119
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031a66e1169020260800000000000000
+      internalID: 7062217478396879152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_120
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 231
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5a7fe24e84d08b0800000000000000
+      internalID: -5184407451155847691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_121
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 231
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec48cfc8ea40db790800000000000000
+      internalID: -7512843455647939378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6dc6e65e8e0e690800000000000000
+      internalID: -7574798501139392851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_123
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123b6ef10bc481400800000000000000
+      internalID: 295070094925935393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_124
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 182
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a163aedd027436e70800000000000000
+      internalID: 9107201077960914458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_125
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 181
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49cb849a3cdfee0800000000000000
+      internalID: -1225608391737699126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 183
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c695f4aeed795b0800000000000000
+      internalID: -5361571733426312150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_127
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 199
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2bdcb4614fcc340800000000000000
+      internalID: 4885548072388375264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_128
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 192
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7138248ac203e360800000000000000
+      internalID: 7197599698292060540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e595a050de77c2f0800000000000000
+      internalID: -952653362994244127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_130
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfb76fc5baeb2aa0800000000000000
+      internalID: -6184591596673581131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_131
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 134
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7452e428c9d6b80800000000000000
+      internalID: -8399885646505359447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_132
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 137
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863ee40ec42483dc0800000000000000
+      internalID: -3659101799290313880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_133
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 171
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4cdc496c9838980800000000000000
+      internalID: -8537828982571285301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_134
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 179
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7478ab3a6cbf4a650800000000000000
+      internalID: 6243391814011356999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_135
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 130
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b66ba61bcb9a450800000000000000
+      internalID: 6100614640435620699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 137
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ad84e1618ace2e0800000000000000
+      internalID: -2095114913683285436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 168
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5428c987841ad040800000000000000
+      internalID: 4673070135715046491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_138
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 179
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed086475df4aa6940800000000000000
+      internalID: 5290222120297988318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_139
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 133
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e15aa9fb7efd6ee0800000000000000
+      internalID: -1266076111798119962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_140
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 136
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8476074486a2bf660800000000000000
+      internalID: 7420571438336206664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_141
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 111
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05cd8ff75de90230800000000000000
+      internalID: 3605673938892211468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_142
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 110
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f8d2a1f3e0fda10800000000000000
+      internalID: 1936282028977524600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_143
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 88
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2443ebb2974dee210800000000000000
+      internalID: 1364261354029855810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_144
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cdbc0c20d57a280800000000000000
+      internalID: -9032148261262336893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_145
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3e46a3de9c07bd0800000000000000
+      internalID: -2634383761287617610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_146
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 91
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b116743e0ea8ad620800000000000000
+      internalID: 2799702816854597915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_147
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 78
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33cc42825fca4170800000000000000
+      internalID: 8163565227842782014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_148
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 51
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8644a4e317eede0800000000000000
+      internalID: -1301978729915586309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_149
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 92
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02645ad2a9af2cc00800000000000000
+      internalID: 919572814034716192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_150
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 84
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c68f4d9e57a11990800000000000000
+      internalID: -7416963086494497084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_151
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6792794c1e4fdad60800000000000000
+      internalID: 7903242171608148342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_152
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4101234879d7a10800000000000000
+      internalID: 1908848411106350331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_153
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 80
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a31eec09fc165660800000000000000
+      internalID: 7374113295855129510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2778f00877600500800000000000000
+      internalID: 360401735299659565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_155
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 80
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa712f43261f556f0800000000000000
+      internalID: -696385163261503574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_156
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 36
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b68fb905341dea70800000000000000
+      internalID: 8857758260137002678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_157
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 79
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a8f0165daf7b1f0800000000000000
+      internalID: -1029078195467482503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_158
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2350437f6c659f0800000000000000
+      internalID: -479977545236401424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_159
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 79
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85174cf0acfa240f0800000000000000
+      internalID: -1134150873761156776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_160
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 29
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d508ec2dedb16e0800000000000000
+      internalID: -1865652623625921250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_161
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f94f114b74ad610800000000000000
+      internalID: 1646707452478267170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_162
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 51
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0277d14ca2b2db9a0800000000000000
+      internalID: -6215764448022530272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_163
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8e02ab8181de340800000000000000
+      internalID: 4894594864502597849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_164
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0b6aedfa9e675e0800000000000000
+      internalID: -1912084050208182062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 34
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b58b0879c7ddfc0800000000000000
+      internalID: -3468479147863942308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_166
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 75
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f394a3bf9dfd98af0800000000000000
+      internalID: -393537365102409409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_167
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 55
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a38752c799915e80800000000000000
+      internalID: -8191597370130594907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_168
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f444b23036a7f70800000000000000
+      internalID: 9185763255237496687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_169
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40d40f3eb8c78900800000000000000
+      internalID: 686738187623911503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_170
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dc0b557adcd1800800000000000000
+      internalID: 584849645208915214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_171
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 31
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b4facd8db6e4240800000000000000
+      internalID: 4777874833846258588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_172
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e744e27f87f13c0800000000000000
+      internalID: -4386654509007077872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 144
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ad9b0e7d2ced8e0800000000000000
+      internalID: -1666680579636471262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_174
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 27
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061d90c9e609ae1f0800000000000000
+      internalID: -1014839961279934112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_175
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304f1392b26c122a0800000000000000
+      internalID: -6763907276656741373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_176
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc782893adf355f0800000000000000
+      internalID: -768992232275936064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_177
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f4bd98c98694a10800000000000000
+      internalID: 1894160139823042337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_178
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d75fa9036df998c0800000000000000
+      internalID: -3991880992881158188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pry1_179
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e94e9b9404bf7f60800000000000000
+      internalID: 8034338192135965152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pry1_0: 3106740259795209232
+      pry1_1: -95092249491354624
+      pry1_10: -2973823277131528982
+      pry1_100: -7421871665476349718
+      pry1_101: 8718211614407879891
+      pry1_102: -7000133614872518508
+      pry1_103: 7273937709322257082
+      pry1_104: -5984847616505307783
+      pry1_105: 1382350655041385518
+      pry1_106: -4179063820273025131
+      pry1_107: 4903296054715611564
+      pry1_108: 6489709641326930961
+      pry1_109: -7935994322084407347
+      pry1_11: 2105316948694972407
+      pry1_110: 1337883677360823349
+      pry1_111: -4481984414929112592
+      pry1_112: 2204353868274108303
+      pry1_113: -1480594947152020123
+      pry1_114: 6141020111271208559
+      pry1_115: -4082774537544377025
+      pry1_116: -6516943457085121341
+      pry1_117: -1867717014618502339
+      pry1_118: -8263623310529913443
+      pry1_119: 7062217478396879152
+      pry1_12: -6726355982604712263
+      pry1_120: -5184407451155847691
+      pry1_121: -7512843455647939378
+      pry1_122: -7574798501139392851
+      pry1_123: 295070094925935393
+      pry1_124: 9107201077960914458
+      pry1_125: -1225608391737699126
+      pry1_126: -5361571733426312150
+      pry1_127: 4885548072388375264
+      pry1_128: 7197599698292060540
+      pry1_129: -952653362994244127
+      pry1_13: -4840578025059394955
+      pry1_130: -6184591596673581131
+      pry1_131: -8399885646505359447
+      pry1_132: -3659101799290313880
+      pry1_133: -8537828982571285301
+      pry1_134: 6243391814011356999
+      pry1_135: 6100614640435620699
+      pry1_136: -2095114913683285436
+      pry1_137: 4673070135715046491
+      pry1_138: 5290222120297988318
+      pry1_139: -1266076111798119962
+      pry1_14: -3435912361451062812
+      pry1_140: 7420571438336206664
+      pry1_141: 3605673938892211468
+      pry1_142: 1936282028977524600
+      pry1_143: 1364261354029855810
+      pry1_144: -9032148261262336893
+      pry1_145: -2634383761287617610
+      pry1_146: 2799702816854597915
+      pry1_147: 8163565227842782014
+      pry1_148: -1301978729915586309
+      pry1_149: 919572814034716192
+      pry1_15: 1761957884024748232
+      pry1_150: -7416963086494497084
+      pry1_151: 7903242171608148342
+      pry1_152: 1908848411106350331
+      pry1_153: 7374113295855129510
+      pry1_154: 360401735299659565
+      pry1_155: -696385163261503574
+      pry1_156: 8857758260137002678
+      pry1_157: -1029078195467482503
+      pry1_158: -479977545236401424
+      pry1_159: -1134150873761156776
+      pry1_16: -8464529312074410143
+      pry1_160: -1865652623625921250
+      pry1_161: 1646707452478267170
+      pry1_162: -6215764448022530272
+      pry1_163: 4894594864502597849
+      pry1_164: -1912084050208182062
+      pry1_165: -3468479147863942308
+      pry1_166: -393537365102409409
+      pry1_167: -8191597370130594907
+      pry1_168: 9185763255237496687
+      pry1_169: 686738187623911503
+      pry1_17: 4545545590893948926
+      pry1_170: 584849645208915214
+      pry1_171: 4777874833846258588
+      pry1_172: -4386654509007077872
+      pry1_173: -1666680579636471262
+      pry1_174: -1014839961279934112
+      pry1_175: -6763907276656741373
+      pry1_176: -768992232275936064
+      pry1_177: 1894160139823042337
+      pry1_178: -3991880992881158188
+      pry1_179: 8034338192135965152
+      pry1_18: -2947030922754043485
+      pry1_19: -7392035841138630975
+      pry1_2: 6056096046970481397
+      pry1_20: -8818350899952780759
+      pry1_21: -6888580016189087502
+      pry1_22: 4142605609237923802
+      pry1_23: 7629418022295265251
+      pry1_24: 3584096124742354082
+      pry1_25: 1899492116414907018
+      pry1_26: 2413728752272467475
+      pry1_27: -2191716318312703633
+      pry1_28: 7677471207042483740
+      pry1_29: 6160882062155396302
+      pry1_3: -462151097918505833
+      pry1_30: -8335086752015248336
+      pry1_31: -5476867163987262575
+      pry1_32: 1539740710239176831
+      pry1_33: -2370948518420352344
+      pry1_34: -5043377520907713151
+      pry1_35: 8514369802207410464
+      pry1_36: -2806270459618517090
+      pry1_37: 4880989596742352681
+      pry1_38: 8057537120155583477
+      pry1_39: 1968475604610112524
+      pry1_4: -8326503200969035176
+      pry1_40: -4215317368019554810
+      pry1_41: -1654853042507775990
+      pry1_42: -6600581076283294223
+      pry1_43: 542516493501027113
+      pry1_44: -7258598174296343868
+      pry1_45: -3690926421866665001
+      pry1_46: -6310904598911252215
+      pry1_47: 5843863755155931107
+      pry1_48: -6678270033952352085
+      pry1_49: -491269193516980556
+      pry1_5: 7250746133445442264
+      pry1_50: 7062210526984076548
+      pry1_51: -3665220497703732881
+      pry1_52: 988764524788270949
+      pry1_53: -3307293012394805262
+      pry1_54: 5198455375279330016
+      pry1_55: 5441863289760527610
+      pry1_56: -8543195304827986767
+      pry1_57: 660852262863447722
+      pry1_58: 3307913842922909698
+      pry1_59: 2686703771413165161
+      pry1_6: -308549931523681750
+      pry1_60: 7100944041137151601
+      pry1_61: -3657835011972469860
+      pry1_62: 4873855400331055047
+      pry1_63: -9135910171728901560
+      pry1_64: -794426955849909797
+      pry1_65: -194336753456264802
+      pry1_66: -125258881894097884
+      pry1_67: 5209298758633012300
+      pry1_68: -2413379827991629828
+      pry1_69: 2349433436155946998
+      pry1_7: 1484047685574403846
+      pry1_70: -3954195265872510914
+      pry1_71: -752210300281563633
+      pry1_72: -6998288760812103382
+      pry1_73: -3606471027623406361
+      pry1_74: 5641081618302377267
+      pry1_75: 288477229106726272
+      pry1_76: 7777222407528276881
+      pry1_77: 3149477988870923726
+      pry1_78: 8946679207922358332
+      pry1_79: -6300433357444297084
+      pry1_8: -4877984814269403313
+      pry1_80: -6195783495003539976
+      pry1_81: -6725913279598530109
+      pry1_82: -6645885174441384807
+      pry1_83: 2090241909857188345
+      pry1_84: 1512135028195336157
+      pry1_85: 8462667877406846547
+      pry1_86: -3083710883639981249
+      pry1_87: 2991458184225440048
+      pry1_88: 6302373644586904668
+      pry1_89: -2425103143840910786
+      pry1_9: -5145554223709303350
+      pry1_90: -5711984580307601566
+      pry1_91: -1651608363178886449
+      pry1_92: -5901795871067413047
+      pry1_93: -8751282491519123746
+      pry1_94: 5909596509111874560
+      pry1_95: 2118683376644550399
+      pry1_96: -7014558822257558740
+      pry1_97: -4784872408685477689
+      pry1_98: -726247284123214563
+      pry1_99: -1569127414283538557
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7527 @@
+fileFormatVersion: 2
+guid: 177c08fc272f113439581651693c3b95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2069047127984969727
+    second: lanafx_0
+  - first:
+      213: -8324640250028991509
+    second: lanafx_1
+  - first:
+      213: -3214935527720033564
+    second: lanafx_2
+  - first:
+      213: 6127476566113145563
+    second: lanafx_3
+  - first:
+      213: 3130601590236541179
+    second: lanafx_4
+  - first:
+      213: -1092081988446738350
+    second: lanafx_5
+  - first:
+      213: 2645105481699329015
+    second: lanafx_6
+  - first:
+      213: -2273261640230494345
+    second: lanafx_7
+  - first:
+      213: 7114059083200141038
+    second: lanafx_8
+  - first:
+      213: 6128488044908785076
+    second: lanafx_9
+  - first:
+      213: -8072257628511472465
+    second: lanafx_10
+  - first:
+      213: -3989218730080711666
+    second: lanafx_11
+  - first:
+      213: 8832768843176514995
+    second: lanafx_12
+  - first:
+      213: -2342350766287163657
+    second: lanafx_13
+  - first:
+      213: 2750981196287244313
+    second: lanafx_14
+  - first:
+      213: -6662565155119763081
+    second: lanafx_15
+  - first:
+      213: 582050391373766667
+    second: lanafx_16
+  - first:
+      213: -584471692141051042
+    second: lanafx_17
+  - first:
+      213: 5307112946955751728
+    second: lanafx_18
+  - first:
+      213: -8609385658317903899
+    second: lanafx_19
+  - first:
+      213: -8737626548925439418
+    second: lanafx_20
+  - first:
+      213: 3436251850160295373
+    second: lanafx_21
+  - first:
+      213: 1771776308667919829
+    second: lanafx_22
+  - first:
+      213: -2482343653640348575
+    second: lanafx_23
+  - first:
+      213: -1112476185460649052
+    second: lanafx_24
+  - first:
+      213: -7431109644458501772
+    second: lanafx_25
+  - first:
+      213: 6637056599552030876
+    second: lanafx_26
+  - first:
+      213: 7129694978016048817
+    second: lanafx_27
+  - first:
+      213: -3228270078960753678
+    second: lanafx_28
+  - first:
+      213: -8417340804535671597
+    second: lanafx_29
+  - first:
+      213: 3655297439811035437
+    second: lanafx_30
+  - first:
+      213: -890593067114270711
+    second: lanafx_31
+  - first:
+      213: -1270739604270637736
+    second: lanafx_32
+  - first:
+      213: -1951909626150946582
+    second: lanafx_33
+  - first:
+      213: -5062028296510189202
+    second: lanafx_34
+  - first:
+      213: 8850636252237878516
+    second: lanafx_35
+  - first:
+      213: 2635712508365179150
+    second: lanafx_36
+  - first:
+      213: 232255542643152102
+    second: lanafx_37
+  - first:
+      213: 1641861335906535005
+    second: lanafx_38
+  - first:
+      213: 7809712008180832374
+    second: lanafx_39
+  - first:
+      213: -4823135459761402172
+    second: lanafx_40
+  - first:
+      213: -3339073827989986306
+    second: lanafx_41
+  - first:
+      213: -2231254054160827133
+    second: lanafx_42
+  - first:
+      213: -5179750496647102264
+    second: lanafx_43
+  - first:
+      213: -2228708454295631899
+    second: lanafx_44
+  - first:
+      213: -6665353164219272186
+    second: lanafx_45
+  - first:
+      213: -3701377374710059102
+    second: lanafx_46
+  - first:
+      213: 5558270896067683120
+    second: lanafx_47
+  - first:
+      213: -8986639296369909413
+    second: lanafx_48
+  - first:
+      213: -2580235594516881572
+    second: lanafx_49
+  - first:
+      213: -988731800227702058
+    second: lanafx_50
+  - first:
+      213: -3869268593350588367
+    second: lanafx_51
+  - first:
+      213: -7625758944678325664
+    second: lanafx_52
+  - first:
+      213: -108389494641887247
+    second: lanafx_53
+  - first:
+      213: 856343752912184592
+    second: lanafx_54
+  - first:
+      213: -4308436042091233083
+    second: lanafx_55
+  - first:
+      213: -8010102333749186510
+    second: lanafx_56
+  - first:
+      213: -7837073448154181970
+    second: lanafx_57
+  - first:
+      213: -3765032376748443509
+    second: lanafx_58
+  - first:
+      213: 6976458780648432229
+    second: lanafx_59
+  - first:
+      213: -8579435598066800981
+    second: lanafx_60
+  - first:
+      213: -7117805618553201436
+    second: lanafx_61
+  - first:
+      213: 8846120445645043648
+    second: lanafx_62
+  - first:
+      213: 5310984366366864478
+    second: lanafx_63
+  - first:
+      213: -7705099049243792775
+    second: lanafx_64
+  - first:
+      213: -6586053457976679941
+    second: lanafx_65
+  - first:
+      213: -6831619740432156170
+    second: lanafx_66
+  - first:
+      213: -6523787008825640991
+    second: lanafx_67
+  - first:
+      213: 3779577457723797660
+    second: lanafx_68
+  - first:
+      213: -1379105118018869119
+    second: lanafx_69
+  - first:
+      213: 2535738499298480670
+    second: lanafx_70
+  - first:
+      213: 7982294765879588757
+    second: lanafx_71
+  - first:
+      213: 3579371680907247682
+    second: lanafx_72
+  - first:
+      213: 7699649865926461522
+    second: lanafx_73
+  - first:
+      213: -1014274722081889036
+    second: lanafx_74
+  - first:
+      213: 2619604117853677367
+    second: lanafx_75
+  - first:
+      213: 7948619874519073162
+    second: lanafx_76
+  - first:
+      213: 3948368557055557313
+    second: lanafx_77
+  - first:
+      213: 3239563873481110695
+    second: lanafx_78
+  - first:
+      213: -4053174746047478344
+    second: lanafx_79
+  - first:
+      213: 3742104711466769319
+    second: lanafx_80
+  - first:
+      213: -5911472062234561071
+    second: lanafx_81
+  - first:
+      213: -1618150242746401300
+    second: lanafx_82
+  - first:
+      213: -8643294219924503345
+    second: lanafx_83
+  - first:
+      213: -7736055705853275018
+    second: lanafx_84
+  - first:
+      213: 5199367815827916792
+    second: lanafx_85
+  - first:
+      213: 6724676644551221324
+    second: lanafx_86
+  - first:
+      213: 7100868868864832057
+    second: lanafx_87
+  - first:
+      213: -3223447595363657417
+    second: lanafx_88
+  - first:
+      213: -3182292339995984991
+    second: lanafx_89
+  - first:
+      213: -2146712452832537221
+    second: lanafx_90
+  - first:
+      213: 7066745544953059417
+    second: lanafx_91
+  - first:
+      213: -7248729830186405135
+    second: lanafx_92
+  - first:
+      213: 6857906661649749191
+    second: lanafx_93
+  - first:
+      213: -8209312898166852084
+    second: lanafx_94
+  - first:
+      213: 6881546396284046864
+    second: lanafx_95
+  - first:
+      213: -2141173453183671817
+    second: lanafx_96
+  - first:
+      213: -7031764397369212518
+    second: lanafx_97
+  - first:
+      213: -894758050240004653
+    second: lanafx_98
+  - first:
+      213: -7778987235106068441
+    second: lanafx_99
+  - first:
+      213: -734314937986025346
+    second: lanafx_100
+  - first:
+      213: 5624048361042527753
+    second: lanafx_101
+  - first:
+      213: 6437024428032115407
+    second: lanafx_102
+  - first:
+      213: -2049320545076957527
+    second: lanafx_103
+  - first:
+      213: -6874105589958335428
+    second: lanafx_104
+  - first:
+      213: 9098288958982169076
+    second: lanafx_105
+  - first:
+      213: 2976562623843569014
+    second: lanafx_106
+  - first:
+      213: -4868611488982129356
+    second: lanafx_107
+  - first:
+      213: -5461775725784012924
+    second: lanafx_108
+  - first:
+      213: 7180548968225027513
+    second: lanafx_109
+  - first:
+      213: 6861358887833529656
+    second: lanafx_110
+  - first:
+      213: -1606439709069764631
+    second: lanafx_111
+  - first:
+      213: -3626045109413379929
+    second: lanafx_112
+  - first:
+      213: -8387052400047021967
+    second: lanafx_113
+  - first:
+      213: 4019426838657140472
+    second: lanafx_114
+  - first:
+      213: -144220551306124198
+    second: lanafx_115
+  - first:
+      213: -7567153202293020459
+    second: lanafx_116
+  - first:
+      213: -7201205173359507512
+    second: lanafx_117
+  - first:
+      213: -232725781004735045
+    second: lanafx_118
+  - first:
+      213: 7512321381255088404
+    second: lanafx_119
+  - first:
+      213: -4111419509901126726
+    second: lanafx_120
+  - first:
+      213: 5975154884365280070
+    second: lanafx_121
+  - first:
+      213: -7442043219577293846
+    second: lanafx_122
+  - first:
+      213: 3668613573422202374
+    second: lanafx_123
+  - first:
+      213: -4539907996703964483
+    second: lanafx_124
+  - first:
+      213: 6196280228756313363
+    second: lanafx_125
+  - first:
+      213: -1068544173994476729
+    second: lanafx_126
+  - first:
+      213: 5355637995119023850
+    second: lanafx_127
+  - first:
+      213: -571228281868920796
+    second: lanafx_128
+  - first:
+      213: -946132252269400806
+    second: lanafx_129
+  - first:
+      213: 7615295589452497802
+    second: lanafx_130
+  - first:
+      213: -4526841458552159215
+    second: lanafx_131
+  - first:
+      213: 2344215250478468094
+    second: lanafx_132
+  - first:
+      213: 6284402972790975125
+    second: lanafx_133
+  - first:
+      213: 2175925053930038093
+    second: lanafx_134
+  - first:
+      213: -5419106647614933540
+    second: lanafx_135
+  - first:
+      213: -2446467276665015343
+    second: lanafx_136
+  - first:
+      213: 9161770928522056046
+    second: lanafx_137
+  - first:
+      213: 4576824229610464964
+    second: lanafx_138
+  - first:
+      213: -9005064719216605306
+    second: lanafx_139
+  - first:
+      213: 1761389497729231145
+    second: lanafx_140
+  - first:
+      213: 2204080860761133241
+    second: lanafx_141
+  - first:
+      213: 4674926751588067797
+    second: lanafx_142
+  - first:
+      213: 6423117980282156063
+    second: lanafx_143
+  - first:
+      213: -3051983857055417274
+    second: lanafx_144
+  - first:
+      213: 8635700143777411908
+    second: lanafx_145
+  - first:
+      213: -3144549642878172981
+    second: lanafx_146
+  - first:
+      213: -1939472890277816611
+    second: lanafx_147
+  - first:
+      213: 388428000458029574
+    second: lanafx_148
+  - first:
+      213: -1785192297683612945
+    second: lanafx_149
+  - first:
+      213: 3970444201002672410
+    second: lanafx_150
+  - first:
+      213: -4593824466158539356
+    second: lanafx_151
+  - first:
+      213: 8306794098904804955
+    second: lanafx_152
+  - first:
+      213: 4978035180750258364
+    second: lanafx_153
+  - first:
+      213: -8916988989185154354
+    second: lanafx_154
+  - first:
+      213: 2812202813197476966
+    second: lanafx_155
+  - first:
+      213: 6638014398913755544
+    second: lanafx_156
+  - first:
+      213: 8344104459832225431
+    second: lanafx_157
+  - first:
+      213: -7965714874720537935
+    second: lanafx_158
+  - first:
+      213: -5265239404465178221
+    second: lanafx_159
+  - first:
+      213: -2215152140519763497
+    second: lanafx_160
+  - first:
+      213: 5513189208430611340
+    second: lanafx_161
+  - first:
+      213: 7934330132538486614
+    second: lanafx_162
+  - first:
+      213: 1492791346089347083
+    second: lanafx_163
+  - first:
+      213: -1674555513229357301
+    second: lanafx_164
+  - first:
+      213: -4682908856336159368
+    second: lanafx_165
+  - first:
+      213: -3293755610110604372
+    second: lanafx_166
+  - first:
+      213: -6244550385614538107
+    second: lanafx_167
+  - first:
+      213: -4458278166470467194
+    second: lanafx_168
+  - first:
+      213: -3823125975372282154
+    second: lanafx_169
+  - first:
+      213: -144841636945155443
+    second: lanafx_170
+  - first:
+      213: 2215946648245135101
+    second: lanafx_171
+  - first:
+      213: 8600051664480756235
+    second: lanafx_172
+  - first:
+      213: 3816252524385456113
+    second: lanafx_173
+  - first:
+      213: 918364487145214342
+    second: lanafx_174
+  - first:
+      213: -4661952293695763879
+    second: lanafx_175
+  - first:
+      213: 406859320642395079
+    second: lanafx_176
+  - first:
+      213: -6620530259032851319
+    second: lanafx_177
+  - first:
+      213: -2734650276598974554
+    second: lanafx_178
+  - first:
+      213: -4770463163588897438
+    second: lanafx_179
+  - first:
+      213: -4085889526059043752
+    second: lanafx_180
+  - first:
+      213: 8889180928686422706
+    second: lanafx_181
+  - first:
+      213: -256827930240298888
+    second: lanafx_182
+  - first:
+      213: -8974430029430218867
+    second: lanafx_183
+  - first:
+      213: -5808690438444088370
+    second: lanafx_184
+  - first:
+      213: -1737493357489418835
+    second: lanafx_185
+  - first:
+      213: -7461041877125125346
+    second: lanafx_186
+  - first:
+      213: 7088528073796673083
+    second: lanafx_187
+  - first:
+      213: 233735710988936499
+    second: lanafx_188
+  - first:
+      213: -1119905991850026250
+    second: lanafx_189
+  - first:
+      213: -6299759707234979210
+    second: lanafx_190
+  - first:
+      213: -7071733717647937960
+    second: lanafx_191
+  - first:
+      213: 7196896009299871921
+    second: lanafx_192
+  - first:
+      213: -3533921546723563321
+    second: lanafx_193
+  - first:
+      213: 8505198860120051763
+    second: lanafx_194
+  - first:
+      213: -5291358679861602221
+    second: lanafx_195
+  - first:
+      213: 6008838135133031018
+    second: lanafx_196
+  - first:
+      213: 3471464081216183018
+    second: lanafx_197
+  - first:
+      213: -1776913975861193481
+    second: lanafx_198
+  - first:
+      213: -214742660430417890
+    second: lanafx_199
+  - first:
+      213: 1095968251243335650
+    second: lanafx_200
+  - first:
+      213: -899660591039269732
+    second: lanafx_201
+  - first:
+      213: -5818174962989475741
+    second: lanafx_202
+  - first:
+      213: 6903388512989495452
+    second: lanafx_203
+  - first:
+      213: 888508026505862419
+    second: lanafx_204
+  - first:
+      213: 3519184344441107793
+    second: lanafx_205
+  - first:
+      213: 7748941865052954991
+    second: lanafx_206
+  - first:
+      213: -6400378812354933905
+    second: lanafx_207
+  - first:
+      213: 5024080724496886171
+    second: lanafx_208
+  - first:
+      213: 4195428334783020803
+    second: lanafx_209
+  - first:
+      213: -1197655831323063457
+    second: lanafx_210
+  - first:
+      213: -7976016274684363516
+    second: lanafx_211
+  - first:
+      213: -620804080881914720
+    second: lanafx_212
+  - first:
+      213: -3960648258239027037
+    second: lanafx_213
+  - first:
+      213: -6183854990374218093
+    second: lanafx_214
+  - first:
+      213: 3513785044067458950
+    second: lanafx_215
+  - first:
+      213: -4044880987548138522
+    second: lanafx_216
+  - first:
+      213: 193246119118713827
+    second: lanafx_217
+  - first:
+      213: -4027012098457903042
+    second: lanafx_218
+  - first:
+      213: 3450656132341986865
+    second: lanafx_219
+  - first:
+      213: 4283193758574545784
+    second: lanafx_220
+  - first:
+      213: 713269684536318435
+    second: lanafx_221
+  - first:
+      213: 7754236311850748813
+    second: lanafx_222
+  - first:
+      213: 2567644550613871078
+    second: lanafx_223
+  - first:
+      213: -2197061647070785778
+    second: lanafx_224
+  - first:
+      213: 4202400748136753190
+    second: lanafx_225
+  - first:
+      213: -4061309505466844090
+    second: lanafx_226
+  - first:
+      213: -2426624465470032235
+    second: lanafx_227
+  - first:
+      213: 7514788283490341411
+    second: lanafx_228
+  - first:
+      213: -6950794118889740478
+    second: lanafx_229
+  - first:
+      213: -1272609777102543403
+    second: lanafx_230
+  - first:
+      213: -8996987256518236130
+    second: lanafx_231
+  - first:
+      213: -7693288509580907729
+    second: lanafx_232
+  - first:
+      213: -4425862285584279306
+    second: lanafx_233
+  - first:
+      213: -4236985695494519777
+    second: lanafx_234
+  - first:
+      213: 8742647865054932186
+    second: lanafx_235
+  - first:
+      213: -5871682196470357925
+    second: lanafx_236
+  - first:
+      213: -9062472671791903634
+    second: lanafx_237
+  - first:
+      213: 4275432948916207809
+    second: lanafx_238
+  - first:
+      213: 8416141820294183686
+    second: lanafx_239
+  - first:
+      213: -5680096319294310487
+    second: lanafx_240
+  - first:
+      213: 2962747924791127423
+    second: lanafx_241
+  - first:
+      213: 9170699543789054608
+    second: lanafx_242
+  - first:
+      213: 6163790719078676133
+    second: lanafx_243
+  - first:
+      213: 4864930220968326271
+    second: lanafx_244
+  - first:
+      213: 1455091505818106970
+    second: lanafx_245
+  - first:
+      213: 3471847330076515428
+    second: lanafx_246
+  - first:
+      213: -3238223134327087104
+    second: lanafx_247
+  - first:
+      213: 2374794885080200630
+    second: lanafx_248
+  - first:
+      213: -1898416310027876470
+    second: lanafx_249
+  - first:
+      213: -2211612532686609959
+    second: lanafx_250
+  - first:
+      213: 2905787587260523236
+    second: lanafx_251
+  - first:
+      213: 4675261179955851580
+    second: lanafx_252
+  - first:
+      213: 9106743672383662675
+    second: lanafx_253
+  - first:
+      213: 8309599151507582277
+    second: lanafx_254
+  - first:
+      213: -2942622597264760916
+    second: lanafx_255
+  - first:
+      213: 167052902784497838
+    second: lanafx_256
+  - first:
+      213: 6003834816937581543
+    second: lanafx_257
+  - first:
+      213: 7074123220629927382
+    second: lanafx_258
+  - first:
+      213: 4790393095456678169
+    second: lanafx_259
+  - first:
+      213: -1155788882229278196
+    second: lanafx_260
+  - first:
+      213: -3138484626551483781
+    second: lanafx_261
+  - first:
+      213: -7490709322265264132
+    second: lanafx_262
+  - first:
+      213: -8673959122739034494
+    second: lanafx_263
+  - first:
+      213: -1872178658964758048
+    second: lanafx_264
+  - first:
+      213: -6132267149960902763
+    second: lanafx_265
+  - first:
+      213: 677231875156058479
+    second: lanafx_266
+  - first:
+      213: 7458374921757149454
+    second: lanafx_267
+  - first:
+      213: -8959840237912473688
+    second: lanafx_268
+  - first:
+      213: -4871344009058959840
+    second: lanafx_269
+  - first:
+      213: -5375009721195516352
+    second: lanafx_270
+  - first:
+      213: 7728346951278416359
+    second: lanafx_271
+  - first:
+      213: -7988867479238849571
+    second: lanafx_272
+  - first:
+      213: 1588875894153559651
+    second: lanafx_273
+  - first:
+      213: -1933587172583467505
+    second: lanafx_274
+  - first:
+      213: 5759893182730292166
+    second: lanafx_275
+  - first:
+      213: 6822990654872601014
+    second: lanafx_276
+  - first:
+      213: -3738261987127848728
+    second: lanafx_277
+  - first:
+      213: 4015510895732531386
+    second: lanafx_278
+  - first:
+      213: 1388217871992483275
+    second: lanafx_279
+  - first:
+      213: -9140606253175765453
+    second: lanafx_280
+  - first:
+      213: 5308610881916212598
+    second: lanafx_281
+  - first:
+      213: 8076068493637167001
+    second: lanafx_282
+  - first:
+      213: 6113716071766384104
+    second: lanafx_283
+  - first:
+      213: 7780769803242285248
+    second: lanafx_284
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lanafx_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1356
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108e9e079944943e0800000000000000
+      internalID: -2069047127984969727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1310
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb5a166ccfe87c80800000000000000
+      internalID: -8324640250028991509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1355
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2e676cb214263d0800000000000000
+      internalID: -3214935527720033564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1355
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd254bcd87b290550800000000000000
+      internalID: 6127476566113145563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1355
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf072574f81227b20800000000000000
+      internalID: 3130601590236541179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1310
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258a705b73528d0f0800000000000000
+      internalID: -1092081988446738350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1355
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f38026db6d45b420800000000000000
+      internalID: 2645105481699329015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1310
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f1a8c1590c370e0800000000000000
+      internalID: -2273261640230494345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1355
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee619455b073ab260800000000000000
+      internalID: 7114059083200141038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1355
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd240f1863cc0550800000000000000
+      internalID: 6128488044908785076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1355
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4f22d947499ff80800000000000000
+      internalID: -8072257628511472465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1309
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c443663b273a8c0800000000000000
+      internalID: -3989218730080711666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1265
+        width: 89
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b59ca0077c449a70800000000000000
+      internalID: 8832768843176514995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1310
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fee61c636c4e7fd0800000000000000
+      internalID: -2342350766287163657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1263
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918fa7c92d27d2620800000000000000
+      internalID: 2750981196287244313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1310
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771f03c8a40d983a0800000000000000
+      internalID: -6662565155119763081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1248
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00e5334fbbd31800800000000000000
+      internalID: 582050391373766667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1310
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5349a8b71a83e7f0800000000000000
+      internalID: -584471692141051042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1245
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0319c226b17a6a940800000000000000
+      internalID: 5307112946955751728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1310
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e76e95bb51558880800000000000000
+      internalID: -8609385658317903899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1310
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642e64b92f6bdb680800000000000000
+      internalID: -8737626548925439418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1301
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd45970ad400bf20800000000000000
+      internalID: 3436251850160295373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1291
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddaa9b5a2d969810800000000000000
+      internalID: 1771776308667919829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1309
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c525a5991fc8dd0800000000000000
+      internalID: -2482343653640348575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1280
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a35980bdc0bf80f0800000000000000
+      internalID: -1112476185460649052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1245
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479521b66256fd890800000000000000
+      internalID: -7431109644458501772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1245
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98f57a00df8b1c50800000000000000
+      internalID: 6637056599552030876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1245
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67889cec3c1f260800000000000000
+      internalID: 7129694978016048817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1245
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3a580a771e233d0800000000000000
+      internalID: -3228270078960753678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1199
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d42040a2299f2b80800000000000000
+      internalID: -8417340804535671597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1198
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21e458a7a93ab230800000000000000
+      internalID: 3655297439811035437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1246
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9007a33f25af3a3f0800000000000000
+      internalID: -890593067114270711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_32
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1198
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d9d65001d6d5ee0800000000000000
+      internalID: -1270739604270637736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_33
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1246
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae87b93698c69e4e0800000000000000
+      internalID: -1951909626150946582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1199
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61d887851010c9b0800000000000000
+      internalID: -5062028296510189202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1199
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f455da57c6c3da70800000000000000
+      internalID: 8850636252237878516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1199
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09092fcf8ee39420800000000000000
+      internalID: 2635712508365179150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1198
+        width: 82
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e45c5c7f23293300800000000000000
+      internalID: 232255542643152102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1198
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d564821af2019c610800000000000000
+      internalID: 1641861335906535005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1198
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67898bd91bba16c60800000000000000
+      internalID: 7809712008180832374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_40
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1198
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cec4597ad7c01db0800000000000000
+      internalID: -4823135459761402172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_41
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1230
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef36adb6b0a39a1d0800000000000000
+      internalID: -3339073827989986306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1198
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30df71a624ef801e0800000000000000
+      internalID: -2231254054160827133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_43
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1198
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c04236ed54dd18b0800000000000000
+      internalID: -5179750496647102264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_44
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1198
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e78cc118790211e0800000000000000
+      internalID: -2228708454295631899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1159
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6043f289c98ef73a0800000000000000
+      internalID: -6665353164219272186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1158
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af2db073e012acc0800000000000000
+      internalID: -3701377374710059102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1191
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033a1855ee1f22d40800000000000000
+      internalID: 5558270896067683120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1158
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b512e475c2b094380800000000000000
+      internalID: -8986639296369909413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1157
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f9000c569213cd0800000000000000
+      internalID: -2580235594516881572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_50
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1154
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da9b4d8aa15742f0800000000000000
+      internalID: -988731800227702058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_51
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1152
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13843c0f6b89d4ac0800000000000000
+      internalID: -3869268593350588367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1175
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d0bf84acdb2690800000000000000
+      internalID: -7625758944678325664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1110
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f77c72345cee7ef0800000000000000
+      internalID: -108389494641887247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1088
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015a4fd2b1852eb00800000000000000
+      internalID: 856343752912184592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1088
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c089ad2f3c5534c0800000000000000
+      internalID: -4308436042091233083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1088
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2303a56ed5666d090800000000000000
+      internalID: -8010102333749186510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1088
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaecf14b83f1d3390800000000000000
+      internalID: -7837073448154181970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1088
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b887018500befbbc0800000000000000
+      internalID: -3765032376748443509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1088
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56264b25c4c51d060800000000000000
+      internalID: 6976458780648432229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1027
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba623e387c8bfe880800000000000000
+      internalID: -8579435598066800981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1053
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec5bdd6089783d90800000000000000
+      internalID: -7117805618553201436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1027
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c73ef23dabb3ca70800000000000000
+      internalID: 8846120445645043648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_63
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1032
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5433f4742864b940800000000000000
+      internalID: 5310984366366864478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_64
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1027
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aaf92fc3df11590800000000000000
+      internalID: -7705099049243792775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_65
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1027
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1219d3643a994a0800000000000000
+      internalID: -6586053457976679941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1027
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9bef2aa063131a0800000000000000
+      internalID: -6831619740432156170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_67
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1027
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7b3aca74ad675a0800000000000000
+      internalID: -6523787008825640991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_68
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1031
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9073b83ca1c37430800000000000000
+      internalID: 3779577457723797660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1034
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ef84b33f6cdce0800000000000000
+      internalID: -1379105118018869119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 981
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12d7fdeab0c03320800000000000000
+      internalID: 2535738499298480670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_71
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1002
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59776bc2ccec6ce60800000000000000
+      internalID: 7982294765879588757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_72
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 981
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240c197549b7ca130800000000000000
+      internalID: 3579371680907247682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_73
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 981
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2584e6132c6aada60800000000000000
+      internalID: 7699649865926461522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_74
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 980
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4a6ad93829ce1f0800000000000000
+      internalID: -1014274722081889036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_75
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 978
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737a1d0e014ba5420800000000000000
+      internalID: 2619604117853677367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_76
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 937
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81c15b89ab2f4e60800000000000000
+      internalID: 7948619874519073162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_77
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 935
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3e95884c6bc630800000000000000
+      internalID: 3948368557055557313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_78
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 934
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4b702dd2e35fc20800000000000000
+      internalID: 3239563873481110695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_79
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 931
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b581490b0b30c7c0800000000000000
+      internalID: -4053174746047478344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_80
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 931
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abda479860aee330800000000000000
+      internalID: 3742104711466769319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_81
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 884
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5fcdeca7b36fda0800000000000000
+      internalID: -5911472062234561071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_82
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 882
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced73e37dec2b89e0800000000000000
+      internalID: -1618150242746401300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_83
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 882
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4863c73b9dc0880800000000000000
+      internalID: -8643294219924503345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_84
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 882
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6745bf9a25204a490800000000000000
+      internalID: -7736055705853275018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_85
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 837
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f785072b7dd72840800000000000000
+      internalID: 5199367815827916792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_86
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 792
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4067d387c9d25d50800000000000000
+      internalID: 6724676644551221324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 837
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932715d3d9a5b8260800000000000000
+      internalID: 7100868868864832057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 837
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73913469d730443d0800000000000000
+      internalID: -3223447595363657417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 837
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abb71f2af936d3d0800000000000000
+      internalID: -3182292339995984991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 837
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75520ed5685532e0800000000000000
+      internalID: -2146712452832537221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_91
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 837
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9585005c1af121260800000000000000
+      internalID: 7066745544953059417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_92
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 837
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f236f6ff96576b90800000000000000
+      internalID: -7248729830186405135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_93
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 837
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c41b6626cd2c2f50800000000000000
+      internalID: 6857906661649749191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_94
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 837
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c067bb6f969a21e80800000000000000
+      internalID: -8209312898166852084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_95
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 792
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e41e7ccf9208f50800000000000000
+      internalID: 6881546396284046864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 792
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1ad78b6160942e0800000000000000
+      internalID: -2141173453183671817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_97
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 792
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91c19659872a6e90800000000000000
+      internalID: -7031764397369212518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 792
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf58f3b4e2593f0800000000000000
+      internalID: -894758050240004653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_99
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 792
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7286433135c7b0490800000000000000
+      internalID: -7778987235106068441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 814
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78741854703fc5f0800000000000000
+      internalID: -734314937986025346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_101
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 792
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ce87df22ac0e40800000000000000
+      internalID: 5624048361042527753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_102
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 792
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2cd5bcc97e45950800000000000000
+      internalID: 6437024428032115407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_103
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 811
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae27cf62d95f83e0800000000000000
+      internalID: -2049320545076957527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_104
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 792
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34a102f2654a90a0800000000000000
+      internalID: -6874105589958335428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_105
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 792
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1adf77a9d934e70800000000000000
+      internalID: 9098288958982169076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_106
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 792
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d86e59fefde4920800000000000000
+      internalID: 2976562623843569014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_107
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 741
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a5d155a73f6cb0800000000000000
+      internalID: -4868611488982129356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_108
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 741
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487eac54aefd334b0800000000000000
+      internalID: -5461775725784012924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_109
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 773
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b95f0e3f66a360800000000000000
+      internalID: 7180548968225027513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_110
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 765
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d69c13e81783f50800000000000000
+      internalID: 6861358887833529656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_111
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 741
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e790db8897c4b9e0800000000000000
+      internalID: -1606439709069764631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_112
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 734
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a08fd14f23bdadc0800000000000000
+      internalID: -3626045109413379929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_113
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 727
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1702c9657443b9b80800000000000000
+      internalID: -8387052400047021967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_114
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 727
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f684d6f96fd7c730800000000000000
+      internalID: 4019426838657140472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_115
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 777
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5466163c20affdf0800000000000000
+      internalID: -144220551306124198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_116
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 727
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d86d5841421cf690800000000000000
+      internalID: -7567153202293020459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_117
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 727
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c783376c0e201c90800000000000000
+      internalID: -7201205173359507512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_118
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 727
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd232d922135ccf0800000000000000
+      internalID: -232725781004735045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_119
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 727
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41908488e70214860800000000000000
+      internalID: 7512321381255088404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_120
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 766
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab39bbd2dbd41f6c0800000000000000
+      internalID: -4111419509901126726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_121
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 727
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6436888a5b30ce250800000000000000
+      internalID: 5975154884365280070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_122
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 727
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3bdf51f1d88b890800000000000000
+      internalID: -7442043219577293846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_123
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 727
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eb10e9b9889e230800000000000000
+      internalID: 3668613573422202374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_124
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 680
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2418ffab10ff0c0800000000000000
+      internalID: -4539907996703964483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_125
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 680
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315dbcbe90c9df550800000000000000
+      internalID: 6196280228756313363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_126
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 680
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bfe323cb4cb21f0800000000000000
+      internalID: -1068544173994476729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_127
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 680
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae697a4916c035a40800000000000000
+      internalID: 5355637995119023850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_128
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 680
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428db8577e69218f0800000000000000
+      internalID: -571228281868920796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_129
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 680
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d21f8bab9aed2f0800000000000000
+      internalID: -946132252269400806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_130
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 680
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a834ae4bdf6fea960800000000000000
+      internalID: 7615295589452497802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_131
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 678
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114cc7c7dad6d21c0800000000000000
+      internalID: -4526841458552159215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_132
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 672
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb82d1a953588020800000000000000
+      internalID: 2344215250478468094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_133
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 672
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a6d92253fa63750800000000000000
+      internalID: 6284402972790975125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_134
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 670
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d436f59de40723e10800000000000000
+      internalID: 2175925053930038093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_135
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 670
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd534f437377bc4b0800000000000000
+      internalID: -5419106647614933540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_136
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 670
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3b3cb49f66c0ed0800000000000000
+      internalID: -2446467276665015343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_137
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 621
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61de0c4e16252f70800000000000000
+      internalID: 9161770928522056046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_138
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 623
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c625554365248f30800000000000000
+      internalID: 4576824229610464964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_139
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 621
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68701b74955970380800000000000000
+      internalID: -9005064719216605306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_140
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 621
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929214b7a66b17810800000000000000
+      internalID: 1761389497729231145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_141
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 621
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b097e97dd7769e10800000000000000
+      internalID: 2204080860761133241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_142
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 621
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9a06b9c1da0e040800000000000000
+      internalID: 4674926751588067797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_143
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 581
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14742d95cf732950800000000000000
+      internalID: 6423117980282156063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_144
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 581
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c3cf32adc25a5d0800000000000000
+      internalID: -3051983857055417274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_145
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 578
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44374a0e68b28d770800000000000000
+      internalID: 8635700143777411908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_146
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 574
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc04aa5a2c05c54d0800000000000000
+      internalID: -3144549642878172981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_147
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 569
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd69d7b9eab9515e0800000000000000
+      internalID: -1939472890277816611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_148
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 569
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60abd1c5539f36500800000000000000
+      internalID: 388428000458029574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_149
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 569
+        width: 108
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea0ec84019b937e0800000000000000
+      internalID: -1785192297683612945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 609
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a112649e6f9d91730800000000000000
+      internalID: 3970444201002672410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_151
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 569
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad2f16bcf47f30c0800000000000000
+      internalID: -4593824466158539356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_152
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 569
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e288fb839a74370800000000000000
+      internalID: 8306794098904804955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_153
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 569
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb044044f98851540800000000000000
+      internalID: 4978035180750258364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_154
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 569
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2ac8132cd704480800000000000000
+      internalID: -8916988989185154354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_155
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 569
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6646df41f83f60720800000000000000
+      internalID: 2812202813197476966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_156
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 569
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899be251de6fe1c50800000000000000
+      internalID: 6638014398913755544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_157
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 570
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e6d091cc63cc370800000000000000
+      internalID: 8344104459832225431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_158
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 528
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2bc3e8688147190800000000000000
+      internalID: -7965714874720537935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_159
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 528
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b67778ac1ee6b0800000000000000
+      internalID: -5265239404465178221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_160
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 528
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d19fd45dd23241e0800000000000000
+      internalID: -2215152140519763497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_161
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 528
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b060cff58c28c40800000000000000
+      internalID: 5513189208430611340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_162
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 528
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f62a8b7376c1e60800000000000000
+      internalID: 7934330132538486614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_163
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 528
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ce63f1d577b410800000000000000
+      internalID: 1492791346089347083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_164
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 528
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fca4502a8c2c8e0800000000000000
+      internalID: -1674555513229357301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_165
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 473
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d6d8ec437f20fb0800000000000000
+      internalID: -4682908856336159368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_166
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 397
+        width: 107
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab486249ba3a42d0800000000000000
+      internalID: -3293755610110604372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_167
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 473
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aba636286e659a0800000000000000
+      internalID: -6244550385614538107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_168
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 397
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681e5a9e0a30122c0800000000000000
+      internalID: -4458278166470467194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_169
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 454
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6cd526e2781fac0800000000000000
+      internalID: -3823125975372282154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_170
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 473
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aa2317c4b6dfdf0800000000000000
+      internalID: -144841636945155443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_171
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 454
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df66ed96cbf90ce10800000000000000
+      internalID: 2215946648245135101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_172
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 448
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02e16f7c65895770800000000000000
+      internalID: 8600051664480756235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_173
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 453
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffce29937d06f430800000000000000
+      internalID: 3816252524385456113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_174
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 369
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681df96a2afaebc00800000000000000
+      internalID: 918364487145214342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_175
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 395
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a4276c61b6d4fb0800000000000000
+      internalID: -4661952293695763879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_176
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 407
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb5270856475a500800000000000000
+      internalID: 406859320642395079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_177
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 362
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c3f957ec62f14a0800000000000000
+      internalID: -6620530259032851319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_178
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 432
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f46eef029c0ad0800000000000000
+      internalID: -2734650276598974554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_179
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 400
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26592381709ebcdb0800000000000000
+      internalID: -4770463163588897438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_180
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 293
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854f2cfbf110c47c0800000000000000
+      internalID: -4085889526059043752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_181
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 313
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf78e25f6bc5b70800000000000000
+      internalID: 8889180928686422706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_182
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 378
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870d0a1bb509f6cf0800000000000000
+      internalID: -256827930240298888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_183
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 362
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f9632df6b647380800000000000000
+      internalID: -8974430029430218867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_184
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 386
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3055e62d2636fa0800000000000000
+      internalID: -5808690438444088370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_185
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 354
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad0e3b3ffe23e7e0800000000000000
+      internalID: -1737493357489418835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_186
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 394
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba4ab61fd057890800000000000000
+      internalID: -7461041877125125346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_187
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 371
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ed80bf9b28f5260800000000000000
+      internalID: 7088528073796673083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_188
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 360
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335a1d804656e3300800000000000000
+      internalID: 233735710988936499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_189
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 283
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa92f51f6b4570f0800000000000000
+      internalID: -1119905991850026250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_190
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 281
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672b0ff7ce1c298a0800000000000000
+      internalID: -6299759707234979210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_191
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 354
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e2175c6a72cdd90800000000000000
+      internalID: -7071733717647937960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_192
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 366
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8ceb72ac280e360800000000000000
+      internalID: 7196896009299871921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_193
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 307
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c86177a31df4fec0800000000000000
+      internalID: -3533921546723563321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_194
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 283
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33053810d49880670800000000000000
+      internalID: 8505198860120051763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_195
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 309
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3585ba3c0515196b0800000000000000
+      internalID: -5291358679861602221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_196
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 307
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6acc6d927ea36350800000000000000
+      internalID: 6008838135133031018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_197
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 337
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea1b63703e1d2030800000000000000
+      internalID: 3471464081216183018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_198
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 294
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4dd5847222757e0800000000000000
+      internalID: -1776913975861193481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_199
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 337
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e103ce620b4150df0800000000000000
+      internalID: -214742660430417890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_200
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 204
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef077c5159a53f00800000000000000
+      internalID: 1095968251243335650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_201
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 204
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94bfa48573c383f0800000000000000
+      internalID: -899660591039269732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_202
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 199
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368d0f972b0b14fa0800000000000000
+      internalID: -5818174962989475741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_203
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 247
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90404fd643cdcf50800000000000000
+      internalID: 6903388512989495452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_204
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 233
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d17f3b75d945c00800000000000000
+      internalID: 888508026505862419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_205
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 243
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155378d0487a6d030800000000000000
+      internalID: 3519184344441107793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_206
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6162a31295c98b60800000000000000
+      internalID: 7748941865052954991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_207
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 266
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc5ad71694d27a0800000000000000
+      internalID: -6400378812354933905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_208
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 241
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99268adcce19b540800000000000000
+      internalID: 5024080724496886171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_209
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 241
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fb95797d7293a30800000000000000
+      internalID: 4195428334783020803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_210
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 267
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b40daed52116fe0800000000000000
+      internalID: -1197655831323063457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_211
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 274
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d34b8f47f7f4190800000000000000
+      internalID: -7976016274684363516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_212
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 256
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acabe34af57267f0800000000000000
+      internalID: -620804080881914720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_213
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 187
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a46fb463f809c0800000000000000
+      internalID: -3960648258239027037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_214
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 243
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396d73456a88e2aa0800000000000000
+      internalID: -6183854990374218093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_215
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 233
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f98b871e873c030800000000000000
+      internalID: 3513785044067458950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_216
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 262
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3467a2c22bdd7c0800000000000000
+      internalID: -4044880987548138522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_217
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 249
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e33b4c425c8ea200800000000000000
+      internalID: 193246119118713827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_218
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 187
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30673d15dd2d18c0800000000000000
+      internalID: -4027012098457903042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_219
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 177
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1367442587133ef20800000000000000
+      internalID: 3450656132341986865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_220
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 175
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b8104b706f07b30800000000000000
+      internalID: 4283193758574545784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_221
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 241
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e997dfbffa06e900800000000000000
+      internalID: 713269684536318435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_222
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 175
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b8c4887d49c9b60800000000000000
+      internalID: 7754236311850748813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_223
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 208
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9aec46d1b12a320800000000000000
+      internalID: 2567644550613871078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_224
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 231
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f06b092187281e0800000000000000
+      internalID: -2197061647070785778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_225
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 194
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628e684173de15a30800000000000000
+      internalID: 4202400748136753190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 205
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c3bb3c58453a7c0800000000000000
+      internalID: -4061309505466844090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_227
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 220
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596f26cc7e5e25ed0800000000000000
+      internalID: -2426624465470032235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_228
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 208
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32295b7f024e94860800000000000000
+      internalID: 7514788283490341411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_229
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 117
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247e3b46391d98f90800000000000000
+      internalID: -6950794118889740478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_230
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d52d1a7628c65ee0800000000000000
+      internalID: -1272609777102543403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_231
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 191
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18a38e12c7442380800000000000000
+      internalID: -8996987256518236130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_232
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 198
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2be5df7cd2fb3590800000000000000
+      internalID: -7693288509580907729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_233
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 103
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f853f253bd2492c0800000000000000
+      internalID: -4425862285584279306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_234
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1443ad55f33335c0800000000000000
+      internalID: -4236985695494519777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_235
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 184
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc2de8a9ef145970800000000000000
+      internalID: 8742647865054932186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_236
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 189
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50266dd628938ea0800000000000000
+      internalID: -5871682196470357925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_237
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c882bbe11ab3280800000000000000
+      internalID: -9062472671791903634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_238
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 185
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0c6256d93655b30800000000000000
+      internalID: 4275432948916207809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_239
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 98
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bb1f915642cc470800000000000000
+      internalID: 8416141820294183686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_240
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 102
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a77576fd7e3c21b0800000000000000
+      internalID: -5680096319294310487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_241
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 116
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d63305a8bcd1920800000000000000
+      internalID: 2962747924791127423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_242
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 179
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a226985aed44f70800000000000000
+      internalID: 9170699543789054608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_243
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 170
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b888700f2a8550800000000000000
+      internalID: 6163790719078676133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_244
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7431eda244b38340800000000000000
+      internalID: 4864930220968326271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_245
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 148
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cf9ffd306813410800000000000000
+      internalID: 1455091505818106970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_246
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 133
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c599780ca7e2030800000000000000
+      internalID: 3471847330076515428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_247
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 133
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006bf657358f03d0800000000000000
+      internalID: -3238223134327087104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_248
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 116
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5be93ad57f4f020800000000000000
+      internalID: 2374794885080200630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_249
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 113
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a870bfc9c6877a5e0800000000000000
+      internalID: -1898416310027876470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_250
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 153
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1a9608e16ce41e0800000000000000
+      internalID: -2211612532686609959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_251
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 143
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e227634a6e635820800000000000000
+      internalID: 2905787587260523236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_252
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c313177c54dd1e040800000000000000
+      internalID: 4675261179955851580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_253
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 88
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ae6f4de17a16e70800000000000000
+      internalID: 9106743672383662675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_254
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 123
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d2f73f660a15370800000000000000
+      internalID: 8309599151507582277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_255
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 102
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf1ff5a654b927d0800000000000000
+      internalID: -2942622597264760916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_256
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 123
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8fa21eabd715200800000000000000
+      internalID: 167052902784497838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_257
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 95
+        width: 89
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebdfa1d4f7e15350800000000000000
+      internalID: 6003834816937581543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_258
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 106
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d53dfeb6955c2260800000000000000
+      internalID: 7074123220629927382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_259
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 106
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ed25c325ea7240800000000000000
+      internalID: 4790393095456678169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_260
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ac06f9220d5ffe0800000000000000
+      internalID: -1155788882229278196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_261
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72df5d4cdcd174d0800000000000000
+      internalID: -3138484626551483781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_262
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 57
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfffba21f87ab0890800000000000000
+      internalID: -7490709322265264132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_263
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 57
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28681ec6228ef9780800000000000000
+      internalID: -8673959122739034494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_264
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 56
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1a65ccd6fa406e0800000000000000
+      internalID: -1872178658964758048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_265
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 15
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59788ca648fc5eaa0800000000000000
+      internalID: -6132267149960902763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_266
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 15
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61af356dc2066900800000000000000
+      internalID: 677231875156058479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_267
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 15
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e094405a978718760800000000000000
+      internalID: 7458374921757149454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_268
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 15
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afb9fe56c048a380800000000000000
+      internalID: -8959840237912473688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_269
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 15
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e3059ee62856cb0800000000000000
+      internalID: -4871344009058959840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_270
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 15
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eaed7f2212865b0800000000000000
+      internalID: -5375009721195516352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_271
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 47
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e15ceb0b9a904b60800000000000000
+      internalID: 7728346951278416359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_272
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 69
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb4c4eba57d12190800000000000000
+      internalID: -7988867479238849571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_273
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 50
+        width: 68
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e343f1532dc0610800000000000000
+      internalID: 1588875894153559651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_274
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 69
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0619eb06b48a25e0800000000000000
+      internalID: -1933587172583467505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_275
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 51
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb45dc15504fef40800000000000000
+      internalID: 5759893182730292166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_276
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 15
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1cd71d9d120be50800000000000000
+      internalID: 6822990654872601014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_277
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 15
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e016e367860f1cc0800000000000000
+      internalID: -3738261987127848728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_278
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 53
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab029d372e5f9b730800000000000000
+      internalID: 4015510895732531386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_279
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 15
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcde5faacc0f34310800000000000000
+      internalID: 1388217871992483275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_280
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 27
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3368ebfaa0b062180800000000000000
+      internalID: -9140606253175765453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_281
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 15
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675936b8879fba940800000000000000
+      internalID: 5308610881916212598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_282
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 15
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997a7f09185f31070800000000000000
+      internalID: 8076068493637167001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_283
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 15
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed5b3b106848d450800000000000000
+      internalID: 6113716071766384104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanafx_284
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8a75969e8dafb60800000000000000
+      internalID: 7780769803242285248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lanafx_0: -2069047127984969727
+      lanafx_1: -8324640250028991509
+      lanafx_10: -8072257628511472465
+      lanafx_100: -734314937986025346
+      lanafx_101: 5624048361042527753
+      lanafx_102: 6437024428032115407
+      lanafx_103: -2049320545076957527
+      lanafx_104: -6874105589958335428
+      lanafx_105: 9098288958982169076
+      lanafx_106: 2976562623843569014
+      lanafx_107: -4868611488982129356
+      lanafx_108: -5461775725784012924
+      lanafx_109: 7180548968225027513
+      lanafx_11: -3989218730080711666
+      lanafx_110: 6861358887833529656
+      lanafx_111: -1606439709069764631
+      lanafx_112: -3626045109413379929
+      lanafx_113: -8387052400047021967
+      lanafx_114: 4019426838657140472
+      lanafx_115: -144220551306124198
+      lanafx_116: -7567153202293020459
+      lanafx_117: -7201205173359507512
+      lanafx_118: -232725781004735045
+      lanafx_119: 7512321381255088404
+      lanafx_12: 8832768843176514995
+      lanafx_120: -4111419509901126726
+      lanafx_121: 5975154884365280070
+      lanafx_122: -7442043219577293846
+      lanafx_123: 3668613573422202374
+      lanafx_124: -4539907996703964483
+      lanafx_125: 6196280228756313363
+      lanafx_126: -1068544173994476729
+      lanafx_127: 5355637995119023850
+      lanafx_128: -571228281868920796
+      lanafx_129: -946132252269400806
+      lanafx_13: -2342350766287163657
+      lanafx_130: 7615295589452497802
+      lanafx_131: -4526841458552159215
+      lanafx_132: 2344215250478468094
+      lanafx_133: 6284402972790975125
+      lanafx_134: 2175925053930038093
+      lanafx_135: -5419106647614933540
+      lanafx_136: -2446467276665015343
+      lanafx_137: 9161770928522056046
+      lanafx_138: 4576824229610464964
+      lanafx_139: -9005064719216605306
+      lanafx_14: 2750981196287244313
+      lanafx_140: 1761389497729231145
+      lanafx_141: 2204080860761133241
+      lanafx_142: 4674926751588067797
+      lanafx_143: 6423117980282156063
+      lanafx_144: -3051983857055417274
+      lanafx_145: 8635700143777411908
+      lanafx_146: -3144549642878172981
+      lanafx_147: -1939472890277816611
+      lanafx_148: 388428000458029574
+      lanafx_149: -1785192297683612945
+      lanafx_15: -6662565155119763081
+      lanafx_150: 3970444201002672410
+      lanafx_151: -4593824466158539356
+      lanafx_152: 8306794098904804955
+      lanafx_153: 4978035180750258364
+      lanafx_154: -8916988989185154354
+      lanafx_155: 2812202813197476966
+      lanafx_156: 6638014398913755544
+      lanafx_157: 8344104459832225431
+      lanafx_158: -7965714874720537935
+      lanafx_159: -5265239404465178221
+      lanafx_16: 582050391373766667
+      lanafx_160: -2215152140519763497
+      lanafx_161: 5513189208430611340
+      lanafx_162: 7934330132538486614
+      lanafx_163: 1492791346089347083
+      lanafx_164: -1674555513229357301
+      lanafx_165: -4682908856336159368
+      lanafx_166: -3293755610110604372
+      lanafx_167: -6244550385614538107
+      lanafx_168: -4458278166470467194
+      lanafx_169: -3823125975372282154
+      lanafx_17: -584471692141051042
+      lanafx_170: -144841636945155443
+      lanafx_171: 2215946648245135101
+      lanafx_172: 8600051664480756235
+      lanafx_173: 3816252524385456113
+      lanafx_174: 918364487145214342
+      lanafx_175: -4661952293695763879
+      lanafx_176: 406859320642395079
+      lanafx_177: -6620530259032851319
+      lanafx_178: -2734650276598974554
+      lanafx_179: -4770463163588897438
+      lanafx_18: 5307112946955751728
+      lanafx_180: -4085889526059043752
+      lanafx_181: 8889180928686422706
+      lanafx_182: -256827930240298888
+      lanafx_183: -8974430029430218867
+      lanafx_184: -5808690438444088370
+      lanafx_185: -1737493357489418835
+      lanafx_186: -7461041877125125346
+      lanafx_187: 7088528073796673083
+      lanafx_188: 233735710988936499
+      lanafx_189: -1119905991850026250
+      lanafx_19: -8609385658317903899
+      lanafx_190: -6299759707234979210
+      lanafx_191: -7071733717647937960
+      lanafx_192: 7196896009299871921
+      lanafx_193: -3533921546723563321
+      lanafx_194: 8505198860120051763
+      lanafx_195: -5291358679861602221
+      lanafx_196: 6008838135133031018
+      lanafx_197: 3471464081216183018
+      lanafx_198: -1776913975861193481
+      lanafx_199: -214742660430417890
+      lanafx_2: -3214935527720033564
+      lanafx_20: -8737626548925439418
+      lanafx_200: 1095968251243335650
+      lanafx_201: -899660591039269732
+      lanafx_202: -5818174962989475741
+      lanafx_203: 6903388512989495452
+      lanafx_204: 888508026505862419
+      lanafx_205: 3519184344441107793
+      lanafx_206: 7748941865052954991
+      lanafx_207: -6400378812354933905
+      lanafx_208: 5024080724496886171
+      lanafx_209: 4195428334783020803
+      lanafx_21: 3436251850160295373
+      lanafx_210: -1197655831323063457
+      lanafx_211: -7976016274684363516
+      lanafx_212: -620804080881914720
+      lanafx_213: -3960648258239027037
+      lanafx_214: -6183854990374218093
+      lanafx_215: 3513785044067458950
+      lanafx_216: -4044880987548138522
+      lanafx_217: 193246119118713827
+      lanafx_218: -4027012098457903042
+      lanafx_219: 3450656132341986865
+      lanafx_22: 1771776308667919829
+      lanafx_220: 4283193758574545784
+      lanafx_221: 713269684536318435
+      lanafx_222: 7754236311850748813
+      lanafx_223: 2567644550613871078
+      lanafx_224: -2197061647070785778
+      lanafx_225: 4202400748136753190
+      lanafx_226: -4061309505466844090
+      lanafx_227: -2426624465470032235
+      lanafx_228: 7514788283490341411
+      lanafx_229: -6950794118889740478
+      lanafx_23: -2482343653640348575
+      lanafx_230: -1272609777102543403
+      lanafx_231: -8996987256518236130
+      lanafx_232: -7693288509580907729
+      lanafx_233: -4425862285584279306
+      lanafx_234: -4236985695494519777
+      lanafx_235: 8742647865054932186
+      lanafx_236: -5871682196470357925
+      lanafx_237: -9062472671791903634
+      lanafx_238: 4275432948916207809
+      lanafx_239: 8416141820294183686
+      lanafx_24: -1112476185460649052
+      lanafx_240: -5680096319294310487
+      lanafx_241: 2962747924791127423
+      lanafx_242: 9170699543789054608
+      lanafx_243: 6163790719078676133
+      lanafx_244: 4864930220968326271
+      lanafx_245: 1455091505818106970
+      lanafx_246: 3471847330076515428
+      lanafx_247: -3238223134327087104
+      lanafx_248: 2374794885080200630
+      lanafx_249: -1898416310027876470
+      lanafx_25: -7431109644458501772
+      lanafx_250: -2211612532686609959
+      lanafx_251: 2905787587260523236
+      lanafx_252: 4675261179955851580
+      lanafx_253: 9106743672383662675
+      lanafx_254: 8309599151507582277
+      lanafx_255: -2942622597264760916
+      lanafx_256: 167052902784497838
+      lanafx_257: 6003834816937581543
+      lanafx_258: 7074123220629927382
+      lanafx_259: 4790393095456678169
+      lanafx_26: 6637056599552030876
+      lanafx_260: -1155788882229278196
+      lanafx_261: -3138484626551483781
+      lanafx_262: -7490709322265264132
+      lanafx_263: -8673959122739034494
+      lanafx_264: -1872178658964758048
+      lanafx_265: -6132267149960902763
+      lanafx_266: 677231875156058479
+      lanafx_267: 7458374921757149454
+      lanafx_268: -8959840237912473688
+      lanafx_269: -4871344009058959840
+      lanafx_27: 7129694978016048817
+      lanafx_270: -5375009721195516352
+      lanafx_271: 7728346951278416359
+      lanafx_272: -7988867479238849571
+      lanafx_273: 1588875894153559651
+      lanafx_274: -1933587172583467505
+      lanafx_275: 5759893182730292166
+      lanafx_276: 6822990654872601014
+      lanafx_277: -3738261987127848728
+      lanafx_278: 4015510895732531386
+      lanafx_279: 1388217871992483275
+      lanafx_28: -3228270078960753678
+      lanafx_280: -9140606253175765453
+      lanafx_281: 5308610881916212598
+      lanafx_282: 8076068493637167001
+      lanafx_283: 6113716071766384104
+      lanafx_284: 7780769803242285248
+      lanafx_29: -8417340804535671597
+      lanafx_3: 6127476566113145563
+      lanafx_30: 3655297439811035437
+      lanafx_31: -890593067114270711
+      lanafx_32: -1270739604270637736
+      lanafx_33: -1951909626150946582
+      lanafx_34: -5062028296510189202
+      lanafx_35: 8850636252237878516
+      lanafx_36: 2635712508365179150
+      lanafx_37: 232255542643152102
+      lanafx_38: 1641861335906535005
+      lanafx_39: 7809712008180832374
+      lanafx_4: 3130601590236541179
+      lanafx_40: -4823135459761402172
+      lanafx_41: -3339073827989986306
+      lanafx_42: -2231254054160827133
+      lanafx_43: -5179750496647102264
+      lanafx_44: -2228708454295631899
+      lanafx_45: -6665353164219272186
+      lanafx_46: -3701377374710059102
+      lanafx_47: 5558270896067683120
+      lanafx_48: -8986639296369909413
+      lanafx_49: -2580235594516881572
+      lanafx_5: -1092081988446738350
+      lanafx_50: -988731800227702058
+      lanafx_51: -3869268593350588367
+      lanafx_52: -7625758944678325664
+      lanafx_53: -108389494641887247
+      lanafx_54: 856343752912184592
+      lanafx_55: -4308436042091233083
+      lanafx_56: -8010102333749186510
+      lanafx_57: -7837073448154181970
+      lanafx_58: -3765032376748443509
+      lanafx_59: 6976458780648432229
+      lanafx_6: 2645105481699329015
+      lanafx_60: -8579435598066800981
+      lanafx_61: -7117805618553201436
+      lanafx_62: 8846120445645043648
+      lanafx_63: 5310984366366864478
+      lanafx_64: -7705099049243792775
+      lanafx_65: -6586053457976679941
+      lanafx_66: -6831619740432156170
+      lanafx_67: -6523787008825640991
+      lanafx_68: 3779577457723797660
+      lanafx_69: -1379105118018869119
+      lanafx_7: -2273261640230494345
+      lanafx_70: 2535738499298480670
+      lanafx_71: 7982294765879588757
+      lanafx_72: 3579371680907247682
+      lanafx_73: 7699649865926461522
+      lanafx_74: -1014274722081889036
+      lanafx_75: 2619604117853677367
+      lanafx_76: 7948619874519073162
+      lanafx_77: 3948368557055557313
+      lanafx_78: 3239563873481110695
+      lanafx_79: -4053174746047478344
+      lanafx_8: 7114059083200141038
+      lanafx_80: 3742104711466769319
+      lanafx_81: -5911472062234561071
+      lanafx_82: -1618150242746401300
+      lanafx_83: -8643294219924503345
+      lanafx_84: -7736055705853275018
+      lanafx_85: 5199367815827916792
+      lanafx_86: 6724676644551221324
+      lanafx_87: 7100868868864832057
+      lanafx_88: -3223447595363657417
+      lanafx_89: -3182292339995984991
+      lanafx_9: 6128488044908785076
+      lanafx_90: -2146712452832537221
+      lanafx_91: 7066745544953059417
+      lanafx_92: -7248729830186405135
+      lanafx_93: 6857906661649749191
+      lanafx_94: -8209312898166852084
+      lanafx_95: 6881546396284046864
+      lanafx_96: -2141173453183671817
+      lanafx_97: -7031764397369212518
+      lanafx_98: -894758050240004653
+      lanafx_99: -7778987235106068441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

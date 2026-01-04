@@ -1,0 +1,3833 @@
+fileFormatVersion: 2
+guid: 543337ba88e5d8549aa161149b887191
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1262102525767356207
+    second: sking_0
+  - first:
+      213: -1676542405943061363
+    second: sking_1
+  - first:
+      213: -3356865459126152035
+    second: sking_2
+  - first:
+      213: -8566174035969796562
+    second: sking_3
+  - first:
+      213: -8763701484949765424
+    second: sking_4
+  - first:
+      213: 6914105742257285732
+    second: sking_5
+  - first:
+      213: 7950883003312337747
+    second: sking_6
+  - first:
+      213: 3076511228842726151
+    second: sking_7
+  - first:
+      213: 6941803403769877007
+    second: sking_8
+  - first:
+      213: 1359146645324917451
+    second: sking_9
+  - first:
+      213: 8998252798809956463
+    second: sking_10
+  - first:
+      213: 6212656578491426842
+    second: sking_11
+  - first:
+      213: -7866112780062546035
+    second: sking_12
+  - first:
+      213: 1271057799881318539
+    second: sking_13
+  - first:
+      213: 4046002405278893177
+    second: sking_14
+  - first:
+      213: 4953625994029399933
+    second: sking_15
+  - first:
+      213: 6732399598972174706
+    second: sking_16
+  - first:
+      213: -357192382210859474
+    second: sking_17
+  - first:
+      213: 8276988240033136763
+    second: sking_18
+  - first:
+      213: -6252998224784552866
+    second: sking_19
+  - first:
+      213: 123844288944307278
+    second: sking_20
+  - first:
+      213: 4541880586143047838
+    second: sking_21
+  - first:
+      213: -3674049388050151185
+    second: sking_22
+  - first:
+      213: 6703525392528421082
+    second: sking_23
+  - first:
+      213: 2160472328073519694
+    second: sking_24
+  - first:
+      213: 6200880178587984953
+    second: sking_25
+  - first:
+      213: 8360830183639032951
+    second: sking_26
+  - first:
+      213: 5733311921918348794
+    second: sking_27
+  - first:
+      213: -6970951843948856529
+    second: sking_28
+  - first:
+      213: -6394151599673817097
+    second: sking_29
+  - first:
+      213: 4113763698760046575
+    second: sking_30
+  - first:
+      213: 5858018119463771056
+    second: sking_31
+  - first:
+      213: 2969743827880577396
+    second: sking_32
+  - first:
+      213: -346200948021150877
+    second: sking_33
+  - first:
+      213: 2692023057089180728
+    second: sking_34
+  - first:
+      213: 7044658294858497720
+    second: sking_35
+  - first:
+      213: 5573493736490634512
+    second: sking_36
+  - first:
+      213: -8425792154038952858
+    second: sking_37
+  - first:
+      213: 6248599063544873912
+    second: sking_38
+  - first:
+      213: 6907589928980928316
+    second: sking_39
+  - first:
+      213: -3859454867366215325
+    second: sking_40
+  - first:
+      213: 5818633910608405271
+    second: sking_41
+  - first:
+      213: -5260806735158445613
+    second: sking_42
+  - first:
+      213: -7493134540001608291
+    second: sking_43
+  - first:
+      213: 781373852753460394
+    second: sking_44
+  - first:
+      213: -5425979528001327326
+    second: sking_45
+  - first:
+      213: 5718966624160479001
+    second: sking_46
+  - first:
+      213: -1727386805278295936
+    second: sking_47
+  - first:
+      213: -8706094181237217890
+    second: sking_48
+  - first:
+      213: 6236079436203671565
+    second: sking_49
+  - first:
+      213: -5187731754131420020
+    second: sking_50
+  - first:
+      213: -9184175345014507423
+    second: sking_51
+  - first:
+      213: 2081536712507796289
+    second: sking_52
+  - first:
+      213: -1974852077029828441
+    second: sking_53
+  - first:
+      213: -8853217812622619182
+    second: sking_54
+  - first:
+      213: 1221696152089853624
+    second: sking_55
+  - first:
+      213: 7944188050873221255
+    second: sking_56
+  - first:
+      213: 6052898406033942970
+    second: sking_57
+  - first:
+      213: -424202809532124454
+    second: sking_58
+  - first:
+      213: 5224136469895107242
+    second: sking_59
+  - first:
+      213: 674389582653303651
+    second: sking_60
+  - first:
+      213: -4664194986275772021
+    second: sking_61
+  - first:
+      213: -8748195745550067065
+    second: sking_62
+  - first:
+      213: -5311993120190461960
+    second: sking_63
+  - first:
+      213: -993341440701445651
+    second: sking_64
+  - first:
+      213: 3212569492897996818
+    second: sking_65
+  - first:
+      213: -7154096071408136406
+    second: sking_66
+  - first:
+      213: -4161915322128003484
+    second: sking_67
+  - first:
+      213: 3976013409419018160
+    second: sking_68
+  - first:
+      213: 4846546917902635028
+    second: sking_69
+  - first:
+      213: 3030392137643594289
+    second: sking_70
+  - first:
+      213: -8626210690566314486
+    second: sking_71
+  - first:
+      213: 1793719463560727387
+    second: sking_72
+  - first:
+      213: -8046438298514112580
+    second: sking_73
+  - first:
+      213: 2463438444969329959
+    second: sking_74
+  - first:
+      213: -935650558239178613
+    second: sking_75
+  - first:
+      213: -7507703493311956346
+    second: sking_76
+  - first:
+      213: -8743828891824000485
+    second: sking_77
+  - first:
+      213: 5617918936957127288
+    second: sking_78
+  - first:
+      213: -171820254734534769
+    second: sking_79
+  - first:
+      213: 5431850008156882768
+    second: sking_80
+  - first:
+      213: 1982513054256821523
+    second: sking_81
+  - first:
+      213: 9043539648640752947
+    second: sking_82
+  - first:
+      213: 7814306343158996258
+    second: sking_83
+  - first:
+      213: -4917173963933753374
+    second: sking_84
+  - first:
+      213: 9100899284675845020
+    second: sking_85
+  - first:
+      213: 881083820013726110
+    second: sking_86
+  - first:
+      213: -436246599938187464
+    second: sking_87
+  - first:
+      213: -6070437930261897172
+    second: sking_88
+  - first:
+      213: -8735219370101593371
+    second: sking_89
+  - first:
+      213: -5158061501857972412
+    second: sking_90
+  - first:
+      213: 5391844625628738250
+    second: sking_91
+  - first:
+      213: 588601330656290271
+    second: sking_92
+  - first:
+      213: -6430569673092054480
+    second: sking_93
+  - first:
+      213: 3943824035390566269
+    second: sking_94
+  - first:
+      213: 1685648558766112915
+    second: sking_95
+  - first:
+      213: 1344415640424944771
+    second: sking_96
+  - first:
+      213: 5535001807808799446
+    second: sking_97
+  - first:
+      213: 181439859564546972
+    second: sking_98
+  - first:
+      213: -6337938873881549586
+    second: sking_99
+  - first:
+      213: -7486323237437056181
+    second: sking_100
+  - first:
+      213: 850649235187920682
+    second: sking_101
+  - first:
+      213: -4655479089613066894
+    second: sking_102
+  - first:
+      213: 5677667201797396071
+    second: sking_103
+  - first:
+      213: 2427206369247166389
+    second: sking_104
+  - first:
+      213: -7891647677851425413
+    second: sking_105
+  - first:
+      213: 1662824907504133524
+    second: sking_106
+  - first:
+      213: 3071136485251335441
+    second: sking_107
+  - first:
+      213: 1375783909218774422
+    second: sking_108
+  - first:
+      213: -3894996723926596232
+    second: sking_109
+  - first:
+      213: 2359952135907704995
+    second: sking_110
+  - first:
+      213: 4775291481245785736
+    second: sking_111
+  - first:
+      213: -388388278041506967
+    second: sking_112
+  - first:
+      213: -4281555683505487903
+    second: sking_113
+  - first:
+      213: -2645507121391282666
+    second: sking_114
+  - first:
+      213: 8724300239083207133
+    second: sking_115
+  - first:
+      213: 6882898814566888591
+    second: sking_116
+  - first:
+      213: 3080603378534982616
+    second: sking_117
+  - first:
+      213: 3879176397086408985
+    second: sking_118
+  - first:
+      213: 6855638080125275597
+    second: sking_119
+  - first:
+      213: 2334792477077143499
+    second: sking_120
+  - first:
+      213: -9000237731118960395
+    second: sking_121
+  - first:
+      213: 3861892383557084349
+    second: sking_122
+  - first:
+      213: -8410581500100009180
+    second: sking_123
+  - first:
+      213: 3299730063243287025
+    second: sking_124
+  - first:
+      213: -2546516866015486665
+    second: sking_125
+  - first:
+      213: -35935054589688769
+    second: sking_126
+  - first:
+      213: -8986121282531053088
+    second: sking_127
+  - first:
+      213: -9163408666841274065
+    second: sking_128
+  - first:
+      213: 1884179549464531545
+    second: sking_129
+  - first:
+      213: -7319030165011958900
+    second: sking_130
+  - first:
+      213: 553350450215376310
+    second: sking_131
+  - first:
+      213: -800083599952784934
+    second: sking_132
+  - first:
+      213: 7635269700897267717
+    second: sking_133
+  - first:
+      213: 5436438092073850813
+    second: sking_134
+  - first:
+      213: 7406227058495104329
+    second: sking_135
+  - first:
+      213: -1343332598456067470
+    second: sking_136
+  - first:
+      213: -307396421615784572
+    second: sking_137
+  - first:
+      213: 5257804739468928476
+    second: sking_138
+  - first:
+      213: 3034762206047715194
+    second: sking_139
+  - first:
+      213: -6248372333889268679
+    second: sking_140
+  - first:
+      213: -5776020283396334711
+    second: sking_141
+  - first:
+      213: 4867683333264597281
+    second: sking_142
+  - first:
+      213: -5803267254720795756
+    second: sking_143
+  - first:
+      213: -6744386217995305330
+    second: sking_144
+  - first:
+      213: 6591324195262205187
+    second: sking_145
+  - first:
+      213: 6681095454240888840
+    second: sking_146
+  - first:
+      213: -8731243600316350703
+    second: sking_147
+  - first:
+      213: 8767871507542820132
+    second: sking_148
+  - first:
+      213: -226626800989590103
+    second: sking_149
+  - first:
+      213: 1979823580542461559
+    second: sking_150
+  - first:
+      213: -4530892575539650429
+    second: sking_151
+  - first:
+      213: 340909117096787726
+    second: sking_152
+  - first:
+      213: 4627938547398722498
+    second: sking_153
+  - first:
+      213: 4503926835938017582
+    second: sking_154
+  - first:
+      213: -4000116673824496056
+    second: sking_155
+  - first:
+      213: 8027113640999812226
+    second: sking_156
+  - first:
+      213: 8174352564871711924
+    second: sking_157
+  - first:
+      213: -4891404371040403546
+    second: sking_158
+  - first:
+      213: 8576797934939446351
+    second: sking_159
+  - first:
+      213: -5338839767177822309
+    second: sking_160
+  - first:
+      213: 8992786896349876263
+    second: sking_161
+  - first:
+      213: -3302936771529511134
+    second: sking_162
+  - first:
+      213: 780779003296929054
+    second: sking_163
+  - first:
+      213: -6922242957544078627
+    second: sking_164
+  - first:
+      213: 7658360699478617307
+    second: sking_165
+  - first:
+      213: -1043009950426455169
+    second: sking_166
+  - first:
+      213: -2256532385584405890
+    second: sking_167
+  - first:
+      213: -6804240003591165275
+    second: sking_168
+  - first:
+      213: -2653247546813364424
+    second: sking_169
+  - first:
+      213: 5378656893304649840
+    second: sking_170
+  - first:
+      213: -621627898236107807
+    second: sking_171
+  - first:
+      213: -5301451987597441776
+    second: sking_172
+  - first:
+      213: 5101898248091909623
+    second: sking_173
+  - first:
+      213: -282343683509555785
+    second: sking_174
+  - first:
+      213: 1272432381135959282
+    second: sking_175
+  - first:
+      213: -2872748007002525490
+    second: sking_176
+  - first:
+      213: -8041801260999351672
+    second: sking_177
+  - first:
+      213: 6394420091053596530
+    second: sking_178
+  - first:
+      213: -3764039237659192771
+    second: sking_179
+  - first:
+      213: 6478034636978132897
+    second: sking_180
+  - first:
+      213: 2452635867032441597
+    second: sking_181
+  - first:
+      213: -6026411445782704990
+    second: sking_182
+  - first:
+      213: 7220060560384725815
+    second: sking_183
+  - first:
+      213: -31640322129487871
+    second: sking_184
+  - first:
+      213: -5677146997626673498
+    second: sking_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sking_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1686
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f8c7e6f83e38110800000000000000
+      internalID: 1262102525767356207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1686
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8492e28099bbb8e0800000000000000
+      internalID: -1676542405943061363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1686
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94d10e76a40a61d0800000000000000
+      internalID: -3356865459126152035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1686
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2698dd8916de1980800000000000000
+      internalID: -8566174035969796562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1686
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d281087ee3116680800000000000000
+      internalID: -8763701484949765424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1686
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aebb24a86d3ff50800000000000000
+      internalID: 6914105742257285732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1686
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3537f1747f5375e60800000000000000
+      internalID: 7950883003312337747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1686
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703dbae99a6f1ba20800000000000000
+      internalID: 3076511228842726151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1686
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f021d4e9a6d365060800000000000000
+      internalID: 6941803403769877007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1686
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca61404ca8acd210800000000000000
+      internalID: 1359146645324917451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1625
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f606b38ee3730ec70800000000000000
+      internalID: 8998252798809956463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1625
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18a978fd3ac73650800000000000000
+      internalID: 6212656578491426842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1627
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87263d5a14f5d290800000000000000
+      internalID: -7866112780062546035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1625
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b806aeaa554b3a110800000000000000
+      internalID: 1271057799881318539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1625
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974460f30c9462830800000000000000
+      internalID: 4046002405278893177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1625
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f734c9890deb440800000000000000
+      internalID: 4953625994029399933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1625
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27108b6f3c94e6d50800000000000000
+      internalID: 6732399598972174706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1627
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e98ddbb6ffa0bf0800000000000000
+      internalID: -357192382210859474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_18
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1625
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70c24173f4cdd270800000000000000
+      internalID: 8276988240033136763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_19
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1625
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c819e8e33e839a0800000000000000
+      internalID: -6252998224784552866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1565
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c7cf189bbf7b100800000000000000
+      internalID: 123844288944307278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1565
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90ac454450080f30800000000000000
+      internalID: 4541880586143047838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1565
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8870a2c87230dc0800000000000000
+      internalID: -3674049388050151185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1565
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b774e3d4b70d50800000000000000
+      internalID: 6703525392528421082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1506
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4222edb22a8bfd10800000000000000
+      internalID: 2160472328073519694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1506
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9346f733ba3fd0650800000000000000
+      internalID: 6200880178587984953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1506
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7742b2321c2a70470800000000000000
+      internalID: 8360830183639032951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1507
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd847c01d0d09f40800000000000000
+      internalID: 5733311921918348794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1445
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf21b4b34324f90800000000000000
+      internalID: -6970951843948856529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1445
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7427d6ff86347a0800000000000000
+      internalID: -6394151599673817097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1445
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe75d72d946071930800000000000000
+      internalID: 4113763698760046575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1445
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb907a417cdb4150800000000000000
+      internalID: 5858018119463771056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1386
+        width: 70
+        height: 53
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4790bbee646a63920800000000000000
+      internalID: 2969743827880577396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1386
+        width: 67
+        height: 47
+      alignment: 9
+      pivot: {x: 0.3432836, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bbb40721c023bf0800000000000000
+      internalID: -346200948021150877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1386
+        width: 69
+        height: 47
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83436fc15bcfb5520800000000000000
+      internalID: 2692023057089180728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1383
+        width: 145
+        height: 58
+      alignment: 9
+      pivot: {x: 0.62068963, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bebc0d1567a3c160800000000000000
+      internalID: 7044658294858497720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_37
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1383
+        width: 156
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1c3b7da2911b80800000000000000
+      internalID: -8425792154038952858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1386
+        width: 78
+        height: 42
+      alignment: 9
+      pivot: {x: 0.17948718, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b34e66edbb77b650800000000000000
+      internalID: 6248599063544873912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1386
+        width: 80
+        height: 46
+      alignment: 9
+      pivot: {x: 0.175, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3759f24170bcdf50800000000000000
+      internalID: 6907589928980928316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1323
+        width: 78
+        height: 41
+      alignment: 9
+      pivot: {x: 0.17948718, y: 0.5365854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3610cf31f36707ac0800000000000000
+      internalID: -3859454867366215325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1323
+        width: 78
+        height: 41
+      alignment: 9
+      pivot: {x: 0.17948718, y: 0.5365854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7132bd796b0ffb050800000000000000
+      internalID: 5818633910608405271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_42
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1323
+        width: 82
+        height: 42
+      alignment: 9
+      pivot: {x: 0.14634146, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9f5e6b52cddf6b0800000000000000
+      internalID: -5260806735158445613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_44
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1323
+        width: 161
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacf522116ff7da00800000000000000
+      internalID: 781373852753460394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1322
+        width: 170
+        height: 60
+      alignment: 9
+      pivot: {x: 0.48235294, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917766328d9dd5f40800000000000000
+      internalID: 5718966624160479001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_47
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1319
+        width: 101
+        height: 51
+      alignment: 9
+      pivot: {x: 0.13861386, y: 0.627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088b0b94ad61708e0800000000000000
+      internalID: -1727386805278295936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1258
+        width: 80
+        height: 49
+      alignment: 9
+      pivot: {x: 0.175, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8d1b8cf7ae794e0800000000000000
+      internalID: -1974852077029828441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1257
+        width: 89
+        height: 50
+      alignment: 9
+      pivot: {x: 0.15730338, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc7774e4d032580800000000000000
+      internalID: -8853217812622619182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1261
+        width: 165
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5939394, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bef6c07d2654f010800000000000000
+      internalID: 1221696152089853624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1249
+        width: 171
+        height: 69
+      alignment: 9
+      pivot: {x: 0.61403507, y: 0.5507246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780833131fc6f3e60800000000000000
+      internalID: 7944188050873221255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1250
+        width: 170
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad27d11dacdec1af0800000000000000
+      internalID: -424202809532124454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_59
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1254
+        width: 89
+        height: 53
+      alignment: 9
+      pivot: {x: 0.14606741, y: 0.6037736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2d242d07cdf7840800000000000000
+      internalID: 5224136469895107242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1178
+        width: 90
+        height: 49
+      alignment: 9
+      pivot: {x: 0.15555556, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a97e0c15a289680800000000000000
+      internalID: -8748195745550067065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1178
+        width: 89
+        height: 62
+      alignment: 9
+      pivot: {x: 0.14606741, y: 0.37096775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f78abdb6620846b0800000000000000
+      internalID: -5311993120190461960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1178
+        width: 135
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5777778, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c05ef831f632f0800000000000000
+      internalID: -993341440701445651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1172
+        width: 117
+        height: 63
+      alignment: 9
+      pivot: {x: 0.7606838, y: 0.31746033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2102170dee6559c20800000000000000
+      internalID: 3212569492897996818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_67
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1173
+        width: 119
+        height: 35
+      alignment: 9
+      pivot: {x: 0.789916, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e0e47b018ed36c0800000000000000
+      internalID: -4161915322128003484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_68
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1173
+        width: 96
+        height: 37
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf3c9a4123ad2730800000000000000
+      internalID: 3976013409419018160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_69
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1175
+        width: 87
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7816092, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410d9d46eb4624340800000000000000
+      internalID: 4846546917902635028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1123
+        width: 86
+        height: 46
+      alignment: 9
+      pivot: {x: 0.15116279, y: 0.54347825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132126ee79d1e0a20800000000000000
+      internalID: 3030392137643594289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_71
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1123
+        width: 79
+        height: 46
+      alignment: 9
+      pivot: {x: 0.17721519, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a062e1f941b894880800000000000000
+      internalID: -8626210690566314486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_72
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1123
+        width: 68
+        height: 46
+      alignment: 9
+      pivot: {x: 0.19117647, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bcd3c395294e810800000000000000
+      internalID: 1793719463560727387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_73
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1123
+        width: 68
+        height: 48
+      alignment: 9
+      pivot: {x: 0.32352942, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfb7f5dffe455090800000000000000
+      internalID: -8046438298514112580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1074
+        width: 83
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7710843, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725007eb634ef2220800000000000000
+      internalID: 2463438444969329959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_75
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1075
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80024a46c6e303f0800000000000000
+      internalID: -935650558239178613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1075
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.22916667, y: 0.53488374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a7e2a43774fc790800000000000000
+      internalID: -7507703493311956346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1075
+        width: 71
+        height: 44
+      alignment: 9
+      pivot: {x: 0.30985916, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12780e13fda7a680800000000000000
+      internalID: -8743828891824000485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 974
+        width: 91
+        height: 44
+      alignment: 9
+      pivot: {x: 0.13186814, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0546128bd6fd40800000000000000
+      internalID: 5617918936957127288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_79
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 974
+        width: 99
+        height: 45
+      alignment: 9
+      pivot: {x: 0.15151516, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87b45f73629d9df0800000000000000
+      internalID: -171820254734534769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_80
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 974
+        width: 90
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057c461adcec16b40800000000000000
+      internalID: 5431850008156882768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_81
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 969
+        width: 151
+        height: 102
+      alignment: 9
+      pivot: {x: 0.47019866, y: 0.3137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3157d897e1d438b10800000000000000
+      internalID: 1982513054256821523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_82
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 958
+        width: 118
+        height: 113
+      alignment: 9
+      pivot: {x: 0.7288136, y: 0.54867256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d946d456b118d70800000000000000
+      internalID: 9043539648640752947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_84
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 959
+        width: 117
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7606838, y: 0.7920792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efdde40550b2cbb0800000000000000
+      internalID: -4917173963933753374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_86
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 973
+        width: 102
+        height: 79
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.7468355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99234de01d3a3c00800000000000000
+      internalID: 881083820013726110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 877
+        width: 94
+        height: 59
+      alignment: 9
+      pivot: {x: 0.22340426, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f33248462ea68b0800000000000000
+      internalID: -5158061501857972412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_91
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 858
+        width: 171
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4853801, y: 0.26262626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac233baae1ea3da40800000000000000
+      internalID: 5391844625628738250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_92
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 852
+        width: 127
+        height: 104
+      alignment: 9
+      pivot: {x: 0.7007874, y: 0.1826923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5271caac12b2800800000000000000
+      internalID: 588601330656290271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_93
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 853
+        width: 121
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7933884, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032c2f3f3f602c6a0800000000000000
+      internalID: -6430569673092054480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_94
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 853
+        width: 100
+        height: 34
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f2a1e90174bb630800000000000000
+      internalID: 3943824035390566269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_95
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 853
+        width: 96
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7395833, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3904769ee60a46710800000000000000
+      internalID: 1685648558766112915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_96
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 855
+        width: 87
+        height: 38
+      alignment: 9
+      pivot: {x: 0.77011496, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841206e6e258a210800000000000000
+      internalID: 1344415640424944771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_98
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 735
+        width: 225
+        height: 115
+      alignment: 9
+      pivot: {x: 0.64, y: 0.32173914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b0179479a948200800000000000000
+      internalID: 181439859564546972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_100
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 736
+        width: 239
+        height: 115
+      alignment: 9
+      pivot: {x: 0.6150628, y: 0.33913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bdfc60eac3b1890800000000000000
+      internalID: -7486323237437056181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_101
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 745
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.13253012, y: 0.59090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f65d3f8fc1ecb00800000000000000
+      internalID: 850649235187920682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_103
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 736
+        width: 84
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16666667, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766150c0d302bce40800000000000000
+      internalID: 5677667201797396071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_105
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 733
+        width: 82
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.61403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75212daf3c3b7290800000000000000
+      internalID: -7891647677851425413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_108
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 733
+        width: 126
+        height: 59
+      alignment: 9
+      pivot: {x: 0.86507934, y: 0.69491524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69deeac1d24c71310800000000000000
+      internalID: 1375783909218774422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_111
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 616
+        width: 225
+        height: 115
+      alignment: 9
+      pivot: {x: 0.63555557, y: 0.33913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e9a963d4e354240800000000000000
+      internalID: 4775291481245785736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_116
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 621
+        width: 108
+        height: 56
+      alignment: 9
+      pivot: {x: 0.1574074, y: 0.60714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8477333108f48f50800000000000000
+      internalID: 6882898814566888591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_118
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 620
+        width: 106
+        height: 55
+      alignment: 9
+      pivot: {x: 0.11320755, y: 0.6181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9114a61616a95d530800000000000000
+      internalID: 3879176397086408985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_121
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 619
+        width: 76
+        height: 54
+      alignment: 9
+      pivot: {x: 0.18421052, y: 0.6296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f03696087bb81380800000000000000
+      internalID: -9000237731118960395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_122
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 619
+        width: 67
+        height: 52
+      alignment: 9
+      pivot: {x: 0.20895523, y: 0.59615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e4b269a2389530800000000000000
+      internalID: 3861892383557084349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_124
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 617
+        width: 51
+        height: 55
+      alignment: 9
+      pivot: {x: 0.27450982, y: 0.6181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f91b42820ffacd20800000000000000
+      internalID: 3299730063243287025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 617
+        width: 44
+        height: 55
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.6181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d1b920764f8acd0800000000000000
+      internalID: -2546516866015486665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_127
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 615
+        width: 126
+        height: 59
+      alignment: 9
+      pivot: {x: 0.8888889, y: 0.62711865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1b826dd42ea4380800000000000000
+      internalID: -8986121282531053088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_132
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 498
+        width: 237
+        height: 115
+      alignment: 9
+      pivot: {x: 0.62447256, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1d232743885e4f0800000000000000
+      internalID: -800083599952784934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_134
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 506
+        width: 107
+        height: 51
+      alignment: 9
+      pivot: {x: 0.14018692, y: 0.60784316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7d67924ab127b40800000000000000
+      internalID: 5436438092073850813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_137
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 508
+        width: 80
+        height: 49
+      alignment: 9
+      pivot: {x: 0.175, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d6d5c4598ebbbf0800000000000000
+      internalID: -307396421615784572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_138
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 80
+        height: 46
+      alignment: 9
+      pivot: {x: 0.175, y: 0.54347825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd52962bd8977f840800000000000000
+      internalID: 5257804739468928476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_139
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 397
+        width: 83
+        height: 68
+      alignment: 9
+      pivot: {x: 0.14457831, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f3145c524ad1a20800000000000000
+      internalID: 3034762206047715194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_140
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 397
+        width: 88
+        height: 98
+      alignment: 9
+      pivot: {x: 0.17045455, y: 0.2755102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934d626b7725949a0800000000000000
+      internalID: -6248372333889268679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_141
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 396
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.45112783, y: 0.31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bd5b8a72477dfa0800000000000000
+      internalID: -5776020283396334711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_142
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 386
+        width: 124
+        height: 111
+      alignment: 9
+      pivot: {x: 0.43548387, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1216356933c7d8340800000000000000
+      internalID: 4867683333264597281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_143
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 385
+        width: 118
+        height: 106
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.36792454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49be5b9cd27a67fa0800000000000000
+      internalID: -5803267254720795756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_144
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 384
+        width: 104
+        height: 101
+      alignment: 9
+      pivot: {x: 0.45192307, y: 0.43564355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e7950d7702762a0800000000000000
+      internalID: -6744386217995305330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_146
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 249
+        width: 145
+        height: 132
+      alignment: 9
+      pivot: {x: 0.49655172, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808518ceae408bc50800000000000000
+      internalID: 6681095454240888840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_147
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 251
+        width: 129
+        height: 132
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fbdb3a43464d680800000000000000
+      internalID: -8731243600316350703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_148
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 251
+        width: 138
+        height: 118
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.31355932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425cb539eacbda970800000000000000
+      internalID: 8767871507542820132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_150
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 251
+        width: 188
+        height: 114
+      alignment: 9
+      pivot: {x: 0.45212767, y: 0.30701753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776ec249e0fb97b10800000000000000
+      internalID: 1979823580542461559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_153
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 251
+        width: 159
+        height: 86
+      alignment: 9
+      pivot: {x: 0.591195, y: 0.43023255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3c908c69db93040800000000000000
+      internalID: 4627938547398722498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_155
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 177
+        width: 88
+        height: 59
+      alignment: 9
+      pivot: {x: 0.20454545, y: 0.5762712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e294241bbc78c0800000000000000
+      internalID: -4000116673824496056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_157
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 186
+        width: 86
+        height: 62
+      alignment: 9
+      pivot: {x: 0.1627907, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc4bf12952217170800000000000000
+      internalID: 8174352564871711924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_159
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 69
+        height: 57
+      alignment: 9
+      pivot: {x: 0.3768116, y: 0.4385965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c9e5ea748e60770800000000000000
+      internalID: 8576797934939446351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_160
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110
+        width: 68
+        height: 66
+      alignment: 9
+      pivot: {x: 0.64705884, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ff2a4a481a8e5b0800000000000000
+      internalID: -5338839767177822309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_161
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 110
+        width: 83
+        height: 57
+      alignment: 9
+      pivot: {x: 0.7590361, y: 0.3859649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720d8b1590ccccc70800000000000000
+      internalID: 8992786896349876263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_162
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 110
+        width: 71
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7746479, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f6869818c9922d0800000000000000
+      internalID: -3302936771529511134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_163
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 110
+        width: 70
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7714286, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15d893ed52e5da00800000000000000
+      internalID: 780779003296929054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_164
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 110
+        width: 71
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7183099, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2c2aaa4b04fef90800000000000000
+      internalID: -6922242957544078627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_165
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 110
+        width: 73
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6712329, y: 0.55263156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc2c3efa76f74a60800000000000000
+      internalID: 7658360699478617307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_166
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 110
+        width: 72
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6388889, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7322a7e9fb7681f0800000000000000
+      internalID: -1043009950426455169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_167
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 110
+        width: 71
+        height: 36
+      alignment: 9
+      pivot: {x: 0.63380283, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72a31d30cf2fa0e0800000000000000
+      internalID: -2256532385584405890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_168
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 110
+        width: 69
+        height: 36
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa227364cb7291a0800000000000000
+      internalID: -6804240003591165275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_169
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 110
+        width: 68
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6617647, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8374307e965cd2bd0800000000000000
+      internalID: -2653247546813364424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_170
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 91
+        height: 37
+      alignment: 9
+      pivot: {x: 0.64835167, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078312672f3d4aa40800000000000000
+      internalID: 5378656893304649840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_172
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 69
+        width: 136
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6838235, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015477d61857d66b0800000000000000
+      internalID: -5301451987597441776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_174
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 69
+        width: 119
+        height: 37
+      alignment: 9
+      pivot: {x: 0.789916, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd66df6ae9e41cf0800000000000000
+      internalID: -282343683509555785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_175
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 69
+        width: 117
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7863248, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4305e428698a110800000000000000
+      internalID: 1272432381135959282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_176
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 69
+        width: 117
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7863248, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0376978e2f128d0800000000000000
+      internalID: -2872748007002525490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_177
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 68
+        width: 106
+        height: 38
+      alignment: 9
+      pivot: {x: 0.8018868, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88268d34c58c56090800000000000000
+      internalID: -8041801260999351672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_178
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 70
+        height: 50
+      alignment: 9
+      pivot: {x: 0.34285715, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fded7913b8db850800000000000000
+      internalID: 6394420091053596530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_179
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 15
+        width: 70
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3211be814273cbc0800000000000000
+      internalID: -3764039237659192771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_180
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 69
+        height: 42
+      alignment: 9
+      pivot: {x: 0.28985506, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a712c32e2a96e950800000000000000
+      internalID: 6478034636978132897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_181
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 62
+        height: 40
+      alignment: 9
+      pivot: {x: 0.30645162, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2d9d19353890220800000000000000
+      internalID: 2452635867032441597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_183
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 15
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 0.2777778, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7331a8e73dec23460800000000000000
+      internalID: 7220060560384725815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_184
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 15
+        width: 52
+        height: 35
+      alignment: 9
+      pivot: {x: 0.25, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10894ee6b479f8ff0800000000000000
+      internalID: -31640322129487871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sking_185
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 15
+        width: 52
+        height: 35
+      alignment: 9
+      pivot: {x: 0.25, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a669cc62e8b631b0800000000000000
+      internalID: -5677146997626673498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 09839dbc7b4eb104c93ce829039fcc3a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sking_0: 1262102525767356207
+      sking_1: -1676542405943061363
+      sking_10: 8998252798809956463
+      sking_100: -7486323237437056181
+      sking_101: 850649235187920682
+      sking_102: -4655479089613066894
+      sking_103: 5677667201797396071
+      sking_104: 2427206369247166389
+      sking_105: -7891647677851425413
+      sking_106: 1662824907504133524
+      sking_107: 3071136485251335441
+      sking_108: 1375783909218774422
+      sking_109: -3894996723926596232
+      sking_11: 6212656578491426842
+      sking_110: 2359952135907704995
+      sking_111: 4775291481245785736
+      sking_112: -388388278041506967
+      sking_113: -4281555683505487903
+      sking_114: -2645507121391282666
+      sking_115: 8724300239083207133
+      sking_116: 6882898814566888591
+      sking_117: 3080603378534982616
+      sking_118: 3879176397086408985
+      sking_119: 6855638080125275597
+      sking_12: -7866112780062546035
+      sking_120: 2334792477077143499
+      sking_121: -9000237731118960395
+      sking_122: 3861892383557084349
+      sking_123: -8410581500100009180
+      sking_124: 3299730063243287025
+      sking_125: -2546516866015486665
+      sking_126: -35935054589688769
+      sking_127: -8986121282531053088
+      sking_128: -9163408666841274065
+      sking_129: 1884179549464531545
+      sking_13: 1271057799881318539
+      sking_130: -7319030165011958900
+      sking_131: 553350450215376310
+      sking_132: -800083599952784934
+      sking_133: 7635269700897267717
+      sking_134: 5436438092073850813
+      sking_135: 7406227058495104329
+      sking_136: -1343332598456067470
+      sking_137: -307396421615784572
+      sking_138: 5257804739468928476
+      sking_139: 3034762206047715194
+      sking_14: 4046002405278893177
+      sking_140: -6248372333889268679
+      sking_141: -5776020283396334711
+      sking_142: 4867683333264597281
+      sking_143: -5803267254720795756
+      sking_144: -6744386217995305330
+      sking_145: 6591324195262205187
+      sking_146: 6681095454240888840
+      sking_147: -8731243600316350703
+      sking_148: 8767871507542820132
+      sking_149: -226626800989590103
+      sking_15: 4953625994029399933
+      sking_150: 1979823580542461559
+      sking_151: -4530892575539650429
+      sking_152: 340909117096787726
+      sking_153: 4627938547398722498
+      sking_154: 4503926835938017582
+      sking_155: -4000116673824496056
+      sking_156: 8027113640999812226
+      sking_157: 8174352564871711924
+      sking_158: -4891404371040403546
+      sking_159: 8576797934939446351
+      sking_16: 6732399598972174706
+      sking_160: -5338839767177822309
+      sking_161: 8992786896349876263
+      sking_162: -3302936771529511134
+      sking_163: 780779003296929054
+      sking_164: -6922242957544078627
+      sking_165: 7658360699478617307
+      sking_166: -1043009950426455169
+      sking_167: -2256532385584405890
+      sking_168: -6804240003591165275
+      sking_169: -2653247546813364424
+      sking_17: -357192382210859474
+      sking_170: 5378656893304649840
+      sking_171: -621627898236107807
+      sking_172: -5301451987597441776
+      sking_173: 5101898248091909623
+      sking_174: -282343683509555785
+      sking_175: 1272432381135959282
+      sking_176: -2872748007002525490
+      sking_177: -8041801260999351672
+      sking_178: 6394420091053596530
+      sking_179: -3764039237659192771
+      sking_18: 8276988240033136763
+      sking_180: 6478034636978132897
+      sking_181: 2452635867032441597
+      sking_182: -6026411445782704990
+      sking_183: 7220060560384725815
+      sking_184: -31640322129487871
+      sking_185: -5677146997626673498
+      sking_19: -6252998224784552866
+      sking_2: -3356865459126152035
+      sking_20: 123844288944307278
+      sking_21: 4541880586143047838
+      sking_22: -3674049388050151185
+      sking_23: 6703525392528421082
+      sking_24: 2160472328073519694
+      sking_25: 6200880178587984953
+      sking_26: 8360830183639032951
+      sking_27: 5733311921918348794
+      sking_28: -6970951843948856529
+      sking_29: -6394151599673817097
+      sking_3: -8566174035969796562
+      sking_30: 4113763698760046575
+      sking_31: 5858018119463771056
+      sking_32: 2969743827880577396
+      sking_33: -346200948021150877
+      sking_34: 2692023057089180728
+      sking_35: 7044658294858497720
+      sking_36: 5573493736490634512
+      sking_37: -8425792154038952858
+      sking_38: 6248599063544873912
+      sking_39: 6907589928980928316
+      sking_4: -8763701484949765424
+      sking_40: -3859454867366215325
+      sking_41: 5818633910608405271
+      sking_42: -5260806735158445613
+      sking_43: -7493134540001608291
+      sking_44: 781373852753460394
+      sking_45: -5425979528001327326
+      sking_46: 5718966624160479001
+      sking_47: -1727386805278295936
+      sking_48: -8706094181237217890
+      sking_49: 6236079436203671565
+      sking_5: 6914105742257285732
+      sking_50: -5187731754131420020
+      sking_51: -9184175345014507423
+      sking_52: 2081536712507796289
+      sking_53: -1974852077029828441
+      sking_54: -8853217812622619182
+      sking_55: 1221696152089853624
+      sking_56: 7944188050873221255
+      sking_57: 6052898406033942970
+      sking_58: -424202809532124454
+      sking_59: 5224136469895107242
+      sking_6: 7950883003312337747
+      sking_60: 674389582653303651
+      sking_61: -4664194986275772021
+      sking_62: -8748195745550067065
+      sking_63: -5311993120190461960
+      sking_64: -993341440701445651
+      sking_65: 3212569492897996818
+      sking_66: -7154096071408136406
+      sking_67: -4161915322128003484
+      sking_68: 3976013409419018160
+      sking_69: 4846546917902635028
+      sking_7: 3076511228842726151
+      sking_70: 3030392137643594289
+      sking_71: -8626210690566314486
+      sking_72: 1793719463560727387
+      sking_73: -8046438298514112580
+      sking_74: 2463438444969329959
+      sking_75: -935650558239178613
+      sking_76: -7507703493311956346
+      sking_77: -8743828891824000485
+      sking_78: 5617918936957127288
+      sking_79: -171820254734534769
+      sking_8: 6941803403769877007
+      sking_80: 5431850008156882768
+      sking_81: 1982513054256821523
+      sking_82: 9043539648640752947
+      sking_83: 7814306343158996258
+      sking_84: -4917173963933753374
+      sking_85: 9100899284675845020
+      sking_86: 881083820013726110
+      sking_87: -436246599938187464
+      sking_88: -6070437930261897172
+      sking_89: -8735219370101593371
+      sking_9: 1359146645324917451
+      sking_90: -5158061501857972412
+      sking_91: 5391844625628738250
+      sking_92: 588601330656290271
+      sking_93: -6430569673092054480
+      sking_94: 3943824035390566269
+      sking_95: 1685648558766112915
+      sking_96: 1344415640424944771
+      sking_97: 5535001807808799446
+      sking_98: 181439859564546972
+      sking_99: -6337938873881549586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

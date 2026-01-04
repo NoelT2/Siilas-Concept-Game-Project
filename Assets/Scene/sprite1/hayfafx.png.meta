@@ -1,0 +1,5083 @@
+fileFormatVersion: 2
+guid: 1a41381d9a7a54c4498762285e14214a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3297269318338651774
+    second: hayfafx_0
+  - first:
+      213: -7130874910471666936
+    second: hayfafx_1
+  - first:
+      213: 6122410708874204687
+    second: hayfafx_2
+  - first:
+      213: 5887331056982550092
+    second: hayfafx_3
+  - first:
+      213: 3687954930154794
+    second: hayfafx_4
+  - first:
+      213: -595151326928636820
+    second: hayfafx_5
+  - first:
+      213: -170567983728199935
+    second: hayfafx_6
+  - first:
+      213: 1095605785326511123
+    second: hayfafx_7
+  - first:
+      213: 7031037954954182917
+    second: hayfafx_8
+  - first:
+      213: 4680573583925935488
+    second: hayfafx_9
+  - first:
+      213: -5255292432402837977
+    second: hayfafx_10
+  - first:
+      213: 465270869788731227
+    second: hayfafx_11
+  - first:
+      213: -8647098087498077491
+    second: hayfafx_12
+  - first:
+      213: 1279830837070931364
+    second: hayfafx_13
+  - first:
+      213: 8445949909388320536
+    second: hayfafx_14
+  - first:
+      213: -3143058360541004049
+    second: hayfafx_15
+  - first:
+      213: -1975763923111560976
+    second: hayfafx_16
+  - first:
+      213: -2752384722551871948
+    second: hayfafx_17
+  - first:
+      213: -5437530835781338549
+    second: hayfafx_18
+  - first:
+      213: 71325719936896026
+    second: hayfafx_19
+  - first:
+      213: 7497029382138443365
+    second: hayfafx_20
+  - first:
+      213: -6314833280691821996
+    second: hayfafx_21
+  - first:
+      213: -3806371990578638023
+    second: hayfafx_22
+  - first:
+      213: 5962993126359829549
+    second: hayfafx_23
+  - first:
+      213: 4787118568119728156
+    second: hayfafx_24
+  - first:
+      213: 8349569047089442956
+    second: hayfafx_25
+  - first:
+      213: -1861691350974298906
+    second: hayfafx_26
+  - first:
+      213: -5261789986005827530
+    second: hayfafx_27
+  - first:
+      213: 7219127705445449888
+    second: hayfafx_28
+  - first:
+      213: -6242921474452963465
+    second: hayfafx_29
+  - first:
+      213: 2974719939405123117
+    second: hayfafx_30
+  - first:
+      213: -7345460881121999602
+    second: hayfafx_31
+  - first:
+      213: 4934438581770203613
+    second: hayfafx_32
+  - first:
+      213: 9113285550436307066
+    second: hayfafx_33
+  - first:
+      213: -5240637617429069665
+    second: hayfafx_34
+  - first:
+      213: -5048840508856117929
+    second: hayfafx_35
+  - first:
+      213: -2792225923243100464
+    second: hayfafx_36
+  - first:
+      213: -5049876308993431222
+    second: hayfafx_37
+  - first:
+      213: -7714741007360294535
+    second: hayfafx_38
+  - first:
+      213: -923407109667237077
+    second: hayfafx_39
+  - first:
+      213: -5974143732003026660
+    second: hayfafx_40
+  - first:
+      213: 9004174472653181043
+    second: hayfafx_41
+  - first:
+      213: 5204103626965309942
+    second: hayfafx_42
+  - first:
+      213: 5654942738490135778
+    second: hayfafx_43
+  - first:
+      213: 4428947857585351366
+    second: hayfafx_44
+  - first:
+      213: -7320125736191788045
+    second: hayfafx_45
+  - first:
+      213: 2123223321701318646
+    second: hayfafx_46
+  - first:
+      213: -6736606587957268577
+    second: hayfafx_47
+  - first:
+      213: 8626614663969583445
+    second: hayfafx_48
+  - first:
+      213: -1788144541282992738
+    second: hayfafx_49
+  - first:
+      213: -8063775406097271271
+    second: hayfafx_50
+  - first:
+      213: -1129374844151030898
+    second: hayfafx_51
+  - first:
+      213: -920265121994788925
+    second: hayfafx_52
+  - first:
+      213: -3792032083968877426
+    second: hayfafx_53
+  - first:
+      213: 4622954822739298252
+    second: hayfafx_54
+  - first:
+      213: -5335349639130736667
+    second: hayfafx_55
+  - first:
+      213: -1856724681384600888
+    second: hayfafx_56
+  - first:
+      213: 8528407111153818543
+    second: hayfafx_57
+  - first:
+      213: -4436971746436839560
+    second: hayfafx_58
+  - first:
+      213: 6899807444706325035
+    second: hayfafx_59
+  - first:
+      213: 6707621975338917245
+    second: hayfafx_60
+  - first:
+      213: -7032333981629769874
+    second: hayfafx_61
+  - first:
+      213: 8549132725873490030
+    second: hayfafx_62
+  - first:
+      213: 3328191785515255103
+    second: hayfafx_63
+  - first:
+      213: -4571510863722136860
+    second: hayfafx_64
+  - first:
+      213: 6252998373650133766
+    second: hayfafx_65
+  - first:
+      213: 4667405959861709230
+    second: hayfafx_66
+  - first:
+      213: -5006429391016614307
+    second: hayfafx_67
+  - first:
+      213: -6216237102388650484
+    second: hayfafx_68
+  - first:
+      213: -2199027230914649439
+    second: hayfafx_69
+  - first:
+      213: -8206863797601291974
+    second: hayfafx_70
+  - first:
+      213: -5513256177456852769
+    second: hayfafx_71
+  - first:
+      213: -3293909093639878022
+    second: hayfafx_72
+  - first:
+      213: -510136484227787153
+    second: hayfafx_73
+  - first:
+      213: 915478916164878569
+    second: hayfafx_74
+  - first:
+      213: -2679493430437135081
+    second: hayfafx_75
+  - first:
+      213: -4618212180541199566
+    second: hayfafx_76
+  - first:
+      213: 3522845715338278386
+    second: hayfafx_77
+  - first:
+      213: 7992982374240858576
+    second: hayfafx_78
+  - first:
+      213: -8709957041536189421
+    second: hayfafx_79
+  - first:
+      213: -9140647776720524013
+    second: hayfafx_80
+  - first:
+      213: 4393597820850846329
+    second: hayfafx_81
+  - first:
+      213: -6361781583168242683
+    second: hayfafx_82
+  - first:
+      213: 8274027663621975097
+    second: hayfafx_83
+  - first:
+      213: -4133195687523514942
+    second: hayfafx_84
+  - first:
+      213: -6299233452203470592
+    second: hayfafx_85
+  - first:
+      213: -6337725937559375217
+    second: hayfafx_86
+  - first:
+      213: 5680580067180158933
+    second: hayfafx_87
+  - first:
+      213: -7039639833067132646
+    second: hayfafx_88
+  - first:
+      213: -4614716797850659152
+    second: hayfafx_89
+  - first:
+      213: 7669229420288532231
+    second: hayfafx_90
+  - first:
+      213: -5693638869657771706
+    second: hayfafx_91
+  - first:
+      213: 6763566014155353410
+    second: hayfafx_92
+  - first:
+      213: -307373168049148603
+    second: hayfafx_93
+  - first:
+      213: 4983398419230226766
+    second: hayfafx_94
+  - first:
+      213: -7906141489432642875
+    second: hayfafx_95
+  - first:
+      213: 2682185505596688545
+    second: hayfafx_96
+  - first:
+      213: 7225511369236041329
+    second: hayfafx_97
+  - first:
+      213: -3471172506924180302
+    second: hayfafx_98
+  - first:
+      213: 725395162933356457
+    second: hayfafx_99
+  - first:
+      213: 803867885031323118
+    second: hayfafx_100
+  - first:
+      213: 1484523930256495992
+    second: hayfafx_101
+  - first:
+      213: -4216495249277784937
+    second: hayfafx_102
+  - first:
+      213: 5082849198319550507
+    second: hayfafx_103
+  - first:
+      213: 3682536102765529735
+    second: hayfafx_104
+  - first:
+      213: 333864809615824973
+    second: hayfafx_105
+  - first:
+      213: -5905268115733416756
+    second: hayfafx_106
+  - first:
+      213: -8290050030784537199
+    second: hayfafx_107
+  - first:
+      213: 7922532698171986881
+    second: hayfafx_108
+  - first:
+      213: -6897832526293269906
+    second: hayfafx_109
+  - first:
+      213: -212644976660635071
+    second: hayfafx_110
+  - first:
+      213: 5173088326557280694
+    second: hayfafx_111
+  - first:
+      213: -5232606656057816607
+    second: hayfafx_112
+  - first:
+      213: -3325603287282565405
+    second: hayfafx_113
+  - first:
+      213: 2383583250788132893
+    second: hayfafx_114
+  - first:
+      213: 1745403264881524365
+    second: hayfafx_115
+  - first:
+      213: -6734842150021488365
+    second: hayfafx_116
+  - first:
+      213: 3546180912396757977
+    second: hayfafx_117
+  - first:
+      213: 7927562174470065546
+    second: hayfafx_118
+  - first:
+      213: -5407233364316274285
+    second: hayfafx_119
+  - first:
+      213: -6744202667338903450
+    second: hayfafx_120
+  - first:
+      213: 8723363432364157367
+    second: hayfafx_121
+  - first:
+      213: -6374623006396960079
+    second: hayfafx_122
+  - first:
+      213: -8120917155872934487
+    second: hayfafx_123
+  - first:
+      213: 6085822373057507841
+    second: hayfafx_124
+  - first:
+      213: 4430610266669157341
+    second: hayfafx_125
+  - first:
+      213: -4123195846255889073
+    second: hayfafx_126
+  - first:
+      213: -2236108167114712083
+    second: hayfafx_127
+  - first:
+      213: -1322546844328957639
+    second: hayfafx_128
+  - first:
+      213: 9018847316430151850
+    second: hayfafx_129
+  - first:
+      213: -6724080975306420880
+    second: hayfafx_130
+  - first:
+      213: -6863545235080461549
+    second: hayfafx_131
+  - first:
+      213: 4203828740639181316
+    second: hayfafx_132
+  - first:
+      213: 8856365612548204059
+    second: hayfafx_133
+  - first:
+      213: -7075479293779228443
+    second: hayfafx_134
+  - first:
+      213: -823864137766780465
+    second: hayfafx_135
+  - first:
+      213: 1953388320166002650
+    second: hayfafx_136
+  - first:
+      213: 4088846763859507317
+    second: hayfafx_137
+  - first:
+      213: -971099088191304463
+    second: hayfafx_138
+  - first:
+      213: -1587759038514448399
+    second: hayfafx_139
+  - first:
+      213: -531363632785824318
+    second: hayfafx_140
+  - first:
+      213: 8728226782766907159
+    second: hayfafx_141
+  - first:
+      213: -6911371289233640509
+    second: hayfafx_142
+  - first:
+      213: -1576384206439536885
+    second: hayfafx_143
+  - first:
+      213: -3875050746647841330
+    second: hayfafx_144
+  - first:
+      213: -8467655201991261678
+    second: hayfafx_145
+  - first:
+      213: 6468284139147957339
+    second: hayfafx_146
+  - first:
+      213: -1651991571780185082
+    second: hayfafx_147
+  - first:
+      213: 4890082792542738488
+    second: hayfafx_148
+  - first:
+      213: -7555694404858365652
+    second: hayfafx_149
+  - first:
+      213: -2003268187602803833
+    second: hayfafx_150
+  - first:
+      213: 2146820980276644268
+    second: hayfafx_151
+  - first:
+      213: 749358940595079473
+    second: hayfafx_152
+  - first:
+      213: -8249359865581847116
+    second: hayfafx_153
+  - first:
+      213: -8480579399254016752
+    second: hayfafx_154
+  - first:
+      213: 7748923962474432241
+    second: hayfafx_155
+  - first:
+      213: 1812707928954321246
+    second: hayfafx_156
+  - first:
+      213: -8623625873063179558
+    second: hayfafx_157
+  - first:
+      213: -5537834169791957379
+    second: hayfafx_158
+  - first:
+      213: 6221056950094018673
+    second: hayfafx_159
+  - first:
+      213: 4609271985569447173
+    second: hayfafx_160
+  - first:
+      213: -8008920144445488391
+    second: hayfafx_161
+  - first:
+      213: -1140357490739250117
+    second: hayfafx_162
+  - first:
+      213: -275572543203670917
+    second: hayfafx_163
+  - first:
+      213: -91963439004447757
+    second: hayfafx_164
+  - first:
+      213: 4097566621118655776
+    second: hayfafx_165
+  - first:
+      213: 1904435769691928946
+    second: hayfafx_166
+  - first:
+      213: -1090152204317362546
+    second: hayfafx_167
+  - first:
+      213: 5733770767375610672
+    second: hayfafx_168
+  - first:
+      213: -3695672791993353875
+    second: hayfafx_169
+  - first:
+      213: 5141799609351873200
+    second: hayfafx_170
+  - first:
+      213: 7005543802843957050
+    second: hayfafx_171
+  - first:
+      213: -8282310707283894089
+    second: hayfafx_172
+  - first:
+      213: -7921130335086076171
+    second: hayfafx_173
+  - first:
+      213: -5963642396203240191
+    second: hayfafx_174
+  - first:
+      213: 8074366676028302689
+    second: hayfafx_175
+  - first:
+      213: -159591164291631993
+    second: hayfafx_176
+  - first:
+      213: -412496823346132475
+    second: hayfafx_177
+  - first:
+      213: -6521909529038181857
+    second: hayfafx_178
+  - first:
+      213: -9017110479399525926
+    second: hayfafx_179
+  - first:
+      213: 5118715941545044649
+    second: hayfafx_180
+  - first:
+      213: 3598342648947871928
+    second: hayfafx_181
+  - first:
+      213: -745176680352839631
+    second: hayfafx_182
+  - first:
+      213: -4726701155877489378
+    second: hayfafx_183
+  - first:
+      213: -6728475812389216074
+    second: hayfafx_184
+  - first:
+      213: -3819122200872218800
+    second: hayfafx_185
+  - first:
+      213: 4629735531596785753
+    second: hayfafx_186
+  - first:
+      213: 3908145974379975283
+    second: hayfafx_187
+  - first:
+      213: 1996334483487137341
+    second: hayfafx_188
+  - first:
+      213: -4030082780703559193
+    second: hayfafx_189
+  - first:
+      213: 1781200865597774045
+    second: hayfafx_190
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hayfafx_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1198
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76ae50b9f042cd20800000000000000
+      internalID: 3297269318338651774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1198
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8034797cc0b0a0d90800000000000000
+      internalID: -7130874910471666936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1198
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f069e7f0a1c27f450800000000000000
+      internalID: 6122410708874204687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1198
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46e196676004b150800000000000000
+      internalID: 5887331056982550092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1198
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d3f8bec2a1d0000800000000000000
+      internalID: 3687954930154794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1198
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64f0da75099db7f0800000000000000
+      internalID: -595151326928636820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1198
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10773df825502adf0800000000000000
+      internalID: -170567983728199935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1139
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314ef3038af543f00800000000000000
+      internalID: 1095605785326511123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1139
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501455b94c3439160800000000000000
+      internalID: 7031037954954182917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1139
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d7bf630ecb4f040800000000000000
+      internalID: 4680573583925935488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1139
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e84df50637117b0800000000000000
+      internalID: -5255292432402837977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1139
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5728161469f47600800000000000000
+      internalID: 465270869788731227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1139
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaa7bc8a165ff780800000000000000
+      internalID: -8647098087498077491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1139
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a524309d5fd2c110800000000000000
+      internalID: 1279830837070931364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1139
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f55dba1ba063570800000000000000
+      internalID: 8445949909388320536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1096
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeb1afd21d9164d0800000000000000
+      internalID: -3143058360541004049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1096
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f837e21e2da494e0800000000000000
+      internalID: -1975763923111560976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1095
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43665177da09dc9d0800000000000000
+      internalID: -2752384722551871948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1095
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a350e93820a84b0800000000000000
+      internalID: -5437530835781338549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1095
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c00384d566df000800000000000000
+      internalID: 71325719936896026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1096
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5663709808cca0860800000000000000
+      internalID: 7497029382138443365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1096
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452ac80b6943d58a0800000000000000
+      internalID: -6314833280691821996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1096
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933509277dc0d2bc0800000000000000
+      internalID: -3806371990578638023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1048
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c06c6b7aec0c250800000000000000
+      internalID: 5962993126359829549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1048
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18f37679f24f6240800000000000000
+      internalID: 4787118568119728156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1048
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80fc577fc0afd370800000000000000
+      internalID: 8349569047089442956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1048
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e482c77491f926e0800000000000000
+      internalID: -1861691350974298906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1001
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6304a69c2ed5af6b0800000000000000
+      internalID: -5261789986005827530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1001
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0c147466e7f2460800000000000000
+      internalID: 7219127705445449888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1003
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fb292deffac59a0800000000000000
+      internalID: -6242921474452963465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1001
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e838e2604584920800000000000000
+      internalID: 2974719939405123117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_31
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 999
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05023d1f3eaf0a90800000000000000
+      internalID: -7345460881121999602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 999
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd135601fb5aa7440800000000000000
+      internalID: 4934438581770203613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 998
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70d4728ce4e87e70800000000000000
+      internalID: 9113285550436307066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 998
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9047906ad38547b0800000000000000
+      internalID: -5240637617429069665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 997
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755570e9e4aeee9b0800000000000000
+      internalID: -5048840508856117929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 996
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6357011550049d0800000000000000
+      internalID: -2792225923243100464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 958
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4929ca904c3be9b0800000000000000
+      internalID: -5049876308993431222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 958
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9718622adebbfe490800000000000000
+      internalID: -7714741007360294535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 958
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23d63d40266f23f0800000000000000
+      internalID: -923407109667237077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 958
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1945d89de3971da0800000000000000
+      internalID: -5974143732003026660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 915
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370122a0af045fc70800000000000000
+      internalID: 9004174472653181043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 915
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9d69b1da0b83840800000000000000
+      internalID: 5204103626965309942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 915
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e411e0a5746a7e40800000000000000
+      internalID: 5654942738490135778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_44
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 915
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2a146c98c67d30800000000000000
+      internalID: 4428947857585351366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 855
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbf7173d60b96a90800000000000000
+      internalID: -7320125736191788045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 855
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fff4dc9c54377d10800000000000000
+      internalID: 2123223321701318646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 855
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f20451004c282a0800000000000000
+      internalID: -6736606587957268577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 855
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5513514c454e7b770800000000000000
+      internalID: 8626614663969583445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 855
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9df5c1830c3f27e0800000000000000
+      internalID: -1788144541282992738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 855
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9167a0bedf6b71090800000000000000
+      internalID: -8063775406097271271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 855
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b9d1c1097a350f0800000000000000
+      internalID: -1129374844151030898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_52
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 855
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa1505fbf8a33f0800000000000000
+      internalID: -920265121994788925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_53
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 855
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c962229eeff5bc0800000000000000
+      internalID: -3792032083968877426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_54
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 855
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc70e06fae8082040800000000000000
+      internalID: 4622954822739298252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 800
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e79a1765c705f5b0800000000000000
+      internalID: -5335349639130736667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 802
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cade585db69b36e0800000000000000
+      internalID: -1856724681384600888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_57
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 807
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab1d38051dfa5670800000000000000
+      internalID: 8528407111153818543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 799
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877003764b5bc62c0800000000000000
+      internalID: -4436971746436839560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 799
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22f050705a01cf50800000000000000
+      internalID: 6899807444706325035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 756
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d1ea7e5a2461d50800000000000000
+      internalID: 6707621975338917245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 716
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e679c0ba081286e90800000000000000
+      internalID: -7032333981629769874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 675
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e683b5f3bee94a670800000000000000
+      internalID: 8549132725873490030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 649
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f358200abcc103e20800000000000000
+      internalID: 3328191785515255103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 659
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eab001271bbe80c0800000000000000
+      internalID: -4571510863722136860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 626
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603f28a14ec17c650800000000000000
+      internalID: 6252998373650133766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_66
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 627
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea92914ddf4f5c040800000000000000
+      internalID: 4667405959861709230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_67
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 629
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56216b7ef6958ab0800000000000000
+      internalID: -5006429391016614307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 626
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e55885a4d7bb9a0800000000000000
+      internalID: -6216237102388650484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 620
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2ebe9626c7b71e0800000000000000
+      internalID: -2199027230914649439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_70
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 622
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3136ff9bdc5b1e80800000000000000
+      internalID: -8206863797601291974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 623
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0d4f297bafc73b0800000000000000
+      internalID: -5513256177456852769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 644
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8a27912fa942d0800000000000000
+      internalID: -3293909093639878022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_73
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 633
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66d2a60291abe8f0800000000000000
+      internalID: -510136484227787153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_74
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 644
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e00e5d493f64bc00800000000000000
+      internalID: 915478916164878569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_75
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 623
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d3dccebe680dad0800000000000000
+      internalID: -2679493430437135081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 627
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ba5797d70d8efb0800000000000000
+      internalID: -4618212180541199566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_77
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 626
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5be356389a3e030800000000000000
+      internalID: 3522845715338278386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_78
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 634
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b598ee17ccee60800000000000000
+      internalID: 7992982374240858576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 593
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb252d734002780800000000000000
+      internalID: -8709957041536189421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 593
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31deb9bb645e52180800000000000000
+      internalID: -9140647776720524013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 593
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97abeb590f139fc30800000000000000
+      internalID: 4393597820850846329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_82
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 593
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c72a43b5966b7a0800000000000000
+      internalID: -6361781583168242683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 593
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c61f7825043d270800000000000000
+      internalID: 8274027663621975097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_84
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 593
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c50cf9bb60f3a6c0800000000000000
+      internalID: -4133195687523514942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_85
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 593
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001972ccc80a498a0800000000000000
+      internalID: -6299233452203470592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_86
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 384
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f827ef7a6dfdb08a0800000000000000
+      internalID: -6337725937559375217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 371
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df107e597975de40800000000000000
+      internalID: 5680580067180158933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_88
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 358
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19e7539edc2e4e90800000000000000
+      internalID: -7039639833067132646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_89
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 345
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6551da58b35ffb0800000000000000
+      internalID: -4614716797850659152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 358
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fd54146839e6a60800000000000000
+      internalID: 7669229420288532231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_91
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 329
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64121be3d912cf0b0800000000000000
+      internalID: -5693638869657771706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_92
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 314
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d62a874730ddd50800000000000000
+      internalID: 6763566014155353410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_93
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 329
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54da1f07bbdfbbbf0800000000000000
+      internalID: -307373168049148603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_94
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 326
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49f5788576982540800000000000000
+      internalID: 4983398419230226766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_95
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 313
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cab362343eb74290800000000000000
+      internalID: -7906141489432642875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_96
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 316
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8cacaa189093520800000000000000
+      internalID: 2682185505596688545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_97
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 299
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e4cd3de4c264460800000000000000
+      internalID: 7225511369236041329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_98
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 285
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc9eaafefae3dfc0800000000000000
+      internalID: -3471172506924180302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7ed60be0f111a00800000000000000
+      internalID: 725395162933356457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_100
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 271
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5f2a51599e72b00800000000000000
+      internalID: 803867885031323118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 271
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875518336a61a9410800000000000000
+      internalID: 1484523930256495992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 293
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ceca529effb75c0800000000000000
+      internalID: -4216495249277784937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_103
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 257
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2047b07a68e98640800000000000000
+      internalID: 5082849198319550507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_104
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 271
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a04e5131ffa1330800000000000000
+      internalID: 3682536102765529735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_105
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 262
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d489724864022a400800000000000000
+      internalID: 333864809615824973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_106
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 272
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4f44aafe54c0ea0800000000000000
+      internalID: -5905268115733416756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_107
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 284
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d1fd86b63d3fc80800000000000000
+      internalID: -8290050030784537199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_108
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 209
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c355fb738d72fd60800000000000000
+      internalID: 7922532698171986881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_109
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 253
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6287261dd9f540a0800000000000000
+      internalID: -6897832526293269906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_110
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 281
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1422fd635888c0df0800000000000000
+      internalID: -212644976660635071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_111
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 253
+        width: 167
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9aa20cc608ac740800000000000000
+      internalID: 5173088326557280694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_112
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 257
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9445848fb0267b0800000000000000
+      internalID: -5232606656057816607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_113
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 256
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eeb6a51e6519d1d0800000000000000
+      internalID: -3325603287282565405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_114
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 248
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182ccb7650341120800000000000000
+      internalID: 2383583250788132893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_115
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 267
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ef119950be83810800000000000000
+      internalID: 1745403264881524365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_116
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 265
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31124ad4fb80982a0800000000000000
+      internalID: -6734842150021488365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_117
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 264
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbeda850c0963130800000000000000
+      internalID: 3546180912396757977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_118
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 249
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d8c10bbcb540e60800000000000000
+      internalID: 7927562174470065546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_119
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 249
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391c94667e5a5f4b0800000000000000
+      internalID: -5407233364316274285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_120
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 258
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660d5080867c762a0800000000000000
+      internalID: -6744202667338903450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_121
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 249
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9a2b8c2dc9f0970800000000000000
+      internalID: 8723363432364157367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_122
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 245
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b23dae562ac887a0800000000000000
+      internalID: -6374623006396960079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_123
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 253
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a571d98fd4bc4f80800000000000000
+      internalID: -8120917155872934487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_124
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 236
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b738443f257450800000000000000
+      internalID: 6085822373057507841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_125
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 241
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb830b2090bc7d30800000000000000
+      internalID: 4430610266669157341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_126
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 222
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f453d84393777c6c0800000000000000
+      internalID: -4123195846255889073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_127
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 246
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb17cb287fb7f0e0800000000000000
+      internalID: -2236108167114712083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_128
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 244
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93965f8f6ae55ade0800000000000000
+      internalID: -1322546844328957639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_129
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 244
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ed43b9d1692d70800000000000000
+      internalID: 9018847316430151850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d06e98af34fa2a0800000000000000
+      internalID: -6724080975306420880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_131
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 213
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313443b29f9cfb0a0800000000000000
+      internalID: -6863545235080461549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_132
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 222
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a406e77fff65a30800000000000000
+      internalID: 4203828740639181316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_133
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 189
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16abe00a9128ea70800000000000000
+      internalID: 8856365612548204059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_134
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 227
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e848aed119decd90800000000000000
+      internalID: -7075479293779228443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_135
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 225
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc14a358eeb0194f0800000000000000
+      internalID: -823864137766780465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_136
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 226
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf34e3e354db1b10800000000000000
+      internalID: 1953388320166002650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_137
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 223
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578f9d4d7708eb830800000000000000
+      internalID: 4088846763859507317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_138
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 222
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcc6ae3686f582f0800000000000000
+      internalID: -971099088191304463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_139
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 208
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f73e68119527f9e0800000000000000
+      internalID: -1587759038514448399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_140
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 232
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c56d3d579730a8f0800000000000000
+      internalID: -531363632785824318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_141
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 214
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3fd9c304e02970800000000000000
+      internalID: 8728226782766907159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_142
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 220
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c335623e60e510a0800000000000000
+      internalID: -6911371289233640509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_143
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a2a19aee8f1ae0800000000000000
+      internalID: -1576384206439536885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_144
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 205
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5717770ed093ac0800000000000000
+      internalID: -3875050746647841330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_145
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 191
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21282d41578dc7a80800000000000000
+      internalID: -8467655201991261678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 153
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5415347726f3c950800000000000000
+      internalID: 6468284139147957339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_147
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 203
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6045a180b62f219e0800000000000000
+      internalID: -1651991571780185082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_148
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 203
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83892cb14601dd340800000000000000
+      internalID: 4890082792542738488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_149
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 200
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29b20778f7c42790800000000000000
+      internalID: -7555694404858365652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_150
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 200
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78328187236f234e0800000000000000
+      internalID: -2003268187602803833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_151
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 186
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9ceb5ae4a0bcd10800000000000000
+      internalID: 2146820980276644268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_152
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 178
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139ce677cf1466a00800000000000000
+      internalID: 749358940595079473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_153
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 189
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd31a3c8e2648d80800000000000000
+      internalID: -8249359865581847116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_154
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 155
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01df7f9e7fdee4a80800000000000000
+      internalID: -8480579399254016752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_155
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 155
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f60dcec945b98b60800000000000000
+      internalID: 7748923962474432241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_156
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 152
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e593bdad148082910800000000000000
+      internalID: 1812707928954321246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_157
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada833855f9b25880800000000000000
+      internalID: -8623625873063179558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_158
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 97
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76b78cc929a523b0800000000000000
+      internalID: -5537834169791957379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17834d5e552a55650800000000000000
+      internalID: 6221056950094018673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_160
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 153
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50db60d237c67ff30800000000000000
+      internalID: 4609271985569447173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_161
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 156
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f24bdbcf899ad090800000000000000
+      internalID: -8008920144445488391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_162
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 163
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cf78f67e2ac20f0800000000000000
+      internalID: -1140357490739250117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_163
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 97
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b748e746b38fc2cf0800000000000000
+      internalID: -275572543203670917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_164
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 113
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb01dd4db749bef0800000000000000
+      internalID: -91963439004447757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_165
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 113
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d664fc12b7dd830800000000000000
+      internalID: 4097566621118655776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_166
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 114
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279f80e0e3aed6a10800000000000000
+      internalID: 1904435769691928946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_167
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 114
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86fd8698500fd0f0800000000000000
+      internalID: -1090152204317362546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_168
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 104
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03331f45222729f40800000000000000
+      internalID: 5733770767375610672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_169
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 108
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69f82b1d2556bcc0800000000000000
+      internalID: -3695672791993353875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_170
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 132
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b229a590875b5740800000000000000
+      internalID: 5141799609351873200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_171
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 116
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3704f2c8f0b83160800000000000000
+      internalID: 7005543802843957050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_172
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 70
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0ede41b425f0d80800000000000000
+      internalID: -8282310707283894089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_173
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 68
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe9f9d9ded721290800000000000000
+      internalID: -7921130335086076171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_174
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 110
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105b8de56d2ec3da0800000000000000
+      internalID: -5963642396203240191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_175
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1652be646b9ed0070800000000000000
+      internalID: 8074366676028302689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_176
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7843b1f7ea409cdf0800000000000000
+      internalID: -159591164291631993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_177
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 14
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a0a7d1354864af0800000000000000
+      internalID: -412496823346132475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_178
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aa17086d58d75a0800000000000000
+      internalID: -6521909529038181857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_179
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 66
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad160fe2bc9ccd280800000000000000
+      internalID: -9017110479399525926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_180
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 64
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaebe95705590740800000000000000
+      internalID: 5118715941545044649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_181
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 60
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b01daa0391efe130800000000000000
+      internalID: 3598342648947871928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_182
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 62
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1380aa0e1c998a5f0800000000000000
+      internalID: -745176680352839631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_183
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 85
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157e748752676eb0800000000000000
+      internalID: -4726701155877489378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0abbac5e6af92a0800000000000000
+      internalID: -6728475812389216074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_185
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 16
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f0437c790cffac0800000000000000
+      internalID: -3819122200872218800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_186
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 63
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958a4d4cfef104040800000000000000
+      internalID: 4629735531596785753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_187
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 16
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3729a45be068c3630800000000000000
+      internalID: 3908145974379975283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e1d1db2a764bb10800000000000000
+      internalID: 1996334483487137341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_189
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 14
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1feb030154218c0800000000000000
+      internalID: -4030082780703559193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayfafx_190
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8d29300c818b810800000000000000
+      internalID: 1781200865597774045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hayfafx_0: 3297269318338651774
+      hayfafx_1: -7130874910471666936
+      hayfafx_10: -5255292432402837977
+      hayfafx_100: 803867885031323118
+      hayfafx_101: 1484523930256495992
+      hayfafx_102: -4216495249277784937
+      hayfafx_103: 5082849198319550507
+      hayfafx_104: 3682536102765529735
+      hayfafx_105: 333864809615824973
+      hayfafx_106: -5905268115733416756
+      hayfafx_107: -8290050030784537199
+      hayfafx_108: 7922532698171986881
+      hayfafx_109: -6897832526293269906
+      hayfafx_11: 465270869788731227
+      hayfafx_110: -212644976660635071
+      hayfafx_111: 5173088326557280694
+      hayfafx_112: -5232606656057816607
+      hayfafx_113: -3325603287282565405
+      hayfafx_114: 2383583250788132893
+      hayfafx_115: 1745403264881524365
+      hayfafx_116: -6734842150021488365
+      hayfafx_117: 3546180912396757977
+      hayfafx_118: 7927562174470065546
+      hayfafx_119: -5407233364316274285
+      hayfafx_12: -8647098087498077491
+      hayfafx_120: -6744202667338903450
+      hayfafx_121: 8723363432364157367
+      hayfafx_122: -6374623006396960079
+      hayfafx_123: -8120917155872934487
+      hayfafx_124: 6085822373057507841
+      hayfafx_125: 4430610266669157341
+      hayfafx_126: -4123195846255889073
+      hayfafx_127: -2236108167114712083
+      hayfafx_128: -1322546844328957639
+      hayfafx_129: 9018847316430151850
+      hayfafx_13: 1279830837070931364
+      hayfafx_130: -6724080975306420880
+      hayfafx_131: -6863545235080461549
+      hayfafx_132: 4203828740639181316
+      hayfafx_133: 8856365612548204059
+      hayfafx_134: -7075479293779228443
+      hayfafx_135: -823864137766780465
+      hayfafx_136: 1953388320166002650
+      hayfafx_137: 4088846763859507317
+      hayfafx_138: -971099088191304463
+      hayfafx_139: -1587759038514448399
+      hayfafx_14: 8445949909388320536
+      hayfafx_140: -531363632785824318
+      hayfafx_141: 8728226782766907159
+      hayfafx_142: -6911371289233640509
+      hayfafx_143: -1576384206439536885
+      hayfafx_144: -3875050746647841330
+      hayfafx_145: -8467655201991261678
+      hayfafx_146: 6468284139147957339
+      hayfafx_147: -1651991571780185082
+      hayfafx_148: 4890082792542738488
+      hayfafx_149: -7555694404858365652
+      hayfafx_15: -3143058360541004049
+      hayfafx_150: -2003268187602803833
+      hayfafx_151: 2146820980276644268
+      hayfafx_152: 749358940595079473
+      hayfafx_153: -8249359865581847116
+      hayfafx_154: -8480579399254016752
+      hayfafx_155: 7748923962474432241
+      hayfafx_156: 1812707928954321246
+      hayfafx_157: -8623625873063179558
+      hayfafx_158: -5537834169791957379
+      hayfafx_159: 6221056950094018673
+      hayfafx_16: -1975763923111560976
+      hayfafx_160: 4609271985569447173
+      hayfafx_161: -8008920144445488391
+      hayfafx_162: -1140357490739250117
+      hayfafx_163: -275572543203670917
+      hayfafx_164: -91963439004447757
+      hayfafx_165: 4097566621118655776
+      hayfafx_166: 1904435769691928946
+      hayfafx_167: -1090152204317362546
+      hayfafx_168: 5733770767375610672
+      hayfafx_169: -3695672791993353875
+      hayfafx_17: -2752384722551871948
+      hayfafx_170: 5141799609351873200
+      hayfafx_171: 7005543802843957050
+      hayfafx_172: -8282310707283894089
+      hayfafx_173: -7921130335086076171
+      hayfafx_174: -5963642396203240191
+      hayfafx_175: 8074366676028302689
+      hayfafx_176: -159591164291631993
+      hayfafx_177: -412496823346132475
+      hayfafx_178: -6521909529038181857
+      hayfafx_179: -9017110479399525926
+      hayfafx_18: -5437530835781338549
+      hayfafx_180: 5118715941545044649
+      hayfafx_181: 3598342648947871928
+      hayfafx_182: -745176680352839631
+      hayfafx_183: -4726701155877489378
+      hayfafx_184: -6728475812389216074
+      hayfafx_185: -3819122200872218800
+      hayfafx_186: 4629735531596785753
+      hayfafx_187: 3908145974379975283
+      hayfafx_188: 1996334483487137341
+      hayfafx_189: -4030082780703559193
+      hayfafx_19: 71325719936896026
+      hayfafx_190: 1781200865597774045
+      hayfafx_2: 6122410708874204687
+      hayfafx_20: 7497029382138443365
+      hayfafx_21: -6314833280691821996
+      hayfafx_22: -3806371990578638023
+      hayfafx_23: 5962993126359829549
+      hayfafx_24: 4787118568119728156
+      hayfafx_25: 8349569047089442956
+      hayfafx_26: -1861691350974298906
+      hayfafx_27: -5261789986005827530
+      hayfafx_28: 7219127705445449888
+      hayfafx_29: -6242921474452963465
+      hayfafx_3: 5887331056982550092
+      hayfafx_30: 2974719939405123117
+      hayfafx_31: -7345460881121999602
+      hayfafx_32: 4934438581770203613
+      hayfafx_33: 9113285550436307066
+      hayfafx_34: -5240637617429069665
+      hayfafx_35: -5048840508856117929
+      hayfafx_36: -2792225923243100464
+      hayfafx_37: -5049876308993431222
+      hayfafx_38: -7714741007360294535
+      hayfafx_39: -923407109667237077
+      hayfafx_4: 3687954930154794
+      hayfafx_40: -5974143732003026660
+      hayfafx_41: 9004174472653181043
+      hayfafx_42: 5204103626965309942
+      hayfafx_43: 5654942738490135778
+      hayfafx_44: 4428947857585351366
+      hayfafx_45: -7320125736191788045
+      hayfafx_46: 2123223321701318646
+      hayfafx_47: -6736606587957268577
+      hayfafx_48: 8626614663969583445
+      hayfafx_49: -1788144541282992738
+      hayfafx_5: -595151326928636820
+      hayfafx_50: -8063775406097271271
+      hayfafx_51: -1129374844151030898
+      hayfafx_52: -920265121994788925
+      hayfafx_53: -3792032083968877426
+      hayfafx_54: 4622954822739298252
+      hayfafx_55: -5335349639130736667
+      hayfafx_56: -1856724681384600888
+      hayfafx_57: 8528407111153818543
+      hayfafx_58: -4436971746436839560
+      hayfafx_59: 6899807444706325035
+      hayfafx_6: -170567983728199935
+      hayfafx_60: 6707621975338917245
+      hayfafx_61: -7032333981629769874
+      hayfafx_62: 8549132725873490030
+      hayfafx_63: 3328191785515255103
+      hayfafx_64: -4571510863722136860
+      hayfafx_65: 6252998373650133766
+      hayfafx_66: 4667405959861709230
+      hayfafx_67: -5006429391016614307
+      hayfafx_68: -6216237102388650484
+      hayfafx_69: -2199027230914649439
+      hayfafx_7: 1095605785326511123
+      hayfafx_70: -8206863797601291974
+      hayfafx_71: -5513256177456852769
+      hayfafx_72: -3293909093639878022
+      hayfafx_73: -510136484227787153
+      hayfafx_74: 915478916164878569
+      hayfafx_75: -2679493430437135081
+      hayfafx_76: -4618212180541199566
+      hayfafx_77: 3522845715338278386
+      hayfafx_78: 7992982374240858576
+      hayfafx_79: -8709957041536189421
+      hayfafx_8: 7031037954954182917
+      hayfafx_80: -9140647776720524013
+      hayfafx_81: 4393597820850846329
+      hayfafx_82: -6361781583168242683
+      hayfafx_83: 8274027663621975097
+      hayfafx_84: -4133195687523514942
+      hayfafx_85: -6299233452203470592
+      hayfafx_86: -6337725937559375217
+      hayfafx_87: 5680580067180158933
+      hayfafx_88: -7039639833067132646
+      hayfafx_89: -4614716797850659152
+      hayfafx_9: 4680573583925935488
+      hayfafx_90: 7669229420288532231
+      hayfafx_91: -5693638869657771706
+      hayfafx_92: 6763566014155353410
+      hayfafx_93: -307373168049148603
+      hayfafx_94: 4983398419230226766
+      hayfafx_95: -7906141489432642875
+      hayfafx_96: 2682185505596688545
+      hayfafx_97: 7225511369236041329
+      hayfafx_98: -3471172506924180302
+      hayfafx_99: 725395162933356457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

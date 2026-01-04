@@ -1,0 +1,6617 @@
+fileFormatVersion: 2
+guid: 1be7ff1ce554ed94f86ed6b6fae5160f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6821715453878785738
+    second: lana_0
+  - first:
+      213: 4194535819231174360
+    second: lana_1
+  - first:
+      213: 2692822668532126299
+    second: lana_2
+  - first:
+      213: 5797836258499293740
+    second: lana_3
+  - first:
+      213: 1072086511283432289
+    second: lana_4
+  - first:
+      213: -9054347738710282728
+    second: lana_5
+  - first:
+      213: 7799193797339649025
+    second: lana_6
+  - first:
+      213: -7157501328229679429
+    second: lana_7
+  - first:
+      213: -8672944848187357972
+    second: lana_8
+  - first:
+      213: 7601642207045669760
+    second: lana_9
+  - first:
+      213: -8164913552502908304
+    second: lana_10
+  - first:
+      213: 5817770888012501372
+    second: lana_11
+  - first:
+      213: 3760864740437270212
+    second: lana_12
+  - first:
+      213: 3322598916663116438
+    second: lana_13
+  - first:
+      213: -7370687704474216749
+    second: lana_14
+  - first:
+      213: -6792348321374013332
+    second: lana_15
+  - first:
+      213: -7968152300560130425
+    second: lana_16
+  - first:
+      213: -7484005900500112325
+    second: lana_17
+  - first:
+      213: 1778147030919229116
+    second: lana_18
+  - first:
+      213: -3321087841936297399
+    second: lana_19
+  - first:
+      213: 8289830915988464997
+    second: lana_20
+  - first:
+      213: 4617931940205731997
+    second: lana_21
+  - first:
+      213: 3164518205631230590
+    second: lana_22
+  - first:
+      213: 9179392213431081053
+    second: lana_23
+  - first:
+      213: 7486938546534224964
+    second: lana_24
+  - first:
+      213: 2724733912003710634
+    second: lana_25
+  - first:
+      213: -3484021292183488359
+    second: lana_26
+  - first:
+      213: -1005404127211531631
+    second: lana_27
+  - first:
+      213: -4255568745610900665
+    second: lana_28
+  - first:
+      213: 4255092651136948582
+    second: lana_29
+  - first:
+      213: 1817737795659443390
+    second: lana_30
+  - first:
+      213: -8940228790014002944
+    second: lana_31
+  - first:
+      213: -5916964506912242362
+    second: lana_32
+  - first:
+      213: 8569404030099266570
+    second: lana_33
+  - first:
+      213: 485334148574171963
+    second: lana_34
+  - first:
+      213: 194999058195899960
+    second: lana_35
+  - first:
+      213: 5205390645426166602
+    second: lana_36
+  - first:
+      213: 5519402280557806614
+    second: lana_37
+  - first:
+      213: 5272896773289243301
+    second: lana_38
+  - first:
+      213: -2562146085752536771
+    second: lana_39
+  - first:
+      213: 5856758395442419200
+    second: lana_40
+  - first:
+      213: -6265762729565860603
+    second: lana_41
+  - first:
+      213: 795001452306044213
+    second: lana_42
+  - first:
+      213: -4188750446683533479
+    second: lana_43
+  - first:
+      213: -2810210778391934122
+    second: lana_44
+  - first:
+      213: 5989971705401710244
+    second: lana_45
+  - first:
+      213: 5647875992770084573
+    second: lana_46
+  - first:
+      213: 5536895486977187823
+    second: lana_47
+  - first:
+      213: -1115303548791217810
+    second: lana_48
+  - first:
+      213: 6556217882076447406
+    second: lana_49
+  - first:
+      213: 7682390976515955086
+    second: lana_50
+  - first:
+      213: -7235417850637344342
+    second: lana_51
+  - first:
+      213: 7011146768318431049
+    second: lana_52
+  - first:
+      213: -197161131112496031
+    second: lana_53
+  - first:
+      213: -5620445447821151976
+    second: lana_54
+  - first:
+      213: -4866950610799547506
+    second: lana_55
+  - first:
+      213: -3138555795177594669
+    second: lana_56
+  - first:
+      213: 8561769682339019314
+    second: lana_57
+  - first:
+      213: 3996362650787387956
+    second: lana_58
+  - first:
+      213: 8770958165027811047
+    second: lana_59
+  - first:
+      213: 4690010287476068398
+    second: lana_60
+  - first:
+      213: 3541538966221971835
+    second: lana_61
+  - first:
+      213: 3128174857321114443
+    second: lana_62
+  - first:
+      213: -8624644173713290277
+    second: lana_63
+  - first:
+      213: 5371379681167263499
+    second: lana_64
+  - first:
+      213: 6620412322058057566
+    second: lana_65
+  - first:
+      213: -2295729506587290263
+    second: lana_66
+  - first:
+      213: -9184839147010828829
+    second: lana_67
+  - first:
+      213: -982396027553701720
+    second: lana_68
+  - first:
+      213: -6523018027463647140
+    second: lana_69
+  - first:
+      213: -1107911307957334995
+    second: lana_70
+  - first:
+      213: 437854647214009687
+    second: lana_71
+  - first:
+      213: 8573550923890320917
+    second: lana_72
+  - first:
+      213: -6515393375360558170
+    second: lana_73
+  - first:
+      213: -7811154548687937377
+    second: lana_74
+  - first:
+      213: 8545340836778211799
+    second: lana_75
+  - first:
+      213: -5424195221291352401
+    second: lana_76
+  - first:
+      213: 1447829974499086973
+    second: lana_77
+  - first:
+      213: -6322035200936687035
+    second: lana_78
+  - first:
+      213: 3458614756520215448
+    second: lana_79
+  - first:
+      213: 4641455971028250589
+    second: lana_80
+  - first:
+      213: 3862981707963975949
+    second: lana_81
+  - first:
+      213: -6227919989370686186
+    second: lana_82
+  - first:
+      213: 7129353104387180984
+    second: lana_83
+  - first:
+      213: -5031046852841894913
+    second: lana_84
+  - first:
+      213: 1027991376765208953
+    second: lana_85
+  - first:
+      213: 4510487747048377524
+    second: lana_86
+  - first:
+      213: 6140908977756170095
+    second: lana_87
+  - first:
+      213: 9140346411727829410
+    second: lana_88
+  - first:
+      213: -8853463965710645748
+    second: lana_89
+  - first:
+      213: 655461532512113409
+    second: lana_90
+  - first:
+      213: -3722422453756117457
+    second: lana_91
+  - first:
+      213: 3820768733264455542
+    second: lana_92
+  - first:
+      213: -3567250869775800181
+    second: lana_93
+  - first:
+      213: 8828715714970379187
+    second: lana_94
+  - first:
+      213: -2563862084155939496
+    second: lana_95
+  - first:
+      213: 6394625151798368669
+    second: lana_96
+  - first:
+      213: 4460365455228218942
+    second: lana_97
+  - first:
+      213: 7699325642874242812
+    second: lana_98
+  - first:
+      213: -1321063449779830582
+    second: lana_99
+  - first:
+      213: 7569594577186331571
+    second: lana_100
+  - first:
+      213: -5226972092276742915
+    second: lana_101
+  - first:
+      213: -8083247616658602319
+    second: lana_102
+  - first:
+      213: -2271849477372583411
+    second: lana_103
+  - first:
+      213: 2264031034328479762
+    second: lana_104
+  - first:
+      213: 4319459890099171096
+    second: lana_105
+  - first:
+      213: 6191929939720220943
+    second: lana_106
+  - first:
+      213: 8609166158935109596
+    second: lana_107
+  - first:
+      213: -2562644601315292241
+    second: lana_108
+  - first:
+      213: 6884636113307999527
+    second: lana_109
+  - first:
+      213: 2608249477991942284
+    second: lana_110
+  - first:
+      213: -6820663512878148131
+    second: lana_111
+  - first:
+      213: -7945620386297029695
+    second: lana_112
+  - first:
+      213: 5928163981506754194
+    second: lana_113
+  - first:
+      213: -8034550657813027374
+    second: lana_114
+  - first:
+      213: -4513638270292456330
+    second: lana_115
+  - first:
+      213: 3916963245545556522
+    second: lana_116
+  - first:
+      213: 5896912636806066375
+    second: lana_117
+  - first:
+      213: 3406192222890182727
+    second: lana_118
+  - first:
+      213: 3062899388555470022
+    second: lana_119
+  - first:
+      213: 3455321387887921218
+    second: lana_120
+  - first:
+      213: 8622208246567180326
+    second: lana_121
+  - first:
+      213: 6668554798640264661
+    second: lana_122
+  - first:
+      213: -4338206665244031352
+    second: lana_123
+  - first:
+      213: 2209826958474521462
+    second: lana_124
+  - first:
+      213: -8440137771096656401
+    second: lana_125
+  - first:
+      213: 558505465615683594
+    second: lana_126
+  - first:
+      213: -1680911368272786625
+    second: lana_127
+  - first:
+      213: 2112256929756821132
+    second: lana_128
+  - first:
+      213: -8846972811453052358
+    second: lana_129
+  - first:
+      213: -3880623445180210874
+    second: lana_130
+  - first:
+      213: -734950685752039301
+    second: lana_131
+  - first:
+      213: -6457222522613189180
+    second: lana_132
+  - first:
+      213: 3556572425322774557
+    second: lana_133
+  - first:
+      213: -8087261459875218196
+    second: lana_134
+  - first:
+      213: -930597712899964212
+    second: lana_135
+  - first:
+      213: 4679585789082519970
+    second: lana_136
+  - first:
+      213: -9049345221092120700
+    second: lana_137
+  - first:
+      213: -1792396873784065472
+    second: lana_138
+  - first:
+      213: 459402619836362357
+    second: lana_139
+  - first:
+      213: -8940451445848148752
+    second: lana_140
+  - first:
+      213: -3534945885258035981
+    second: lana_141
+  - first:
+      213: 1862545018518196790
+    second: lana_142
+  - first:
+      213: 7154389505691214327
+    second: lana_143
+  - first:
+      213: -2103492328869558457
+    second: lana_144
+  - first:
+      213: -4375076876128958156
+    second: lana_145
+  - first:
+      213: -2588441794244346710
+    second: lana_146
+  - first:
+      213: 2994476589895746001
+    second: lana_147
+  - first:
+      213: -3035808922963275323
+    second: lana_148
+  - first:
+      213: -5405886831428466101
+    second: lana_149
+  - first:
+      213: -4349896071555211258
+    second: lana_150
+  - first:
+      213: -1301772318106711984
+    second: lana_151
+  - first:
+      213: -3818578457465744448
+    second: lana_152
+  - first:
+      213: -302345605277964054
+    second: lana_153
+  - first:
+      213: 8019545820494470104
+    second: lana_154
+  - first:
+      213: -4194805255419252022
+    second: lana_155
+  - first:
+      213: -4953312387061609825
+    second: lana_156
+  - first:
+      213: -2979273624874955819
+    second: lana_157
+  - first:
+      213: -5545854612933698427
+    second: lana_158
+  - first:
+      213: 2961716509656847190
+    second: lana_159
+  - first:
+      213: 6449140238390744438
+    second: lana_160
+  - first:
+      213: -4602214966309774672
+    second: lana_161
+  - first:
+      213: 5598799667693680061
+    second: lana_162
+  - first:
+      213: 6737148159252702522
+    second: lana_163
+  - first:
+      213: -8808329717568277955
+    second: lana_164
+  - first:
+      213: 6940294037738321140
+    second: lana_165
+  - first:
+      213: 294861555088059149
+    second: lana_166
+  - first:
+      213: -1629383994892103618
+    second: lana_167
+  - first:
+      213: -5282617886198379665
+    second: lana_168
+  - first:
+      213: 7109085442157310489
+    second: lana_169
+  - first:
+      213: -725506957461396298
+    second: lana_170
+  - first:
+      213: -9003348728698408853
+    second: lana_171
+  - first:
+      213: 3402089911046156410
+    second: lana_172
+  - first:
+      213: -4586774079332895697
+    second: lana_173
+  - first:
+      213: -8938674967220798809
+    second: lana_174
+  - first:
+      213: -2577241767167957357
+    second: lana_175
+  - first:
+      213: 3104635626389672615
+    second: lana_176
+  - first:
+      213: -5250065347954161494
+    second: lana_177
+  - first:
+      213: -9157263131224257236
+    second: lana_178
+  - first:
+      213: 7690303326776615284
+    second: lana_179
+  - first:
+      213: 4643079597252251303
+    second: lana_180
+  - first:
+      213: 656507302445398657
+    second: lana_181
+  - first:
+      213: -1384941651534837438
+    second: lana_182
+  - first:
+      213: -822339663913286344
+    second: lana_183
+  - first:
+      213: -5762456164301648369
+    second: lana_184
+  - first:
+      213: -5381629588296889350
+    second: lana_185
+  - first:
+      213: -3561676362620701642
+    second: lana_186
+  - first:
+      213: 4045243298279346534
+    second: lana_187
+  - first:
+      213: 2452612462780659190
+    second: lana_188
+  - first:
+      213: -7406247172162243113
+    second: lana_189
+  - first:
+      213: -3264198995683560
+    second: lana_190
+  - first:
+      213: -1859712167405703110
+    second: lana_191
+  - first:
+      213: 6501137141393947627
+    second: lana_192
+  - first:
+      213: 8830462723765244047
+    second: lana_193
+  - first:
+      213: 906722195755267314
+    second: lana_194
+  - first:
+      213: -657227943045405478
+    second: lana_195
+  - first:
+      213: -4032861431978685471
+    second: lana_196
+  - first:
+      213: 8719004143351620943
+    second: lana_197
+  - first:
+      213: -1583288722033630383
+    second: lana_198
+  - first:
+      213: 137760892103287734
+    second: lana_199
+  - first:
+      213: 5887962563412442172
+    second: lana_200
+  - first:
+      213: 5313834669554550249
+    second: lana_201
+  - first:
+      213: 2647779246340608785
+    second: lana_202
+  - first:
+      213: 6658542259887433842
+    second: lana_203
+  - first:
+      213: -5814953714408098160
+    second: lana_204
+  - first:
+      213: -4131006857749736947
+    second: lana_205
+  - first:
+      213: -2142585306537330950
+    second: lana_206
+  - first:
+      213: 1454572567385620341
+    second: lana_207
+  - first:
+      213: 1721268922490995333
+    second: lana_208
+  - first:
+      213: -7914155850009546929
+    second: lana_209
+  - first:
+      213: 9068860182513515518
+    second: lana_210
+  - first:
+      213: 3870932322745522373
+    second: lana_211
+  - first:
+      213: 9048205622301107729
+    second: lana_212
+  - first:
+      213: -6795821236175079097
+    second: lana_213
+  - first:
+      213: -4719217658822110440
+    second: lana_214
+  - first:
+      213: 2290376834463858940
+    second: lana_215
+  - first:
+      213: 1401750172187538502
+    second: lana_216
+  - first:
+      213: -4626227777512918276
+    second: lana_217
+  - first:
+      213: 2234280313383909372
+    second: lana_218
+  - first:
+      213: -3234080489586756005
+    second: lana_219
+  - first:
+      213: -735256814986385100
+    second: lana_220
+  - first:
+      213: 7595093876720380433
+    second: lana_221
+  - first:
+      213: 2554193003216435145
+    second: lana_222
+  - first:
+      213: -8228531665046790967
+    second: lana_223
+  - first:
+      213: -3284082941614781330
+    second: lana_224
+  - first:
+      213: -1524174358699274373
+    second: lana_225
+  - first:
+      213: -6713851444654665667
+    second: lana_226
+  - first:
+      213: -5295147873900360676
+    second: lana_227
+  - first:
+      213: -8883162913358287182
+    second: lana_228
+  - first:
+      213: 7538598321844456016
+    second: lana_229
+  - first:
+      213: -1169626881738244815
+    second: lana_230
+  - first:
+      213: 6894695427365065272
+    second: lana_231
+  - first:
+      213: 2328760985030183083
+    second: lana_232
+  - first:
+      213: 7663194111186184529
+    second: lana_233
+  - first:
+      213: -4895533637418005878
+    second: lana_234
+  - first:
+      213: 8824949173540893832
+    second: lana_235
+  - first:
+      213: 5095092102136012569
+    second: lana_236
+  - first:
+      213: 8942187241729488258
+    second: lana_237
+  - first:
+      213: 1600639396542590922
+    second: lana_238
+  - first:
+      213: 4853677261329717074
+    second: lana_239
+  - first:
+      213: -2394234877579416182
+    second: lana_240
+  - first:
+      213: -5504144776001477677
+    second: lana_241
+  - first:
+      213: -5620356566616363922
+    second: lana_242
+  - first:
+      213: 3277915461891141896
+    second: lana_243
+  - first:
+      213: 306981173676817254
+    second: lana_244
+  - first:
+      213: -6596801428117879822
+    second: lana_245
+  - first:
+      213: 6961290684261250597
+    second: lana_246
+  - first:
+      213: 7791338502978652062
+    second: lana_247
+  - first:
+      213: -2360007752575154567
+    second: lana_248
+  - first:
+      213: 4702707771434199988
+    second: lana_249
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lana_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1217
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6dc33ff0a9bae50800000000000000
+      internalID: 6821715453878785738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1217
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de1dee9a1cf53a30800000000000000
+      internalID: 4194535819231174360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1217
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b521af823f3de5520800000000000000
+      internalID: 2692822668532126299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1217
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22fabddb5d067050800000000000000
+      internalID: 5797836258499293740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1217
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b69897001d0ee00800000000000000
+      internalID: 1072086511283432289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1217
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eef4124be785280800000000000000
+      internalID: -9054347738710282728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1214
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1041cd0df6d4c3c60800000000000000
+      internalID: 7799193797339649025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1217
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbebb7bc6727bac90800000000000000
+      internalID: -7157501328229679429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1172
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce40d3f9c9283a780800000000000000
+      internalID: -8672944848187357972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1155
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083d294ef457e7960800000000000000
+      internalID: 7601642207045669760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1172
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a9a41326660be80800000000000000
+      internalID: -8164913552502908304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1155
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71189c7ccfdcb050800000000000000
+      internalID: 5817770888012501372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1172
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce1e063e86413430800000000000000
+      internalID: 3760864740437270212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1172
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6928dce5c1e3c1e20800000000000000
+      internalID: 3322598916663116438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1172
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d69978959e06b990800000000000000
+      internalID: -7370687704474216749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1104
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68f7c9603bbcb1a0800000000000000
+      internalID: -6792348321374013332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1172
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ed6e023bf6b6190800000000000000
+      internalID: -7968152300560130425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1172
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c63c31948732890800000000000000
+      internalID: -7484005900500112325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1146
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe2b58bd4f3da810800000000000000
+      internalID: 1778147030919229116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1159
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942b481243029e1d0800000000000000
+      internalID: -3321087841936297399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_20
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1163
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5652b83fb456b0370800000000000000
+      internalID: 8289830915988464997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_21
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1101
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90a4ecf1a0361040800000000000000
+      internalID: 4617931940205731997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1103
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72f7ebaa80aaeb20800000000000000
+      internalID: 3164518205631230590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1138
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58db876590c36f70800000000000000
+      internalID: 9179392213431081053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1101
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4441a59c0f2f6e760800000000000000
+      internalID: 7486938546534224964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1104
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae01748e0330d520800000000000000
+      internalID: 2724733912003710634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1138
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9987189081546afc0800000000000000
+      internalID: -3484021292183488359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1096
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19258dde5461c02f0800000000000000
+      internalID: -1005404127211531631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_28
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1126
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8b98d5ce21f4c0800000000000000
+      internalID: -4255568745610900665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_29
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1104
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6699465c8302d0b30800000000000000
+      internalID: 4255092651136948582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_30
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1102
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc2515f4e6e93910800000000000000
+      internalID: 1817737795659443390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1121
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009be78684dede380800000000000000
+      internalID: -8940228790014002944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_32
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645c6e06128b2eda0800000000000000
+      internalID: -5916964506912242362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_33
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1110
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c1ede0093ace670800000000000000
+      internalID: 8569404030099266570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1047
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33512336d04cb600800000000000000
+      internalID: 485334148574171963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1049
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8366d4b3c96c4b200800000000000000
+      internalID: 194999058195899960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_36
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1095
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b94c176334d3840800000000000000
+      internalID: 5205390645426166602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_37
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1051
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6140121912bd89c40800000000000000
+      internalID: 5519402280557806614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1031
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a27535ada71d2940800000000000000
+      internalID: 5272896773289243301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_39
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1095
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d310018b5bd617cd0800000000000000
+      internalID: -2562146085752536771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1056
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006d1afeab2674150800000000000000
+      internalID: 5856758395442419200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1068
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d4851bef98b09a0800000000000000
+      internalID: -6265762729565860603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1053
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5351f98db99680b00800000000000000
+      internalID: 795001452306044213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1043
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f4ba469a19ed5c0800000000000000
+      internalID: -4188750446683533479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_44
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1067
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b89f9af202009d0800000000000000
+      internalID: -2810210778391934122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_45
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1052
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a61c13a787a02350800000000000000
+      internalID: 5989971705401710244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_46
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1071
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde748caa49416e40800000000000000
+      internalID: 5647875992770084573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_47
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1071
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef1db31c1107dc40800000000000000
+      internalID: 5536895486977187823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1004
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61219dd455a580f0800000000000000
+      internalID: -1115303548791217810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1039
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea20b3b6d6d5cfa50800000000000000
+      internalID: 6556217882076447406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1008
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8956ecd3e55d9a60800000000000000
+      internalID: 7682390976515955086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1032
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1ad3bbcc1a69b90800000000000000
+      internalID: -7235417850637344342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 994
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7fb1d6d89c4160800000000000000
+      internalID: 7011146768318431049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1037
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1648680fefa834df0800000000000000
+      internalID: -197161131112496031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1008
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811b823c4aa2002b0800000000000000
+      internalID: -5620445447821151976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1007
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b2ce7a43e157cb0800000000000000
+      internalID: -4866950610799547506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1007
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d022b0122c9174d0800000000000000
+      internalID: -3138555795177594669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1027
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab684f92481d670800000000000000
+      internalID: 8561769682339019314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 959
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a12d148aee57730800000000000000
+      internalID: 3996362650787387956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 963
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee6b460bf3b8b970800000000000000
+      internalID: 8770958165027811047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 963
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2050f9f183461140800000000000000
+      internalID: 4690010287476068398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_61
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 987
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b716dd70de2162130800000000000000
+      internalID: 3541538966221971835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_62
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 942
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4beeed7572896b20800000000000000
+      internalID: 3128174857321114443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_63
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 954
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb4dafb1db1f4880800000000000000
+      internalID: -8624644173713290277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 962
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07c9b97c59fa8a40800000000000000
+      internalID: 5371379681167263499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 897
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57b3e23eed60eb50800000000000000
+      internalID: 6620412322058057566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_66
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 945
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9655b735d2ee320e0800000000000000
+      internalID: -2295729506587290263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_67
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 897
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5515b8575e88080800000000000000
+      internalID: -9184839147010828829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 897
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a028e49404dd52f0800000000000000
+      internalID: -982396027553701720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_69
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 897
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c506f891aa59975a0800000000000000
+      internalID: -6523018027463647140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_70
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 897
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c809e0988ef90f0800000000000000
+      internalID: -1107911307957334995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_71
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 941
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75de1765b72931600800000000000000
+      internalID: 437854647214009687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 897
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5166432042f5bf670800000000000000
+      internalID: 8573550923890320917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 921
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab53b1ce3ca495a0800000000000000
+      internalID: -6515393375360558170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_74
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 896
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9067cfb254399390800000000000000
+      internalID: -7811154548687937377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 838
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9fdc44736279670800000000000000
+      internalID: 8545340836778211799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_76
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 880
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faebe825f2369b4b0800000000000000
+      internalID: -5424195221291352401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_77
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 849
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d725e2dd0b9b71410800000000000000
+      internalID: 1447829974499086973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_78
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 841
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a47a6fa7e9348a0800000000000000
+      internalID: -6322035200936687035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_79
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 853
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893cf49ebc77fff20800000000000000
+      internalID: 3458614756520215448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 838
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf21c93d93c96040800000000000000
+      internalID: 4641455971028250589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_81
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 850
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09460d75611c9530800000000000000
+      internalID: 3862981707963975949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_82
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 837
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615710044cbf199a0800000000000000
+      internalID: -6227919989370686186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_83
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 832
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9835120ec80f260800000000000000
+      internalID: 7129353104387180984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_84
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 838
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb03000b812e2ab0800000000000000
+      internalID: -5031046852841894913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_85
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 851
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979414ce5b8244e00800000000000000
+      internalID: 1027991376765208953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_86
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 837
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc029655b8789e30800000000000000
+      internalID: 4510487747048377524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_87
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67e929ed24e83550800000000000000
+      internalID: 6140908977756170095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 841
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9bd0342a809de70800000000000000
+      internalID: 9140346411727829410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 791
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06881c4e6d222580800000000000000
+      internalID: -8853463965710645748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_90
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 791
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10351518acaa81900800000000000000
+      internalID: 655461532512113409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 791
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ebde3208c475cc0800000000000000
+      internalID: -3722422453756117457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_92
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 791
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677a52b6be8160530800000000000000
+      internalID: 3820768733264455542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_93
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 790
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b886f4aeb349e7ec0800000000000000
+      internalID: -3567250869775800181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_94
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 807
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e7bd8a26e58a70800000000000000
+      internalID: 8828715714970379187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 739
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855eac4b4055b6cd0800000000000000
+      internalID: -2563862084155939496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_96
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 745
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9958b402b54eb850800000000000000
+      internalID: 6394625151798368669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_97
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 745
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e2d4fdfb666ed30800000000000000
+      internalID: 4460365455228218942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_98
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 742
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6439121ef79da60800000000000000
+      internalID: 7699325642874242812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_99
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 771
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac00f1eaac3aaade0800000000000000
+      internalID: -1321063449779830582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_100
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 743
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb1aea992a9c0960800000000000000
+      internalID: 7569594577186331571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 698
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4e6f463901677b0800000000000000
+      internalID: -5226972092276742915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_102
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 698
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b68a899e1982df80800000000000000
+      internalID: -8083247616658602319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_103
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 698
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02ec06efe4c870e0800000000000000
+      internalID: -2271849477372583411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 711
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218fb99fa347b6f10800000000000000
+      internalID: 2264031034328479762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_105
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 683
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fa8e272edc1fb30800000000000000
+      internalID: 4319459890099171096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_106
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 711
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01312359772ee550800000000000000
+      internalID: 6191929939720220943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 652
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf24ab1207e97770800000000000000
+      internalID: 8609166158935109596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_108
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 645
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab87050058af6cd0800000000000000
+      internalID: -2562644601315292241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 650
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9c8591142b8f50800000000000000
+      internalID: 6884636113307999527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 649
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88ce45c41d523420800000000000000
+      internalID: 2608249477991942284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 647
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd51e662ca22851a0800000000000000
+      internalID: -6820663512878148131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_112
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 663
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbd9aa3b5c7bb190800000000000000
+      internalID: -7945620386297029695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_113
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 645
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296b9ff7bb1154250800000000000000
+      internalID: 5928163981506754194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_114
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 675
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d56c2fdeba8f7090800000000000000
+      internalID: -8034550657813027374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_115
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 639
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c0c9e48e55c51c0800000000000000
+      internalID: -4513638270292456330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_116
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 675
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a0101a159db5630800000000000000
+      internalID: 3916963245545556522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_117
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 627
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0765cccca06d150800000000000000
+      internalID: 5896912636806066375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_118
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 655
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748411aa7c9354f20800000000000000
+      internalID: 3406192222890182727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_119
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 645
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c42c9514ca918a20800000000000000
+      internalID: 3062899388555470022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_120
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 659
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488ed5ce74c3ff20800000000000000
+      internalID: 3455321387887921218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_121
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 659
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6289414c7bc38a770800000000000000
+      internalID: 8622208246567180326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_122
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 639
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5fd2202477b8c50800000000000000
+      internalID: 6668554798640264661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_123
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 602
+        width: 94
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886c5e3d5089bc3c0800000000000000
+      internalID: -4338206665244031352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_124
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 599
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ba4fa19e1eaae10800000000000000
+      internalID: 2209826958474521462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_125
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 577
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe53d6a3a6b9eda80800000000000000
+      internalID: -8440137771096656401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 598
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00132b03c530c700800000000000000
+      internalID: 558505465615683594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_127
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 599
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b4f2334043ca8e0800000000000000
+      internalID: -1680911368272786625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_128
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 599
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8633848c7e305d10800000000000000
+      internalID: 2112256929756821132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_129
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 607
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a4dcbe91d393580800000000000000
+      internalID: -8846972811453052358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_130
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 600
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6412bfa7981452ac0800000000000000
+      internalID: -3880623445180210874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_131
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 599
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e158ce3eecc5f0800000000000000
+      internalID: -734950685752039301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_132
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 599
+        width: 102
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c53df7d3565366a0800000000000000
+      internalID: -6457222522613189180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_133
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 598
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10405df6cb7b5130800000000000000
+      internalID: 3556572425322774557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_134
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 599
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec3e66ec8644cf80800000000000000
+      internalID: -8087261459875218196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 541
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc28ec58f4ad513f0800000000000000
+      internalID: -930597712899964212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_136
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 541
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ca3e4b7a31f040800000000000000
+      internalID: 4679585789082519970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_137
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 541
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487ece687744a6280800000000000000
+      internalID: -9049345221092120700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_138
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 571
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04284913a802027e0800000000000000
+      internalID: -1792396873784065472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_139
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 572
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eea3caf30206600800000000000000
+      internalID: 459402619836362357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_140
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 540
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4f79e47c22de380800000000000000
+      internalID: -8940451445848148752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_141
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 537
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc47f0427951fec0800000000000000
+      internalID: -3534945885258035981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_142
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 542
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63253fe73d619d910800000000000000
+      internalID: 1862545018518196790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_143
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 542
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1e18f895f794360800000000000000
+      internalID: 7154389505691214327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_144
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 542
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74788f52fd4eec2e0800000000000000
+      internalID: -2103492328869558457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_145
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 529
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439ce45e2ca9843c0800000000000000
+      internalID: -4375076876128958156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_146
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 539
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac7a4cf6e1041cd0800000000000000
+      internalID: -2588441794244346710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_147
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 514
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d185f4d7948e8920800000000000000
+      internalID: 2994476589895746001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_148
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 570
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c110d47ed3aed5d0800000000000000
+      internalID: -3035808922963275323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_149
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 540
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a8eb4819e6af4b0800000000000000
+      internalID: -5405886831428466101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_150
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 573
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600a515d19012a3c0800000000000000
+      internalID: -4349896071555211258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_151
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 570
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05800d849fc2fede0800000000000000
+      internalID: -1301772318106711984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_152
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 541
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c39bc7ef1fa10bc0800000000000000
+      internalID: -3818578457465744448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_153
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 543
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8a10e164addcbf0800000000000000
+      internalID: -302345605277964054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 540
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db9a823f662b4f60800000000000000
+      internalID: 8019545820494470104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_155
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 543
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac23bc068de09c5c0800000000000000
+      internalID: -4194805255419252022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_156
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a86a3b0ac424bb0800000000000000
+      internalID: -4953312387061609825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_157
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 543
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db43ac4c6e77a6d0800000000000000
+      internalID: -2979273624874955819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_158
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 543
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c102cdc9a2903b0800000000000000
+      internalID: -5545854612933698427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_159
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653918349712a1920800000000000000
+      internalID: 2961716509656847190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 490
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67555f7b0e2ff7950800000000000000
+      internalID: 6449140238390744438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_161
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 499
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba9e192fd5a120c0800000000000000
+      internalID: -4602214966309774672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_162
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 490
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5f47152aee2bd40800000000000000
+      internalID: 5598799667693680061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_163
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 490
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a352f6f4e882f7d50800000000000000
+      internalID: 6737148159252702522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_164
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 490
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3273d75ac682c580800000000000000
+      internalID: -8808329717568277955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_165
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 490
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47724f7a0e05060800000000000000
+      internalID: 6940294037738321140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_166
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 473
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b61f8a50f871400800000000000000
+      internalID: 294861555088059149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_167
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 490
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30dfb5b3e34369e0800000000000000
+      internalID: -1629383994892103618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_168
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b4501650f50b6b0800000000000000
+      internalID: -5282617886198379665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_169
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 412
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912ffa94b8b88a260800000000000000
+      internalID: 7109085442157310489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_170
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 427
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4607e144b7ee5f0800000000000000
+      internalID: -725506957461396298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_171
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 421
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6077f4780ead0380800000000000000
+      internalID: -9003348728698408853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_172
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b8d1cfb6a63f20800000000000000
+      internalID: 3402089911046156410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 428
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24b460d6418850c0800000000000000
+      internalID: -4586774079332895697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_174
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 419
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aab028f97273f380800000000000000
+      internalID: -8938674967220798809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_175
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 419
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39667af744ccb3cd0800000000000000
+      internalID: -2577241767167957357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_176
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 422
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a29af337a1e51b20800000000000000
+      internalID: 3104635626389672615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_177
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 446
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8ca9fc1650427b0800000000000000
+      internalID: -5250065347954161494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_178
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 433
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dc89c03bddae080800000000000000
+      internalID: -9157263131224257236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_179
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 436
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4716687712279ba60800000000000000
+      internalID: 7690303326776615284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_180
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 427
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae851a2b488f6040800000000000000
+      internalID: 4643079597252251303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_181
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 411
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a35bac9e16c1900800000000000000
+      internalID: 656507302445398657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_182
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 427
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2498f99d7e2b7cce0800000000000000
+      internalID: -1384941651534837438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_183
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 426
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8350cbfbe667694f0800000000000000
+      internalID: -822339663913286344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 366
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e4a0d36a4a700b0800000000000000
+      internalID: -5762456164301648369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_185
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 366
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb05dc076c9055b0800000000000000
+      internalID: -5381629588296889350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_186
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 366
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63476110832629ec0800000000000000
+      internalID: -3561676362620701642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_187
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 366
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66158ffd857932830800000000000000
+      internalID: 4045243298279346534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_188
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 366
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5bcb75a0e690220800000000000000
+      internalID: 2452612462780659190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_189
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 366
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d53788df69b73990800000000000000
+      internalID: -7406247172162243113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_190
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 366
+        width: 102
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817d2627a3764fff0800000000000000
+      internalID: -3264198995683560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_191
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 365
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30bf4d03a9f036e0800000000000000
+      internalID: -1859712167405703110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_192
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 371
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb72ec19cda83a50800000000000000
+      internalID: 6501137141393947627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_193
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 366
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f801b5cbf0b1c8a70800000000000000
+      internalID: 8830462723765244047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_194
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 366
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f474f37803559c00800000000000000
+      internalID: 906722195755267314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_195
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 366
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4615efaae01e6f0800000000000000
+      internalID: -657227943045405478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_196
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 364
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb898605e56808c0800000000000000
+      internalID: -4032861431978685471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_197
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 366
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45e1a7b210200970800000000000000
+      internalID: 8719004143351620943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_198
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 365
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153ad42cb47070ae0800000000000000
+      internalID: -1583288722033630383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_199
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 379
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3e1cd2dcc69e100800000000000000
+      internalID: 137760892103287734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_200
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 362
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c3ff271ce36b150800000000000000
+      internalID: 5887962563412442172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_201
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 318
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e544f16a788eb940800000000000000
+      internalID: 5313834669554550249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_202
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 318
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11398cd223dceb420800000000000000
+      internalID: 2647779246340608785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_203
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 318
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278648a28e4e76c50800000000000000
+      internalID: 6658542259887433842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_204
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 318
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096fd5bd7622d4fa0800000000000000
+      internalID: -5814953714408098160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_205
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 318
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02df1f5627bba6c0800000000000000
+      internalID: -4131006857749736947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_206
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 318
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6fedef3020442e0800000000000000
+      internalID: -2142585306537330950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_207
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 318
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f3c0b1b0eaf2410800000000000000
+      internalID: 1454572567385620341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_208
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 201
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582ceff17fc23e710800000000000000
+      internalID: 1721268922490995333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_209
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 212
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe9177f254b2290800000000000000
+      internalID: -7914155850009546929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_210
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 229
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbf66089401bdd70800000000000000
+      internalID: 9068860182513515518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_211
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 175
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c813de307058b530800000000000000
+      internalID: 3870932322745522373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_212
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 219
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11623f3f21fa19d70800000000000000
+      internalID: 9048205622301107729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_213
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 117
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7497abc679460b1a0800000000000000
+      internalID: -6795821236175079097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_214
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8135824fa88f18eb0800000000000000
+      internalID: -4719217658822110440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_215
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 175
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf08004989d09cf10800000000000000
+      internalID: 2290376834463858940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_216
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 190
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b415da54047310800000000000000
+      internalID: 1401750172187538502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_217
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 117
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf23c4fd8565ccfb0800000000000000
+      internalID: -4626227777512918276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_218
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 117
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf775e77b12c10f10800000000000000
+      internalID: 2234280313383909372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_219
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 162
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56f82bfdec3e13d0800000000000000
+      internalID: -3234080489586756005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_220
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 157
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4392d0482d7dbc5f0800000000000000
+      internalID: -735256814986385100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_221
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 117
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aa9ade3a1376960800000000000000
+      internalID: 7595093876720380433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_222
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 110
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7f084f001527320800000000000000
+      internalID: 2554193003216435145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_223
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 133
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc15d91c026ecd80800000000000000
+      internalID: -8228531665046790967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_224
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 134
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c8124e6f79c62d0800000000000000
+      internalID: -3284082941614781330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_225
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 29
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f88f50f7b09dae0800000000000000
+      internalID: -1524174358699274373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_226
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 86
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d309d9ebeab93d2a0800000000000000
+      internalID: -6713851444654665667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_227
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c0107401bd386b0800000000000000
+      internalID: -5295147873900360676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_228
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 86
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beea53356aa8b480800000000000000
+      internalID: -8883162913358287182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_229
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 73
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a05e58b3b7e9860800000000000000
+      internalID: 7538598321844456016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_230
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 57
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d7e3a4c86a4cfe0800000000000000
+      internalID: -1169626881738244815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_231
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 60
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832da9626f0eeaf50800000000000000
+      internalID: 6894695427365065272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_232
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 92
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8438f07cb615020800000000000000
+      internalID: 2328760985030183083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_233
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 60
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1592e1a5172295a60800000000000000
+      internalID: 7663194111186184529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_234
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 74
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a49bb28129f0cb0800000000000000
+      internalID: -4895533637418005878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_235
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 76
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88438c94484887a70800000000000000
+      internalID: 8824949173540893832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_236
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 80
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f17bd954765b640800000000000000
+      internalID: 5095092102136012569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_237
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 29
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285f05a2be7091c70800000000000000
+      internalID: 8942187241729488258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_238
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 30
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfaa64fc0d963610800000000000000
+      internalID: 1600639396542590922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_239
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 47
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d2f7d0c9bb5340800000000000000
+      internalID: 4853677261329717074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_240
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 29
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d27056018f5ced0800000000000000
+      internalID: -2394234877579416182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_241
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 55
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d32c1a0d795d93b0800000000000000
+      internalID: -5504144776001477677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_242
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 29
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c2cc70b7b7002b0800000000000000
+      internalID: -5620356566616363922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_243
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 34
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80138c5debe7d7d20800000000000000
+      internalID: 3277915461891141896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_244
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b3db140cd924400800000000000000
+      internalID: 306981173676817254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_245
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 29
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f38e3f6d047374a0800000000000000
+      internalID: -6596801428117879822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_246
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526b0adaef87b9060800000000000000
+      internalID: 6961290684261250597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_247
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 41
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97cdd29615602c60800000000000000
+      internalID: 7791338502978652062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_248
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 34
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9760790f3719f3fd0800000000000000
+      internalID: -2360007752575154567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lana_249
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 29
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbedc65dcf534140800000000000000
+      internalID: 4702707771434199988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lana_0: 6821715453878785738
+      lana_1: 4194535819231174360
+      lana_10: -8164913552502908304
+      lana_100: 7569594577186331571
+      lana_101: -5226972092276742915
+      lana_102: -8083247616658602319
+      lana_103: -2271849477372583411
+      lana_104: 2264031034328479762
+      lana_105: 4319459890099171096
+      lana_106: 6191929939720220943
+      lana_107: 8609166158935109596
+      lana_108: -2562644601315292241
+      lana_109: 6884636113307999527
+      lana_11: 5817770888012501372
+      lana_110: 2608249477991942284
+      lana_111: -6820663512878148131
+      lana_112: -7945620386297029695
+      lana_113: 5928163981506754194
+      lana_114: -8034550657813027374
+      lana_115: -4513638270292456330
+      lana_116: 3916963245545556522
+      lana_117: 5896912636806066375
+      lana_118: 3406192222890182727
+      lana_119: 3062899388555470022
+      lana_12: 3760864740437270212
+      lana_120: 3455321387887921218
+      lana_121: 8622208246567180326
+      lana_122: 6668554798640264661
+      lana_123: -4338206665244031352
+      lana_124: 2209826958474521462
+      lana_125: -8440137771096656401
+      lana_126: 558505465615683594
+      lana_127: -1680911368272786625
+      lana_128: 2112256929756821132
+      lana_129: -8846972811453052358
+      lana_13: 3322598916663116438
+      lana_130: -3880623445180210874
+      lana_131: -734950685752039301
+      lana_132: -6457222522613189180
+      lana_133: 3556572425322774557
+      lana_134: -8087261459875218196
+      lana_135: -930597712899964212
+      lana_136: 4679585789082519970
+      lana_137: -9049345221092120700
+      lana_138: -1792396873784065472
+      lana_139: 459402619836362357
+      lana_14: -7370687704474216749
+      lana_140: -8940451445848148752
+      lana_141: -3534945885258035981
+      lana_142: 1862545018518196790
+      lana_143: 7154389505691214327
+      lana_144: -2103492328869558457
+      lana_145: -4375076876128958156
+      lana_146: -2588441794244346710
+      lana_147: 2994476589895746001
+      lana_148: -3035808922963275323
+      lana_149: -5405886831428466101
+      lana_15: -6792348321374013332
+      lana_150: -4349896071555211258
+      lana_151: -1301772318106711984
+      lana_152: -3818578457465744448
+      lana_153: -302345605277964054
+      lana_154: 8019545820494470104
+      lana_155: -4194805255419252022
+      lana_156: -4953312387061609825
+      lana_157: -2979273624874955819
+      lana_158: -5545854612933698427
+      lana_159: 2961716509656847190
+      lana_16: -7968152300560130425
+      lana_160: 6449140238390744438
+      lana_161: -4602214966309774672
+      lana_162: 5598799667693680061
+      lana_163: 6737148159252702522
+      lana_164: -8808329717568277955
+      lana_165: 6940294037738321140
+      lana_166: 294861555088059149
+      lana_167: -1629383994892103618
+      lana_168: -5282617886198379665
+      lana_169: 7109085442157310489
+      lana_17: -7484005900500112325
+      lana_170: -725506957461396298
+      lana_171: -9003348728698408853
+      lana_172: 3402089911046156410
+      lana_173: -4586774079332895697
+      lana_174: -8938674967220798809
+      lana_175: -2577241767167957357
+      lana_176: 3104635626389672615
+      lana_177: -5250065347954161494
+      lana_178: -9157263131224257236
+      lana_179: 7690303326776615284
+      lana_18: 1778147030919229116
+      lana_180: 4643079597252251303
+      lana_181: 656507302445398657
+      lana_182: -1384941651534837438
+      lana_183: -822339663913286344
+      lana_184: -5762456164301648369
+      lana_185: -5381629588296889350
+      lana_186: -3561676362620701642
+      lana_187: 4045243298279346534
+      lana_188: 2452612462780659190
+      lana_189: -7406247172162243113
+      lana_19: -3321087841936297399
+      lana_190: -3264198995683560
+      lana_191: -1859712167405703110
+      lana_192: 6501137141393947627
+      lana_193: 8830462723765244047
+      lana_194: 906722195755267314
+      lana_195: -657227943045405478
+      lana_196: -4032861431978685471
+      lana_197: 8719004143351620943
+      lana_198: -1583288722033630383
+      lana_199: 137760892103287734
+      lana_2: 2692822668532126299
+      lana_20: 8289830915988464997
+      lana_200: 5887962563412442172
+      lana_201: 5313834669554550249
+      lana_202: 2647779246340608785
+      lana_203: 6658542259887433842
+      lana_204: -5814953714408098160
+      lana_205: -4131006857749736947
+      lana_206: -2142585306537330950
+      lana_207: 1454572567385620341
+      lana_208: 1721268922490995333
+      lana_209: -7914155850009546929
+      lana_21: 4617931940205731997
+      lana_210: 9068860182513515518
+      lana_211: 3870932322745522373
+      lana_212: 9048205622301107729
+      lana_213: -6795821236175079097
+      lana_214: -4719217658822110440
+      lana_215: 2290376834463858940
+      lana_216: 1401750172187538502
+      lana_217: -4626227777512918276
+      lana_218: 2234280313383909372
+      lana_219: -3234080489586756005
+      lana_22: 3164518205631230590
+      lana_220: -735256814986385100
+      lana_221: 7595093876720380433
+      lana_222: 2554193003216435145
+      lana_223: -8228531665046790967
+      lana_224: -3284082941614781330
+      lana_225: -1524174358699274373
+      lana_226: -6713851444654665667
+      lana_227: -5295147873900360676
+      lana_228: -8883162913358287182
+      lana_229: 7538598321844456016
+      lana_23: 9179392213431081053
+      lana_230: -1169626881738244815
+      lana_231: 6894695427365065272
+      lana_232: 2328760985030183083
+      lana_233: 7663194111186184529
+      lana_234: -4895533637418005878
+      lana_235: 8824949173540893832
+      lana_236: 5095092102136012569
+      lana_237: 8942187241729488258
+      lana_238: 1600639396542590922
+      lana_239: 4853677261329717074
+      lana_24: 7486938546534224964
+      lana_240: -2394234877579416182
+      lana_241: -5504144776001477677
+      lana_242: -5620356566616363922
+      lana_243: 3277915461891141896
+      lana_244: 306981173676817254
+      lana_245: -6596801428117879822
+      lana_246: 6961290684261250597
+      lana_247: 7791338502978652062
+      lana_248: -2360007752575154567
+      lana_249: 4702707771434199988
+      lana_25: 2724733912003710634
+      lana_26: -3484021292183488359
+      lana_27: -1005404127211531631
+      lana_28: -4255568745610900665
+      lana_29: 4255092651136948582
+      lana_3: 5797836258499293740
+      lana_30: 1817737795659443390
+      lana_31: -8940228790014002944
+      lana_32: -5916964506912242362
+      lana_33: 8569404030099266570
+      lana_34: 485334148574171963
+      lana_35: 194999058195899960
+      lana_36: 5205390645426166602
+      lana_37: 5519402280557806614
+      lana_38: 5272896773289243301
+      lana_39: -2562146085752536771
+      lana_4: 1072086511283432289
+      lana_40: 5856758395442419200
+      lana_41: -6265762729565860603
+      lana_42: 795001452306044213
+      lana_43: -4188750446683533479
+      lana_44: -2810210778391934122
+      lana_45: 5989971705401710244
+      lana_46: 5647875992770084573
+      lana_47: 5536895486977187823
+      lana_48: -1115303548791217810
+      lana_49: 6556217882076447406
+      lana_5: -9054347738710282728
+      lana_50: 7682390976515955086
+      lana_51: -7235417850637344342
+      lana_52: 7011146768318431049
+      lana_53: -197161131112496031
+      lana_54: -5620445447821151976
+      lana_55: -4866950610799547506
+      lana_56: -3138555795177594669
+      lana_57: 8561769682339019314
+      lana_58: 3996362650787387956
+      lana_59: 8770958165027811047
+      lana_6: 7799193797339649025
+      lana_60: 4690010287476068398
+      lana_61: 3541538966221971835
+      lana_62: 3128174857321114443
+      lana_63: -8624644173713290277
+      lana_64: 5371379681167263499
+      lana_65: 6620412322058057566
+      lana_66: -2295729506587290263
+      lana_67: -9184839147010828829
+      lana_68: -982396027553701720
+      lana_69: -6523018027463647140
+      lana_7: -7157501328229679429
+      lana_70: -1107911307957334995
+      lana_71: 437854647214009687
+      lana_72: 8573550923890320917
+      lana_73: -6515393375360558170
+      lana_74: -7811154548687937377
+      lana_75: 8545340836778211799
+      lana_76: -5424195221291352401
+      lana_77: 1447829974499086973
+      lana_78: -6322035200936687035
+      lana_79: 3458614756520215448
+      lana_8: -8672944848187357972
+      lana_80: 4641455971028250589
+      lana_81: 3862981707963975949
+      lana_82: -6227919989370686186
+      lana_83: 7129353104387180984
+      lana_84: -5031046852841894913
+      lana_85: 1027991376765208953
+      lana_86: 4510487747048377524
+      lana_87: 6140908977756170095
+      lana_88: 9140346411727829410
+      lana_89: -8853463965710645748
+      lana_9: 7601642207045669760
+      lana_90: 655461532512113409
+      lana_91: -3722422453756117457
+      lana_92: 3820768733264455542
+      lana_93: -3567250869775800181
+      lana_94: 8828715714970379187
+      lana_95: -2563862084155939496
+      lana_96: 6394625151798368669
+      lana_97: 4460365455228218942
+      lana_98: 7699325642874242812
+      lana_99: -1321063449779830582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

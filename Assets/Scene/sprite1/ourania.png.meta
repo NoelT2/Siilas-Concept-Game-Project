@@ -1,0 +1,6331 @@
+fileFormatVersion: 2
+guid: 1df53b113d964854ca1b2b6986d807a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -883221198538403722
+    second: ourania_0
+  - first:
+      213: -1361713919540600915
+    second: ourania_1
+  - first:
+      213: 8332023847333567847
+    second: ourania_2
+  - first:
+      213: -7694857950489359132
+    second: ourania_3
+  - first:
+      213: -6402386146157672180
+    second: ourania_4
+  - first:
+      213: 6086701097351882721
+    second: ourania_5
+  - first:
+      213: 7149283031076814612
+    second: ourania_6
+  - first:
+      213: -1648336976438442632
+    second: ourania_7
+  - first:
+      213: -6539844822447697458
+    second: ourania_8
+  - first:
+      213: -7340689961157304547
+    second: ourania_9
+  - first:
+      213: 1477325791191676407
+    second: ourania_10
+  - first:
+      213: 4477136859110054663
+    second: ourania_11
+  - first:
+      213: 1607418716096332813
+    second: ourania_12
+  - first:
+      213: -8098223508033753552
+    second: ourania_13
+  - first:
+      213: -6565629422903938362
+    second: ourania_14
+  - first:
+      213: -4070181304280428641
+    second: ourania_15
+  - first:
+      213: -1233225447689884031
+    second: ourania_16
+  - first:
+      213: -4727114559952658822
+    second: ourania_17
+  - first:
+      213: -7761361485772231716
+    second: ourania_18
+  - first:
+      213: -1560973530873642953
+    second: ourania_19
+  - first:
+      213: -6074533197920083560
+    second: ourania_20
+  - first:
+      213: -3187793325296861394
+    second: ourania_21
+  - first:
+      213: -3506996077112934333
+    second: ourania_22
+  - first:
+      213: 1349371415910734295
+    second: ourania_23
+  - first:
+      213: -3963287297849632725
+    second: ourania_24
+  - first:
+      213: 4089765338812124880
+    second: ourania_25
+  - first:
+      213: -5609900899050986049
+    second: ourania_26
+  - first:
+      213: 4582223449379791997
+    second: ourania_27
+  - first:
+      213: -6038395598577096833
+    second: ourania_28
+  - first:
+      213: 723871207434690532
+    second: ourania_29
+  - first:
+      213: -8257645946766234872
+    second: ourania_30
+  - first:
+      213: -7605810146934661048
+    second: ourania_31
+  - first:
+      213: -130441519374152111
+    second: ourania_32
+  - first:
+      213: 7165210070941767532
+    second: ourania_33
+  - first:
+      213: 9162524286272648387
+    second: ourania_34
+  - first:
+      213: 4590735385416894341
+    second: ourania_35
+  - first:
+      213: -9015653919966970197
+    second: ourania_36
+  - first:
+      213: -8646825471365492455
+    second: ourania_37
+  - first:
+      213: 7774093272779845342
+    second: ourania_38
+  - first:
+      213: -2636899947020027824
+    second: ourania_39
+  - first:
+      213: -3960691044839246004
+    second: ourania_40
+  - first:
+      213: -6378162426382733302
+    second: ourania_41
+  - first:
+      213: -3793573920675005441
+    second: ourania_42
+  - first:
+      213: 7961359919624452292
+    second: ourania_43
+  - first:
+      213: -5948096224561993473
+    second: ourania_44
+  - first:
+      213: -6617822009923129062
+    second: ourania_45
+  - first:
+      213: 5613860971651922803
+    second: ourania_46
+  - first:
+      213: 4376757419329965854
+    second: ourania_47
+  - first:
+      213: -8454273490035830580
+    second: ourania_48
+  - first:
+      213: -8832235904250598253
+    second: ourania_49
+  - first:
+      213: -878281423627278696
+    second: ourania_50
+  - first:
+      213: 2460727332164413892
+    second: ourania_51
+  - first:
+      213: -4877791066012856181
+    second: ourania_52
+  - first:
+      213: -2931141647083977213
+    second: ourania_53
+  - first:
+      213: 7177141960593977031
+    second: ourania_54
+  - first:
+      213: -4382427738684165213
+    second: ourania_55
+  - first:
+      213: -645631965982399943
+    second: ourania_56
+  - first:
+      213: 1213253311423667099
+    second: ourania_57
+  - first:
+      213: -9167230929267814846
+    second: ourania_58
+  - first:
+      213: -8861512483792370000
+    second: ourania_59
+  - first:
+      213: 879691621727929108
+    second: ourania_60
+  - first:
+      213: -2985844172928814514
+    second: ourania_61
+  - first:
+      213: 9020669042368626759
+    second: ourania_62
+  - first:
+      213: 4403381146670272367
+    second: ourania_63
+  - first:
+      213: -8422159201107106996
+    second: ourania_64
+  - first:
+      213: 2572304885472802219
+    second: ourania_65
+  - first:
+      213: -1395750557968018039
+    second: ourania_66
+  - first:
+      213: -817348777284990109
+    second: ourania_67
+  - first:
+      213: 3719185111489743850
+    second: ourania_68
+  - first:
+      213: 8323873281595201395
+    second: ourania_69
+  - first:
+      213: 8069300936178882664
+    second: ourania_70
+  - first:
+      213: -9024452047875522878
+    second: ourania_71
+  - first:
+      213: 7947518594492088698
+    second: ourania_72
+  - first:
+      213: 2604202427633307987
+    second: ourania_73
+  - first:
+      213: 6239098754772453738
+    second: ourania_74
+  - first:
+      213: -2748575457856029554
+    second: ourania_75
+  - first:
+      213: 6166446153492320944
+    second: ourania_76
+  - first:
+      213: -4648510144638736065
+    second: ourania_77
+  - first:
+      213: -1453402218007536880
+    second: ourania_78
+  - first:
+      213: 4286373269222428778
+    second: ourania_79
+  - first:
+      213: 1052825377478261199
+    second: ourania_80
+  - first:
+      213: -3250962257877224338
+    second: ourania_81
+  - first:
+      213: -1284700399924765231
+    second: ourania_82
+  - first:
+      213: -6195912350117160321
+    second: ourania_83
+  - first:
+      213: 8036029065353888219
+    second: ourania_84
+  - first:
+      213: -2313289137741993346
+    second: ourania_85
+  - first:
+      213: -4284935086619745872
+    second: ourania_86
+  - first:
+      213: -5109790176744956745
+    second: ourania_87
+  - first:
+      213: 6483122758352282952
+    second: ourania_88
+  - first:
+      213: 7765867387342708956
+    second: ourania_89
+  - first:
+      213: 8224675764223801163
+    second: ourania_90
+  - first:
+      213: -2165727600593386555
+    second: ourania_91
+  - first:
+      213: 5100199240306156721
+    second: ourania_92
+  - first:
+      213: -282924638337739712
+    second: ourania_93
+  - first:
+      213: -8209597368882262491
+    second: ourania_94
+  - first:
+      213: 2530604033874416304
+    second: ourania_95
+  - first:
+      213: 18804601559146055
+    second: ourania_96
+  - first:
+      213: -2136582689151362932
+    second: ourania_97
+  - first:
+      213: 1973753342055955464
+    second: ourania_98
+  - first:
+      213: 1356509247540272996
+    second: ourania_99
+  - first:
+      213: -871080713778258717
+    second: ourania_100
+  - first:
+      213: 1587156467717015214
+    second: ourania_101
+  - first:
+      213: 5313393208640476955
+    second: ourania_102
+  - first:
+      213: 1539548554735019063
+    second: ourania_103
+  - first:
+      213: 5477377578524817476
+    second: ourania_104
+  - first:
+      213: 1443225280961794125
+    second: ourania_105
+  - first:
+      213: 8593383902542362722
+    second: ourania_106
+  - first:
+      213: -2434196682802805216
+    second: ourania_107
+  - first:
+      213: -6159483515954544217
+    second: ourania_108
+  - first:
+      213: -4565381942522329439
+    second: ourania_109
+  - first:
+      213: -6247878963625798045
+    second: ourania_110
+  - first:
+      213: -428146653860000463
+    second: ourania_111
+  - first:
+      213: 4537078717251162305
+    second: ourania_112
+  - first:
+      213: 6376426402112629671
+    second: ourania_113
+  - first:
+      213: 5932143535347828902
+    second: ourania_114
+  - first:
+      213: -7892103676252377369
+    second: ourania_115
+  - first:
+      213: -5571251335134101368
+    second: ourania_116
+  - first:
+      213: -3234343618715629327
+    second: ourania_117
+  - first:
+      213: -978744133438241350
+    second: ourania_118
+  - first:
+      213: -7924837904658710783
+    second: ourania_119
+  - first:
+      213: -7293648335816950253
+    second: ourania_120
+  - first:
+      213: -1009786395333501749
+    second: ourania_121
+  - first:
+      213: -6086840228954214394
+    second: ourania_122
+  - first:
+      213: -4244788114906844451
+    second: ourania_123
+  - first:
+      213: 756727150337862636
+    second: ourania_124
+  - first:
+      213: -5703738110328075618
+    second: ourania_125
+  - first:
+      213: -8799775907794945246
+    second: ourania_126
+  - first:
+      213: 6582233201460741556
+    second: ourania_127
+  - first:
+      213: 5259635752411332828
+    second: ourania_128
+  - first:
+      213: 1449500709615603306
+    second: ourania_129
+  - first:
+      213: 4035214625216297249
+    second: ourania_130
+  - first:
+      213: 3380516213730872690
+    second: ourania_131
+  - first:
+      213: 4459397310470358876
+    second: ourania_132
+  - first:
+      213: 2268481997315013684
+    second: ourania_133
+  - first:
+      213: 6833579210656483673
+    second: ourania_134
+  - first:
+      213: -3602171795770600645
+    second: ourania_135
+  - first:
+      213: -7951911701524019654
+    second: ourania_136
+  - first:
+      213: -3998378328073420428
+    second: ourania_137
+  - first:
+      213: -5837537351621494471
+    second: ourania_138
+  - first:
+      213: -8414173661006642488
+    second: ourania_139
+  - first:
+      213: 8727432440495429453
+    second: ourania_140
+  - first:
+      213: 1497274862192719354
+    second: ourania_141
+  - first:
+      213: -4788762036821589189
+    second: ourania_142
+  - first:
+      213: -7611979590003286102
+    second: ourania_143
+  - first:
+      213: 1504150529440461691
+    second: ourania_144
+  - first:
+      213: -3291293947249577472
+    second: ourania_145
+  - first:
+      213: 7412217455070640585
+    second: ourania_146
+  - first:
+      213: 213032681691138361
+    second: ourania_147
+  - first:
+      213: -5170827002750610386
+    second: ourania_148
+  - first:
+      213: 331199859953877445
+    second: ourania_149
+  - first:
+      213: -2422393555296879270
+    second: ourania_150
+  - first:
+      213: -5799253386119792147
+    second: ourania_151
+  - first:
+      213: 7436535105614825224
+    second: ourania_152
+  - first:
+      213: -3412514504463540158
+    second: ourania_153
+  - first:
+      213: -3414430288127106426
+    second: ourania_154
+  - first:
+      213: -1064094124638141556
+    second: ourania_155
+  - first:
+      213: 7371029632984976976
+    second: ourania_156
+  - first:
+      213: -65247015822875377
+    second: ourania_157
+  - first:
+      213: -6958615061079338784
+    second: ourania_158
+  - first:
+      213: 4053923083689649222
+    second: ourania_159
+  - first:
+      213: 7529813000258245763
+    second: ourania_160
+  - first:
+      213: 6737633139022073529
+    second: ourania_161
+  - first:
+      213: -2086840896104548323
+    second: ourania_162
+  - first:
+      213: -1653297382702228873
+    second: ourania_163
+  - first:
+      213: 7242874006246811840
+    second: ourania_164
+  - first:
+      213: -8420546269351733757
+    second: ourania_165
+  - first:
+      213: -5607738322182845921
+    second: ourania_166
+  - first:
+      213: 3449452042588730356
+    second: ourania_167
+  - first:
+      213: 2623831515087331077
+    second: ourania_168
+  - first:
+      213: -5196001554212295309
+    second: ourania_169
+  - first:
+      213: -5463953557434694703
+    second: ourania_170
+  - first:
+      213: 1726579820552593634
+    second: ourania_171
+  - first:
+      213: 6317455666863127585
+    second: ourania_172
+  - first:
+      213: -3466840210974544364
+    second: ourania_173
+  - first:
+      213: -4014590979799599002
+    second: ourania_174
+  - first:
+      213: -2096339462819575138
+    second: ourania_175
+  - first:
+      213: 7359753120433197485
+    second: ourania_176
+  - first:
+      213: -5526193454273610817
+    second: ourania_177
+  - first:
+      213: 2268388815260071744
+    second: ourania_178
+  - first:
+      213: -5917124704564712630
+    second: ourania_179
+  - first:
+      213: -269746490771168307
+    second: ourania_180
+  - first:
+      213: 7657240741764531038
+    second: ourania_181
+  - first:
+      213: -1657699170691984627
+    second: ourania_182
+  - first:
+      213: -7323390683107518445
+    second: ourania_183
+  - first:
+      213: 4515563231581171544
+    second: ourania_184
+  - first:
+      213: 2546583258638854142
+    second: ourania_185
+  - first:
+      213: -5264833845108491389
+    second: ourania_186
+  - first:
+      213: -841999590714543544
+    second: ourania_187
+  - first:
+      213: 3940415598008175212
+    second: ourania_188
+  - first:
+      213: 5727353838791702191
+    second: ourania_189
+  - first:
+      213: -1774824033603991774
+    second: ourania_190
+  - first:
+      213: 6369714862427358313
+    second: ourania_191
+  - first:
+      213: 5914433721167309414
+    second: ourania_192
+  - first:
+      213: 5757959598429824132
+    second: ourania_193
+  - first:
+      213: 352228830403686291
+    second: ourania_194
+  - first:
+      213: -1413921509360366606
+    second: ourania_195
+  - first:
+      213: -8188198923985862426
+    second: ourania_196
+  - first:
+      213: -3278958658150727975
+    second: ourania_197
+  - first:
+      213: -2375685147063287763
+    second: ourania_198
+  - first:
+      213: 8888430316773022896
+    second: ourania_199
+  - first:
+      213: 6644092131988532016
+    second: ourania_200
+  - first:
+      213: 1604585948383596161
+    second: ourania_201
+  - first:
+      213: 6781025471183620671
+    second: ourania_202
+  - first:
+      213: 2982686331005552796
+    second: ourania_203
+  - first:
+      213: 9062940012132127211
+    second: ourania_204
+  - first:
+      213: 1823435941017363666
+    second: ourania_205
+  - first:
+      213: 6570846791313141970
+    second: ourania_206
+  - first:
+      213: 2861644417193976598
+    second: ourania_207
+  - first:
+      213: 5105015314020351116
+    second: ourania_208
+  - first:
+      213: -7189868356822350687
+    second: ourania_209
+  - first:
+      213: 2307312134921480505
+    second: ourania_210
+  - first:
+      213: -8927555398188360463
+    second: ourania_211
+  - first:
+      213: 7601526011996541136
+    second: ourania_212
+  - first:
+      213: -8126769442941447252
+    second: ourania_213
+  - first:
+      213: -2480190017292854390
+    second: ourania_214
+  - first:
+      213: 3550612438598141494
+    second: ourania_215
+  - first:
+      213: -1785242439738881393
+    second: ourania_216
+  - first:
+      213: 2066345122551643237
+    second: ourania_217
+  - first:
+      213: 3980050381900311261
+    second: ourania_218
+  - first:
+      213: 4544297427945041623
+    second: ourania_219
+  - first:
+      213: 1778267029032752589
+    second: ourania_220
+  - first:
+      213: -1616603892888039217
+    second: ourania_221
+  - first:
+      213: 2662252680248547159
+    second: ourania_222
+  - first:
+      213: 646322947681132219
+    second: ourania_223
+  - first:
+      213: -5097314663245916285
+    second: ourania_224
+  - first:
+      213: -5429173836940882253
+    second: ourania_225
+  - first:
+      213: -8232100287328991844
+    second: ourania_226
+  - first:
+      213: -6574330803315532681
+    second: ourania_227
+  - first:
+      213: -5612884945953027221
+    second: ourania_228
+  - first:
+      213: 4890669079384536426
+    second: ourania_229
+  - first:
+      213: -2712604450636254344
+    second: ourania_230
+  - first:
+      213: -1195464099353505898
+    second: ourania_231
+  - first:
+      213: 640086006560669850
+    second: ourania_232
+  - first:
+      213: -6550483999523666761
+    second: ourania_233
+  - first:
+      213: 5958703512560643297
+    second: ourania_234
+  - first:
+      213: -8762640097342936673
+    second: ourania_235
+  - first:
+      213: -4788000123063751108
+    second: ourania_236
+  - first:
+      213: 4253389145924398677
+    second: ourania_237
+  - first:
+      213: -6309303278085271220
+    second: ourania_238
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ourania_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 866
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670160bdffa2eb3f0800000000000000
+      internalID: -883221198538403722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 835
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafd314a7683a1de0800000000000000
+      internalID: -1361713919540600915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 865
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d96605b8b41a370800000000000000
+      internalID: 8332023847333567847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 835
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eccdff867f563590800000000000000
+      internalID: -7694857950489359132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 864
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c36ba8b72627a0800000000000000
+      internalID: -6402386146157672180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 835
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7a3a9366e487450800000000000000
+      internalID: 6086701097351882721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 865
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fbf0ac90b573360800000000000000
+      internalID: 7149283031076814612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 835
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875ce31d04eef19e0800000000000000
+      internalID: -1648336976438442632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 866
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1d3d798cdcd35a0800000000000000
+      internalID: -6539844822447697458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 835
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f51fa7f51a02a90800000000000000
+      internalID: -7340689961157304547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 866
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5b089daf3808410800000000000000
+      internalID: 1477325791191676407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 834
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b1012a04cf12e30800000000000000
+      internalID: 4477136859110054663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 867
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d048c3a4ec2be4610800000000000000
+      internalID: 1607418716096332813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 834
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e2eeb20a45d9f80800000000000000
+      internalID: -8098223508033753552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 866
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c235f873d232e4a0800000000000000
+      internalID: -6565629422903938362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 834
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fcde22bafc387c0800000000000000
+      internalID: -4070181304280428641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 786
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ee87e3df3b2eee0800000000000000
+      internalID: -1233225447689884031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 812
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ed1716a5ae56eb0800000000000000
+      internalID: -4727114559952658822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 786
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbe523a9da1a4490800000000000000
+      internalID: -7761361485772231716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 810
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7304d7418de465ae0800000000000000
+      internalID: -1560973530873642953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 786
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891e7a1ad3ce2bba0800000000000000
+      internalID: -6074533197920083560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 811
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fb15c3cdea2c3d0800000000000000
+      internalID: -3187793325296861394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 786
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340cef216a5a45fc0800000000000000
+      internalID: -3506996077112934333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 786
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9dc6b472ee9b210800000000000000
+      internalID: 1349371415910734295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 786
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28dad473339ff8c0800000000000000
+      internalID: -3963287297849632725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 786
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de0a9a38e3c1c830800000000000000
+      internalID: 4089765338812124880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 786
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ebe6dad0a522b0800000000000000
+      internalID: -5609900899050986049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 786
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746fb513f3579f30800000000000000
+      internalID: 4582223449379791997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 786
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a785223f433ca0800000000000000
+      internalID: -6038395598577096833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 777
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef17462705bb0a00800000000000000
+      internalID: 723871207434690532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 737
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bed0623c2f66d80800000000000000
+      internalID: -8257645946766234872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 736
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e5eaf7fbb27690800000000000000
+      internalID: -7605810146934661048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 736
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ecdb51124903ef0800000000000000
+      internalID: -130441519374152111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 736
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67198bb890ff6360800000000000000
+      internalID: 7165210070941767532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 736
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4bb211b43d72f70800000000000000
+      internalID: 9162524286272648387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 736
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5870791a28195bf30800000000000000
+      internalID: 4590735385416894341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 736
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeb28ad686f1e280800000000000000
+      internalID: -9015653919966970197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 736
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911d570fb0e400880800000000000000
+      internalID: -8646825471365492455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_38
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 736
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeebc684a023eb60800000000000000
+      internalID: 7774093272779845342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 736
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058ff951879d76bd0800000000000000
+      internalID: -2636899947020027824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_40
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 736
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c473947ba7cc809c0800000000000000
+      internalID: -3960691044839246004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_41
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 736
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00b6bfe0173c77a0800000000000000
+      internalID: -6378162426382733302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 736
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbfafc4e948a5bc0800000000000000
+      internalID: -3793573920675005441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_43
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 735
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c87f327aae6c7e60800000000000000
+      internalID: 7961359919624452292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_44
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 778
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e3258ffd147da0800000000000000
+      internalID: -5948096224561993473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_45
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 735
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1135c7d1f5c824a0800000000000000
+      internalID: -6617822009923129062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_46
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 735
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bfdb96fc078ed40800000000000000
+      internalID: 5613860971651922803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_47
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 735
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fc73f0fad5dbc30800000000000000
+      internalID: 4376757419329965854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 764
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc09960bd036caa80800000000000000
+      internalID: -8454273490035830580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_49
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 688
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c21b28d389d6580800000000000000
+      internalID: -8832235904250598253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 688
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8962fd3d2b7bfc3f0800000000000000
+      internalID: -878281423627278696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 688
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c921ca9872462220800000000000000
+      internalID: 2460727332164413892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 688
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80dabd7eda9e4cb0800000000000000
+      internalID: -4877791066012856181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 701
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c43ba33e7257d0800000000000000
+      internalID: -2931141647083977213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 700
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce21c746945a9360800000000000000
+      internalID: 7177141960593977031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 688
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a379e5d03d7e23c0800000000000000
+      internalID: -4382427738684165213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_56
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 688
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9326bfbc5214a07f0800000000000000
+      internalID: -645631965982399943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 688
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b59f9657756d010800000000000000
+      internalID: 1213253311423667099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 641
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e84073a0477c080800000000000000
+      internalID: -9167230929267814846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_59
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 596
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6cdd6a855950580800000000000000
+      internalID: -8861512483792370000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 641
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4130bf08eda453c00800000000000000
+      internalID: 879691621727929108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 641
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4278ed5b862096d0800000000000000
+      internalID: -2985844172928814514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_62
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 641
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740ceb253badf2d70800000000000000
+      internalID: 9020669042368626759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 626
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0fe1a2d3fb1d30800000000000000
+      internalID: 4403381146670272367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43293044da7e1b80800000000000000
+      internalID: -8422159201107106996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 596
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5bb982aa9a2b320800000000000000
+      internalID: 2572304885472802219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_66
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 622
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9855345334c41ace0800000000000000
+      internalID: -1395750557968018039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 596
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b04581e9138a4f0800000000000000
+      internalID: -817348777284990109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 621
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb844067233d9330800000000000000
+      internalID: 3719185111489743850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_69
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 596
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377d8d8d5a6548370800000000000000
+      internalID: 8323873281595201395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 557
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8685baec27aebff60800000000000000
+      internalID: 8069300936178882664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 557
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce35d11da4b2c280800000000000000
+      internalID: -9024452047875522878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_72
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 557
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71438ecd024b4e60800000000000000
+      internalID: 7947518594492088698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_73
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 551
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3511b4e6f4cf32420800000000000000
+      internalID: 2604202427633307987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 577
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a694bc4e24bb59650800000000000000
+      internalID: 6239098754772453738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_75
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 551
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c72240f291bd9d0800000000000000
+      internalID: -2748575457856029554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_76
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 509
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2db79fa1e939550800000000000000
+      internalID: 6166446153492320944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_77
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 461
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39220ef6ac2d7fb0800000000000000
+      internalID: -4648510144638736065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_78
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 461
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b55e7126a74dbe0800000000000000
+      internalID: -1453402218007536880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 509
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a609bb637c14c7b30800000000000000
+      internalID: 4286373269222428778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 509
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9bb1b4a136c9e00800000000000000
+      internalID: 1052825377478261199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 460
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b6010d0342e2d0800000000000000
+      internalID: -3250962257877224338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 509
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd9eabfac3db2ee0800000000000000
+      internalID: -1284700399924765231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_83
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 501
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a9fcf7b82b30aa0800000000000000
+      internalID: -6195912350117160321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 509
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd10225bbd5b58f60800000000000000
+      internalID: 8036029065353888219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 455
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a6e1a19cb85efd0800000000000000
+      internalID: -2313289137741993346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 455
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b12c64cd3ad884c0800000000000000
+      internalID: -4284935086619745872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_87
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 454
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc165638e06619b0800000000000000
+      internalID: -5109790176744956745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_88
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 458
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845a6d6bccda8f950800000000000000
+      internalID: 6483122758352282952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_89
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 406
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd06a535e37e5cb60800000000000000
+      internalID: 7765867387342708956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_90
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 399
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47f257080be32270800000000000000
+      internalID: 8224675764223801163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 399
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c34f56c83ac1f1e0800000000000000
+      internalID: -2165727600593386555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_92
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 399
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b46a22ef2c87c640800000000000000
+      internalID: 5100199240306156721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_93
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 399
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0445ca95a89d21cf0800000000000000
+      internalID: -282924638337739712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_94
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 399
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e8ac670b6a11e80800000000000000
+      internalID: -8209597368882262491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_95
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 399
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2514a06f28e1320800000000000000
+      internalID: 2530604033874416304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_96
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 399
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e531c7faec24000800000000000000
+      internalID: 18804601559146055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_97
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 399
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8852e34d555952e0800000000000000
+      internalID: -2136582689151362932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_98
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 418
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c3c7b053e246b10800000000000000
+      internalID: 1973753342055955464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_99
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 399
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9b2a39f943d210800000000000000
+      internalID: 1356509247540272996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 399
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec9d8cb4bc49e3f0800000000000000
+      internalID: -871080713778258717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_101
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 399
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea68c35f566b60610800000000000000
+      internalID: 1587156467717015214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_102
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 399
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b171df0c8f6fcb940800000000000000
+      internalID: 5313393208640476955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_103
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 428
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734627fe0439d5510800000000000000
+      internalID: 1539548554735019063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_104
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 399
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44839a423ed830c40800000000000000
+      internalID: 5477377578524817476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_105
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 388
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40579a1fbd570410800000000000000
+      internalID: 1443225280961794125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 349
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268f8913125d14770800000000000000
+      internalID: 8593383902542362722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 391
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026ca10930ff73ed0800000000000000
+      internalID: -2434196682802805216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 337
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c7a7606e158aa0800000000000000
+      internalID: -6159483515954544217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_109
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 337
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a649fbcf4184a0c0800000000000000
+      internalID: -4565381942522329439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_110
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 293
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366d27d6f231b49a0800000000000000
+      internalID: -6247878963625798045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_111
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 337
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d07e003eaee0af0800000000000000
+      internalID: -428146653860000463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_112
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 337
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c09dbb0e01f6fe30800000000000000
+      internalID: 4537078717251162305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_113
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 275
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab685a670e9d7850800000000000000
+      internalID: 6376426402112629671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_114
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 337
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a889059d15335250800000000000000
+      internalID: 5932143535347828902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_115
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 321
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee2c66458d997290800000000000000
+      internalID: -7892103676252377369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_116
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 315
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88049eead60fea2b0800000000000000
+      internalID: -5571251335134101368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_117
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 293
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f847e47d9d4d13d0800000000000000
+      internalID: -3234343618715629327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_118
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 293
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab58a60756dca62f0800000000000000
+      internalID: -978744133438241350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_119
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 293
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f344ec9e1550290800000000000000
+      internalID: -7924837904658710783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_120
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 293
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ef2036b71c7ca90800000000000000
+      internalID: -7293648335816950253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_121
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 275
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccdf1f9f948cf1f0800000000000000
+      internalID: -1009786395333501749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_122
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 275
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60070acaf03378ba0800000000000000
+      internalID: -6086840228954214394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_123
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 313
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd27d2803bb7715c0800000000000000
+      internalID: -4244788114906844451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_124
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 312
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb28cb755f608a00800000000000000
+      internalID: 756727150337862636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_125
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 311
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a890a886048d0b0800000000000000
+      internalID: -5703738110328075618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_126
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 275
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b77d06f6ae0e580800000000000000
+      internalID: -8799775907794945246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_127
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 275
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b589d9f83ac85b50800000000000000
+      internalID: 6582233201460741556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_128
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 275
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd00c6e99dafdf840800000000000000
+      internalID: 5259635752411332828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_129
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 228
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e80523739ad1410800000000000000
+      internalID: 1449500709615603306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_130
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 177
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1297a787256fff730800000000000000
+      internalID: 4035214625216297249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_131
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 176
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d80ece5910aee20800000000000000
+      internalID: 3380516213730872690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_132
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 227
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c570bea1a36f2ed30800000000000000
+      internalID: 4459397310470358876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_133
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 227
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c745d8b544b7f10800000000000000
+      internalID: 2268481997315013684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_134
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 227
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598ca31610c5de50800000000000000
+      internalID: 6833579210656483673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_135
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 227
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33992d36d3820ec0800000000000000
+      internalID: -3602171795770600645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_136
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 227
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a368361407225a190800000000000000
+      internalID: -7951911701524019654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 227
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471409d4818e288c0800000000000000
+      internalID: -3998378328073420428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_138
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 227
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939b68115b6ecfea0800000000000000
+      internalID: -5837537351621494471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_139
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 227
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c24041b2a9da3b80800000000000000
+      internalID: -8414173661006642488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_140
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 227
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4753f090911e1970800000000000000
+      internalID: 8727432440495429453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_141
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 129
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af57e14ed8367c410800000000000000
+      internalID: 1497274862192719354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_142
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 176
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b338f59ac46ea8db0800000000000000
+      internalID: -4788762036821589189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_143
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 197
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf945494e0dc5690800000000000000
+      internalID: -7611979590003286102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_144
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 176
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73b30cefe0dfd410800000000000000
+      internalID: 1504150529440461691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_145
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 179
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002bbcec799f252d0800000000000000
+      internalID: -3291293947249577472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 187
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c97f67f08c7dd660800000000000000
+      internalID: 7412217455070640585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_147
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 182
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939cfb56818d4f200800000000000000
+      internalID: 213032681691138361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_148
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 176
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e245d0abc388d38b0800000000000000
+      internalID: -5170827002750610386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_149
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 129
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1c5329488a89400800000000000000
+      internalID: 331199859953877445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_150
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d755655ede16ed0800000000000000
+      internalID: -2422393555296879270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_151
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 129
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de939d565c9e48fa0800000000000000
+      internalID: -5799253386119792147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_152
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 129
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c4e13741e33760800000000000000
+      internalID: 7436535105614825224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_153
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 129
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2402592732054a0d0800000000000000
+      internalID: -3412514504463540158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_154
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 156
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68269dd4eb18d90d0800000000000000
+      internalID: -3414430288127106426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_155
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 129
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c830d5d08049b31f0800000000000000
+      internalID: -1064094124638141556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_156
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 129
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e82f6d5682b4660800000000000000
+      internalID: 7371029632984976976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_157
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 153
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05293f4f22381ff0800000000000000
+      internalID: -65247015822875377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_158
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 129
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0dea368780e6f90800000000000000
+      internalID: -6958615061079338784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_159
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 148
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644e316e09d624830800000000000000
+      internalID: 4053923083689649222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_160
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 134
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384d28177054f7860800000000000000
+      internalID: 7529813000258245763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_161
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 144
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be8f4674a1e08d50800000000000000
+      internalID: 6737633139022073529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_162
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 148
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d183ee4f24d0a03e0800000000000000
+      internalID: -2086840896104548323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_163
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 137
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a53fb3ace4e09e0800000000000000
+      internalID: -1653297382702228873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_164
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 142
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c86047c88bd38460800000000000000
+      internalID: 7242874006246811840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_165
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 130
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3069c8038c5342b80800000000000000
+      internalID: -8420546269351733757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_166
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 133
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a42f005bf4d22b0800000000000000
+      internalID: -5607738322182845921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_167
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 143
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f33f345b5aeedf20800000000000000
+      internalID: 3449452042588730356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_168
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 130
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f514f7cd8b96420800000000000000
+      internalID: 2623831515087331077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_169
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 139
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d6cc4bd1814e7b0800000000000000
+      internalID: -5196001554212295309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_170
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 133
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d38fd350332c24b0800000000000000
+      internalID: -5463953557434694703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_171
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 133
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e02560f23b06f710800000000000000
+      internalID: 1726579820552593634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_172
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 130
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cb7ab257c1ca750800000000000000
+      internalID: 6317455666863127585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_173
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 142
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e62db323f43efc0800000000000000
+      internalID: -3466840210974544364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_174
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 145
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668be8a26ce4948c0800000000000000
+      internalID: -4014590979799599002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_175
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a810e8d5e48e2e0800000000000000
+      internalID: -2096339462819575138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_176
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 142
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da15ef92878132660800000000000000
+      internalID: 7359753120433197485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_177
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 129
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbbee515540f43b0800000000000000
+      internalID: -5526193454273610817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_178
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 135
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047bb0aeb9fea7f10800000000000000
+      internalID: 2268388815260071744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_179
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 143
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b6bb47e6622eda0800000000000000
+      internalID: -5917124704564712630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_180
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 140
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32d2eeefaa14cf0800000000000000
+      internalID: -269746490771168307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_181
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 133
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53068482ebf34a60800000000000000
+      internalID: 7657240741764531038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_182
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 141
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03d17a136baef8e0800000000000000
+      internalID: -1657699170691984627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_183
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 144
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31898f589f61e5a90800000000000000
+      internalID: -7323390683107518445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_184
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 137
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fe53ba5d08aae30800000000000000
+      internalID: 4515563231581171544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_185
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7202a3bf7475320800000000000000
+      internalID: 2546583258638854142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_186
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 141
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bbadc138d8fe6b0800000000000000
+      internalID: -5264833845108491389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_187
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 135
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8427f6655dd9054f0800000000000000
+      internalID: -841999590714543544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_188
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 145
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a8fa2fb1b2fa630800000000000000
+      internalID: 3940415598008175212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_189
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 139
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa63628b8f5ab7f40800000000000000
+      internalID: 5727353838791702191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_190
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 138
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2274532e1fe8e57e0800000000000000
+      internalID: -1774824033603991774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_191
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 144
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964428f4be5c56850800000000000000
+      internalID: 6369714862427358313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_192
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 133
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ae4c5222a441250800000000000000
+      internalID: 5914433721167309414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_193
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484e57f6fb168ef40800000000000000
+      internalID: 5757959598429824132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_194
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 143
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fecdb414e53e400800000000000000
+      internalID: 352228830403686291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_195
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 133
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb8a46e0edb06ce0800000000000000
+      internalID: -1413921509360366606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_196
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 134
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e04699267cad5e80800000000000000
+      internalID: -8188198923985862426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_197
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 129
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9defbbb197cce72d0800000000000000
+      internalID: -3278958658150727975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_198
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 139
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d200f1712fed70fd0800000000000000
+      internalID: -2375685147063287763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_199
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 137
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc911ab74c0a5b70800000000000000
+      internalID: 8888430316773022896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_200
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 134
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03be426979e843c50800000000000000
+      internalID: 6644092131988532016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_201
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 134
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eccf82b62a44610800000000000000
+      internalID: 1604585948383596161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_202
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a86c61dba0b1e50800000000000000
+      internalID: 6781025471183620671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_203
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 129
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98cff34a61a46920800000000000000
+      internalID: 2982686331005552796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_204
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 135
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be15fcb6ce706cd70800000000000000
+      internalID: 9062940012132127211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_205
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 134
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4250fc3552e4910800000000000000
+      internalID: 1823435941017363666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_206
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 138
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d03cb5c756503b50800000000000000
+      internalID: 6570846791313141970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_207
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 134
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613a3509f6a96b720800000000000000
+      internalID: 2861644417193976598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_208
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 130
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cbc1d6168a8d640800000000000000
+      internalID: 5105015314020351116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_209
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 129
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a448c1b2d4783c90800000000000000
+      internalID: -7189868356822350687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_210
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 130
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93961fb7928350020800000000000000
+      internalID: 2307312134921480505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_211
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 129
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc9c526aa3fa1480800000000000000
+      internalID: -8927555398188360463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_212
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 133
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d012ff12ab0e7960800000000000000
+      internalID: 7601526011996541136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_213
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 130
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3d9f5cf3ae73f80800000000000000
+      internalID: -8126769442941447252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_214
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 88
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1ac3e158949dd0800000000000000
+      internalID: -2480190017292854390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_215
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 88
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636c9b1733f464130800000000000000
+      internalID: 3550612438598141494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_216
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 88
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a896da57b8937e0800000000000000
+      internalID: -1785242439738881393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_217
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c3d05e0f12dac10800000000000000
+      internalID: 2066345122551643237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_218
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 88
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda63513cbafb3730800000000000000
+      internalID: 3980050381900311261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_219
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 88
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea26a1f66901f30800000000000000
+      internalID: 4544297427945041623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_220
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc55945f07cada810800000000000000
+      internalID: 1778267029032752589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_221
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc015e5135ba099e0800000000000000
+      internalID: -1616603892888039217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_222
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757db8c15b832f420800000000000000
+      internalID: 2662252680248547159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_223
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe97baeb4338f800800000000000000
+      internalID: 646322947681132219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_224
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 52
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38756dc0253b249b0800000000000000
+      internalID: -5097314663245916285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_225
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 52
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be4b490923b7a4b0800000000000000
+      internalID: -5429173836940882253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_226
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c954d5a7764b1cd80800000000000000
+      internalID: -8232100287328991844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_227
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c187877f843c4a0800000000000000
+      internalID: -6574330803315532681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_228
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b055741e60b12b0800000000000000
+      internalID: -5612884945953027221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_229
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65b3b6ad952fd340800000000000000
+      internalID: 4890669079384536426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_230
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873bea7cf94ea5ad0800000000000000
+      internalID: -2712604450636254344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_231
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 33
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f4d484cbbd86fe0800000000000000
+      internalID: -1195464099353505898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_232
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 34
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a904fb6e4da02e800800000000000000
+      internalID: 640086006560669850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_233
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4038522810815a0800000000000000
+      internalID: -6550483999523666761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_234
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecac0c264191b250800000000000000
+      internalID: 5958703512560643297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_235
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99a7470249d46680800000000000000
+      internalID: -8762640097342936673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_236
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e2248814b9d8db0800000000000000
+      internalID: -4788000123063751108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_237
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e635e84e2170b30800000000000000
+      internalID: 4253389145924398677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ourania_238
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c411581c81ad078a0800000000000000
+      internalID: -6309303278085271220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ourania_0: -883221198538403722
+      ourania_1: -1361713919540600915
+      ourania_10: 1477325791191676407
+      ourania_100: -871080713778258717
+      ourania_101: 1587156467717015214
+      ourania_102: 5313393208640476955
+      ourania_103: 1539548554735019063
+      ourania_104: 5477377578524817476
+      ourania_105: 1443225280961794125
+      ourania_106: 8593383902542362722
+      ourania_107: -2434196682802805216
+      ourania_108: -6159483515954544217
+      ourania_109: -4565381942522329439
+      ourania_11: 4477136859110054663
+      ourania_110: -6247878963625798045
+      ourania_111: -428146653860000463
+      ourania_112: 4537078717251162305
+      ourania_113: 6376426402112629671
+      ourania_114: 5932143535347828902
+      ourania_115: -7892103676252377369
+      ourania_116: -5571251335134101368
+      ourania_117: -3234343618715629327
+      ourania_118: -978744133438241350
+      ourania_119: -7924837904658710783
+      ourania_12: 1607418716096332813
+      ourania_120: -7293648335816950253
+      ourania_121: -1009786395333501749
+      ourania_122: -6086840228954214394
+      ourania_123: -4244788114906844451
+      ourania_124: 756727150337862636
+      ourania_125: -5703738110328075618
+      ourania_126: -8799775907794945246
+      ourania_127: 6582233201460741556
+      ourania_128: 5259635752411332828
+      ourania_129: 1449500709615603306
+      ourania_13: -8098223508033753552
+      ourania_130: 4035214625216297249
+      ourania_131: 3380516213730872690
+      ourania_132: 4459397310470358876
+      ourania_133: 2268481997315013684
+      ourania_134: 6833579210656483673
+      ourania_135: -3602171795770600645
+      ourania_136: -7951911701524019654
+      ourania_137: -3998378328073420428
+      ourania_138: -5837537351621494471
+      ourania_139: -8414173661006642488
+      ourania_14: -6565629422903938362
+      ourania_140: 8727432440495429453
+      ourania_141: 1497274862192719354
+      ourania_142: -4788762036821589189
+      ourania_143: -7611979590003286102
+      ourania_144: 1504150529440461691
+      ourania_145: -3291293947249577472
+      ourania_146: 7412217455070640585
+      ourania_147: 213032681691138361
+      ourania_148: -5170827002750610386
+      ourania_149: 331199859953877445
+      ourania_15: -4070181304280428641
+      ourania_150: -2422393555296879270
+      ourania_151: -5799253386119792147
+      ourania_152: 7436535105614825224
+      ourania_153: -3412514504463540158
+      ourania_154: -3414430288127106426
+      ourania_155: -1064094124638141556
+      ourania_156: 7371029632984976976
+      ourania_157: -65247015822875377
+      ourania_158: -6958615061079338784
+      ourania_159: 4053923083689649222
+      ourania_16: -1233225447689884031
+      ourania_160: 7529813000258245763
+      ourania_161: 6737633139022073529
+      ourania_162: -2086840896104548323
+      ourania_163: -1653297382702228873
+      ourania_164: 7242874006246811840
+      ourania_165: -8420546269351733757
+      ourania_166: -5607738322182845921
+      ourania_167: 3449452042588730356
+      ourania_168: 2623831515087331077
+      ourania_169: -5196001554212295309
+      ourania_17: -4727114559952658822
+      ourania_170: -5463953557434694703
+      ourania_171: 1726579820552593634
+      ourania_172: 6317455666863127585
+      ourania_173: -3466840210974544364
+      ourania_174: -4014590979799599002
+      ourania_175: -2096339462819575138
+      ourania_176: 7359753120433197485
+      ourania_177: -5526193454273610817
+      ourania_178: 2268388815260071744
+      ourania_179: -5917124704564712630
+      ourania_18: -7761361485772231716
+      ourania_180: -269746490771168307
+      ourania_181: 7657240741764531038
+      ourania_182: -1657699170691984627
+      ourania_183: -7323390683107518445
+      ourania_184: 4515563231581171544
+      ourania_185: 2546583258638854142
+      ourania_186: -5264833845108491389
+      ourania_187: -841999590714543544
+      ourania_188: 3940415598008175212
+      ourania_189: 5727353838791702191
+      ourania_19: -1560973530873642953
+      ourania_190: -1774824033603991774
+      ourania_191: 6369714862427358313
+      ourania_192: 5914433721167309414
+      ourania_193: 5757959598429824132
+      ourania_194: 352228830403686291
+      ourania_195: -1413921509360366606
+      ourania_196: -8188198923985862426
+      ourania_197: -3278958658150727975
+      ourania_198: -2375685147063287763
+      ourania_199: 8888430316773022896
+      ourania_2: 8332023847333567847
+      ourania_20: -6074533197920083560
+      ourania_200: 6644092131988532016
+      ourania_201: 1604585948383596161
+      ourania_202: 6781025471183620671
+      ourania_203: 2982686331005552796
+      ourania_204: 9062940012132127211
+      ourania_205: 1823435941017363666
+      ourania_206: 6570846791313141970
+      ourania_207: 2861644417193976598
+      ourania_208: 5105015314020351116
+      ourania_209: -7189868356822350687
+      ourania_21: -3187793325296861394
+      ourania_210: 2307312134921480505
+      ourania_211: -8927555398188360463
+      ourania_212: 7601526011996541136
+      ourania_213: -8126769442941447252
+      ourania_214: -2480190017292854390
+      ourania_215: 3550612438598141494
+      ourania_216: -1785242439738881393
+      ourania_217: 2066345122551643237
+      ourania_218: 3980050381900311261
+      ourania_219: 4544297427945041623
+      ourania_22: -3506996077112934333
+      ourania_220: 1778267029032752589
+      ourania_221: -1616603892888039217
+      ourania_222: 2662252680248547159
+      ourania_223: 646322947681132219
+      ourania_224: -5097314663245916285
+      ourania_225: -5429173836940882253
+      ourania_226: -8232100287328991844
+      ourania_227: -6574330803315532681
+      ourania_228: -5612884945953027221
+      ourania_229: 4890669079384536426
+      ourania_23: 1349371415910734295
+      ourania_230: -2712604450636254344
+      ourania_231: -1195464099353505898
+      ourania_232: 640086006560669850
+      ourania_233: -6550483999523666761
+      ourania_234: 5958703512560643297
+      ourania_235: -8762640097342936673
+      ourania_236: -4788000123063751108
+      ourania_237: 4253389145924398677
+      ourania_238: -6309303278085271220
+      ourania_24: -3963287297849632725
+      ourania_25: 4089765338812124880
+      ourania_26: -5609900899050986049
+      ourania_27: 4582223449379791997
+      ourania_28: -6038395598577096833
+      ourania_29: 723871207434690532
+      ourania_3: -7694857950489359132
+      ourania_30: -8257645946766234872
+      ourania_31: -7605810146934661048
+      ourania_32: -130441519374152111
+      ourania_33: 7165210070941767532
+      ourania_34: 9162524286272648387
+      ourania_35: 4590735385416894341
+      ourania_36: -9015653919966970197
+      ourania_37: -8646825471365492455
+      ourania_38: 7774093272779845342
+      ourania_39: -2636899947020027824
+      ourania_4: -6402386146157672180
+      ourania_40: -3960691044839246004
+      ourania_41: -6378162426382733302
+      ourania_42: -3793573920675005441
+      ourania_43: 7961359919624452292
+      ourania_44: -5948096224561993473
+      ourania_45: -6617822009923129062
+      ourania_46: 5613860971651922803
+      ourania_47: 4376757419329965854
+      ourania_48: -8454273490035830580
+      ourania_49: -8832235904250598253
+      ourania_5: 6086701097351882721
+      ourania_50: -878281423627278696
+      ourania_51: 2460727332164413892
+      ourania_52: -4877791066012856181
+      ourania_53: -2931141647083977213
+      ourania_54: 7177141960593977031
+      ourania_55: -4382427738684165213
+      ourania_56: -645631965982399943
+      ourania_57: 1213253311423667099
+      ourania_58: -9167230929267814846
+      ourania_59: -8861512483792370000
+      ourania_6: 7149283031076814612
+      ourania_60: 879691621727929108
+      ourania_61: -2985844172928814514
+      ourania_62: 9020669042368626759
+      ourania_63: 4403381146670272367
+      ourania_64: -8422159201107106996
+      ourania_65: 2572304885472802219
+      ourania_66: -1395750557968018039
+      ourania_67: -817348777284990109
+      ourania_68: 3719185111489743850
+      ourania_69: 8323873281595201395
+      ourania_7: -1648336976438442632
+      ourania_70: 8069300936178882664
+      ourania_71: -9024452047875522878
+      ourania_72: 7947518594492088698
+      ourania_73: 2604202427633307987
+      ourania_74: 6239098754772453738
+      ourania_75: -2748575457856029554
+      ourania_76: 6166446153492320944
+      ourania_77: -4648510144638736065
+      ourania_78: -1453402218007536880
+      ourania_79: 4286373269222428778
+      ourania_8: -6539844822447697458
+      ourania_80: 1052825377478261199
+      ourania_81: -3250962257877224338
+      ourania_82: -1284700399924765231
+      ourania_83: -6195912350117160321
+      ourania_84: 8036029065353888219
+      ourania_85: -2313289137741993346
+      ourania_86: -4284935086619745872
+      ourania_87: -5109790176744956745
+      ourania_88: 6483122758352282952
+      ourania_89: 7765867387342708956
+      ourania_9: -7340689961157304547
+      ourania_90: 8224675764223801163
+      ourania_91: -2165727600593386555
+      ourania_92: 5100199240306156721
+      ourania_93: -282924638337739712
+      ourania_94: -8209597368882262491
+      ourania_95: 2530604033874416304
+      ourania_96: 18804601559146055
+      ourania_97: -2136582689151362932
+      ourania_98: 1973753342055955464
+      ourania_99: 1356509247540272996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
